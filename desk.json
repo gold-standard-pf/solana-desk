@@ -1708,6 +1708,30 @@
   ],
   "board": [
     {
+      "ageMin": 3.8,
+      "dexLiqUsd": 14392.87,
+      "socials": "x.com/blknoiz06/status/2091617266555097582",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$14,393. inverted+boost IN_PROGRESS. 5m ripping overall, PumpSwap 5m -2. Refused as status-URL, not as a dump, not for age. Not a PASS.",
+      "at": "2026-08-23T20:07:37.000Z",
+      "mint": "CdySC8MMc8RnXHjKKxRW6A853oDPQR4JMoZAQtqppump",
+      "ticker": "Roofless"
+    },
+    {
+      "ageMin": 5.15,
+      "dexLiqUsd": 53188.54,
+      "socials": "x.com/kingstontech",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation (Kingston Technology / kingston.com / @kingstontech). Unique ticker graduated; PumpSwap Dex printed ~$53,189. inverted+boost IN_PROGRESS ripping 5m +1041 MC~$450k. Real handle @kingstontech. Refused as brand impersonation, not as a dump, not for age. Not a PASS.",
+      "at": "2026-08-23T20:07:37.000Z",
+      "mint": "Mx7x6uaU9yNUXC22YciUKC5dtUziYchAy7UmpGnpump",
+      "ticker": "Kingston"
+    },
+    {
       "ageMin": 24.5,
       "dexLiqUsd": 46983.11,
       "socials": "status-URL",
