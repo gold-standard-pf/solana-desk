@@ -1501,6 +1501,30 @@
   ],
   "board": [
     {
+      "ageMin": 3.7,
+      "dexLiqUsd": 4969.24,
+      "socials": "x.com/1hastorun/status/2091607806411452809",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Cyber-orbit name. Unique ticker graduated; PumpSwap Dex printed ~$4,969. inverted+boost IN_PROGRESS dump; 5m -83 MC~$6.6k off ATH~$80k. Fails (a) and (c) Hobbes-shape. Live-recheck 19:28Z. Not a PASS.",
+      "at": "2026-08-23T19:29:45.000Z",
+      "mint": "FrSHLvKVA9cDVzm8Wv8qEoD8NAGiakPS29DCwRkWfmj8",
+      "ticker": "CYBERSTAR"
+    },
+    {
+      "ageMin": 7.2,
+      "dexLiqUsd": 5808.69,
+      "socials": "x.com/Armoskii/status/2091606858129719429",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$5,809. inverted+boost IN_PROGRESS dump; 5m -78 MC~$8.3k off ATH~$53.5k. Fails (a) and (c) Hobbes-shape. Live-recheck 19:28Z. Not a PASS.",
+      "at": "2026-08-23T19:29:45.000Z",
+      "mint": "7JqghDMFBHWZJKUEYeWd27aDvprzXowL59h1y1QYpump",
+      "ticker": "FASTEST"
+    },
+    {
       "ageMin": 4.9,
       "dexLiqUsd": 53744.98,
       "socials": "x.com/a16z",
