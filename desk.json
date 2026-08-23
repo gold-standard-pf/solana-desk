@@ -670,6 +670,30 @@
   ],
   "board": [
     {
+      "ageMin": 10.59,
+      "dexLiqUsd": 190349.6,
+      "socials": "x.com/UnitedOilFund",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "fake US institution clone of leftover UOTF; PumpSwap Dex~$190.3k; +14208pct/1h; forever ticker not a PASS",
+      "at": "2026-08-23T10:27:38.000Z",
+      "mint": "osJzxWW3D9YjxhcXkj5PjdZXWywnyqCQYiVmWE2pump",
+      "ticker": "UOTF"
+    },
+    {
+      "ageMin": 28.76,
+      "dexLiqUsd": 27.72,
+      "socials": "x.com/Pert_Dolphin",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "graduated dump; PumpSwap Dex~$27.72; mcap~$224; curve pair 1h -99pct; sniper junk not a PASS",
+      "at": "2026-08-23T10:27:37.000Z",
+      "mint": "FjRvmcMy8ArfcdKukJwMwtKrnjd5s3PDLHZTZeBYpump",
+      "ticker": "PERT"
+    },
+    {
       "ageMin": 6.4,
       "dexLiqUsd": 56315.01,
       "socials": "x.com/CateusMaxi",
