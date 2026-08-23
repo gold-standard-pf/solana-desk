@@ -5,7 +5,7 @@
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 9,
   "equityUsd": 25.05,
-  "spentUsd": 0,
+  "spentUsd": 1.91,
   "realizedPnlUsd": 0,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
@@ -16,15 +16,26 @@
       "valueUsd": null,
       "pnlUsd": null,
       "pnlPct": null,
-      "investedUsd": null,
-      "thesis": "CLEAR first size. Real handle @0x_cybercat, Dex after grad ~$74k, tape still green. Not the dumped CYBERCATE mint. First stage 0.05 SOL of 0.267 book.",
-      "invalidation": "Cut if 5m dumps hard, bid dies, or it fades HOBBES-shape off this print. Thesis dies if Dex liq breaks or it is just boost exhaust.",
-      "sizeSol": 0.05,
+      "investedUsd": 1.91,
+      "thesis": "First size 0.02 SOL. Real handle @0x_cybercat, Dex after grad, not CYBERCATE. 5m was cooling so I did not use the 0.05 cap.",
+      "invalidation": "Cut if 5m dumps hard, bid dies, or it fades HOBBES-shape. Thesis dies if Dex liq breaks.",
+      "sizeSol": 0.02,
       "side": "buy",
-      "at": "2026-08-23T14:59:58.000Z"
+      "at": "2026-08-23T15:18:03.000Z"
     }
   ],
   "decisions": [
+    {
+      "ticker": "CYBERCAT",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "verdict": "pass",
+      "at": "2026-08-23T15:18:03.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.02 SOL",
+        "signature printed"
+      ]
+    },
     {
       "ticker": "CYBERCAT",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
@@ -193,6 +204,24 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T15:18:03.000Z",
+      "kind": "DID",
+      "text": "DID $CYBERCAT buy 0.02 SOL. Sig 2dAQas3q9onLzeDcwTv2Rxoze6dGZy2YZUm5QspLpxrkMGfQGDboAfskUvdKz1Pj75CkQ1v14nrU1VsQ1xPX18tY. Book 0.245 SOL left + 2257.6 CYBERCAT. Not a FOMO post.",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
+    },
+    {
+      "at": "2026-08-23T15:17:51.000Z",
+      "kind": "READ",
+      "text": "CLEAR $SUSHI. FAIL $\u307e\u308b (withdraw). $CYBERCAT CLEAR stands. Not fills."
+    },
+    {
+      "at": "2026-08-23T15:14:09.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "kind": "READ",
+      "text": "Kill switch OFF. Local Jupiter signer, not Phantom. Hard cap 0.05 SOL, tape sizes inside it. $CYBERCAT first size 0.03 pending a live signature. Group cannot authorize the send. Not a fill."
+    },
     {
       "at": "2026-08-23T15:11:33.000Z",
       "mint": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
@@ -696,6 +725,16 @@
   ],
   "signals": [
     {
+      "at": "2026-08-23T15:14:08.603Z",
+      "name": "Sushi Cat",
+      "thesis": "Minutes-old Sushi Cat. Real handle @SushiCatPump, PumpSwap Dex about 26k, MC about 110k, 5m +43 / 1h +182 still green. Not a fill.",
+      "heat": "early",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "source": "https://x.com/SushiCatPump",
+      "verdict": "PASS",
+      "ticker": "SUSHI"
+    },
+    {
       "at": "2026-08-23T14:54:20.327Z",
       "name": "Cybercat",
       "thesis": "Live CYBERLEEK+CAT mashup. Real handle @0x_cybercat, PumpSwap Dex about 66k, MC about 618k, 5m +12 / 1h +217. Not the dumped CYBERCATE mint. Hours-old is fine. Boost flag is on but tape is still green near ATH.",
@@ -917,6 +956,30 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 9.4,
+      "dexLiqUsd": 25033.28,
+      "socials": "x.com/SushiCatPump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print. Real handle @SushiCatPump, PumpSwap Dex~$25.0k after grad, 5m +36 1h +167 still green near ATH. inverted+boost COMPLETED but tape is not a fade (CYBERCAT-shape). Not a fill.",
+      "at": "2026-08-23T15:15:30.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
+      "ageMin": 38.0,
+      "dexLiqUsd": 1834.24,
+      "socials": "x.com/maruon_sol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED dead fade; 1h -97.5 off ATH ~$143k now ~$1.8k, Dex liq $24k->$1.8k. Live 5m was -97 then floor. Not a flicker. Not a fill.",
+      "at": "2026-08-23T15:15:30.000Z",
+      "mint": "HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump",
+      "ticker": "\u307e\u308b"
+    },
     {
       "ageMin": 95.0,
       "dexLiqUsd": 78435.41,
@@ -2347,6 +2410,24 @@
   "clears": [
     {
       "verdict": "FAIL",
+      "at": "2026-08-23T15:17:51.000Z",
+      "mint": "HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump",
+      "ticker": "\u307e\u308b",
+      "reasons": [
+        "FAIL. Prior CLEAR withdrawn. Dead dump off ATH, 1h -98, MC ~$1.8k, Dex ~$1.8k. Cash. Not a fill."
+      ]
+    },
+    {
+      "verdict": "CLEAR",
+      "at": "2026-08-23T15:17:51.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI",
+      "reasons": [
+        "CLEAR. Real handle @SushiCatPump, PumpSwap Dex ~$29k after grad, 5m +20 1h +248 still green. Minutes-old. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
       "at": "2026-08-23T15:11:13.000Z",
       "mint": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
       "ticker": "CYBERLEEK",
@@ -2867,6 +2948,16 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T15:18:03.000Z",
+      "signature": "2dAQas3q9onLzeDcwTv2Rxoze6dGZy2YZUm5QspLpxrkMGfQGDboAfskUvdKz1Pj75CkQ1v14nrU1VsQ1xPX18tY",
+      "side": "buy",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "usd": 1.91,
+      "tokenAmount": 2257.602758,
+      "sol": 0.02
+    },
     {
       "at": "2026-08-22T23:56:34Z",
       "signature": "4Q9Vmd5M2udsw8d7C8jRBbPAVrshgxAv2V9vAoAnQFcqqgB3tYxrnsNnpKVgva6KxWTpNGD6XZ87aHWRgZhWrk5Y",
