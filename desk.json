@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T18:47:05.000Z",
+      "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "ticker": "UPCAT",
+      "kind": "READ",
+      "text": "READ UPCAT. Signal PASS. Name until Genius CLEAR. Cash. Not a fill."
+    },
+    {
       "at": "2026-08-23T18:46:35.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
