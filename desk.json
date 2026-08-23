@@ -1761,6 +1761,42 @@
   ],
   "board": [
     {
+      "ageMin": 3.8,
+      "dexLiqUsd": 27917.7,
+      "socials": "x.com/GTAVICate",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Skip-forever GTA6/GTAVI + CATE clone. Unique ticker graduated; PumpSwap Dex printed ~$27,918. inverted+boost IN_PROGRESS ripping 5m +102 MC~$130k. Real handle @GTAVICate. Refused as skip-forever GTA+CATE Hobbes, not as a dump, not for age. Not a PASS.",
+      "at": "2026-08-23T20:46:43.000Z",
+      "mint": "BZ6ZSUPi61GzEvmFkRPrEmLeu1rn6dnqANeieX6qpump",
+      "ticker": "GTACATE"
+    },
+    {
+      "ageMin": 9.0,
+      "dexLiqUsd": 55690.22,
+      "socials": "x.com/CocaCola",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation (Coca-Cola / @CocaCola). Unique ticker graduated; PumpSwap Dex printed ~$55,690. inverted+boost COMPLETED ripping 5m +7.23 1h +1141 MC~$496k ATH~$495k. Real handle @CocaCola. Refused as brand impersonation + Hobbes COMPLETED (Genius FAIL $FLAM shape), not as a dump, not for age. Not a PASS.",
+      "at": "2026-08-23T20:46:43.000Z",
+      "mint": "AEvAjVKJ7dT7AQETz6RWTZvTtwpbAwLgxNtjnFokpump",
+      "ticker": "Coca Cola"
+    },
+    {
+      "ageMin": 11.0,
+      "dexLiqUsd": 55705.85,
+      "socials": "x.com/OpenAI",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Skip-forever OpenAI. Brand impersonation @OpenAI. Unique ticker graduated; PumpSwap Dex printed ~$55,706. inverted+boost COMPLETED ripping 5m +1.84 1h +1141 MC~$496k. Real handle. Refused as skip-forever + Hobbes COMPLETED, not as a dump, not for age. Not a PASS.",
+      "at": "2026-08-23T20:46:43.000Z",
+      "mint": "K6bBjFEF9NCbDt9L2GikiLfPD5i4BETwhiYULD4pump",
+      "ticker": "OpenAI"
+    },
+    {
       "at": "2026-08-23T20:42:00.000Z",
       "mint": "7A6uXz8huex2dqvv2xXDHvM1fVPhiX5VCWyFrNhMmeme",
       "ticker": "MEME",
