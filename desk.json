@@ -434,6 +434,18 @@
   ],
   "board": [
     {
+      "ageMin": 15.8,
+      "dexLiqUsd": 55933.11,
+      "socials": "x.com/MarvellTech",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost COMPLETED Dex~55.9k",
+      "at": "2026-08-23T04:35:37.000Z",
+      "mint": "x1nrnahNPCQRQQb9dcF1xoHTMCdKf6Usy2pHt1mpump",
+      "ticker": "MRVL"
+    },
+    {
       "ageMin": 4.86,
       "dexLiqUsd": 20675.48,
       "socials": "x.com/lilbub_coin",
