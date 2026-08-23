@@ -1501,6 +1501,42 @@
   ],
   "board": [
     {
+      "ageMin": 4.9,
+      "dexLiqUsd": 53744.98,
+      "socials": "x.com/a16z",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation @a16z (official a16z/Andreessen Horowitz handle, not a project account). Unique ticker graduated; PumpSwap Dex printed ~$53,745. inverted+boost IN_PROGRESS. 5m +1061 ripping (427b/24s) MC~$458k. Fails impersonation even first-print. Not a PASS.",
+      "at": "2026-08-23T19:23:56.000Z",
+      "mint": "YR7zWcnDrVfamHPXRi89GXa8Ktjkn2JPTb4AgWFpump",
+      "ticker": "A16Z"
+    },
+    {
+      "ageMin": 5.6,
+      "dexLiqUsd": 19108.23,
+      "socials": "x.com/twaniimals/status/2091605836221071651",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$19,108. inverted+boost IN_PROGRESS. 5m +64 holding (187b/317s) MC~$64k. Fails (a). Not a PASS.",
+      "at": "2026-08-23T19:23:56.000Z",
+      "mint": "8srdjXBcEqYmDM4eHACwB39v3CJ7MeccNWfPSMrXpump",
+      "ticker": "CET"
+    },
+    {
+      "ageMin": 7.2,
+      "dexLiqUsd": 6.67,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; already-dead dump PumpSwap Dex~$7, 5m -81 MC~$15 off ATH. inverted+boost NONE. Not a PASS.",
+      "at": "2026-08-23T19:23:56.000Z",
+      "mint": "FrHgkVLwFSotyufeqreUujDtyU9yrZUka69ELxHCpump",
+      "ticker": "1000x"
+    },
+    {
       "ageMin": 4.1,
       "dexLiqUsd": 7298.99,
       "socials": "x.com/MorbWantsMore",
