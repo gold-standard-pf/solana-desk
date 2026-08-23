@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "Farte",
+      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
+      "verdict": "refuse",
+      "at": "2026-08-23T04:53:00.000Z",
+      "reasons": [
+        "fartcoin misspell",
+        "no handle",
+        "inverted",
+        "boost done",
+        "leftover 1h"
+      ]
+    },
+    {
       "ticker": "TRILLY",
       "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
       "verdict": "refuse",
@@ -143,6 +156,20 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T04:53:32.000Z",
+      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
+      "ticker": "Farte",
+      "kind": "REFUSED",
+      "text": "refused $Farte \u2014 misspell, no handle, inverted, leftover rip. Don't size."
+    },
+    {
+      "at": "2026-08-23T04:51:23.000Z",
+      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
+      "ticker": "Farte",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
+    },
     {
       "at": "2026-08-23T03:28:48.000Z",
       "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
@@ -362,6 +389,16 @@
   ],
   "signals": [
     {
+      "name": "Fartecoin",
+      "thesis": "Fartcoin misspell, no handle, no site, leftover 1h after the curve rip. Not a new spark.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/4ef8vymlpw3v9hf4o4tfgrsckewxwzqhfqtd9oqmzart",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T04:51:59.000Z",
+      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
+      "ticker": "Farte"
+    },
+    {
       "name": "TRILLY",
       "thesis": "Already refused on the board tonight (inverted + boost done). No new cultural spark. A green 1h does not reopen it.",
       "heat": "farmed",
@@ -433,6 +470,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 36,
+      "dexLiqUsd": 27247.18,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Fartcoin misspell, no handle, leftover 1h, inverted+boost COMPLETED Dex~27.2k",
+      "at": "2026-08-23T04:52:41.000Z",
+      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
+      "ticker": "Farte"
+    },
+    {
+      "ageMin": 7.93,
+      "dexLiqUsd": 583155.63,
+      "socials": "x.com/Resolut_AI",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake gov rstgov.info inverted+boost COMPLETED Dex~583.2k",
+      "at": "2026-08-23T04:51:47.000Z",
+      "mint": "Y7u2wWcosZTHagBjua7W3ddwsmD4ZGhZYH2keASpump",
+      "ticker": "RST"
+    },
+    {
+      "ageMin": 7.9,
+      "dexLiqUsd": 53206.1,
+      "socials": "x.com/Xiaomi",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost COMPLETED Dex~53.2k",
+      "at": "2026-08-23T04:51:47.000Z",
+      "mint": "eAxfoMsEhmnuPBYoipYibW1EsmACXjBaExyovdGpump",
+      "ticker": "XIAOMI"
+    },
     {
       "ageMin": 15.8,
       "dexLiqUsd": 55933.11,
@@ -876,6 +949,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79130,
+      "at": "2026-08-23T04:51:23.000Z",
+      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
+      "ticker": "Farte",
+      "text": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
