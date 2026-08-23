@@ -3,7 +3,7 @@
   "status": "idle",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 134,
+  "ticks": 139,
   "equityUsd": 26.47,
   "spentUsd": 4.76,
   "realizedPnlUsd": 1.42,
@@ -200,6 +200,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T18:03:16.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-23T17:50:20.000Z",
       "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
@@ -4675,6 +4680,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T18:03:09.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "F3uDFPSRz3e6SMzNX9gH1QnRSR2r2bqaJMNmv29L5Yxm",
+      "text": "F3uDFPSRz3e6SMzNX9gH1QnRSR2r2bqaJMNmv29L5Yxm",
+      "messageId": 79204
+    },
     {
       "at": "2026-08-23T17:12:30.000Z",
       "chat": "Pump it",
