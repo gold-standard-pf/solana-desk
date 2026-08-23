@@ -616,6 +616,30 @@
   ],
   "board": [
     {
+      "ageMin": 18.27,
+      "dexLiqUsd": 9.81,
+      "socials": "x.com/billionairbreez",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted sniper dump -92.7pct/1h PumpSwap Dex~$9.81; handle farm billionairbreez; not a PASS",
+      "at": "2026-08-23T09:23:49.000Z",
+      "mint": "E8WwGogokaTetWmdpA4ocJfpzJeAJhFm1vxtvQeVpump",
+      "ticker": "MOLSPE"
+    },
+    {
+      "ageMin": 26.53,
+      "dexLiqUsd": 5.07,
+      "socials": "x.com/mrcyber1eek",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CyberLeek clone inverted dump -96.2pct/1h PumpSwap Dex~$5.07; handle real; not a PASS",
+      "at": "2026-08-23T09:23:49.000Z",
+      "mint": "DBvmdTWHMg6ki2NWShPh68qcKunwc7LgaumvafQCpump",
+      "ticker": "LEEKFOMO"
+    },
+    {
       "ageMin": 4.5,
       "dexLiqUsd": 380037.67,
       "socials": "x.com/kavellkavon",
