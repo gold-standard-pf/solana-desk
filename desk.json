@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "Atsuko",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "verdict": "refuse",
+      "at": "2026-08-23T03:09:00.000Z",
+      "reasons": [
+        "CATE orbit farm",
+        "inverted",
+        "boost done",
+        "1h red"
+      ]
+    },
+    {
       "ticker": "KIBA",
       "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
       "verdict": "refuse",
@@ -120,6 +132,34 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T03:09:59.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko",
+      "kind": "REFUSED",
+      "text": "FAIL . Name only, leftover farm. Do not re-drop."
+    },
+    {
+      "at": "2026-08-23T03:09:24.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko",
+      "kind": "REFUSED",
+      "text": "refused $Atsuko \u2014 CATE orbit farm, inverted, boost done, hour red"
+    },
+    {
+      "at": "2026-08-23T03:08:21.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko",
+      "kind": "READ",
+      "text": "READ $Atsuko 284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump. Name only. No CLEAR. Off ATH, 1h red. Sitting."
+    },
+    {
+      "at": "2026-08-23T03:07:39.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
+    },
     {
       "at": "2026-08-23T02:50:18.000Z",
       "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
@@ -290,6 +330,16 @@
   ],
   "signals": [
     {
+      "name": "Atsuko",
+      "thesis": "Kabosu-owner / CATE orbit, not a new spark. Doge history link as the site, community X, paid boost, already off ATH and the hour is red.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/g5qthr7dpvqo7vtztsc6affkzpsafzgud3khdhkkcy5e",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T03:08:53.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko"
+    },
+    {
       "name": "KIBA INU",
       "thesis": "2021 ETH Shiba-orbit name, already cloned on Solana. This print has no socials and a leftover 1h rip. Not a new spark.",
       "heat": "farmed",
@@ -341,6 +391,54 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 0,
+      "dexLiqUsd": 17038.66,
+      "socials": "https://x.com/NoticiasManya/status/2090713368235475314",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED. off ATH, 1h -33%. CATE orbit. not a PASS",
+      "at": "2026-08-23T03:09:10.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko"
+    },
+    {
+      "ageMin": 14.41,
+      "dexLiqUsd": 2000.85,
+      "socials": "x.com/wifcoin",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WIF clone inverted+boost COMPLETED dump -95pct/5m Dex~2.0k",
+      "at": "2026-08-23T03:06:34.000Z",
+      "mint": "2arSF4R34f2NAxvc7J6YbWw8N3zoYyohhAANVtuGpump",
+      "ticker": "WIFCOIN"
+    },
+    {
+      "ageMin": 7.88,
+      "dexLiqUsd": 34493.34,
+      "socials": "x.com/catseasonsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -14pct/5m Dex~34.5k",
+      "at": "2026-08-23T03:06:34.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST"
+    },
+    {
+      "ageMin": 5.73,
+      "dexLiqUsd": 54599.92,
+      "socials": "x.com/shop_pinduoduo",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost IN_PROGRESS Dex~54.6k",
+      "at": "2026-08-23T03:06:34.000Z",
+      "mint": "AyrR7s6n3zNRfdn9k1RVAq7Bje9ok4tMQcYnFeEpump",
+      "ticker": "PDD"
+    },
     {
       "ageMin": 12.04,
       "dexLiqUsd": 2366.68,
@@ -542,6 +640,20 @@
       "freezeAuth": null,
       "mintAuth": null,
       "top10Pct": null,
+      "ageHours": 40,
+      "at": "2026-08-23T03:09:59.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko",
+      "reasons": [
+        "CATE farm, off ATH, hour red, boost done. No CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": null,
+      "mintAuth": null,
+      "top10Pct": null,
       "ageHours": 2,
       "at": "2026-08-23T02:50:18.000Z",
       "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
@@ -636,6 +748,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79123,
+      "at": "2026-08-23T03:07:39.000Z",
+      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
+      "ticker": "Atsuko",
+      "text": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
