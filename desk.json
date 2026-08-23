@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T19:36:37.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "kind": "READ",
+      "text": "CLEAR $VII. First print. Handle live, Dex after grad, boost none, tape still green. Not a fill."
+    },
+    {
       "at": "2026-08-23T19:36:27.000Z",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
       "ticker": "VII",
@@ -4219,6 +4226,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "first print",
+        "handle @SeptemVIISOL",
+        "PumpSwap Dex after grad",
+        "boost NONE 5m green"
+      ],
+      "at": "2026-08-23T19:36:37.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
