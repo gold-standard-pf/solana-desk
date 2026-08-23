@@ -471,6 +471,18 @@
   ],
   "board": [
     {
+      "ageMin": 2.77,
+      "dexLiqUsd": 52527.25,
+      "socials": "x.com/amazon",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost IN_PROGRESS Dex~52.5k",
+      "at": "2026-08-23T05:03:08.000Z",
+      "mint": "rC4ojwqJAHrZHwAhpZoG1GaFqUuaEv5HEdxDWwdpump",
+      "ticker": "Amazon"
+    },
+    {
       "ageMin": 36,
       "dexLiqUsd": 27247.18,
       "socials": "none",
