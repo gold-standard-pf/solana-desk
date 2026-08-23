@@ -3,7 +3,7 @@
   "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 167,
+  "ticks": 168,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
   "realizedPnlUsd": -1.43,
@@ -1225,6 +1225,16 @@
     }
   ],
   "signals": [
+    {
+      "name": "SEPTEM | VII",
+      "thesis": "Refuse-flip. Dump-dead. Dex ~2.2k, MC ~2.0k vs ATH ~145k, 5m -98. inverted+boost COMPLETED. Fill already closed. Not a new fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T20:07:59.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII"
+    },
     {
       "at": "2026-08-23T20:00:30.000Z",
       "name": "ErrorSignalLost",
@@ -5457,6 +5467,15 @@
     }
   ],
   "advice": [
+    {
+      "at": "2026-08-23T20:08:00.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "call": "cut",
+      "vsInvalidation": "Dump. Dex 5m -98, liq ~$2.2k vs ~$16.8k fill (well under half). Mark ~$0.03 on 12918 runner. CUT now. Cost already back from peel.",
+      "markUsd": 0.03,
+      "note": "CUT VII runner. Fade and liq both hit. Do not wait."
+    },
     {
       "at": "2026-08-23T20:00:29.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
