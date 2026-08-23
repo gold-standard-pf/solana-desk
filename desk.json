@@ -1804,6 +1804,30 @@
   ],
   "board": [
     {
+      "ageMin": 8.9,
+      "dexLiqUsd": 42.92,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$43 (dead dump). inverted=true boost=NONE. 5m 189b/149s -66. live recheck boost=NONE inverted=true.",
+      "at": "2026-08-23T22:41:50.000Z",
+      "mint": "GEDB56AZeibU6oMCFPqLJ7mpwsdV5wmZcuFsNCjVpump",
+      "ticker": "kucion"
+    },
+    {
+      "ageMin": 3.5,
+      "dexLiqUsd": 54018,
+      "socials": "x.com/NASA",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. Brand impersonation (NASA / official @NASA). Unique ticker graduated; PumpSwap Dex printed ~$54,018. 5m 316b/20s +1061. live recheck boost=IN_PROGRESS inverted=true.",
+      "at": "2026-08-23T22:41:50.000Z",
+      "mint": "ZG7mitAVjS9AauMsS4bcKZ3UA7bvDSSuJcjVvA1pump",
+      "ticker": "NASA"
+    },
+    {
       "ageMin": 16.6,
       "dexLiqUsd": 2318.61,
       "socials": "x.com/catbullszn",
