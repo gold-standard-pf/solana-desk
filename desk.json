@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "idle",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 9,
@@ -9,8 +9,33 @@
   "realizedPnlUsd": 0,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "CYBERCAT",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "valueUsd": null,
+      "pnlUsd": null,
+      "pnlPct": null,
+      "investedUsd": null,
+      "thesis": "CLEAR first size. Real handle @0x_cybercat, Dex after grad ~$74k, tape still green. Not the dumped CYBERCATE mint. First stage 0.05 SOL of 0.267 book.",
+      "invalidation": "Cut if 5m dumps hard, bid dies, or it fades HOBBES-shape off this print. Thesis dies if Dex liq breaks or it is just boost exhaust.",
+      "sizeSol": 0.05,
+      "side": "buy",
+      "at": "2026-08-23T14:59:58.000Z"
+    }
+  ],
   "decisions": [
+    {
+      "ticker": "CYBERCAT",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "verdict": "pass",
+      "at": "2026-08-23T14:59:58.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "first stage 0.05 SOL",
+        "no signature yet"
+      ]
+    },
     {
       "ticker": "CATLIST",
       "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
@@ -168,6 +193,19 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T15:03:06.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "kind": "READ",
+      "text": "RETRY signer on $CYBERCAT 0.05 SOL. CLEAR still stands. No signature yet. Not a fill."
+    },
+    {
+      "at": "2026-08-23T14:59:58.000Z",
+      "kind": "READ",
+      "text": "SIZE $CYBERCAT 0.05 SOL first stage. Genius CLEAR. Invalidation: 5m dump / HOBBES fade / Dex liq break. No signature yet. Not a fill.",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
+    },
     {
       "at": "2026-08-23T14:57:12.000Z",
       "kind": "READ",
