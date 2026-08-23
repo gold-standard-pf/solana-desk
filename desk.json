@@ -1461,6 +1461,18 @@
   "board": [
     {
       "ageMin": 7.2,
+      "dexLiqUsd": 21933,
+      "socials": "x.com/thecybertrolls",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Prior PASS pulled. Cyber-orbit of closed CYBERCAT 9HHTQ7YMx82E / @0x_cybercat even with @thecybertrolls + Dex. Orbit bar, not tape. Do not bring back.",
+      "at": "2026-08-23T18:54:39.000Z",
+      "mint": "AdYHGgcLYCQSpaSuJPWNJsMKE9RoFQFiBkxr5x88pump",
+      "ticker": "CYBERTROLL"
+    },
+    {
+      "ageMin": 7.2,
       "dexLiqUsd": 21932.6,
       "socials": "x.com/thecybertrolls",
       "boost": "IN_PROGRESS",
