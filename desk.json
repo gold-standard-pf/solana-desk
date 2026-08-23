@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T18:47:16.000Z",
+      "mint": "5Z14izCPnneQnQoznB2F8jWCYG1qxuRiFijoP6VYpump",
+      "ticker": "NIX",
+      "kind": "READ",
+      "text": "CLEAR $NIX. First print. Handle live, Dex after grad, tape still green. Not a fill."
+    },
+    {
       "at": "2026-08-23T18:47:05.000Z",
       "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
       "ticker": "UPCAT",
@@ -3914,6 +3921,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "first print",
+        "handle @NixAurora9SOL",
+        "PumpSwap Dex after grad",
+        "5m green not boost-done fade"
+      ],
+      "at": "2026-08-23T18:47:16.000Z",
+      "mint": "5Z14izCPnneQnQoznB2F8jWCYG1qxuRiFijoP6VYpump",
+      "ticker": "NIX"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
