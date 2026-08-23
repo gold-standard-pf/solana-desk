@@ -1804,6 +1804,42 @@
   ],
   "board": [
     {
+      "ageMin": 6.8,
+      "dexLiqUsd": 55865.22,
+      "socials": "x.com/redbull",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation (Red Bull / official @redbull). Unique ticker graduated; PumpSwap Dex printed ~$55,865. live recheck boost=NONE inverted=false. 5m 299b/167s +9. Not a project handle.",
+      "at": "2026-08-23T22:27:46.000Z",
+      "mint": "DA1mDLXynvZYa5aPnDu2aFkJEYwttefVmhuobQTupump",
+      "ticker": "Redbull"
+    },
+    {
+      "ageMin": 3.6,
+      "dexLiqUsd": 128044.3,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$128,044. live recheck boost=NONE inverted=false. 5m 41b/1s +6200. Not tradeable first print.",
+      "at": "2026-08-23T22:27:46.000Z",
+      "mint": "tgwkTyTJj4WMwn3NCYDoWvyeYASAmj1NT3BHzznpump",
+      "ticker": "NTDA"
+    },
+    {
+      "ageMin": 0.9,
+      "dexLiqUsd": 76753.72,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$76,754. live recheck boost=NONE inverted=false. 5m 22b/0s +2201. Not tradeable first print.",
+      "at": "2026-08-23T22:27:46.000Z",
+      "mint": "YHhj7J8niGqsC3DE4ryvpnGLF94EDPgfhUrPzvRpump",
+      "ticker": "BULLSHIT"
+    },
+    {
       "ageMin": 4.7,
       "dexLiqUsd": 54660.07,
       "socials": "none",
