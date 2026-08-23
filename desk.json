@@ -1024,6 +1024,16 @@
   ],
   "signals": [
     {
+      "name": "Mikacoin",
+      "thesis": "Refuse-flip. Dump-dead. Dex ~2.3k, MC ~2.1k, 5m -98 / 1h -99. Not a fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T17:48:53.000Z",
+      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "ticker": "MIKA"
+    },
+    {
       "name": "Sushi Cat",
       "thesis": "Refuse-flip. Dump-dead. Dex ~2.4k, MC ~2.2k, 5m -98. Terry already cut. Not a new fill.",
       "heat": "farmed",
