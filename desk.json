@@ -1062,6 +1062,16 @@
   ],
   "signals": [
     {
+      "name": "Stonk Cat",
+      "thesis": "Refuse-flip. Dump-dead. Dex ~2.2k, MC ~2.0k, 5m -99. Fill still open. Not a new fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T18:32:26.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
       "name": "Solpaw",
       "thesis": "Refuse-flip. inverted+boost COMPLETED dump. Dex ~5.6k, MC ~8k, 5m -79. Not a fill.",
       "heat": "farmed",
