@@ -3372,6 +3372,22 @@
   ],
   "advice": [
     {
+      "call": "hold",
+      "vsInvalidation": "not hit",
+      "note": "Runner 858 is house money. HOLD runner and HOLD SUSHI.",
+      "at": "2026-08-23T15:54:41.000Z",
+      "ticker": "CYBERCAT"
+    },
+    {
+      "call": "hold",
+      "vsInvalidation": "Initials peeled. Runner 858 is house money. Cut the runner if 5m dumps hard, bid dies, or Dex breaks. Not a full dump.",
+      "markUsd": 1.16,
+      "note": "Sell stamped 1400 tokens, +0.0195 SOL. Runner 857.6 left. HOLD runner. HOLD SUSHI.",
+      "at": "2026-08-23T15:54:28.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT"
+    },
+    {
       "at": "2026-08-23T15:53:26.000Z",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
       "ticker": "CYBERCAT",
