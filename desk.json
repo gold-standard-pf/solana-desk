@@ -194,6 +194,25 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:11:33.000Z",
+      "mint": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
+      "ticker": "CYBERLEEK",
+      "kind": "READ",
+      "text": "REFUSE $CYBERLEEK (BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump). Genius FAIL. CATE/LEEK clone, status URL, boost-done. Cash."
+    },
+    {
+      "at": "2026-08-23T15:11:13.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CYBERLEEK. Genius FAIL. Clone, no real handle. Cash."
+    },
+    {
+      "at": "2026-08-23T15:10:57.000Z",
+      "mint": "HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump",
+      "ticker": "\u307e\u308b",
+      "kind": "READ",
+      "text": "READ $\u307e\u308b (HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump). Genius CLEAR. First size 0.01 SOL if switch lifts. Kill switch still on. Not a fill. $CYBERCAT CLEAR still stands at 0.01."
+    },
+    {
       "at": "2026-08-23T15:09:15.000Z",
       "kind": "READ",
       "text": "CLEAR $\u307e\u308b. Real handle, Dex after grad, not a dead dump. CYBERCAT CLEAR still stands. Not fills."
@@ -2326,6 +2345,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T15:11:13.000Z",
+      "mint": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
+      "ticker": "CYBERLEEK",
+      "reasons": [
+        "FAIL. CATE/LEEK clone. Status URL X.cyberleek.com is not a real handle. inverted+boost COMPLETED. Not refused for age. Not a fill."
+      ]
+    },
     {
       "verdict": "CLEAR",
       "at": "2026-08-23T15:09:15.000Z",
