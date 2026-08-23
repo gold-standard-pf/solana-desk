@@ -1421,6 +1421,78 @@
   ],
   "board": [
     {
+      "ageMin": 4.6,
+      "dexLiqUsd": 14166.59,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE clone (Catoshi Nakameowto). no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$14,167. inverted+boost IN_PROGRESS. 5m -5. Not refused for age. Live-recheck 18:36Z. Not a PASS.",
+      "at": "2026-08-23T18:36:55.000Z",
+      "mint": "AgLh3XRYxVpYzuBceQ3mnEk8bDtfBdpZdURnrj39pump",
+      "ticker": "CATOSHI"
+    },
+    {
+      "ageMin": 0.9,
+      "dexLiqUsd": 14544.29,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$14,544. inverted+boost IN_PROGRESS. 5m ~0 holding \u2014 refused as no handle, not as a dump. Live-recheck 18:36Z. Not a PASS.",
+      "at": "2026-08-23T18:36:55.000Z",
+      "mint": "95uiDSC7JA9xx8honVi6158M5TNndsnYP6gBm46Rpump",
+      "ticker": "808"
+    },
+    {
+      "ageMin": 151.8,
+      "dexLiqUsd": 2146.06,
+      "socials": "x.com/StonkCatPump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. RAC-dead fade: PumpSwap Dex~$34k->$2.1k, 5m floor after dump 1h -99 MC~$1.9k off ATH~$408k. Real handle @StonkCatPump. inverted+boost COMPLETED. Liq collapse + hard dump. Do not bring back.",
+      "at": "2026-08-23T18:36:55.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
+      "ageMin": 7.9,
+      "dexLiqUsd": 12894.34,
+      "socials": "x.com/FazeSol1/status/2091592478700794251",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$12,894. inverted+boost IN_PROGRESS. 5m -18 fading. Fails (a)+(c) CALLOUT-shape. Not refused for age. Live-recheck 18:36Z. Not a PASS.",
+      "at": "2026-08-23T18:36:52.000Z",
+      "mint": "EbhVNzWcRiLFYXdnQ3iHqaLyyY7tmKBcuA1WWcPUpump",
+      "ticker": "Solism"
+    },
+    {
+      "ageMin": 4.0,
+      "dexLiqUsd": 13922.08,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$13,922. inverted+boost IN_PROGRESS. 5m -7. Fails (a)+(c) CALLOUT-shape. Not refused for age. Live-recheck 18:36Z. Not a PASS.",
+      "at": "2026-08-23T18:36:52.000Z",
+      "mint": "AgLh3XRYxVpYzuBceQ3mnEk8bDtfBdpZdURnrj39pump",
+      "ticker": "CATOSHI"
+    },
+    {
+      "ageMin": 151.2,
+      "dexLiqUsd": 2161.46,
+      "socials": "x.com/StonkCatPump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Prior PASS withdrawn. RAC-dead. Live-recheck 13:36 CT: inverted+boost COMPLETED, PumpSwap Dex ~$42k->$2.2k, 5m -99 1h -99 MC~$1.9k. Real handle @StonkCatPump. Liq collapse + hard dump. Do not bring back.",
+      "at": "2026-08-23T18:36:52.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
       "ageMin": 16.5,
       "dexLiqUsd": 6237.7,
       "socials": "x.com/poolhorsesol",
