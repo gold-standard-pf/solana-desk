@@ -1346,6 +1346,42 @@
   ],
   "board": [
     {
+      "ageMin": 7.7,
+      "dexLiqUsd": 55821,
+      "socials": "x.com/OpenAI",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation @OpenAI (official OpenAI handle, not a project account). Name OpenAI Official coin. inverted+boost IN_PROGRESS; PumpSwap Dex~$55.8k 5m +6 1h +1143 still ripping. Refused as impersonation not as tape. Not a PASS.",
+      "at": "2026-08-23T17:23:32.000Z",
+      "mint": "NuXZus9pfroMTkSDAuEPUoK7rwtEcbSYTt3gYNkpump",
+      "ticker": "OpenAI"
+    },
+    {
+      "ageMin": 11.4,
+      "dexLiqUsd": 11,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Cyber-orbit of standing CYBERCAT 9HHTQ7YMx82E / @0x_cybercat. no handle (fails a). PumpSwap Dex dumped RAC-dead ~$11, 5m -90 1h -90 MC~$16. inverted, mayhem completed. Already-dead dump. Do not bring back.",
+      "at": "2026-08-23T17:23:32.000Z",
+      "mint": "57SNMA3F6yoKJcVijFMrP4kLarzokpoBD8EYAaPdpump",
+      "ticker": "CYBERKIRK"
+    },
+    {
+      "ageMin": 25.1,
+      "dexLiqUsd": 19223,
+      "socials": "x.com/PetaIS0L/status/2091570573633523798",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$19.2k. inverted+boost IN_PROGRESS. 5m +31 1h +64 holding \u2014 refused as status-URL not as a dump. Not a PASS.",
+      "at": "2026-08-23T17:23:32.000Z",
+      "mint": "Dx3CLhc47rCUBQ13tL9HpdppwBDTjK8wBkEvHxwipump",
+      "ticker": "MaDukes"
+    },
+    {
       "ageMin": 10,
       "dexLiqUsd": 1869,
       "socials": "x.com/qauntisthememe/status/2091572781028704427",
