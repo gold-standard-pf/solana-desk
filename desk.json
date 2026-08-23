@@ -1843,6 +1843,42 @@
   ],
   "board": [
     {
+      "ageMin": 6.2,
+      "dexLiqUsd": 8493.2,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). CYBER* orbit + Trump brand impersonation (Cyber Trump). Unique ticker graduated; PumpSwap Dex printed ~$8,493 then 5m 183b/156s -61 dump. live recheck boost=NONE inverted=false (not Hobbes). New mint, not the prior CYBERTRUMP refuse.",
+      "at": "2026-08-23T23:25:31.000Z",
+      "mint": "JD4Qg7SuEZVWCW5Tc9C3nt6NwUY4vbTbvY12UwQppump",
+      "ticker": "CyberTrump"
+    },
+    {
+      "ageMin": 7.2,
+      "dexLiqUsd": 12664.36,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL gettindevvy, fails a). Unique ticker graduated; PumpSwap Dex printed ~$12,664. live recheck boost=NONE inverted=false (not Hobbes). 5m 380b/424s -23 dump. Not famous-brand impersonation; fails handle bar.",
+      "at": "2026-08-23T23:25:31.000Z",
+      "mint": "kpHsnHVMZqkyJ1dszsSt11Wm1w3z68KRS4uTXHnpump",
+      "ticker": "peach69"
+    },
+    {
+      "ageMin": 7.0,
+      "dexLiqUsd": 20553.67,
+      "socials": "search-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (search-URL, fails a). Unique ticker graduated; PumpSwap Dex printed ~$20,554. live recheck boost=NONE inverted=false (not Hobbes). 5m 926b/598s +89. Not a famous-brand impersonation; fails handle bar.",
+      "at": "2026-08-23T23:25:31.000Z",
+      "mint": "HuD7oDzovS3GTkqWNsR3r1FjJSjYKmcuie39DWG8pump",
+      "ticker": "ASCEND"
+    },
+    {
       "ageMin": 7.6,
       "dexLiqUsd": 3310.32,
       "socials": "search-URL",
