@@ -169,6 +169,17 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T07:33:35.000Z",
+      "kind": "READ",
+      "text": "REFUSE $F\u00e9licette (F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D). Genius FAIL. 2024 mint, no handle, revival not first print. Cash."
+    },
+    {
+      "at": "2026-08-23T07:32:19.000Z",
+      "mint": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-23T07:12:45.000Z",
       "kind": "READ",
       "text": "REFUSE  (3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump). Genius FAIL. Already ran, leftover /pnl tape. Do not bring back. Cash."
@@ -445,6 +456,16 @@
   ],
   "signals": [
     {
+      "name": "F\u00e9licette",
+      "thesis": "2024 mint revival of the space-cat lore. Not a minutes-old first print. Leftover.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T07:34:05.000Z",
+      "mint": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
+      "ticker": "F\u00e9licette"
+    },
+    {
       "name": "CAT SEASON CLUB",
       "thesis": "CATE-season orbit, already farmed tonight. Paid boost 500, leftover 6h rip, hour already red. Not a new spark.",
       "heat": "farmed",
@@ -536,6 +557,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 9999,
+      "dexLiqUsd": 24672.99,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "2024 mint revival, TG leftover, no handle, not a first print. Dex~24.7k",
+      "at": "2026-08-23T07:34:35.000Z",
+      "mint": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
+      "ticker": "Felicette"
+    },
+    {
+      "ageMin": 26.6,
+      "dexLiqUsd": 13114.45,
+      "socials": "https://x.com/imblankface/status/2091419007752515890",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED dump -21.8pct/5m Dex~13.1k not a PASS",
+      "at": "2026-08-23T07:23:46.000Z",
+      "mint": "HuWjWzS74g34PnRGEGiacRdnDnoQ2V39rNjjkmwRpump",
+      "ticker": "MARVIN"
+    },
+    {
+      "ageMin": 13.4,
+      "dexLiqUsd": 1715.85,
+      "socials": "https://x.com/mowtcbm/status/2091210224262610961",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED dump -99pct/5m Dex~1.7k Kai Trump impersonation not a PASS",
+      "at": "2026-08-23T07:23:46.000Z",
+      "mint": "6vcsEXvbpjGEitMp3nEcSH5AYqaMoZYJnJe6gPPvpump",
+      "ticker": "KAI"
+    },
     {
       "ageMin": 8.99,
       "dexLiqUsd": 67478.75,
@@ -1109,6 +1166,22 @@
       "freezeAuth": "",
       "mintAuth": "",
       "top10Pct": "",
+      "ageHours": 24,
+      "reasons": [
+        "old mint 2024",
+        "no twitter/tg",
+        "revival not first print"
+      ],
+      "at": "2026-08-23T07:33:03.000Z",
+      "mint": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
+      "ticker": "Felicette"
+    },
+    {
+      "verdict": "FAIL",
+      "lpBurned": "",
+      "freezeAuth": "",
+      "mintAuth": "",
+      "top10Pct": "",
       "ageHours": 3,
       "reasons": [
         "leftover tape",
@@ -1263,6 +1336,16 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79144,
+      "at": "2026-08-23T07:32:19.000Z",
+      "mint": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
+      "text": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
