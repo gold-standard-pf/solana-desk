@@ -1649,6 +1649,30 @@
   ],
   "board": [
     {
+      "ageMin": 11.62,
+      "dexLiqUsd": 3614.64,
+      "socials": "x.com/hotdog12354/status/2091612120844501461",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$3,615. inverted+boost COMPLETED dump; 5m -17 1h -89 MC~$4.2k off ATH~$39k. Refused as status-URL + HOBBES dump, not for age. Not a PASS.",
+      "at": "2026-08-23T19:54:30.000Z",
+      "mint": "6Z7LYVuDN8jvsSt7eD4aDPtHwmbepPMWxyDAPBPppump",
+      "ticker": "BamBam"
+    },
+    {
+      "ageMin": 7.29,
+      "dexLiqUsd": 586735.63,
+      "socials": "x.com/UnitedOilFund",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @UnitedOilFund. PumpSwap Dex printed ~$586,736. inverted+boost IN_PROGRESS. 5m +3 holding (285b/27s) Dex MC~$51.6M at ATH. Not fading. Age not a skip. Not a fill.",
+      "at": "2026-08-23T19:54:30.000Z",
+      "mint": "KhoE5v92QK79Rtrs9KDJatRNdUiAu4bdJ1Z7eRkpump",
+      "ticker": "UOTF"
+    },
+    {
       "ageMin": 10.3,
       "dexLiqUsd": 23048.3,
       "socials": "status-url",
