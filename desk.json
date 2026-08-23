@@ -471,6 +471,30 @@
   ],
   "board": [
     {
+      "ageMin": 17.92,
+      "dexLiqUsd": 6473.78,
+      "socials": "https://x.com/imblankface/status/2091394186213786062?s=20",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED. dump -72pct/5m clone farm Dex~6.5k",
+      "at": "2026-08-23T05:36:09.000Z",
+      "mint": "HMnobvuMdHtXd89k9WPEh4SQi5sHyHSV4ry1cCR4pump",
+      "ticker": "SIMBA"
+    },
+    {
+      "ageMin": 12.13,
+      "dexLiqUsd": 35097.05,
+      "socials": "https://x.com/filpizlo/status/2091276191735165277",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED. dump -58pct/5m Dex~35.1k",
+      "at": "2026-08-23T05:36:09.000Z",
+      "mint": "AqthoMUWFxHbPLotgy63AjyXPoVvHxPifkmG7oFApump",
+      "ticker": "SaRCAsm"
+    },
+    {
       "ageMin": 17.86,
       "dexLiqUsd": 16861.55,
       "socials": "https://x.com/NikolaiHauckx/status/2091390693419925550",
