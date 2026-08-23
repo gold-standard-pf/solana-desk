@@ -1320,6 +1320,42 @@
   ],
   "board": [
     {
+      "ageMin": 22.4,
+      "dexLiqUsd": 29864,
+      "socials": "x.com/Bymotionn/status/2091532503743918391",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$29.9k. inverted+boost COMPLETED. 5m -35 1h +263 \u2014 refused as no handle not as a dump. Not a PASS.",
+      "at": "2026-08-23T16:59:09.000Z",
+      "mint": "SGgfvjSVzxaB2Ygzi3RbHgqX127c4QHG8Urn97fpump",
+      "ticker": "Glorb"
+    },
+    {
+      "ageMin": 12.7,
+      "dexLiqUsd": 17018,
+      "socials": "x.com/HimothyJamesJr_/status/2091567561796161823",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$17.0k. inverted+boost IN_PROGRESS. 5m +20 holding \u2014 refused as no handle. Not a PASS.",
+      "at": "2026-08-23T16:59:09.000Z",
+      "mint": "EDJGy2gVEJU55E9ddCJbgNa4uqru38ZnBsLWroNfpump",
+      "ticker": "BOOMER"
+    },
+    {
+      "ageMin": 33.2,
+      "dexLiqUsd": 20129,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). PumpSwap Dex printed ~$20.1k. inverted+boost COMPLETED. 5m -9 1h +77 holding \u2014 refused as no handle not as a dump. Not a PASS.",
+      "at": "2026-08-23T16:59:09.000Z",
+      "mint": "GWt3YiLvUNuK5Sw8LjC6S2qJ7WrThqpcRYUBUodYpump",
+      "ticker": "PIXEL"
+    },
+    {
       "ageMin": 6.2,
       "dexLiqUsd": 21724,
       "socials": "x.com/cybercoin_sol",
