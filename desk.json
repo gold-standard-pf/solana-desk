@@ -1092,6 +1092,16 @@
   ],
   "signals": [
     {
+      "name": "Up Cat",
+      "thesis": "Refuse-flip. Dump-dead. Dex ~2.3k, MC ~2.2k vs ATH ~164k, 1h -96. inverted+boost COMPLETED. Fill still open. Not a new fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T19:09:02.000Z",
+      "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "ticker": "UPCAT"
+    },
+    {
       "name": "NIX - Aurora-9",
       "thesis": "Refuse-flip. Dump-dead. Dex ~2.0k, MC ~1.9k vs ATH ~94k, 5m -97. inverted+boost COMPLETED. Fill still open. Not a new fill.",
       "heat": "farmed",
