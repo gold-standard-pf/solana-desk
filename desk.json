@@ -3,7 +3,7 @@
   "status": "idle",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 145,
+  "ticks": 146,
   "equityUsd": 23.62,
   "spentUsd": 7.63,
   "realizedPnlUsd": -1.43,
@@ -1521,6 +1521,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-23T19:38:53.000Z",
+      "mint": "HwUoczAW6sV7deh4hCPHcUBsgxtBA7oHBpyMBpGBpump",
+      "ticker": "FARTCATE",
+      "ageMin": 10.93,
+      "dexLiqUsd": 16375.05,
+      "socials": "x.com/i/communities/1954675362744369161",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE clone (Fartcate). community-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$16,375. inverted+boost IN_PROGRESS. 5m +30 holding (278b/298s) Dex MC~$48.4k. Refused as CATE clone + community-URL, not as a dump. Not refused for age. Live-recheck 19:38Z. Not a PASS."
+    },
     {
       "ageMin": 1.9,
       "dexLiqUsd": 15359.54,
@@ -5001,6 +5013,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T19:38:54.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "call": "hold",
+      "vsInvalidation": "5m +28, PumpSwap liq ~$17k, mark ~$2.81 vs ~$2.85 cost. Thin bag. Cut first hit: mark <=60% cost, 5m <=-25, liq halves, or inverted+boost COMPLETED + 5m red. Take initials only if mark covers 0.03 SOL with a real runner left.",
+      "markUsd": 2.81,
+      "note": "VII fill stamped. 56163 tokens. HOLD. 1m Dex watch on."
+    },
+    {
       "call": "hold",
       "vsInvalidation": "Bag sold. Dump-dead. Book is cash.",
       "markUsd": 0,
@@ -5266,6 +5287,15 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T19:38:54.000Z",
+      "signature": "36DdQo1iMbV2UDgtNNXSy2UCn8dN3kabyQ4EzYNqbem9dzHDzRc6gpdzxCyR8W8hCwK7bvDVh2SrdU8XH4NC4bhc",
+      "side": "buy",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "usd": 2.85,
+      "tokenAmount": 56163.210168
+    },
     {
       "at": "2026-08-23T18:33:24.000Z",
       "signature": "4JkhdZjHR2JHgPQXMmzeb4UvaKwmoCG5VuePUqMZ419i4Zoa93rsWgRC5gCxTzTwRM4qeS6J3WH9YdhakFP2puS",
