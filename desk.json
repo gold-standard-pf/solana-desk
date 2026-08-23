@@ -1855,6 +1855,18 @@
   ],
   "board": [
     {
+      "ageMin": 3,
+      "dexLiqUsd": 13993.11,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL ABGTRACKER, fails a). Unique ticker graduated; PumpSwap Dex printed ~$13,993. live recheck 23:48Z get_tokens no boosts/labels so boost=NONE inverted=false (not Hobbes). 5m 46b/31s. Not a PASS.",
+      "at": "2026-08-23T23:49:36.000Z",
+      "mint": "HL35cSZk7CJGYpmQz7wujurtuMC6KS9imG1jM9Cjpump",
+      "ticker": "COINER"
+    },
+    {
       "ageMin": 2,
       "dexLiqUsd": 312696.97,
       "socials": "none",
