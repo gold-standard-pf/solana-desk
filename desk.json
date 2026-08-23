@@ -1825,6 +1825,42 @@
   ],
   "board": [
     {
+      "ageMin": 4.0,
+      "dexLiqUsd": 7147.66,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$7,148 then dumped. live recheck boost=NONE inverted=false. Dead dump 5m -73 246b/171s. Not refused for age.",
+      "at": "2026-08-23T23:03:56.000Z",
+      "mint": "7e52s5wvUMpBNVhLmNCC81rn4N31AMtB5SW1KuXpump",
+      "ticker": "CYBERANSEM"
+    },
+    {
+      "ageMin": 2.4,
+      "dexLiqUsd": 16033.67,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL ChinaDaily, fails a). Unique ticker graduated; PumpSwap Dex printed ~$16,034. live recheck boost=NONE inverted=false. 5m +24 75b/27s. Not refused for age.",
+      "at": "2026-08-23T23:03:56.000Z",
+      "mint": "7Qf8Xvku83W14gVw581iGLm6bmiTPrRnpuRsUsFJpump",
+      "ticker": "MILO"
+    },
+    {
+      "ageMin": 1.2,
+      "dexLiqUsd": 183237.67,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$183,238. live recheck boost=NONE inverted=false. Ripping 5m +12710 19b/0s MC~$5.08M \u2014 refused as no handle, not as a dump. Not refused for age.",
+      "at": "2026-08-23T23:03:56.000Z",
+      "mint": "8HqDvguCdySGq4U6KRtJYpDfP5ZjC1YYjLQBcAU7pump",
+      "ticker": "CYBERLEEK"
+    },
+    {
       "ageMin": 26.5,
       "dexLiqUsd": 135.62,
       "socials": "status-URL",
