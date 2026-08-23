@@ -1,15 +1,26 @@
 {
   "name": "desk",
-  "status": "idle",
+  "status": "HOLD VII \u00b7 cap used \u00b7 no second size",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 146,
   "equityUsd": 23.62,
-  "spentUsd": 7.63,
+  "spentUsd": 10.48,
   "realizedPnlUsd": -1.43,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "VII",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "investedUsd": 2.85,
+      "valueUsd": 3.06,
+      "pnlUsd": 0.21,
+      "pnlPct": 7.4,
+      "sizeSol": 0.03,
+      "thesis": "first print. Dex after grad. boost none. 5m green. cap used."
+    }
+  ],
   "decisions": [
     {
       "ticker": "CYBERCAT",
@@ -5706,8 +5717,9 @@
   ],
   "marks": {
     "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.001324,
-    "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001782
+    "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001782,
+    "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 5.453e-05
   },
-  "updatedAt": "2026-08-23T18:34:11.000Z",
+  "updatedAt": "2026-08-23T19:39:08.000Z",
   "capSol": 0.05
 }
