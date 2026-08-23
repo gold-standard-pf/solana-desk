@@ -1756,6 +1756,42 @@
   ],
   "board": [
     {
+      "at": "2026-08-23T20:42:00.000Z",
+      "mint": "7A6uXz8huex2dqvv2xXDHvM1fVPhiX5VCWyFrNhMmeme",
+      "ticker": "MEME",
+      "ageMin": 14.7,
+      "dexLiqUsd": 3942.89,
+      "socials": "status-URL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost COMPLETED dump. PumpSwap Dex printed ~,943. 5m -6 1h -88. ATH fade. Dex lists x.com/trymemefun but pump.fun twitter is a status-URL; Hobbes anyway."
+    },
+    {
+      "at": "2026-08-23T20:42:00.000Z",
+      "mint": "cQ9K3ftpuBNETVAxf3caJkMeDMVmXJ1bayhFtRWpump",
+      "ticker": "USTF",
+      "ageMin": 20.7,
+      "dexLiqUsd": 154247.11,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~python3 /workspace/desk/pump_tape.py board 36XENpn3qL9uXfjbewCwZHtmNcS7mk7h7jU7CAuJpump onboard 8.5 3669.37 status-URL COMPLETED true REFUSE \"status-URL not a real handle (fails a). Hobbes dump. inverted+boost COMPLETED. PumpSwap Dex printed ~$3,669. 5m -95 1h -89. ATH fade $206k->$4k.\"\n\npython3 /workspace/desk/pump_tape.py board cQ9K3ftpuBNETVAxf3caJkMeDMVmXJ1bayhFtRWpump USTF 20.7 154247.11 none COMPLETED true REFUSE \"no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$154,247. inverted+boost COMPLETED. 5m -0.3 1h +9054 MC~$3.62M. Hobbes shape, not a PASS. USTF reprint.\"\n\npython3 /workspace/desk/pump_tape.py board 7A6uXz8huex2dqvv2xXDHvM1fVPhiX5VCWyFrNhMmeme MEME 14.7 3942.89 status-URL COMPLETED true REFUSE \"status-URL not a real handle (fails a). inverted+boost COMPLETED dump. PumpSwap Dex printed ~$3,943. 5m -6 1h -88. ATH fade. Dex lists x.com/trymemefun but pump.fun twitter is a status-URL; Hobbes anyway.\"\n\npython3 -c '\nimport json\nwith open(\"/workspace/desk/public/desk.json\") as f:\n    d=json.load(f)\nprint(\"updatedAt\", d.get(\"updatedAt\"))\nprint(\"=== board head 6 ===\")\nfor r in d[\"board\"][:6]:\n    print(r.get(\"at\"), r.get(\"verdict\"), r.get(\"ticker\"), r.get(\"mint\"), \"liq\", r.get(\"dexLiqUsd\"), \"boost\", r.get(\"boost\"), \"inv\", r.get(\"inverted\"), \"age\", r.get(\"ageMin\"), \"soc\", r.get(\"socials\"))\nprint(\"=== launchWatch ESL ===\")\nprint(d[\"launchWatch\"][0])\n'\n54,247. inverted+boost COMPLETED. 5m -0.3 1h +9054 MC~.62M. Hobbes shape, not a PASS. USTF reprint."
+    },
+    {
+      "at": "2026-08-23T20:42:00.000Z",
+      "mint": "36XENpn3qL9uXfjbewCwZHtmNcS7mk7h7jU7CAuJpump",
+      "ticker": "onboard",
+      "ageMin": 8.5,
+      "dexLiqUsd": 3669.37,
+      "socials": "status-URL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Hobbes dump. inverted+boost COMPLETED. PumpSwap Dex printed ~,669. 5m -95 1h -89. ATH fade 06k->k."
+    },
+    {
       "ageMin": 29.4,
       "dexLiqUsd": 22346.47,
       "socials": "none",
