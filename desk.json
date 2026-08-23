@@ -1804,6 +1804,42 @@
   ],
   "board": [
     {
+      "ageMin": 9.9,
+      "dexLiqUsd": 3276.03,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL DeptofWar, fails a). Unique ticker graduated; PumpSwap Dex printed ~$3,276. live recheck boost=NONE inverted=false. Dead dump 5m -29 1h -91 37b/78s.",
+      "at": "2026-08-23T22:53:37.000Z",
+      "mint": "CzFpxi4mGwzSAcXbJCJcFmnto7ymfRz94yjS4n6Fpump",
+      "ticker": "AMERICANMAXX"
+    },
+    {
+      "ageMin": 9.2,
+      "dexLiqUsd": 2143.54,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$2,144. live recheck boost=NONE inverted=false. Dead dump 5m -86 1h -95 12b/114s.",
+      "at": "2026-08-23T22:53:37.000Z",
+      "mint": "SiKoUJvtr6rFd12ncXZFCucyuE88gPY8dJF2wzbpump",
+      "ticker": "CYBERGUY"
+    },
+    {
+      "ageMin": 3.4,
+      "dexLiqUsd": 54525.47,
+      "socials": "x.com/ChatGPT",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation (ChatGPT / official @ChatGPT / OpenAI). Unique ticker graduated; PumpSwap Dex printed ~$54,525. live recheck boost=NONE inverted=false. 5m +1081 1h +1081 397b/31s. Not Hobbes; fails impersonation bar.",
+      "at": "2026-08-23T22:53:37.000Z",
+      "mint": "CWBSRRAQ1dAmkwwqKbThcBUJYXyrU6WRDqNeqdLpump",
+      "ticker": "ChatGPT"
+    },
+    {
       "ageMin": 8.9,
       "dexLiqUsd": 42.92,
       "socials": "none",
