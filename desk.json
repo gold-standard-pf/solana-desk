@@ -3792,6 +3792,23 @@
   "advice": [
     {
       "call": "hold",
+      "vsInvalidation": "not hit",
+      "note": "Mark ~3.13 vs 2.87. Dex ~44k 5m +42. Too thin to peel.",
+      "at": "2026-08-23T16:43:54.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
+      "call": "hold",
+      "vsInvalidation": "Not hit. 5m +42, Dex ~$44k, buys 610/172. Not an inverted dump, liq standing. Cut if 5m waterfall, bid dies, or Dex collapses. TAKE initials only once mark can peel cost and still leave a real runner (now +9, peel would eat most of the bag).",
+      "markUsd": 3.13,
+      "note": "Fill confirmed 10478 tokens / 0.03 SOL. HOLD. Too thin to peel initials yet.",
+      "at": "2026-08-23T16:43:43.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
+      "call": "hold",
       "vsInvalidation": "Runner sold. Book is cash. No open size.",
       "markUsd": 0,
       "note": "SUSHI cut stamped. CYBERCAT already flat. Sitting cash 0.278 SOL.",
