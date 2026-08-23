@@ -1656,6 +1656,30 @@
   ],
   "board": [
     {
+      "ageMin": 6.61,
+      "dexLiqUsd": 5708.35,
+      "socials": "x.com/AFpumpfunn",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape. inverted+boost IN_PROGRESS dump; 5m -57 1h -80, PumpSwap Dex~$5.7k MC~$8.1k off ATH~$46.9k. Real handle @AFpumpfunn. Unique ticker graduated. Fails (c). Not refused for age. Not a PASS.",
+      "at": "2026-08-23T19:57:40.000Z",
+      "mint": "EMW65HnSYcAmv94y1Zb78vGxSBGhgSKXEQbpJUxPpump",
+      "ticker": "AF"
+    },
+    {
+      "ageMin": 2.94,
+      "dexLiqUsd": 730519.81,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Cyber-orbit (CYBER* of book names). no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$730,520. inverted+boost IN_PROGRESS. 5m ripping Dex MC~$79.9M \u2014 refused as cyber-orbit+no handle, not as a dump. Not refused for age. Not a PASS.",
+      "at": "2026-08-23T19:57:40.000Z",
+      "mint": "6rEvdZZJ5513UbAppXr91yN6hi6bHTwFF4BEATbbpump",
+      "ticker": "CYBERLEEK"
+    },
+    {
       "ageMin": 8,
       "dexLiqUsd": 17629,
       "socials": "x.com/pixelhaaland",
