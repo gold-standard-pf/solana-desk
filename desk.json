@@ -1131,6 +1131,16 @@
   ],
   "signals": [
     {
+      "name": "SEPTEM | VII",
+      "thesis": "Minutes-old unique ticker, Dex after grad ~$18.8k, MC ~$61k vs ATH ~$71k, 5m +37 holding. Real username @SeptemVIISOL (2013 hijack tell: 32 fol, 2 tweets). inverted+boost COMPLETED but not dump-dead. Age not a skip. Not a fill.",
+      "heat": "early",
+      "source": "https://x.com/SeptemVIISOL",
+      "verdict": "PASS",
+      "at": "2026-08-23T19:39:36.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII"
+    },
+    {
       "name": "Up Cat",
       "thesis": "Refuse-flip. Dump-dead. Dex ~2.3k, MC ~2.2k vs ATH ~164k, 1h -96. inverted+boost COMPLETED. Fill still open. Not a new fill.",
       "heat": "farmed",
