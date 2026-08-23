@@ -1804,6 +1804,30 @@
   ],
   "board": [
     {
+      "ageMin": 16.6,
+      "dexLiqUsd": 2318.61,
+      "socials": "x.com/catbullszn",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "dead dump. Unique ticker graduated; PumpSwap Dex printed then dumped RAC-dead ~$2.3k; 5m -96 1h -94. Real handle @catbullszn. live recheck boost=NONE inverted=false. Not refused for age.",
+      "at": "2026-08-23T22:40:53.000Z",
+      "mint": "4YTQ2bmCycn4vLiKWjWLe8swEFDWkxByJDE2uCWUpump",
+      "ticker": "CATBULL"
+    },
+    {
+      "ageMin": 3.3,
+      "dexLiqUsd": 54104.22,
+      "socials": "x.com/NASA",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation (NASA / official @NASA). Unique ticker graduated; PumpSwap Dex printed ~$54,104. live recheck boost=NONE inverted=false. 5m +1064. Not refused for age.",
+      "at": "2026-08-23T22:40:53.000Z",
+      "mint": "ZG7mitAVjS9AauMsS4bcKZ3UA7bvDSSuJcjVvA1pump",
+      "ticker": "NASA"
+    },
+    {
       "ageMin": 6.8,
       "dexLiqUsd": 55865.22,
       "socials": "x.com/redbull",
