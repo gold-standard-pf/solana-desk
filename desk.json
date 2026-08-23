@@ -521,6 +521,30 @@
   ],
   "board": [
     {
+      "ageMin": 33.29,
+      "dexLiqUsd": 165078.27,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "fake US institution boost COMPLETED Dex~165.1k",
+      "at": "2026-08-23T06:23:18.000Z",
+      "mint": "6YP2aXy2vyAV3hR7e6Jei6s3pBAuof45Gu44QURipump",
+      "ticker": "USCR"
+    },
+    {
+      "ageMin": 12.81,
+      "dexLiqUsd": 4556.85,
+      "socials": "https://twitter.com/p0tpvper25/status/2091407689897464255",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED. dump -72pct/5m clone farm Dex~4.6k",
+      "at": "2026-08-23T06:23:18.000Z",
+      "mint": "AYaFC995MfGee8CTaKmRHaffo71GyBa3rv5Bw4U2pump",
+      "ticker": "MOKU"
+    },
+    {
       "ageMin": 16.15,
       "dexLiqUsd": 23337.19,
       "socials": "https://x.com/juiceonchain/status/2091339342681673844",
