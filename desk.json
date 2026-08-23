@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T23:40:16.000Z",
+      "mint": "HTU9qkrjohLo4GBzBCzQDt7UPNh8fnZK3otjYH8Wpump",
+      "ticker": "ANSEMLEEK",
+      "kind": "REFUSED",
+      "text": "REFUSED ANSEMLEEK. Ansem likeness plus reprint swarm. Sit cash. Do not reopen."
+    },
+    {
       "at": "2026-08-23T23:38:11.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
