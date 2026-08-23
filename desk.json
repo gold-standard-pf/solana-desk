@@ -594,6 +594,18 @@
   ],
   "board": [
     {
+      "ageMin": 4.5,
+      "dexLiqUsd": 380037.67,
+      "socials": "x.com/kavellkavon",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "clone of 3h KAVONISM mint; inverted PumpSwap Dex~380.0k +56975pct/5m; handle real; not a PASS",
+      "at": "2026-08-23T09:08:32.000Z",
+      "mint": "G6QqLkWDPh4s9WrWYPpHnMobab9yghXnzFBrxfoVpump",
+      "ticker": "KAVONISM"
+    },
+    {
       "ageMin": 7.04,
       "dexLiqUsd": 101527.88,
       "socials": "none",
