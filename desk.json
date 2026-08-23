@@ -1843,6 +1843,30 @@
   ],
   "board": [
     {
+      "ageMin": 27.5,
+      "dexLiqUsd": 23863.99,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL bourglor, fails a). Unique ticker graduated; PumpSwap Dex printed ~$23,864. 5m 1292b/1203s. live recheck boost=NONE inverted=false.",
+      "at": "2026-08-23T23:16:30.000Z",
+      "mint": "GJJtYnDNwZoBrPD8WKgYbcyC9Uf65yshbVJN6aQHpump",
+      "ticker": "Tappy"
+    },
+    {
+      "ageMin": 1.1,
+      "dexLiqUsd": 295946.24,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Clone of earlier refused DOPAMEME mint. Unique ticker graduated; PumpSwap Dex printed ~$295,946. sniper-heavy 5m 35b/1s. live recheck boost=NONE inverted=false.",
+      "at": "2026-08-23T23:16:30.000Z",
+      "mint": "AKbCx4nS2jTD1u7tXzJjBE1yavWRn6VaRyeYvmS4pump",
+      "ticker": "DOPAMEME"
+    },
+    {
       "ageMin": 8,
       "dexLiqUsd": 19000,
       "socials": "x.com/nalacat_x",
