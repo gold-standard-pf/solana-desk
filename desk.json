@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CATLIST",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "verdict": "refuse",
+      "at": "2026-08-23T05:49:00.000Z",
+      "reasons": [
+        "CATE orbit",
+        "leftover 6h",
+        "1h red",
+        "board already REFUSE"
+      ]
+    },
+    {
       "ticker": "Farte",
       "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
       "verdict": "refuse",
@@ -156,6 +168,27 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T05:49:36.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST",
+      "kind": "REFUSED",
+      "text": "refused $CATLIST \u2014 CATE orbit, leftover, hour red, already board REFUSE"
+    },
+    {
+      "at": "2026-08-23T05:48:08.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST",
+      "kind": "READ",
+      "text": "READ $CATLIST BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump. Name only. Off ATH, 1h already -34%, boost done. No CLEAR. Sitting."
+    },
+    {
+      "at": "2026-08-23T05:47:40.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
+    },
     {
       "at": "2026-08-23T04:53:32.000Z",
       "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
@@ -389,6 +422,16 @@
   ],
   "signals": [
     {
+      "name": "CAT SEASON CLUB",
+      "thesis": "CATE-season orbit, already farmed tonight. Paid boost 500, leftover 6h rip, hour already red. Not a new spark.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/gyz6rxjfnb3yjp2j2e7hmonojgqekzuxeeujurncqj1w",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T05:48:59.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST"
+    },
+    {
       "name": "Fartecoin",
       "thesis": "Fartcoin misspell, no handle, no site, leftover 1h after the curve rip. Not a new spark.",
       "heat": "farmed",
@@ -470,6 +513,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 13.9,
+      "dexLiqUsd": 3413.19,
+      "socials": "https://twitter.com/p0tpvper25/status/2091398725898047567",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED. dump -31pct/5m Dex~3.4k",
+      "at": "2026-08-23T05:49:16.000Z",
+      "mint": "7vybEkUe7oKNHCqnZi1tSq68YH6aheTggm1Hd3z7pump",
+      "ticker": "FoMo"
+    },
+    {
+      "ageMin": 14.7,
+      "dexLiqUsd": 581488.15,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake world institution inverted+boost COMPLETED Dex~581.5k",
+      "at": "2026-08-23T05:49:16.000Z",
+      "mint": "zuhAAQnLD7YTKe4YWnKhhRZFdQ3UuuGyia2TK2fpump",
+      "ticker": "WWR"
+    },
+    {
+      "ageMin": 4.7,
+      "dexLiqUsd": 146876.08,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost IN_PROGRESS Dex~146.9k",
+      "at": "2026-08-23T05:49:16.000Z",
+      "mint": "vzaUHEBeLRLUrmrenBKBmbjTwbYRBbKsbH2641dpump",
+      "ticker": "USOC"
+    },
     {
       "ageMin": 17.92,
       "dexLiqUsd": 6473.78,
@@ -997,6 +1076,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79136,
+      "at": "2026-08-23T05:47:40.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST",
+      "text": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
