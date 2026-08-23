@@ -392,6 +392,18 @@
   ],
   "board": [
     {
+      "ageMin": 11.72,
+      "dexLiqUsd": 135717.53,
+      "socials": "x.com/USURtoken",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake US institution inverted+boost COMPLETED Dex~135.7k",
+      "at": "2026-08-23T03:20:08.000Z",
+      "mint": "7wbacrQhAq74Ktv2sBgMgGq18hJEyzkroZx5J9Bgpump",
+      "ticker": "USUR"
+    },
+    {
       "ageMin": 0,
       "dexLiqUsd": 17038.66,
       "socials": "https://x.com/NoticiasManya/status/2090713368235475314",
