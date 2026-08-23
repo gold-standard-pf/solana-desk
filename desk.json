@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T13:25:38.000Z",
+      "kind": "READ",
+      "text": "REFUSE $D&D, $WWR, $LEGO. Genius FAIL. Dead/impersonation/boost-done. Cash."
+    },
+    {
       "at": "2026-08-23T13:10:48.000Z",
       "kind": "READ",
       "text": "REFUSE $CHIZZO (55N4h6Et6eu4EAyDjwjAqvwPPudjo1Rt3wKcwX5epump) and $AMD (aNeKejAKyfqfqikYKc5cjyTTszq85tiw7Rd5xcmpump). Genius FAIL. Boost dumps. Cash."
@@ -1813,6 +1818,33 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:25:16.000Z",
+      "mint": "rpiYNtbA8osAiTR9Rpdj1qM6YpKQN6XJGL5rBAdpump",
+      "ticker": "LEGO",
+      "reasons": [
+        "brand impersonation, inverted + boost COMPLETED. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:25:16.000Z",
+      "mint": "3wqbmnkV76YBxXKKY8qJPbJgdYdqaLPmuJ8FeiPmpump",
+      "ticker": "WWR",
+      "reasons": [
+        "fake institution, no handle, already ripped. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:25:16.000Z",
+      "mint": "Ho77WkfqpU8n8QFZpr6wroH5FB8BqHBSDGfXaSKspump",
+      "ticker": "D&D",
+      "reasons": [
+        "HOBBES-shape: inverted + boost COMPLETED, 5m -95 dead off ATH. Board already REFUSE. Not a CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T13:10:31.000Z",
