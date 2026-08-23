@@ -1550,6 +1550,42 @@
   ],
   "board": [
     {
+      "ageMin": 4.2,
+      "dexLiqUsd": 203954.61,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Cyber-orbit (CYBER* of book names). no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$203,955. inverted+boost NONE. 5m +15851 ripping \u2014 refused as cyber-orbit+no handle, not as a dump. Not refused for age. Live-recheck 19:41Z. Not a PASS.",
+      "at": "2026-08-23T19:42:05.000Z",
+      "mint": "3AKk56FdVBSrJjjx1owpL2RDLtudfimLSKoNCAjjpump",
+      "ticker": "CYBERBULL"
+    },
+    {
+      "ageMin": 0.8,
+      "dexLiqUsd": 22649.41,
+      "socials": "x.com/OnlyCatsPump",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @OnlyCatsPump. PumpSwap Dex printed ~$22,649. inverted+boost NONE. 5m +54 holding (26b/6s) Dex MC~$88.3k. Not fading. Live-recheck 19:41Z. Age not a skip. Not a fill.",
+      "at": "2026-08-23T19:42:05.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats"
+    },
+    {
+      "ageMin": 11.6,
+      "dexLiqUsd": 15582.79,
+      "socials": "x.com/sol_miao",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @sol_miao. PumpSwap Dex printed ~$15,583. inverted+boost NONE. 5m +11 holding (61b/57s) Dex MC~$44.4k. Not fading. Live-recheck 19:41Z. Age not a skip. Not a fill.",
+      "at": "2026-08-23T19:42:05.000Z",
+      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "ticker": "MIAO"
+    },
+    {
       "at": "2026-08-23T19:38:53.000Z",
       "mint": "HwUoczAW6sV7deh4hCPHcUBsgxtBA7oHBpyMBpGBpump",
       "ticker": "FARTCATE",
