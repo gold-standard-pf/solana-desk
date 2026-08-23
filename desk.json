@@ -1421,6 +1421,42 @@
   ],
   "board": [
     {
+      "ageMin": 1.9,
+      "dexLiqUsd": 53428.08,
+      "socials": "x.com/NBA/status/2091548517818900573",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Brand impersonation of NBA/Kobe Bryant. Unique ticker graduated; PumpSwap Dex printed ~$53,428. inverted+boost IN_PROGRESS. 5m +1042 ripping \u2014 refused as status-URL+impersonation, not as a dump. Not refused for age. Live-recheck 18:44Z. Not a PASS.",
+      "at": "2026-08-23T18:45:44.000Z",
+      "mint": "SAfUxKyv6QmQuwJfntBPZiN36oYU6M5arVTxZHcpump",
+      "ticker": "Kobe"
+    },
+    {
+      "ageMin": 4.1,
+      "dexLiqUsd": 20960.52,
+      "socials": "x.com/UpCatpump",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @UpCatpump. PumpSwap Dex printed ~$20,961. inverted+boost IN_PROGRESS. 5m +32 holding (685b/59s) Dex MC~$76k. Not fading. Live-recheck 18:44Z. Age not a skip. Not a fill.",
+      "at": "2026-08-23T18:45:44.000Z",
+      "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "ticker": "UPCAT"
+    },
+    {
+      "ageMin": 3.8,
+      "dexLiqUsd": 20388.5,
+      "socials": "x.com/NixAurora9SOL",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @NixAurora9SOL. PumpSwap Dex printed ~$20,389. inverted+boost IN_PROGRESS. 5m +81 holding (493b/283s) Dex MC~$71k near ATH. Not fading. Live-recheck 18:44Z. Age not a skip. Not a fill.",
+      "at": "2026-08-23T18:45:44.000Z",
+      "mint": "5Z14izCPnneQnQoznB2F8jWCYG1qxuRiFijoP6VYpump",
+      "ticker": "NIX"
+    },
+    {
       "ageMin": 4.6,
       "dexLiqUsd": 14166.59,
       "socials": "none",
