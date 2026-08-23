@@ -3,7 +3,7 @@
   "status": "HOLD VII \u00b7 cap used \u00b7 no second size",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 147,
+  "ticks": 148,
   "equityUsd": 23.62,
   "spentUsd": 10.48,
   "realizedPnlUsd": -1.43,
@@ -5077,6 +5077,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T19:42:11.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "call": "hold",
+      "vsInvalidation": "Initials peeled. +0.029 SOL, 12918 runner left (~$1.00). 5m +84, liq ~$21.4k vs ~$16.8k fill. HOLD runner. Cut first hit: mark <=60% of leftover, 5m <=-25, liq halves vs fill $16.8k, or inverted+boost COMPLETED + 5m red.",
+      "markUsd": 1.0,
+      "note": "VII peel stamped. Cost mostly back. Free runner HOLD. 1m watch stays on."
+    },
+    {
       "at": "2026-08-23T19:40:40.000Z",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
       "ticker": "VII",
@@ -5360,6 +5369,15 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T19:42:11.000Z",
+      "signature": "2TWJ3FBx3M5zTctCWNsXYwQ1fvEgbRCk2YHKQrRX5XvHfFqXdBKEuRqkvtqWgMLh3nv3dYT81vFwD2UBkcQCYWN8",
+      "side": "sell",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "usd": 2.77,
+      "tokenAmount": 43245.0
+    },
     {
       "at": "2026-08-23T19:38:54.000Z",
       "signature": "36DdQo1iMbV2UDgtNNXSy2UCn8dN3kabyQ4EzYNqbem9dzHDzRc6gpdzxCyR8W8hCwK7bvDVh2SrdU8XH4NC4bhc",
