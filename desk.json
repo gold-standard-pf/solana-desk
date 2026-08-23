@@ -1601,6 +1601,18 @@
   ],
   "board": [
     {
+      "ageMin": 17,
+      "dexLiqUsd": 0,
+      "socials": "x.com/sol_miao",
+      "boost": "COMPLETED",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Hijack tell + boost COMPLETED. Prior PASS/CLEAR pulled. Names only, never sized. Do not reopen.",
+      "at": "2026-08-23T19:50:00.000Z",
+      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "ticker": "MIAO"
+    },
+    {
       "ageMin": 4.2,
       "dexLiqUsd": 203954.61,
       "socials": "none",
