@@ -558,6 +558,42 @@
   ],
   "board": [
     {
+      "ageMin": 9.9,
+      "dexLiqUsd": 41479.84,
+      "socials": "https://x.com/omgxdee/status/2091130592125501534",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED dump -33.3pct/5m Dex~41.5k not a PASS",
+      "at": "2026-08-23T08:07:29.000Z",
+      "mint": "GxVhANGrUdaDEXUgP8nn1WbpoVHXdqVYZEwuajhgpump",
+      "ticker": "Mani"
+    },
+    {
+      "ageMin": 13.7,
+      "dexLiqUsd": 189220.6,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake US institution inverted+boost COMPLETED Dex~189.2k",
+      "at": "2026-08-23T08:07:29.000Z",
+      "mint": "8Pmucsygg1bTVoSNVLwMaSfGAbMGDSJq6W29hN37pump",
+      "ticker": "NTFS"
+    },
+    {
+      "ageMin": 7.3,
+      "dexLiqUsd": 27286.33,
+      "socials": "x.com/fumean_cat",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS dump -26.6pct/5m Dex~27.3k not a PASS",
+      "at": "2026-08-23T08:07:29.000Z",
+      "mint": "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump",
+      "ticker": "\u9ec3\u963f\u746a"
+    },
+    {
       "ageMin": 9.7,
       "dexLiqUsd": 51817.57,
       "socials": "x.com/redbull",
