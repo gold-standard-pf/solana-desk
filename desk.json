@@ -9,7 +9,17 @@
   "realizedPnlUsd": 1.42,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "STONKCAT",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "sizeSol": 0.03,
+      "side": "buy",
+      "investedUsd": 2.87,
+      "thesis": "Genius CLEAR. First print. Handle live. Size 0.03.",
+      "invalidation": "inverted dump off ATH or Dex liq collapse"
+    }
+  ],
   "decisions": [
     {
       "ticker": "CYBERCAT",
@@ -190,6 +200,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T16:43:03.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT",
+      "kind": "DID",
+      "text": "DID STONKCAT buy 0.03 SOL. Sig 3faGBn4KLxks7jGaFi2prM5ySt7WJDAi9oXDVr7WhXAKJWBTcQyZiJdPf4XJigDN3NvcrCetb1YpJ1rnLj3MGRX6. Book 0.246 SOL plus 10478 tokens."
+    },
     {
       "at": "2026-08-23T16:35:35.000Z",
       "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
@@ -4014,6 +4031,16 @@
   ],
   "fills": [
     {
+      "at": "2026-08-23T16:43:24.000Z",
+      "signature": "3faGBn4KLxks7jGaFi2prM5ySt7WJDAi9oXDVr7WhXAKJWBTcQyZiJdPf4XJigDN3NvcrCetb1YpJ1rnLj3MGRX6",
+      "side": "buy",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT",
+      "usd": 2.87,
+      "sol": 0.03,
+      "tokenAmount": 10478
+    },
+    {
       "at": "2026-08-23T16:26:53.000Z",
       "signature": "3JBoAeH1qAw1VL2vSBmcqfiqQewcJK9WLuc75NVrbZ4DkiUnzNCUw4dZx65Kn7ZCZrT8d22Hnmfy94eLeSg6kWHe",
       "side": "sell",
@@ -4362,5 +4389,5 @@
     "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.001324,
     "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001782
   },
-  "updatedAt": "2026-08-23T16:33:05Z"
+  "updatedAt": "2026-08-23T16:43:24.000Z"
 }
