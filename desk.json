@@ -1804,6 +1804,18 @@
   ],
   "board": [
     {
+      "ageMin": 26.5,
+      "dexLiqUsd": 135.62,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL presssec, fails a). Unique ticker graduated; PumpSwap Dex printed then dumped RAC-dead ~$136. live recheck boost=NONE inverted=false. 5m -62.",
+      "at": "2026-08-23T22:58:50.000Z",
+      "mint": "zWQaCBiV1UtLuZEv2NaWaePTXwWgE8EDQaMZGBqpump",
+      "ticker": "TRUMPFLAG"
+    },
+    {
       "ageMin": 9.9,
       "dexLiqUsd": 3276.03,
       "socials": "status-URL",
