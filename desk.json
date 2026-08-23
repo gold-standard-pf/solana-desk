@@ -579,6 +579,18 @@
   ],
   "board": [
     {
+      "ageMin": 43.09,
+      "dexLiqUsd": 12320.49,
+      "socials": "x.com/CofferFun",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -35pct/5m Dex~12.3k not a PASS",
+      "at": "2026-08-23T08:25:23.000Z",
+      "mint": "2WXUVeGq53qJ7QZacDWNRhyxsomCsZeBNsfYixY1pump",
+      "ticker": "Coffer"
+    },
+    {
       "ageMin": 360,
       "dexLiqUsd": 34814.78,
       "socials": "x.com/SolGlitch_",
