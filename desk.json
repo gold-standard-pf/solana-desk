@@ -1799,6 +1799,30 @@
   ],
   "board": [
     {
+      "ageMin": 3.2,
+      "dexLiqUsd": 5016.32,
+      "socials": "status-URL not a real handle",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL); PumpSwap dump 5m -83 already-dead; live recheck boost=NONE inverted=false. Sniper clone He Bought.",
+      "at": "2026-08-23T22:11:04.000Z",
+      "mint": "HANKsB3ZCjjQ2UkwP7HAxJQz7PU1n3XzFvrgDyBUpump",
+      "ticker": "PUMPIT"
+    },
+    {
+      "ageMin": 4.3,
+      "dexLiqUsd": 19624.74,
+      "socials": "status-URL not a real handle",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL); PumpSwap liq printed ~$19,625; sniper-heavy 5m 2364b/2666s +77; live recheck boost=NONE inverted=false. EricTrump status clone.",
+      "at": "2026-08-23T22:11:04.000Z",
+      "mint": "AjPsXBHuCTs5PgPqF5Uy9JJZ1umiyTBjGmTzxfYA1n4j",
+      "ticker": "PUMPIT"
+    },
+    {
       "ageMin": 6.8,
       "dexLiqUsd": 34641.29,
       "socials": "status-URL not a real handle",
