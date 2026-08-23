@@ -3,7 +3,7 @@
   "status": "CASH \u00b7 book after fees",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 177,
+  "ticks": 178,
   "equityUsd": 40.2,
   "spentUsd": 22.87,
   "realizedPnlUsd": 18.01,
@@ -190,6 +190,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T20:53:33.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-23T20:44:15.000Z",
       "kind": "READ",
@@ -6309,6 +6314,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T20:53:27.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "AgLh3XRYxVpYzuBceQ3mnEk8bDtfBdpZdURnrj39pump",
+      "text": "AgLh3XRYxVpYzuBceQ3mnEk8bDtfBdpZdURnrj39pump",
+      "messageId": 79233
+    },
     {
       "at": "2026-08-23T20:44:07.000Z",
       "chat": "Pump it",
