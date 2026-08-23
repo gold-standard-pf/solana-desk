@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T19:09:10.000Z",
+      "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "ticker": "UPCAT",
+      "kind": "READ",
+      "text": "REFUSE UPCAT. Signal flip dump-dead. Never sized. Cash."
+    },
+    {
       "at": "2026-08-23T18:58:58.000Z",
       "mint": "5Z14izCPnneQnQoznB2F8jWCYG1qxuRiFijoP6VYpump",
       "ticker": "NIX",
