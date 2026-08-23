@@ -1289,6 +1289,30 @@
   ],
   "board": [
     {
+      "ageMin": 10.5,
+      "dexLiqUsd": 57770.35,
+      "socials": "https://x.com/redbull",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation @redbull (official handle, not a project account). Name RedBull official. inverted+boost COMPLETED; PumpSwap Dex~$57.8k 5m +7 1h +1208 still ripping. Not refused for tape.",
+      "at": "2026-08-23T16:42:31.000Z",
+      "mint": "Fqqr4NkwU4TUdcy7GKQieFjEAkXsRuD7r62mRGcPpump",
+      "ticker": "Redbull"
+    },
+    {
+      "ageMin": 96.8,
+      "dexLiqUsd": 2360.66,
+      "socials": "https://x.com/SushiCatPump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED RAC-dead fade; 5m ~-0.3 1h -99, PumpSwap Dex $25k->$2.4k. Off ATH ~$400k now ~$2.2k. Real handle @SushiCatPump still. Standing PASS flipped to boost-done dead fade.",
+      "at": "2026-08-23T16:42:31.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
       "ageMin": 8.0,
       "dexLiqUsd": 57443.87,
       "socials": "x.com/redbull",
