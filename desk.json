@@ -3,7 +3,7 @@
   "status": "CASH \u00b7 TERRYTRADES flat \u00b7 do not reopen",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 172,
+  "ticks": 177,
   "equityUsd": 23.62,
   "spentUsd": 22.87,
   "realizedPnlUsd": 0.12,
@@ -190,6 +190,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T20:44:15.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-23T20:41:03.000Z",
       "mint": "9jBZyZYnugugbesj9DTiD35GE4V6whWWbque8nEsgvsH",
@@ -6242,6 +6247,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T20:44:07.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "9jBZyZYnugugbesj9DTiD35GE4V6whWWbque8nEsgvsH",
+      "text": "9jBZyZYnugugbesj9DTiD35GE4V6whWWbque8nEsgvsH",
+      "messageId": 79230
+    },
     {
       "at": "2026-08-23T20:29:12.000Z",
       "chat": "Pump it",
