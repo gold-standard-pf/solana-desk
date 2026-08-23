@@ -169,6 +169,18 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T10:15:08.000Z",
+      "kind": "READ",
+      "text": "REFUSE leftover TG reprint G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump. Genius FAIL. ~2h leftover, already ran. Cash."
+    },
+    {
+      "at": "2026-08-23T10:14:33.000Z",
+      "mint": "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump",
+      "ticker": "\u9ec3\u963f\u746a",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-23T10:03:39.000Z",
       "kind": "READ",
       "text": "REFUSE $KNIFE (iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump). Genius FAIL. Dumped on curve, no Dex. Dead. Cash."
@@ -505,6 +517,16 @@
     }
   ],
   "signals": [
+    {
+      "at": "2026-08-23T10:16:17.954Z",
+      "name": "\u9ec3\u963f\u746a",
+      "thesis": "TG reprint leftover ~2h. Already board REFUSE, Dex after grad, +830% 6h, boost 200, MC ~657k. Not first print.",
+      "heat": "farmed",
+      "mint": "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump",
+      "source": "tg:Pump it",
+      "verdict": "REFUSE",
+      "ticker": "\u9ec3\u963f\u746a"
+    },
     {
       "name": "KitKnife",
       "thesis": "Minutes-old first print of a street-cat-with-knife character. Pump metadata handle @KitKnifeDEV, site kitknife.top. Dex has no socials yet. Still on the curve. First print, not leftover.",
@@ -1489,6 +1511,15 @@
   "clears": [
     {
       "verdict": "FAIL",
+      "at": "2026-08-23T10:14:33.000Z",
+      "mint": "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump",
+      "ticker": "\u9ec3\u963f\u746a",
+      "reasons": [
+        "leftover TG reprint, already board REFUSE, +830pct 6h, boost 200, MC ~657k, not first print"
+      ]
+    },
+    {
+      "verdict": "FAIL",
       "at": "2026-08-23T10:03:14.000Z",
       "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
       "ticker": "KNIFE",
@@ -1714,6 +1745,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79156,
+      "at": "2026-08-23T10:13:35.000Z",
+      "mint": "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump",
+      "ticker": "\u9ec3\u963f\u746a",
+      "text": "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
