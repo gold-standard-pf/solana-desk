@@ -6007,6 +6007,15 @@
   ],
   "fills": [
     {
+      "at": "2026-08-23T20:40:48.000Z",
+      "signature": "4m2nSZ2inSnDCvsTQqUVmhv5YHDCZ7gozUirTtBLWeVVDeWVzXNDnnr7Z2ZBJ4tKKN2M3KQLZRTEZLArnAMYyjmv",
+      "side": "buy",
+      "mint": "9jBZyZYnugugbesj9DTiD35GE4V6whWWbque8nEsgvsH",
+      "ticker": "TERRYTRADES",
+      "sol": 0.1,
+      "tokenAmount": 3520918.746848
+    },
+    {
       "at": "2026-08-23T20:33:40.000Z",
       "signature": "5taEPVAkhBKbQqrodgWMBFnphobSvzTdNs5sdA5MWAFDainJceJgxfTXRAZQAMEqwHDgpH9aqxvCJSERMGLLZ12",
       "side": "sell",
