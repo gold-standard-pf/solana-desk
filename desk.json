@@ -471,6 +471,18 @@
   ],
   "board": [
     {
+      "ageMin": 17.86,
+      "dexLiqUsd": 16861.55,
+      "socials": "https://x.com/NikolaiHauckx/status/2091390693419925550",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED. maneki clone farm Dex~16.9k",
+      "at": "2026-08-23T05:20:58.000Z",
+      "mint": "FpgyXFTkmBFECHxAVMXexUjd9XVQyLkPsFSaLZoEpump",
+      "ticker": "moneycat"
+    },
+    {
       "ageMin": 2.77,
       "dexLiqUsd": 52527.25,
       "socials": "x.com/amazon",
