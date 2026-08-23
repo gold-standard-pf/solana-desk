@@ -690,6 +690,42 @@
   ],
   "board": [
     {
+      "ageMin": 12.96,
+      "dexLiqUsd": 142065.35,
+      "socials": "x.com/UnitedOilFund",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "fake US institution clone of leftover UOTF; PumpSwap Dex~$142.1k; +3315pct/1h; forever ticker not a PASS",
+      "at": "2026-08-23T12:39:37.000Z",
+      "mint": "UfLYRiRRVJUQY4nNgaLPTeqhNNFvhKQEhfgef83pump",
+      "ticker": "UOTF"
+    },
+    {
+      "ageMin": 16.61,
+      "dexLiqUsd": 2224.11,
+      "socials": "x.com/pumpitoSOLANA",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted dump; real handle @pumpitoSOLANA; PumpSwap Dex~$2.2k; 5m -96 off ATH $120k now ~$2.1k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T12:39:37.000Z",
+      "mint": "CFTkjggRNdVhEaVFuf1YTdgxG19FFZRa7uM8xZfRpump",
+      "ticker": "pumpito"
+    },
+    {
+      "ageMin": 23.19,
+      "dexLiqUsd": 36.19,
+      "socials": "x.com/Toadymeme",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "last-cycle now graduated dump; handle @Toadymeme; PumpSwap Dex~$36; 5m -39 off ATH $13k now ~$84. Fails (c). Not a PASS.",
+      "at": "2026-08-23T12:39:37.000Z",
+      "mint": "GP6AztmDYcMZHccUnQAmtRRAfA9AGiCrYsnkLkaNpump",
+      "ticker": "Amiri"
+    },
+    {
       "ageMin": 6.8,
       "dexLiqUsd": 26934.41,
       "socials": "x.com/kabofuns",
