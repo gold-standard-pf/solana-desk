@@ -1805,6 +1805,30 @@
   "board": [
     {
       "ageMin": 4.7,
+      "dexLiqUsd": 54660.07,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$54,660. inverted=false boost=NONE (not Hobbes). Disney Stitch brand (\u53f2\u8fea\u4ed4). Sniper-heavy 5m 432b/34s. Live-recheck 22:26Z. Not a PASS.",
+      "at": "2026-08-23T22:26:55.000Z",
+      "mint": "uuUd7PDvcFHV1RhFN6yhDk2GSnGiEV8JYJYZBd9pump",
+      "ticker": "\u53f2\u8fea\u4ed4"
+    },
+    {
+      "ageMin": 5.5,
+      "dexLiqUsd": 55113.22,
+      "socials": "x.com/redbull",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation (Red Bull / @redbull). Unique ticker graduated; PumpSwap Dex printed ~$55,113. inverted=false boost=NONE (not Hobbes). Live-recheck 22:26Z. Not a PASS.",
+      "at": "2026-08-23T22:26:55.000Z",
+      "mint": "DA1mDLXynvZYa5aPnDu2aFkJEYwttefVmhuobQTupump",
+      "ticker": "Redbull"
+    },
+    {
+      "ageMin": 4.7,
       "dexLiqUsd": 205121,
       "socials": "none",
       "boost": "NONE",
