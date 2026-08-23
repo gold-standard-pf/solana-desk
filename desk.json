@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T23:01:17.000Z",
+      "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
+      "ticker": "BABYCHUD",
+      "kind": "DID",
+      "text": "DID BABYCHUD create+buy 0.08 SOL. Sig 2HJKyh7JzEhMzBbmrHbvizsNjhRNgnUMZxAq6YTLv1KTSmg4vtEYWsPAQWqSYG694b3hrRBSNnV8J6dT6YNpqWmj. Peel 80% next if bag still full."
+    },
+    {
       "at": "2026-08-23T22:14:17.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -6493,6 +6500,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "2HJKyh7JzEhMzBbmrHbvizsNjhRNgnUMZxAq6YTLv1KTSmg4vtEYWsPAQWqSYG694b3hrRBSNnV8J6dT6YNpqWmj",
+      "side": "buy",
+      "usd": 7.64,
+      "sol": 0.08,
+      "tokenAmount": 0,
+      "kind": "swap",
+      "at": "2026-08-23T23:01:17.000Z",
+      "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
+      "ticker": "BABYCHUD"
+    },
     {
       "signature": "5JSZAqqeqg7Pz5mWBTiEGZZ2sqSsKaAugHAafGNa6iMXGpwoXyDoGNqJeQu8EAERBcXD49fhgT6f6JJZy6Hm5ZJE",
       "side": "claim",
