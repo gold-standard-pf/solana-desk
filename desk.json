@@ -1306,6 +1306,42 @@
   ],
   "board": [
     {
+      "ageMin": 22.7,
+      "dexLiqUsd": 16808.53,
+      "socials": "x.com/Trumpcatex",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE clone (Trump Cate). Real handle @Trumpcatex; PumpSwap Dex after grad live; inverted+boost IN_PROGRESS. Tape still green \u2014 refused as CATE clone not as a dump. Not a PASS.",
+      "at": "2026-08-23T16:48:47.000Z",
+      "mint": "5iMdqvTu7NqYVsxHZnqMshp2ZVejQicWHA8y5gv4pump",
+      "ticker": "TRUCATE"
+    },
+    {
+      "ageMin": 18.9,
+      "dexLiqUsd": 2407.11,
+      "socials": "x.com/nyancateonsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE clone (Nyan Cate). Real handle @nyancateonsol. inverted+boost COMPLETED dump-dead fade; PumpSwap Dex collapsed ~$2.5k, 5m/1h ~-94 RAC-dead. Fails (c) + clone bar. Not a PASS.",
+      "at": "2026-08-23T16:48:47.000Z",
+      "mint": "GfUuFrFgjxiqfFjMXJwLTpk3ER2fgQdqVH7jHWGspump",
+      "ticker": "NYANCATE"
+    },
+    {
+      "ageMin": 34.6,
+      "dexLiqUsd": 58288.22,
+      "socials": "x.com/claudeai",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation @claudeai (official Anthropic handle, not a project account). inverted+boost COMPLETED. PumpSwap Dex live, 5m/1h still green \u2014 refused as impersonation not as a dump. Not a PASS.",
+      "at": "2026-08-23T16:48:47.000Z",
+      "mint": "fw1U6xDcKSbus8YECjgvpL9RVrNtPtnN95gDAr6pump",
+      "ticker": "Claude"
+    },
+    {
       "ageMin": 10.5,
       "dexLiqUsd": 57770.35,
       "socials": "https://x.com/redbull",
