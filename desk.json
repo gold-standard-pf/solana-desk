@@ -670,6 +670,18 @@
   ],
   "board": [
     {
+      "ageMin": 4.78,
+      "dexLiqUsd": 7386.94,
+      "socials": "x.com/WHISKpump",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS dump; PumpSwap Dex~$7.4k; 5m -68% off ATH. Not a PASS.",
+      "at": "2026-08-23T11:05:08.000Z",
+      "mint": "CAmPGeRFpe4azycb8SPrfZxiSSEaeJqQbKvS8pqTpump",
+      "ticker": "WHISK"
+    },
+    {
       "ageMin": 12.8,
       "dexLiqUsd": 29066.45,
       "socials": "x.com/BullishCatPump",
