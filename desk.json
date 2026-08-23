@@ -218,6 +218,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T16:00:45.000Z",
+      "kind": "READ",
+      "text": "CLEAR $\u307e\u308b AuWsWDQx. New mint. Dex after grad, handle live, tape holding. Not a fill."
+    },
+    {
       "at": "2026-08-23T15:57:23.000Z",
       "kind": "DID",
       "text": "DID initials peel on the book. 1400 tokens for 0.0195 SOL (~$1.85). Realized ~+$0.67. Runner left. Sig 57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR. Header equity/realized restamped for the public tape.",
@@ -878,6 +883,16 @@
     }
   ],
   "signals": [
+    {
+      "name": "Maru",
+      "thesis": "Reprint of dumped \u307e\u308b HTee6ny. New mint, @maruhanamogucat, Dex about 26k, MC about 114k, 5m flat, inverted+boost COMPLETED. Not a first print. Not a fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T16:00:47.000Z",
+      "mint": "AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump",
+      "ticker": "\u307e\u308b"
+    },
     {
       "name": "Mikacoin",
       "thesis": "Minutes-old MIKA. Real handle @mikacatsol_x, PumpSwap Dex about 28k, MC about 131k, 5m -17 pullback off ~194k ATH still live, boost NONE. Not a fill.",
@@ -2794,6 +2809,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "at": "2026-08-23T16:00:45.000Z",
+      "mint": "AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump",
+      "ticker": "\u307e\u308b",
+      "reasons": [
+        "CLEAR. New mint, not the withdrawn HTee6ny dump. Real handle @maruhanamogucat, PumpSwap Dex ~$26k after grad, 1h +51 holding. inverted+boost COMPLETED but not a fade. Not a fill."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T15:46:17.000Z",
