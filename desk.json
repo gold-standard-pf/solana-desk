@@ -1766,6 +1766,30 @@
   ],
   "board": [
     {
+      "ageMin": 8.1,
+      "dexLiqUsd": 36328.27,
+      "socials": "status-URL",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost IN_PROGRESS. Unique ticker graduated; PumpSwap Dex printed ~$36,328. 5m +443 does not CLEAR.",
+      "at": "2026-08-23T21:00:14.000Z",
+      "mint": "51TTpK3rn512jxe2iRJatZ6HNm6pdFgXBqg1orK5pump",
+      "ticker": "ALANNA"
+    },
+    {
+      "ageMin": 8.4,
+      "dexLiqUsd": 20461.23,
+      "socials": "x.com/thinking_hmmcat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost COMPLETED. Real handle x.com/thinking_hmmcat. PumpSwap Dex printed ~$20,461. 5m -28 1h +37. Do not PASS.",
+      "at": "2026-08-23T21:00:14.000Z",
+      "mint": "2YaYCB2JUYQAyaK92feGympcAcxhYabZv2yWcrw6pump",
+      "ticker": "HMM"
+    },
+    {
       "ageMin": 13.3,
       "dexLiqUsd": 1882.58,
       "socials": "status-URL",
