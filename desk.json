@@ -1704,6 +1704,42 @@
   ],
   "board": [
     {
+      "ageMin": 8.09,
+      "dexLiqUsd": 66858.38,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$66,858. inverted+boost COMPLETED fade; 5m -47.31 1h 1659, MC~$775,647 off ATH~$1,580,113. Not a PASS.",
+      "at": "2026-08-23T20:23:17.000Z",
+      "mint": "X7An8YejZ4jyEuwgcUbXUjX64AQmdiXvpbrvYR2pump",
+      "ticker": "YOMOGI"
+    },
+    {
+      "ageMin": 23.06,
+      "dexLiqUsd": 17569.39,
+      "socials": "x.com/catchtheflam",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @catchtheflam. PumpSwap Dex printed ~$17,569. inverted+boost COMPLETED but not dump-dead. 5m +12 holding (151b/101s) Dex MC~$56,416 vs ATH~$62,065. Live-recheck 20:23Z. Age not a skip. Not a fill.",
+      "at": "2026-08-23T20:23:17.000Z",
+      "mint": "GmghJHqqrJRWieYTjnWZkTbvKVQhUvChpbXwha8mpump",
+      "ticker": "FLAM"
+    },
+    {
+      "ageMin": 49.94,
+      "dexLiqUsd": 2312.75,
+      "socials": "x.com/SeptemVIISOL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. RAC-dead. inverted+boost COMPLETED dump. PumpSwap Dex printed ~$2,313. 5m dead (0b/0s) 1h -94.52, MC~$2,158 vs ATH~$144,731. Fill already closed. Prior PASS pulled. Do not reopen.",
+      "at": "2026-08-23T20:23:17.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII"
+    },
+    {
       "at": "2026-08-23T20:22:21.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
       "ticker": "OnlyCats",
