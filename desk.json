@@ -434,6 +434,30 @@
   ],
   "board": [
     {
+      "ageMin": 4.86,
+      "dexLiqUsd": 20675.48,
+      "socials": "x.com/lilbub_coin",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS Dex~20.7k not a PASS",
+      "at": "2026-08-23T04:10:07.000Z",
+      "mint": "AJZ126w5TBZyjLejzVCeVtNwp2ZYgxhWcb8RqysQpump",
+      "ticker": "LILBUB"
+    },
+    {
+      "ageMin": 14.28,
+      "dexLiqUsd": 54930.95,
+      "socials": "x.com/LEGO_Group",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost COMPLETED Dex~54.9k",
+      "at": "2026-08-23T04:10:07.000Z",
+      "mint": "zuqNVw6cGyV2umGxrtCWA1dyevisp8Xgvid98Q9pump",
+      "ticker": "LEGO"
+    },
+    {
       "ageMin": 6.18,
       "dexLiqUsd": 17849.93,
       "socials": "x.com/pixAnsem",
