@@ -202,6 +202,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T20:33:23.000Z",
+      "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
+      "ticker": "TERRYTRADES",
+      "kind": "DID",
+      "text": "DID TERRYTRADES cut full bag 5m -40. 0.102 SOL back. Bag flat. Book 0.249 SOL. Sig 5taEPVAkhBKbQqrodgWMBFnphobSvzTdNs5sdA5MWAFDainJceJgxfTXRAZQAMEqwHDgpH9aqxvCJSERMGLLZ12. Do not reopen."
+    },
+    {
       "at": "2026-08-23T20:29:19.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
