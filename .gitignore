@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.DS_Store
+.secrets
+.secrets/
+desk.json.lock
+public/desk.json.lock
