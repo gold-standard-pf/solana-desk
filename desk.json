@@ -212,6 +212,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T20:08:35.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "kind": "DID",
+      "text": "DID VII cut runner 12918 for 0.00028 SOL. Dump-dead. Bag flat. Book 0.258 SOL. Sig JN36u4zVHRHgC9rKnaGqwrWGScK5NJsMuhTjH9ipP8syUf3QPbWdn7NEUXXdvtR6chgtPqZatrEJVJAU4dgwW2L. Do not reopen."
+    },
+    {
       "at": "2026-08-23T20:00:40.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
