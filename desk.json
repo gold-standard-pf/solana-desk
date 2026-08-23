@@ -1356,6 +1356,42 @@
   ],
   "board": [
     {
+      "ageMin": 10.0,
+      "dexLiqUsd": 16,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Cyber-orbit of standing CYBERCAT 9HHTQ7YMx82E / @0x_cybercat. no handle (fails a). PumpSwap Dex dumped RAC-dead ~$16, 1h -96 MC~$20. inverted, mayhem completed. Already-dead dump. Do not bring back.",
+      "at": "2026-08-23T17:49:34.000Z",
+      "mint": "FcnQUv7uuVENu767KCjwT29eBSmsRgEYe4UQx2impump",
+      "ticker": "CybrCheek"
+    },
+    {
+      "ageMin": 12.5,
+      "dexLiqUsd": 52153,
+      "socials": "x.com/ord1nary_fella/status/2091458424709972371",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$52.2k. inverted+boost COMPLETED. 5m -25 1h +987 holding \u2014 refused as status-URL not as a dump. Not a PASS.",
+      "at": "2026-08-23T17:49:34.000Z",
+      "mint": "J19RPLHKrfX3i1KEpd9jzeRjRXUEi4zUpMMgRCCxpump",
+      "ticker": "poteto"
+    },
+    {
+      "ageMin": 140.0,
+      "dexLiqUsd": 2243,
+      "socials": "x.com/mikacatsol_x",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. RAC-dead fade: PumpSwap Dex~$30k->$2.2k, 5m -98 1h -99. Real handle @mikacatsol_x. Liq collapse + hard dump. Do not bring back.",
+      "at": "2026-08-23T17:49:34.000Z",
+      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "ticker": "MIKA"
+    },
+    {
       "ageMin": 8.0,
       "dexLiqUsd": 53970,
       "socials": "x.com/omgxdee/status/2091536464202932246",
