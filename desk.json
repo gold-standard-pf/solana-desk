@@ -1346,6 +1346,42 @@
   ],
   "board": [
     {
+      "ageMin": 29.3,
+      "dexLiqUsd": 9043,
+      "socials": "x.com/xdddcult",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; 5m -72 1h -56, PumpSwap Dex~$9.0k. Real handle @xdddcult. Fails (c) HOBBES-shape. Not refused for age.",
+      "at": "2026-08-23T17:34:35.000Z",
+      "mint": "F7sba9mMDaP2M76HN1oi7CbA2CypXx4MMvwV3SYQBXDD",
+      "ticker": "xD"
+    },
+    {
+      "ageMin": 5.0,
+      "dexLiqUsd": 47555,
+      "socials": "x.com/omgxdee/status/2091536464202932246",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$47.6k. inverted+boost IN_PROGRESS. 5m +812 holding \u2014 refused as status-URL not as a dump. Not a PASS.",
+      "at": "2026-08-23T17:34:34.000Z",
+      "mint": "GjNgnyBZUvGBDz2gSeQ4D6tWndffj6VMMjGy1dRbpump",
+      "ticker": "GROB"
+    },
+    {
+      "ageMin": 4.4,
+      "dexLiqUsd": 53271,
+      "socials": "x.com/NASA",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation @NASA (official NASA handle, not a project account). Name NASA. inverted+boost IN_PROGRESS; PumpSwap Dex~$53.3k 5m +1040 still ripping. Refused as impersonation not as tape. Not a PASS.",
+      "at": "2026-08-23T17:34:34.000Z",
+      "mint": "eVExgFja7UYUHCNb8zELn9Ch6Po5mHYfN4VviBrpump",
+      "ticker": "NASA"
+    },
+    {
       "ageMin": 3.8,
       "dexLiqUsd": 13457,
       "socials": "x.com/lolahiggins223/status/2091577486836392081",
