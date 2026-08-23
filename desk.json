@@ -1363,6 +1363,30 @@
   ],
   "board": [
     {
+      "ageMin": 2.8,
+      "dexLiqUsd": 21454,
+      "socials": "x.com/CryptoL15286/status/2091586124426719636",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$21.5k. 5m +103 holding \u2014 refused as status-URL not as a dump. Not a PASS.",
+      "at": "2026-08-23T18:02:21.000Z",
+      "mint": "8MHWKU66EvGRpaA9D4u1YFeXboHQsGJmw7fJ7GhQpump",
+      "ticker": "Swimsuit"
+    },
+    {
+      "ageMin": 6.8,
+      "dexLiqUsd": 30908,
+      "socials": "x.com/spongeyxbt/status/2091584933978316845",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$30.9k. 5m -10 1h +298 holding \u2014 refused as status-URL not as a dump. Not a PASS.",
+      "at": "2026-08-23T18:02:20.000Z",
+      "mint": "BkR3qYixNEYQyCYNbrH6eCasfsk6ijCFWymuhmH5pump",
+      "ticker": "churlie"
+    },
+    {
       "ageMin": 6.2,
       "dexLiqUsd": 11,
       "socials": "none",
