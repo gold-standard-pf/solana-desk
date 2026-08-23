@@ -201,6 +201,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T18:20:24.000Z",
+      "mint": "77MqJyigmPRjPdGaRgUtXoUYBoXEsuCiVjDe3Yg9pump",
+      "ticker": "PAW",
+      "kind": "READ",
+      "text": "READ PAW. Signal PASS. Name until Genius CLEAR. HOLD STONKCAT. Not a fill."
+    },
+    {
       "at": "2026-08-23T18:12:03.000Z",
       "mint": "DREc3Bg1dwa3FkA1H1tGscpx2Lr9rw3hMzDj8287pump",
       "ticker": "CALLOUT",
