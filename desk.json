@@ -1325,6 +1325,42 @@
   ],
   "board": [
     {
+      "ageMin": 4.0,
+      "dexLiqUsd": 59160,
+      "socials": "x.com/TrencherzX/status/2090427915842322492",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$59.2k. inverted+boost IN_PROGRESS. Tape ripping \u2014 refused as status-URL not age.",
+      "at": "2026-08-23T17:12:54.000Z",
+      "mint": "8DxyyPm9AcZavCjg92HHfHE3scpy9mKEYgefK4jMpump",
+      "ticker": "WARREN"
+    },
+    {
+      "ageMin": 140.0,
+      "dexLiqUsd": 13123,
+      "socials": "x.com/solcyberdog",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Cyber-orbit of standing CYBERCAT 9HHTQ7YMx82E / @0x_cybercat. Dex handle @solcyberdog (pump is status-URL). PumpSwap Dex~$13.1k after grad; inverted+boost COMPLETED, 5m +8 1h -68 fading. Genius FAILed CYBERCOIN for this.",
+      "at": "2026-08-23T17:12:54.000Z",
+      "mint": "D3KxoUnQdZZUnQcpmxb9Ktb26rDndURseog6DPsVpump",
+      "ticker": "CYBERDOG"
+    },
+    {
+      "ageMin": 2.8,
+      "dexLiqUsd": 581074,
+      "socials": "x.com/Resolut_AI",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print. Real handle @Resolut_AI, PumpSwap Dex~$581k after grad, 5m ripping (161b/5s). inverted+boost IN_PROGRESS but tape green/holding not a fade. Live-rechecked Dex 5m +127k liq intact.",
+      "at": "2026-08-23T17:12:54.000Z",
+      "mint": "zVxvboxVkF87n6CRwMTZXNxUZQCa7cCBPz37bdEpump",
+      "ticker": "RST"
+    },
+    {
       "ageMin": 5.0,
       "dexLiqUsd": 19955.6,
       "socials": "x.com/thecyberbulls",
