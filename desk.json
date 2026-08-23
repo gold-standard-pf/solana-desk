@@ -1708,6 +1708,30 @@
   ],
   "board": [
     {
+      "ageMin": 24.5,
+      "dexLiqUsd": 46983.11,
+      "socials": "status-URL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$46,983. inverted+boost COMPLETED, 5m +21 holding. Not refused for age. Unique+curve skip N/A (graduated). Not a PASS.",
+      "at": "2026-08-23T20:06:02.000Z",
+      "mint": "BrpAqRAQ9gq6anUz9TjoA3NPQxd1qoPiM9SECUbHpump",
+      "ticker": "XCAT"
+    },
+    {
+      "ageMin": 2.4,
+      "dexLiqUsd": 53188.54,
+      "socials": "x.com/kingstontech",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation @kingstontech (official Kingston Technology handle, not a project account) + kingston.com. Unique ticker graduated; PumpSwap Dex printed ~$53,189. inverted+boost IN_PROGRESS, 5m +1041 ripping. Fails brand/athlete impersonation rule. Not refused for age. Not a PASS.",
+      "at": "2026-08-23T20:06:02.000Z",
+      "mint": "Mx7x6uaU9yNUXC22YciUKC5dtUziYchAy7UmpGnpump",
+      "ticker": "Kingston"
+    },
+    {
       "ageMin": 6.61,
       "dexLiqUsd": 5708.35,
       "socials": "x.com/AFpumpfunn",
