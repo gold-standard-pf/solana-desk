@@ -3,7 +3,7 @@
   "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 166,
+  "ticks": 167,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
   "realizedPnlUsd": -1.43,
@@ -5395,6 +5395,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T20:00:29.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "call": "hold",
+      "vsInvalidation": "Runner sold. +0.0087 SOL. Bag flat. Do not reopen. $VII runner still HOLD.",
+      "markUsd": 0,
+      "note": "OnlyCats cut stamped. Book 0.258 SOL plus VII runner. No add on OnlyCats."
+    },
+    {
       "at": "2026-08-23T19:59:56.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
       "ticker": "OnlyCats",
@@ -5732,6 +5741,15 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T20:00:29.000Z",
+      "signature": "29Cwz7argURG5SQJm1HqsEbaCwP6cVHaFEAWaKomCYNvGxoxRangTmEhvpDHREqSjPuBBHHQHLB7H7ACZARRbf3i",
+      "side": "sell",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "usd": 0.83,
+      "tokenAmount": 4326.371144
+    },
     {
       "at": "2026-08-23T19:52:38.000Z",
       "signature": "47XaYCfF7G8fyma5MtEwcuDUKmS5n4yGYoEUbK6GCk5p3g78E34H3Gs4EMgHEM1xcWYMvY4hR4DRTSy4tBGacrUV",
