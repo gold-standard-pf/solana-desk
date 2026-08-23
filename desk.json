@@ -1501,6 +1501,18 @@
   ],
   "board": [
     {
+      "ageMin": 4.1,
+      "dexLiqUsd": 7298.99,
+      "socials": "x.com/MorbWantsMore",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape. inverted+boost IN_PROGRESS dump; 5m -69, PumpSwap Dex~$7.3k off ATH~$53k MC~$12.0k. Real handle @MorbWantsMore. Unique ticker graduated. Fails (c). Live-recheck 19:17Z. Not a PASS.",
+      "at": "2026-08-23T19:18:02.000Z",
+      "mint": "AHgoVm5m3oyhHg54KFo49iRHy1SAaN66DRmFxMEWpump",
+      "ticker": "MORB"
+    },
+    {
       "ageMin": 7.3,
       "dexLiqUsd": 207490.59,
       "socials": "none",
