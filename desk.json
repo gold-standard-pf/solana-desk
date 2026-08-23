@@ -6050,6 +6050,17 @@
   ],
   "fills": [
     {
+      "at": "2026-08-23T20:40:09.000Z",
+      "signature": "5duag5oKqUzfauseyVavgbh43qqvhfbhYwwceRz6MWehbA4qQjD1mTx6oC2yYLQKbTFUgFCsbnBRv7pZhZ8tFSfk",
+      "side": "claim",
+      "kind": "claim",
+      "usd": 17.95,
+      "sol": 0.188350924,
+      "tokenAmount": 0,
+      "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
+      "ticker": "TERRYTRADES"
+    },
+    {
       "at": "2026-08-23T20:41:03.000Z",
       "signature": "bggCgvLakZKr578Ln46ZE6Z7bhW5EKpbS7UdqFaW5UExfzKC3Ek4G66Jm1DskPsmxg62mGxDx3cfwTEHh9v1m3K",
       "side": "sell",
