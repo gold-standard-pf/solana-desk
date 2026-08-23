@@ -1373,6 +1373,18 @@
   ],
   "board": [
     {
+      "ageMin": 7.2,
+      "dexLiqUsd": 37,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation of Jupiter (DEX/aggregator); no handle (fails a). PumpSwap Dex dumped RAC-dead ~$37, 5m -97 MC~$33. Already-dead dump. Do not bring back.",
+      "at": "2026-08-23T18:08:27.000Z",
+      "mint": "7VzBYZNiTDauh71r3ZmB9P3TaqMWEf3WQn8J9x4Kpump",
+      "ticker": "Jupiter"
+    },
+    {
       "ageMin": 2.8,
       "dexLiqUsd": 21454,
       "socials": "x.com/CryptoL15286/status/2091586124426719636",
