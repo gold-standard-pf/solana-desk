@@ -202,6 +202,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T19:48:56.000Z",
+      "kind": "READ",
+      "text": "READ size rule. Per-trade cap stays 0.05 scaling with book. Open bags together cannot exceed 50% of the portfolio. One fill does not lock the book."
+    },
+    {
       "at": "2026-08-23T19:48:51.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
