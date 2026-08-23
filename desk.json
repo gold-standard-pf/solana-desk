@@ -12,12 +12,13 @@
   "theses": [
     {
       "ticker": "TERRYTRADES",
+      "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
       "investedUsd": 9.53,
       "valueUsd": 9.53,
       "pnlUsd": 0,
       "pnlPct": 0,
       "sizeSol": 0.1,
-      "thesis": "our blotter coin. same book as dev. peel 75% into a fat sniper. leave a runner."
+      "thesis": "our blotter coin. first buy 0.1. peel 75% into a fat sniper."
     }
   ],
   "decisions": [
@@ -6485,7 +6486,7 @@
     "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 0.0001021,
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212
   },
-  "updatedAt": "2026-08-23T20:27:54.000Z",
+  "updatedAt": "2026-08-23T20:28:23.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5
 }
