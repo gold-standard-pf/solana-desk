@@ -1766,6 +1766,18 @@
   ],
   "board": [
     {
+      "at": "2026-08-23T21:37:25.000Z",
+      "mint": "9SrXqHQszZvDjSPP3Uzf3MJemTQBG7CefX1AzCGJpump",
+      "ticker": "NUBCAT",
+      "ageMin": 3.0,
+      "dexLiqUsd": 21378.5,
+      "socials": "x.com/NubCat_solX",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. Real handle x.com/NubCat_solX. PumpSwap Dex printed ~1,379. New mint reprint of dumped NUBCAT. 5m still green +35 is not a PASS."
+    },
+    {
       "ageMin": 7.0,
       "dexLiqUsd": 15861.74,
       "socials": "status-URL not a real handle",
