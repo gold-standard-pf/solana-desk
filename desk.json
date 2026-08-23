@@ -1064,6 +1064,16 @@
   ],
   "signals": [
     {
+      "name": "UpCat",
+      "thesis": "Minutes-old UPCAT. Real handle @UpCatpump, PumpSwap Dex about 20k, MC about 72k, 5m -2 / 1h +25 buy-heavy. inverted+boost COMPLETED but not a fade. Not a fill.",
+      "heat": "early",
+      "source": "https://dexscreener.com/solana/2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "verdict": "PASS",
+      "at": "2026-08-23T18:46:47.000Z",
+      "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "ticker": "UPCAT"
+    },
+    {
       "name": "Stonk Cat",
       "thesis": "Refuse-flip. Dump-dead. Dex ~2.2k, MC ~2.0k, 5m -99. Fill still open. Not a new fill.",
       "heat": "farmed",
