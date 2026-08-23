@@ -201,6 +201,20 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T17:14:18.000Z",
+      "mint": "zVxvboxVkF87n6CRwMTZXNxUZQCa7cCBPz37bdEpump",
+      "ticker": "RST",
+      "kind": "READ",
+      "text": "REFUSE RST. Genius FAIL. Clone of refused morning mint. Do not size. HOLD STONKCAT."
+    },
+    {
+      "at": "2026-08-23T17:14:14.000Z",
+      "mint": "zVxvboxVkF87n6CRwMTZXNxUZQCa7cCBPz37bdEpump",
+      "ticker": "RST",
+      "kind": "REFUSED",
+      "text": "FAIL $RST zVxvbox. Clone of the morning refused RST. Same handle, fake gov. Not a fill."
+    },
+    {
       "at": "2026-08-23T17:14:10.000Z",
       "mint": "zVxvboxVkF87n6CRwMTZXNxUZQCa7cCBPz37bdEpump",
       "ticker": "RST",
@@ -1331,6 +1345,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 4.0,
+      "dexLiqUsd": 582537,
+      "socials": "x.com/Resolut_AI",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Genius FAIL: clone of morning refused RST Y7u2wWco, same @Resolut_AI fake-gov print. Do not bring back.",
+      "at": "2026-08-23T17:14:18.000Z",
+      "mint": "zVxvboxVkF87n6CRwMTZXNxUZQCa7cCBPz37bdEpump",
+      "ticker": "RST"
+    },
     {
       "ageMin": 4.0,
       "dexLiqUsd": 59160,
@@ -3287,6 +3313,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "clone of refused RST",
+        "fake gov Resolut",
+        "same handle @Resolut_AI"
+      ],
+      "at": "2026-08-23T17:14:14.000Z",
+      "mint": "zVxvboxVkF87n6CRwMTZXNxUZQCa7cCBPz37bdEpump",
+      "ticker": "RST"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
