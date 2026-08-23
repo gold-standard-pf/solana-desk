@@ -1501,6 +1501,30 @@
   ],
   "board": [
     {
+      "ageMin": 1.9,
+      "dexLiqUsd": 15359.54,
+      "socials": "x.com/SeptemVIISOL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @SeptemVIISOL. PumpSwap Dex printed ~$15,360. inverted+boost NONE. 5m +11 holding (47b/24s) Dex MC~$43.4k. Not fading. Live-recheck 19:35Z. Age not a skip. Not a fill.",
+      "at": "2026-08-23T19:35:24.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII"
+    },
+    {
+      "ageMin": 3.53,
+      "dexLiqUsd": 12086.94,
+      "socials": "x.com/mark_k/status/2091609069639315528",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$12,087. inverted+boost NONE. 5m -28 (146b/154s) MC~$28.3k. Refused as status-URL, not as a dump. Not refused for age. Live-recheck 19:35Z. Not a PASS.",
+      "at": "2026-08-23T19:35:24.000Z",
+      "mint": "3XBzQ8zBWL1wbCboc2tMZano5PjdA2UCkzD42xE7pump",
+      "ticker": "Elon"
+    },
+    {
       "ageMin": 2.09,
       "dexLiqUsd": 19812.83,
       "socials": "x.com/mark_k/status/2091609069639315528",
