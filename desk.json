@@ -690,6 +690,18 @@
   ],
   "board": [
     {
+      "ageMin": 11.1,
+      "dexLiqUsd": 63005.06,
+      "socials": "https://x.com/elonmusk/status/1834672481762001276",
+      "boost": "COMPLETED",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status URL not handle (Elon tweet); Elon Space Cat; boost COMPLETED; PumpSwap Dex~$63.0k; 5m +6. Fails (a)+(c). Not a PASS.",
+      "at": "2026-08-23T11:56:03.000Z",
+      "mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
+      "ticker": "CATALORIAN"
+    },
+    {
       "ageMin": 8,
       "dexLiqUsd": 25000,
       "socials": "https://x.com/thehobbesol",
