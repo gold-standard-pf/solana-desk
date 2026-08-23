@@ -4,9 +4,9 @@
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 189,
-  "equityUsd": 38.9,
-  "spentUsd": 22.87,
-  "realizedPnlUsd": 18.01,
+  "equityUsd": 38.87,
+  "spentUsd": 47.67,
+  "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
   "theses": [],
@@ -6582,7 +6582,7 @@
       "side": "buy",
       "usd": 7.64,
       "sol": 0.08,
-      "tokenAmount": 0,
+      "tokenAmount": 2818584.737504,
       "kind": "swap",
       "at": "2026-08-23T23:01:17.000Z",
       "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
@@ -7272,9 +7272,9 @@
     "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 0.0001021,
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212
   },
-  "updatedAt": "2026-08-23T23:04:31.000Z",
+  "updatedAt": "2026-08-23T23:09:34.000Z",
   "capSol": 0.066,
   "maxOpenPct": 0.5,
-  "bookSol": 0.408,
-  "solUsd": 95.35
+  "bookSol": 0.407956638,
+  "solUsd": 95.29
 }
