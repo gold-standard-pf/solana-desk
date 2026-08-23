@@ -1306,6 +1306,42 @@
   ],
   "board": [
     {
+      "ageMin": 8,
+      "dexLiqUsd": 2386.05,
+      "socials": "https://x.com/Kirodev7/status/2091566388326576200",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost COMPLETED RAC-dead dump; 5m -96 1h -94, PumpSwap Dex~$2.4k off ATH ~$105k.",
+      "at": "2026-08-23T16:50:40.000Z",
+      "mint": "2aXdPiL6tYtMSFcyLKQVScsmJugffvzTAhbKsVZepump",
+      "ticker": "WINNIE"
+    },
+    {
+      "ageMin": 35,
+      "dexLiqUsd": 58397.28,
+      "socials": "https://x.com/claudeai",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation @claudeai (official Claude AI handle, not a project account). Name Claude Ai. inverted+boost COMPLETED. PumpSwap Dex~$58k. Not refused for age.",
+      "at": "2026-08-23T16:50:40.000Z",
+      "mint": "fw1U6xDcKSbus8YECjgvpL9RVrNtPtnN95gDAr6pump",
+      "ticker": "Claude"
+    },
+    {
+      "ageMin": 5,
+      "dexLiqUsd": 20925.54,
+      "socials": "https://x.com/cybercoin_sol",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print. Real handle @cybercoin_sol, PumpSwap Dex~$20.9k after grad. inverted+boost NONE (not HOBBES). Live-recheck 5m -13 giveback after rip, 1h +31, liq intact. Green/holding not a dead fade.",
+      "at": "2026-08-23T16:50:40.000Z",
+      "mint": "ErWFD2gFDxxvvo2bVY9PLS6cNqP5EZtRz8PjBp7Epump",
+      "ticker": "CYBERCOIN"
+    },
+    {
       "ageMin": 22.7,
       "dexLiqUsd": 16808.53,
       "socials": "x.com/Trumpcatex",
