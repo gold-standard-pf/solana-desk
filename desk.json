@@ -169,6 +169,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T06:13:06.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST",
+      "kind": "REFUSED",
+      "text": "FAIL . Already refused on the board. Do not re-drop."
+    },
+    {
       "at": "2026-08-23T05:49:36.000Z",
       "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
       "ticker": "CATLIST",
@@ -513,6 +520,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 16.15,
+      "dexLiqUsd": 23337.19,
+      "socials": "https://x.com/juiceonchain/status/2091339342681673844",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle. inverted+boost COMPLETED Dex~23.3k",
+      "at": "2026-08-23T06:08:08.000Z",
+      "mint": "AJCgZjbeocmFQsR6Cq2hAxT8Kx97K5RkuFerBrzXpump",
+      "ticker": "MEME"
+    },
+    {
+      "ageMin": 17.15,
+      "dexLiqUsd": 192815.66,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake US institution inverted+boost COMPLETED Dex~192.8k",
+      "at": "2026-08-23T06:08:08.000Z",
+      "mint": "nex1h4HGnvz1AkDUawPxXN7ny5ZhWEt4NhBN9AFpump",
+      "ticker": "USFR"
+    },
+    {
+      "ageMin": 18.5,
+      "dexLiqUsd": 16580.93,
+      "socials": "x.com/wojaKcoin1",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -2pct/5m Dex~16.6k not a PASS",
+      "at": "2026-08-23T06:08:08.000Z",
+      "mint": "FD9LXEbNmKGL4dqShq8RUy8tZuuf9jqiW3LBmGN1pump",
+      "ticker": "wojakcoin"
+    },
     {
       "ageMin": 13.9,
       "dexLiqUsd": 3413.19,
@@ -948,6 +991,20 @@
   ],
   "launchWatch": [],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": null,
+      "mintAuth": null,
+      "top10Pct": null,
+      "ageHours": 6,
+      "at": "2026-08-23T06:13:05.000Z",
+      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
+      "ticker": "CATLIST",
+      "reasons": [
+        "Already on the board. Leftover CATE tape, off ATH, hour red, boost done. No CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "lpBurned": null,
