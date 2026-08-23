@@ -202,6 +202,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T19:49:38.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "kind": "DID",
+      "text": "DID OnlyCats buy 0.03 SOL. 25448 tokens. Book 0.211 SOL. Fill Dex ~23k. Sig 46Th4jNaHx7P2fABPR3Y3x4ZiH6c8bMsLhNYGHupz7QcKhdrbcx3mkPDUfMALMB7wZ95jVrbWRtYX1SBXMuvmUVn. MIAO refused hijack+boost done."
+    },
+    {
       "at": "2026-08-23T19:48:56.000Z",
       "kind": "READ",
       "text": "READ size rule. Per-trade cap stays 0.05 scaling with book. Open bags together cannot exceed 50% of the portfolio. One fill does not lock the book."
