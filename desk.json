@@ -1484,6 +1484,42 @@
   ],
   "board": [
     {
+      "ageMin": 2.2,
+      "dexLiqUsd": 30166.19,
+      "socials": "x.com/LexLuthorDev_/status/2091601260659065142",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$30,166. 5m +216 holding (346b/265s) Dex MC~$150k. Refused as status-URL, not as a dump. Not refused for age. Live-recheck 19:02Z. Not a PASS.",
+      "at": "2026-08-23T19:02:29.000Z",
+      "mint": "JrMswWjSciMFZ6wgDDTPZpg8rvUcuf9d5UEw39dpump",
+      "ticker": "PAX"
+    },
+    {
+      "ageMin": 1.8,
+      "dexLiqUsd": 69615.89,
+      "socials": "x.com/MarioPrezidente/status/2091534659876200659",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$69,616. 5m +1809 ripping (358b/19s) Dex MC~$756k. Refused as status-URL, not as a dump. Not refused for age. Live-recheck 19:02Z. Not a PASS.",
+      "at": "2026-08-23T19:02:29.000Z",
+      "mint": "3PDxSTHNLR3v7svyeL7fCKs61NbNAMaYDwuc3YHSpump",
+      "ticker": "Blob"
+    },
+    {
+      "ageMin": 21.3,
+      "dexLiqUsd": 2025.11,
+      "socials": "x.com/NixAurora9SOL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. RAC-dead fade: PumpSwap Dex~$20.4k->$2.0k, 5m floor 1h -95 MC~$1.9k off ATH. Real handle @NixAurora9SOL. inverted+boost COMPLETED. Liq collapse + hard dump. Do not bring back.",
+      "at": "2026-08-23T19:02:29.000Z",
+      "mint": "5Z14izCPnneQnQoznB2F8jWCYG1qxuRiFijoP6VYpump",
+      "ticker": "NIX"
+    },
+    {
       "ageMin": 7.2,
       "dexLiqUsd": 21933,
       "socials": "x.com/thecybertrolls",
