@@ -3,7 +3,7 @@
   "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 15,
+  "ticks": 115,
   "equityUsd": 25.56,
   "spentUsd": 4.76,
   "realizedPnlUsd": 0.67,
@@ -217,6 +217,34 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T16:02:59.000Z",
+      "kind": "DID",
+      "text": "DID $CYBERCAT CUT runner 858 for 0.0082 SOL. Flat. Sig BQ1NGNmWwhjiw7H2X7bGSJph6kCT9zybUUziumAZZY3CyMFY5Ub8ALCWkVhKzMHBuxDEPq4UegXk76TW8gvtyZ5. HOLD $SUSHI.",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
+    },
+    {
+      "at": "2026-08-23T16:02:16.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
+      "at": "2026-08-23T16:02:07.000Z",
+      "kind": "READ",
+      "text": "REFUSE $Pok\u00e9mon impersonation and $WUFLO dead fade. Genius FAIL. Cash."
+    },
+    {
+      "at": "2026-08-23T16:01:59.000Z",
+      "mint": "AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump",
+      "ticker": "\u307e\u308b",
+      "kind": "READ",
+      "text": "REFUSE $\u307e\u308b AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump. Genius FAIL. Reprint of dead HTee6ny. Don't mix mints. HOLD runner and $SUSHI."
+    },
+    {
+      "at": "2026-08-23T16:01:32.000Z",
+      "kind": "REFUSED",
+      "text": "REFUSE $\u307e\u308b AuWsWDQx. Genius FAIL. Reprint of the dead dump. CLEAR withdrawn. Cash."
+    },
     {
       "at": "2026-08-23T16:00:45.000Z",
       "kind": "READ",
@@ -2810,6 +2838,33 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "at": "2026-08-23T16:02:07.000Z",
+      "mint": "311hiQu5nRqXdQ7Pk4r9JgvdYLAX6x9y2tYhUGfEpump",
+      "ticker": "WUFLO",
+      "reasons": [
+        "FAIL. inverted+boost COMPLETED fade, 1h -95, MC ~$2.1k. Not refused for age. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T16:02:06.000Z",
+      "mint": "CQE8jhAHoSjRXyNf4GNe3ktKeczc5BULDYw2stripump",
+      "ticker": "Pok\u00e9mon",
+      "reasons": [
+        "FAIL. Brand impersonation (@Pokemon official, not a project). Not refused for age or Dex. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T16:01:32.000Z",
+      "mint": "AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump",
+      "ticker": "\u307e\u308b",
+      "reasons": [
+        "FAIL. CLEAR withdrawn. Reprint of dumped HTee6ny, not a first print. Same ticker, new CA. Not a fill."
+      ]
+    },
+    {
       "verdict": "CLEAR",
       "at": "2026-08-23T16:00:45.000Z",
       "mint": "AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump",
@@ -3438,6 +3493,23 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T16:02:59.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "call": "cut",
+      "vsInvalidation": "HIT",
+      "note": "HOBBES fade. Runner sold. HOLD SUSHI."
+    },
+    {
+      "call": "cut",
+      "vsInvalidation": "HIT. 5m -74, 1h -50, Dex ~$51k from ~$100k. HOBBES-shape fade. Dump the runner. House money, still sell it.",
+      "markUsd": 0.31,
+      "note": "Runner 858. Initials already peeled. CUT remaining. HOLD SUSHI, Dex ~$37k 5m +35 ~flat vs fill.",
+      "at": "2026-08-23T16:02:30.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT"
+    },
+    {
       "call": "hold",
       "vsInvalidation": "not hit",
       "note": "Runner 858 is house money. HOLD runner and HOLD SUSHI.",
@@ -3593,6 +3665,16 @@
   ],
   "fills": [
     {
+      "at": "2026-08-23T16:02:59.000Z",
+      "signature": "BQ1NGNmWwhjiw7H2X7bGSJph6kCT9zybUUziumAZZY3CyMFY5Ub8ALCWkVhKzMHBuxDEPq4UegXk76TW8gvtyZ5",
+      "side": "sell",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "usd": 0.78,
+      "tokenAmount": 857.602758,
+      "sol": 0.008189
+    },
+    {
       "at": "2026-08-23T15:53:26.000Z",
       "signature": "57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR",
       "side": "sell",
@@ -3633,6 +3715,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T15:55:28.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "4JEkMTE8yewAAea8AZvSKLW7J6r8WLLVrmhCLWtPpump",
+      "text": "4JEkMTE8yewAAea8AZvSKLW7J6r8WLLVrmhCLWtPpump",
+      "messageId": 79186
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
