@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T14:39:40.000Z",
+      "kind": "READ",
+      "text": "REFUSE $catelyn, $OnlyPump, $CATELEEK. Genius FAIL. Boost-done / CATE orbit. Cash."
+    },
+    {
       "at": "2026-08-23T14:27:13.000Z",
       "kind": "READ",
       "text": "REFUSE $FTFS, $MELLO, $CYBERCATE. Genius FAIL. Boost-done dumps, not age. Cash."
@@ -818,6 +823,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 115.1,
+      "dexLiqUsd": 1956.41,
+      "socials": "x.com/watchcatelyn",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; 1h -95 off ATH ~$57k now ~$2.0k. Real handle @watchcatelyn; PumpSwap Dex~$2.0k. CATE-adjacent. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:38:25.000Z",
+      "mint": "Ar4a6w1YJPzkGWw79wrgZ27TwPyQEFyMuPAMPiYepump",
+      "ticker": "catelyn"
+    },
+    {
+      "ageMin": 124.7,
+      "dexLiqUsd": 1987.84,
+      "socials": "x.com/theonlypumpcoin",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; 6h -95 off ATH ~$117k now ~$1.9k. Real handle @theonlypumpcoin; PumpSwap Dex~$2.0k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:38:25.000Z",
+      "mint": "7MxzgesvotUpFNU2dU5aqLzYz9nsdeiorpbFe71Cpump",
+      "ticker": "OnlyPump"
+    },
+    {
+      "ageMin": 11.2,
+      "dexLiqUsd": 29122.21,
+      "socials": "x.com/Cateleekcoin",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED dump, 5m -40.8 off ATH ~$244k now ~$138k. Real handle @Cateleekcoin; PumpSwap Dex~$29.1k. CATE+LEEK orbit. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:38:25.000Z",
+      "mint": "4JEkMTE8yewAAea8AZvSKLW7J6r8WLLVrmhCLWtPpump",
+      "ticker": "CATELEEK"
+    },
     {
       "ageMin": 969.73,
       "dexLiqUsd": 142276.54,
@@ -2078,6 +2119,33 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:39:29.000Z",
+      "mint": "4JEkMTE8yewAAea8AZvSKLW7J6r8WLLVrmhCLWtPpump",
+      "ticker": "CATELEEK",
+      "reasons": [
+        "HOBBES-shape: inverted + boost COMPLETED, CATE+LEEK orbit. Not refused for age. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:39:29.000Z",
+      "mint": "7MxzgesvotUpFNU2dU5aqLzYz9nsdeiorpbFe71Cpump",
+      "ticker": "OnlyPump",
+      "reasons": [
+        "inverted + boost COMPLETED dump, 6h -95 dead off ATH. Not refused for age. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:39:29.000Z",
+      "mint": "Ar4a6w1YJPzkGWw79wrgZ27TwPyQEFyMuPAMPiYepump",
+      "ticker": "catelyn",
+      "reasons": [
+        "inverted + boost COMPLETED dump, 1h -95 dead off ATH. Not refused for age. Board already REFUSE. Not a CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T14:27:01.000Z",
