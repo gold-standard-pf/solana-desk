@@ -1373,6 +1373,42 @@
   ],
   "board": [
     {
+      "ageMin": 11.6,
+      "dexLiqUsd": 15469,
+      "socials": "x.com/callout_pf",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Was still curve last scan; now graduated. Real handle @callout_pf. PumpSwap Dex printed ~$15.5k. 5m +12 holding. boost NONE, not inverted+boost fade. Live-recheck 18:10Z. Not a fill.",
+      "at": "2026-08-23T18:11:05.000Z",
+      "mint": "DREc3Bg1dwa3FkA1H1tGscpx2Lr9rw3hMzDj8287pump",
+      "ticker": "CALLOUT"
+    },
+    {
+      "ageMin": 2.1,
+      "dexLiqUsd": 203770,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$204k. 5m +15854 holding \u2014 refused as no handle, not as a dump. Not a PASS.",
+      "at": "2026-08-23T18:11:05.000Z",
+      "mint": "9gkUSsudxfRVHse9vX1SwK5yCQqMhLaV1W4GZK6bpump",
+      "ticker": "Morty"
+    },
+    {
+      "ageMin": 2.0,
+      "dexLiqUsd": 52830,
+      "socials": "x.com/Marvel",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation @Marvel (official Marvel handle, not a project account). Name Marvel Entertainment. PumpSwap Dex printed ~$52.8k. 5m +1023 still ripping. Refused as impersonation not as tape. Not a PASS.",
+      "at": "2026-08-23T18:11:05.000Z",
+      "mint": "59gR159rrS1TqcbgUJj9krU7Km7twFQFZUATmA5Lpump",
+      "ticker": "Marvel"
+    },
+    {
       "ageMin": 7.2,
       "dexLiqUsd": 37,
       "socials": "none",
