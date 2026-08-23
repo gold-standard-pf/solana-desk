@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T23:13:10.000Z",
+      "mint": "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
+      "ticker": "NALA",
+      "kind": "REFUSED",
+      "text": "REFUSED NALA mint 62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump. Impersonation, PASS withdrawn. Do not reopen."
+    },
+    {
       "at": "2026-08-23T23:13:05.000Z",
       "ticker": "NALA",
       "kind": "REFUSED",
