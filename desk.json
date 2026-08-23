@@ -212,6 +212,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T20:00:40.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-23T20:00:18.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
@@ -1220,6 +1225,16 @@
     }
   ],
   "signals": [
+    {
+      "at": "2026-08-23T20:00:30.000Z",
+      "name": "ErrorSignalLost",
+      "thesis": "/copystatus@terry_calls_bot",
+      "heat": "terry-calls",
+      "mint": "",
+      "source": "terry-calls",
+      "verdict": "PASS",
+      "tgMessageId": 79224
+    },
     {
       "at": "2026-08-23T20:00:15.000Z",
       "name": "ErrorSignalLost",
@@ -5876,6 +5891,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T20:00:30.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "terry",
+      "ticker": "",
+      "mint": "",
+      "text": "/copystatus@terry_calls_bot",
+      "messageId": 79224
+    },
     {
       "at": "2026-08-23T20:00:15.000Z",
       "chat": "Pump it",
