@@ -169,6 +169,22 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T14:00:31.000Z",
+      "kind": "READ",
+      "text": "REFUSE $ARCHER, $CRYPTO, $ONEPIECE. Genius FAIL. Boost-done / IP leftover. Cash."
+    },
+    {
+      "at": "2026-08-23T13:58:03.000Z",
+      "kind": "READ",
+      "text": "REFUSE $XYZ (4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups). Genius FAIL. Leftover TG reprint, status URL. Cash."
+    },
+    {
+      "at": "2026-08-23T13:57:20.000Z",
+      "mint": "4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-23T13:47:12.000Z",
       "kind": "READ",
       "text": "REFUSE $CATALORIAN (4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump). Genius FAIL. Leftover TG reprint, already ran. Cash."
@@ -559,6 +575,16 @@
   ],
   "signals": [
     {
+      "at": "2026-08-23T13:58:23.989Z",
+      "name": "XYZ",
+      "thesis": "TG leftover reprint. Pair ~4h, status URL not a handle, 6h +424, 5m already red. XYZ interview sludge. Not first print.",
+      "heat": "farmed",
+      "mint": "4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups",
+      "source": "tg:Pump it",
+      "verdict": "REFUSE",
+      "ticker": "XYZ"
+    },
+    {
       "at": "2026-08-23T13:47:31.607Z",
       "name": "CATALORIAN",
       "thesis": "TG leftover reprint. Pair ~2h, already board REFUSE, Elon status URL not a handle, boost 500, MC ~3.2M, 6h +2019. Not first print.",
@@ -740,6 +766,54 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 460.3,
+      "dexLiqUsd": 72878.37,
+      "socials": "x.com/heisenberg83/status/2091409579586253062",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "TG leftover reprint, pair hours-old, status URL not a handle, 6h +455 already ran. Not a first print. Do not bring back.",
+      "at": "2026-08-23T13:59:08.000Z",
+      "mint": "4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups",
+      "ticker": "XYZ"
+    },
+    {
+      "ageMin": 11.84,
+      "dexLiqUsd": 31926.1,
+      "socials": "x.com/thealonscat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED, 5m -8.71. Real handle @thealonscat; PumpSwap Dex~$31.9k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:54:24.000Z",
+      "mint": "GBxoYLFsX4ZgVifmYH44gMg15ChPoGPrBnsezo2Epump",
+      "ticker": "ARCHER"
+    },
+    {
+      "ageMin": 12.87,
+      "dexLiqUsd": 22666.57,
+      "socials": "x.com/CRYPTO_TIME_SOL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED, 5m -6.8 off ATH. Real handle @CRYPTO_TIME_SOL; PumpSwap Dex~$22.7k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:54:24.000Z",
+      "mint": "CmcEhy1rfCG4BMtEdnZjPRfqpr7yvjcx6VavVGGnpump",
+      "ticker": "CRYPTO"
+    },
+    {
+      "ageMin": 15.39,
+      "dexLiqUsd": 55016.3,
+      "socials": "x.com/Eiichiro_Staff",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "IP impersonation @Eiichiro_Staff (One Piece staff); inverted+boost COMPLETED; PumpSwap Dex~$55.0k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:54:24.000Z",
+      "mint": "mDo5PZLMzXvJ1L3WcVBqqMobqmtR7KNtSSWL6hGpump",
+      "ticker": "ONEPIECE"
+    },
     {
       "ageMin": 6.12,
       "dexLiqUsd": 6373.97,
@@ -1882,6 +1956,42 @@
   "clears": [
     {
       "verdict": "FAIL",
+      "at": "2026-08-23T13:58:39.000Z",
+      "mint": "mDo5PZLMzXvJ1L3WcVBqqMobqmtR7KNtSSWL6hGpump",
+      "ticker": "ONEPIECE",
+      "reasons": [
+        "IP impersonation, inverted + boost COMPLETED, already ripped. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:58:39.000Z",
+      "mint": "CmcEhy1rfCG4BMtEdnZjPRfqpr7yvjcx6VavVGGnpump",
+      "ticker": "CRYPTO",
+      "reasons": [
+        "HOBBES-shape: inverted + boost COMPLETED. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:58:39.000Z",
+      "mint": "GBxoYLFsX4ZgVifmYH44gMg15ChPoGPrBnsezo2Epump",
+      "ticker": "ARCHER",
+      "reasons": [
+        "HOBBES-shape: inverted + boost COMPLETED. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:57:36.000Z",
+      "mint": "4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups",
+      "ticker": "XYZ",
+      "reasons": [
+        "leftover TG reprint, pair ~4h old, status URL not handle, 6h +424, 5m already red. Not first print. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
       "at": "2026-08-23T13:46:36.000Z",
       "mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
       "ticker": "CATALORIAN",
@@ -2224,6 +2334,16 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79172,
+      "at": "2026-08-23T13:57:20.000Z",
+      "mint": "4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups",
+      "text": "4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
