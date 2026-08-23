@@ -1766,6 +1766,18 @@
   ],
   "board": [
     {
+      "ageMin": 19.0,
+      "dexLiqUsd": 15103.88,
+      "socials": "status-URL",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost IN_PROGRESS. Unique ticker graduated; PumpSwap Dex printed ~$15,104. 5m +32 green does not CLEAR.",
+      "at": "2026-08-23T21:20:35.000Z",
+      "mint": "BtMAd6osVrv9kD1YHUM1JQMtFQxFmuiZeZG1Q7AZpump",
+      "ticker": "WALL"
+    },
+    {
       "ageMin": 12,
       "dexLiqUsd": 25415,
       "socials": "status-URL",
