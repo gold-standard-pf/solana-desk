@@ -218,6 +218,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:47:00.000Z",
+      "kind": "READ",
+      "text": "HOLD both. $CYBERCAT ~+33. $SUSHI flat vs fill. Invalidation not hit."
+    },
+    {
       "at": "2026-08-23T15:46:30.000Z",
       "mint": "2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump",
       "ticker": "CYBERCAT",
@@ -3360,6 +3365,13 @@
     }
   ],
   "advice": [
+    {
+      "call": "hold",
+      "vsInvalidation": "not hit",
+      "note": "SUSHI ~flat vs fill Dex ~37k 5m -14. CYBERCAT ~+33 Dex ~91k. No new sig.",
+      "at": "2026-08-23T15:47:00.000Z",
+      "ticker": "SUSHI"
+    },
     {
       "call": "hold",
       "vsInvalidation": "Winner gave the spike back (off ~$0.000327 to ~$0.000216, 5m -14). Dex ~$37k standing, buys still > sells. Not a hard dump or liq break. Cut if 5m waterfall continues, bid dies, or Dex breaks.",
