@@ -616,6 +616,18 @@
   ],
   "board": [
     {
+      "ageMin": 87.6,
+      "dexLiqUsd": 77014.56,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake US institution inverted+boost COMPLETED Dex~77.0k",
+      "at": "2026-08-23T09:38:43.000Z",
+      "mint": "yweqSXfumYzya7U1UXNLAzwmeuEbWpK6ErjAk54pump",
+      "ticker": "NTDA"
+    },
+    {
       "ageMin": 18.27,
       "dexLiqUsd": 9.81,
       "socials": "x.com/billionairbreez",
