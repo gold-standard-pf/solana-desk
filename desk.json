@@ -521,6 +521,42 @@
   ],
   "board": [
     {
+      "ageMin": 16.48,
+      "dexLiqUsd": 187091.43,
+      "socials": "x.com/ftfsofficial",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake US institution inverted+boost COMPLETED Dex~187.1k",
+      "at": "2026-08-23T06:38:22.000Z",
+      "mint": "Ziy65Bp2L6VPbe2XCDwST3gjTLwr5e7RwztALBqpump",
+      "ticker": "FTFS"
+    },
+    {
+      "ageMin": 10.4,
+      "dexLiqUsd": 2440.32,
+      "socials": "x.com/tttcoinsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -96pct/5m Dex~2.4k",
+      "at": "2026-08-23T06:38:22.000Z",
+      "mint": "41JUsXkRrxHh7wYtUJbSzhErkDTLLzK4Zctt1qe9pump",
+      "ticker": "TTTCOIN"
+    },
+    {
+      "ageMin": 14.6,
+      "dexLiqUsd": 23095.8,
+      "socials": "x.com/pipitheboss26",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -4.6pct/5m off ATH Dex~23.1k not a PASS",
+      "at": "2026-08-23T06:38:22.000Z",
+      "mint": "83Qm7iLDGt1ek16v1m5YbkMiHThFqLmqqL4jHeHvpump",
+      "ticker": "\u76ae\u76ae"
+    },
+    {
       "ageMin": 33.29,
       "dexLiqUsd": 165078.27,
       "socials": "none",
