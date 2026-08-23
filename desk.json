@@ -3,7 +3,7 @@
   "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 189,
+  "ticks": 191,
   "equityUsd": 38.87,
   "spentUsd": 47.67,
   "realizedPnlUsd": 18.47,
@@ -190,6 +190,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T23:38:11.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-23T23:13:10.000Z",
       "mint": "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
@@ -6996,6 +7001,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T23:38:05.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Don\u2019t buy there tokens",
+      "messageId": 79244
+    },
     {
       "at": "2026-08-23T23:04:08.000Z",
       "chat": "Pump it",
