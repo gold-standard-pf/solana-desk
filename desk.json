@@ -3,7 +3,7 @@
   "status": "idle",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 140,
+  "ticks": 141,
   "equityUsd": 26.47,
   "spentUsd": 4.76,
   "realizedPnlUsd": 1.42,
@@ -4539,6 +4539,15 @@
   "advice": [
     {
       "call": "hold",
+      "vsInvalidation": "Bag sold. Dump-dead. Book is cash.",
+      "markUsd": 0,
+      "note": "STONKCAT cut stamped. +0.00021 SOL. Zero tokens. Sitting cash 0.246 SOL.",
+      "at": "2026-08-23T18:33:24.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
+      "call": "hold",
       "vsInvalidation": "not hit",
       "note": "Mark ~3.13 vs 2.87. Dex ~44k 5m +42. Too thin to peel.",
       "at": "2026-08-23T16:43:54.000Z",
@@ -4794,6 +4803,15 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T18:33:24.000Z",
+      "signature": "4JkhdZjHR2JHgPQXMmzeb4UvaKwmoCG5VuePUqMZ419i4Zoa93rsWgRC5gCxTzTwRM4qeS6J3WH9YdhakFP2puS",
+      "side": "sell",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT",
+      "usd": 0.02,
+      "tokenAmount": 10477.9
+    },
     {
       "at": "2026-08-23T16:43:24.000Z",
       "signature": "3faGBn4KLxks7jGaFi2prM5ySt7WJDAi9oXDVr7WhXAKJWBTcQyZiJdPf4XJigDN3NvcrCetb1YpJ1rnLj3MGRX6",
