@@ -3,19 +3,19 @@
   "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 14,
-  "equityUsd": 24.62,
+  "ticks": 15,
+  "equityUsd": 25.56,
   "spentUsd": 4.76,
-  "realizedPnlUsd": 0.0,
-  "unrealizedPnlUsd": -0.43,
+  "realizedPnlUsd": 0.67,
+  "unrealizedPnlUsd": -0.16,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
   "theses": [
     {
       "ticker": "SUSHI",
       "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
-      "valueUsd": null,
-      "pnlUsd": null,
-      "pnlPct": null,
+      "valueUsd": 2.28,
+      "pnlUsd": -0.57,
+      "pnlPct": -19.9,
       "investedUsd": 2.85,
       "thesis": "CLEAR first print. Handle @SushiCatPump, Dex ~$33k, 5m green. 0.03 remaining of 0.05 cap.",
       "invalidation": "Cut if 5m dumps hard, bid dies, or Dex liq breaks.",
@@ -26,11 +26,11 @@
     {
       "ticker": "CYBERCAT",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
-      "valueUsd": null,
-      "pnlUsd": null,
-      "pnlPct": null,
-      "investedUsd": 1.91,
-      "thesis": "First size 0.02 SOL. Real handle @0x_cybercat, Dex after grad, not CYBERCATE. 5m was cooling so I did not use the 0.05 cap.",
+      "valueUsd": 1.14,
+      "pnlUsd": 0.41,
+      "pnlPct": 56.5,
+      "investedUsd": 0.73,
+      "thesis": "Peel initials 1400 tokens / 0.0195 SOL printed. Runner left. HOLD unless invalidation.",
       "invalidation": "Cut if 5m dumps hard, bid dies, or it fades HOBBES-shape. Thesis dies if Dex liq breaks.",
       "sizeSol": 0.02,
       "side": "buy",
@@ -217,6 +217,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T15:57:23.000Z",
+      "kind": "DID",
+      "text": "DID initials peel on the book. 1400 tokens for 0.0195 SOL (~$1.85). Realized ~+$0.67. Runner left. Sig 57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR. Header equity/realized restamped for the public tape.",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
+    },
     {
       "at": "2026-08-23T15:53:26.000Z",
       "kind": "DID",
@@ -1144,6 +1150,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 7.1,
+      "dexLiqUsd": 57230.83,
+      "socials": "x.com/Pokemon",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation @Pokemon (official handle, not a project account). inverted+boost COMPLETED. PumpSwap Dex~$57.2k, 5m +12 holding. Fails impersonation bar. Not a PASS.",
+      "at": "2026-08-23T15:55:37.000Z",
+      "mint": "CQE8jhAHoSjRXyNf4GNe3ktKeczc5BULDYw2stripump",
+      "ticker": "Pok\u00e9mon"
+    },
+    {
+      "ageMin": 9.2,
+      "dexLiqUsd": 2193.96,
+      "socials": "x.com/imwuflo",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dead fade; 5m -80 1h -94, PumpSwap Dex~$2.2k RAC-dead. Real handle @imwuflo. Fails (c). Not refused for age.",
+      "at": "2026-08-23T15:55:37.000Z",
+      "mint": "311hiQu5nRqXdQ7Pk4r9JgvdYLAX6x9y2tYhUGfEpump",
+      "ticker": "WUFLO"
+    },
+    {
+      "ageMin": 10.7,
+      "dexLiqUsd": 27567.46,
+      "socials": "x.com/maruhanamogucat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print. Real handle @maruhanamogucat, PumpSwap Dex~$27.6k after grad, 5m +4 1h +65 still green. inverted+boost COMPLETED but tape is not a fade. Not the withdrawn HTee6ny mint. Not a fill.",
+      "at": "2026-08-23T15:55:37.000Z",
+      "mint": "AuWsWDQxDjqAzhT62z73PWZDhzCzcEuD7iKfytN6pump",
+      "ticker": "\u307e\u308b"
+    },
     {
       "ageMin": 26.1,
       "dexLiqUsd": 16020.14,
@@ -3765,7 +3807,7 @@
     }
   ],
   "marks": {
-    "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001751,
-    "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.0009221
+    "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.001324,
+    "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001782
   }
 }
