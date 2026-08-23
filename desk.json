@@ -1197,6 +1197,26 @@
   ],
   "signals": [
     {
+      "name": "PIXEL HAALAND",
+      "thesis": "Brand impersonation of Erling Haaland. @pixelhaaland is a 2010 hijack tell (11 fol, 2 tweets). Dex ~$17k holding, not a dump skip. Age not a skip. Not a fill.",
+      "heat": "farmed",
+      "source": "https://x.com/pixelhaaland",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T19:53:43.000Z",
+      "mint": "3C7RPj5VTJJ7p5cUbDmTeHRQiJbQqod8B93G9avLpump",
+      "ticker": "PIXHAALAND"
+    },
+    {
+      "name": "MIAO",
+      "thesis": "Refuse-flip. Dump-dead. Dex ~1.8k, MC ~1.8k vs ATH ~66k, 5m -96. inverted+boost COMPLETED. Names only, never sized. Not a new fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T19:53:43.000Z",
+      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "ticker": "MIAO"
+    },
+    {
       "name": "MIAO",
       "thesis": "Minutes-old unique ticker, Dex after grad ~$15.4k, MC ~$44k vs ATH ~$51k, 5m +5 holding. Real username @sol_miao (2011 hijack tell: 72 fol, 5 tweets). inverted+boost COMPLETED but not dump-dead. Age not a skip. Not a fill.",
       "heat": "early",
