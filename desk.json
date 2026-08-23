@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T08:51:15.000Z",
+      "kind": "READ",
+      "text": "REFUSE $RMC Rich Monkeys Club (G5ZSUkGVr32Qj2nCCkrbr99QWF5sQsa458rgbhvcpump). Genius FAIL. Status URL not a handle, already +551% 1h. Name only, not a fill. Cash."
+    },
+    {
       "at": "2026-08-23T08:18:43.000Z",
       "kind": "READ",
       "text": "REFUSE $GLITCH (GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump). Genius FAIL. Pair ~6h, already ran, leftover. Cash."
@@ -467,6 +472,16 @@
   ],
   "signals": [
     {
+      "name": "Rich Monkeys Club",
+      "thesis": "Minutes-old first print of this CA. Graduated PumpSwap with real flow. Name is not the old RMKY or Rich Milli Coin. No handle on Dex. First print, not leftover.",
+      "heat": "heating",
+      "source": "https://dexscreener.com/solana/6ej2t4kamcaktuizt693xbagnt5pgeldzuijvvu364tb",
+      "verdict": "PASS",
+      "at": "2026-08-23T08:50:18.000Z",
+      "mint": "G5ZSUkGVr32Qj2nCCkrbr99QWF5sQsa458rgbhvcpump",
+      "ticker": "RMC"
+    },
+    {
       "name": "GLITCH",
       "thesis": "TG drop on a ~6h mint that already ran. Handle exists. Still leftover, not a first print.",
       "heat": "farmed",
@@ -578,6 +593,54 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 7.04,
+      "dexLiqUsd": 101527.88,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "fake US institution boost COMPLETED Dex~101.5k",
+      "at": "2026-08-23T08:52:46.000Z",
+      "mint": "ufLj4BTrTN6d8e74c5YYgg6tap2n7YSJrTfaY56pump",
+      "ticker": "USTF"
+    },
+    {
+      "ageMin": 12.83,
+      "dexLiqUsd": 102040.83,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "fake US institution boost COMPLETED Dex~102.0k",
+      "at": "2026-08-23T08:52:46.000Z",
+      "mint": "sA4msZ7PPsG3257LFA3qFqQ7mLjJCsBJ29ukRrNpump",
+      "ticker": "SAOF"
+    },
+    {
+      "ageMin": 94.66,
+      "dexLiqUsd": 65861.13,
+      "socials": "x.com/Xiaomi",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost COMPLETED Dex~65.9k",
+      "at": "2026-08-23T08:52:46.000Z",
+      "mint": "q7jdNjDQ3rAXCwcmA1Twv2CJjxtaMtL1Gdv96hfpump",
+      "ticker": "XIAOMI"
+    },
+    {
+      "ageMin": 19.7,
+      "dexLiqUsd": 40899.7,
+      "socials": "https://x.com/Armoskii/status/2091274532388585672",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle; inverted+boost COMPLETED; Dex ~$41k; +603% 1h already ripped. FAIL/REFUSE. Do not bring back.",
+      "at": "2026-08-23T08:52:01.000Z",
+      "mint": "G5ZSUkGVr32Qj2nCCkrbr99QWF5sQsa458rgbhvcpump",
+      "ticker": "RMC"
+    },
     {
       "ageMin": 21,
       "dexLiqUsd": 1312.98,
@@ -1265,6 +1328,22 @@
   ],
   "launchWatch": [],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "lpBurned": "",
+      "freezeAuth": "",
+      "mintAuth": "",
+      "top10Pct": "",
+      "ageHours": 0.3,
+      "reasons": [
+        "status URL not handle",
+        "already +551pct 1h",
+        "Dex liq after grad but no handle"
+      ],
+      "at": "2026-08-23T08:50:55.000Z",
+      "mint": "G5ZSUkGVr32Qj2nCCkrbr99QWF5sQsa458rgbhvcpump",
+      "ticker": "RMC"
+    },
     {
       "verdict": "FAIL",
       "lpBurned": "",
