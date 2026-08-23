@@ -434,6 +434,30 @@
   ],
   "board": [
     {
+      "ageMin": 6.18,
+      "dexLiqUsd": 17849.93,
+      "socials": "x.com/pixAnsem",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS Dex~17.8k not a PASS",
+      "at": "2026-08-23T03:50:30.000Z",
+      "mint": "CSvs8dJWN3Devv7oufSgZ1Nop6QvfaAxUxkbWbEUpump",
+      "ticker": "pixAnsem"
+    },
+    {
+      "ageMin": 7.07,
+      "dexLiqUsd": 12677.89,
+      "socials": "x.com/cortisoldown",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS dump -44pct/5m Dex~12.7k not a PASS",
+      "at": "2026-08-23T03:50:30.000Z",
+      "mint": "4sMA48MfGsDfvkMLkfkgRpEzUMjsQH6Xx6Y8cpnupump",
+      "ticker": "CDOWN"
+    },
+    {
       "ageMin": 11.72,
       "dexLiqUsd": 135717.53,
       "socials": "x.com/USURtoken",
