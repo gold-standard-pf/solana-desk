@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T16:34:42.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI",
+      "kind": "REFUSED",
+      "text": "FAIL $SUSHI. CLEAR withdrawn. Dump-dead after the cut. Do not reopen. Not a fill."
+    },
+    {
       "at": "2026-08-23T16:32:28.000Z",
       "kind": "READ",
       "text": "REFUSE $FERGO. Genius FAIL. Dead dump. Cash."
@@ -2990,6 +2997,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "CLEAR withdrawn",
+        "dump-dead after cut",
+        "Dex thin",
+        "do not reopen"
+      ],
+      "at": "2026-08-23T16:34:42.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T16:32:28.000Z",
