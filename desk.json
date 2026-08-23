@@ -4,39 +4,12 @@
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 123,
-  "equityUsd": 25.56,
+  "equityUsd": 26.47,
   "spentUsd": 4.76,
-  "realizedPnlUsd": 0.67,
-  "unrealizedPnlUsd": -0.16,
+  "realizedPnlUsd": 1.42,
+  "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "SUSHI",
-      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
-      "valueUsd": 2.28,
-      "pnlUsd": -0.57,
-      "pnlPct": -19.9,
-      "investedUsd": 2.85,
-      "thesis": "CLEAR first print. Handle @SushiCatPump, Dex ~$33k, 5m green. 0.03 remaining of 0.05 cap.",
-      "invalidation": "Cut if 5m dumps hard, bid dies, or Dex liq breaks.",
-      "sizeSol": 0.03,
-      "side": "buy",
-      "at": "2026-08-23T15:21:05.000Z"
-    },
-    {
-      "ticker": "CYBERCAT",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
-      "valueUsd": 1.14,
-      "pnlUsd": 0.41,
-      "pnlPct": 56.5,
-      "investedUsd": 0.73,
-      "thesis": "Peel initials 1400 tokens / 0.0195 SOL printed. Runner left. HOLD unless invalidation.",
-      "invalidation": "Cut if 5m dumps hard, bid dies, or it fades HOBBES-shape. Thesis dies if Dex liq breaks.",
-      "sizeSol": 0.02,
-      "side": "buy",
-      "at": "2026-08-23T15:18:03.000Z"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "CYBERCAT",
@@ -217,6 +190,23 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T16:32:28.000Z",
+      "kind": "READ",
+      "text": "REFUSE $FERGO. Genius FAIL. Dead dump. Cash."
+    },
+    {
+      "at": "2026-08-23T16:30:53.000Z",
+      "kind": "READ",
+      "text": "CLEAR $STONKCAT. First print. Dex after grad, handle live, tape holding. Not a fill."
+    },
+    {
+      "at": "2026-08-23T16:29:17.000Z",
+      "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "ticker": "CYBERTRUMP",
+      "kind": "READ",
+      "text": "REFUSE $CYBERTRUMP. Genius FAIL. Missed the rip. Never sized. Book cash 0.278 SOL."
+    },
     {
       "at": "2026-08-23T16:27:54.000Z",
       "kind": "REFUSED",
@@ -963,6 +953,26 @@
   ],
   "signals": [
     {
+      "name": "Sushi Cat",
+      "thesis": "Refuse-flip. Dump-dead. Dex ~2.4k, MC ~2.2k, 5m -98. Terry already cut. Not a new fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T16:32:59.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
+      "name": "Stonk Cat",
+      "thesis": "Minutes-old STONKCAT. Real handle @StonkCatPump, PumpSwap Dex about 35k, MC about 188k, 5m flat / 1h +155 still live. inverted+boost COMPLETED but not a fade. Not a fill.",
+      "heat": "heating",
+      "source": "https://dexscreener.com/solana/DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "verdict": "PASS",
+      "at": "2026-08-23T16:32:59.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
       "name": "CyberTrump",
       "thesis": "Refuse. Missed the 5m rip. Now dump-dead, Dex ~2.2k, MC ~2.2k, 5m -98. Not a fill.",
       "heat": "farmed",
@@ -1264,6 +1274,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 24.5,
+      "dexLiqUsd": 33918.63,
+      "socials": "https://x.com/StonkCatPump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print (19m gap catch). Real handle @StonkCatPump, PumpSwap Dex~$33.9k after grad, 5m +20 1h +146 green/holding. inverted+boost COMPLETED but not a fade. Live-recheck 16:29 UTC.",
+      "at": "2026-08-23T16:29:39.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT"
+    },
+    {
+      "ageMin": 28.3,
+      "dexLiqUsd": 2193.1,
+      "socials": "https://x.com/thecybertrumps",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED RAC-dead fade; 5m -1 1h -95, PumpSwap Dex ~$21k->$2.2k MC~$2.2k. Boost was IN_PROGRESS at 11:06 PASS; now floor. Do not reopen.",
+      "at": "2026-08-23T16:29:39.000Z",
+      "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "ticker": "CYBERTRUMP"
+    },
+    {
+      "ageMin": 23.8,
+      "dexLiqUsd": 11713.01,
+      "socials": "https://x.com/fergohere",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; 5m -69 1h -42, PumpSwap Dex~$11.7k off the rip. Real handle @fergohere. HOBBES-shape fade. Not a PASS.",
+      "at": "2026-08-23T16:29:39.000Z",
+      "mint": "4PuT2n2gM7fY4ouj4j3DrC1bduqU1dQo8cQBH93Upump",
+      "ticker": "FERGO"
+    },
     {
       "ageMin": 6.5,
       "dexLiqUsd": 29674.84,
@@ -2946,6 +2992,24 @@
   "clears": [
     {
       "verdict": "FAIL",
+      "at": "2026-08-23T16:32:28.000Z",
+      "mint": "4PuT2n2gM7fY4ouj4j3DrC1bduqU1dQo8cQBH93Upump",
+      "ticker": "FERGO",
+      "reasons": [
+        "FAIL. inverted+boost COMPLETED dump, 5m -95 1h -94, MC ~$2.3k Dex ~$2.5k. Not refused for age. Not a fill."
+      ]
+    },
+    {
+      "verdict": "CLEAR",
+      "at": "2026-08-23T16:30:53.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT",
+      "reasons": [
+        "CLEAR. First print. Handle @StonkCatPump, PumpSwap Dex ~$34k after grad, 1h +142 holding. Boost-done but not a fade. Age ~25m is fine. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
       "at": "2026-08-23T16:27:54.000Z",
       "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
       "ticker": "CYBERTRUMP",
@@ -4223,5 +4287,6 @@
   "marks": {
     "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.001324,
     "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001782
-  }
+  },
+  "updatedAt": "2026-08-23T16:33:05Z"
 }
