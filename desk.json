@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T13:05:38.000Z",
+      "kind": "READ",
+      "text": "REFUSE $moneybag (7S8tqYmatHc2UkpYXmpEiFCecHCF1N8ABNL6UYFFpump). Genius FAIL. Inverted + boost done, fading. Cash."
+    },
+    {
       "at": "2026-08-23T11:42:45.000Z",
       "kind": "READ",
       "text": "REFUSE $HOBBES (BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump). Genius FAIL. Inverted + boost done, 5m fade. Cash."
@@ -528,6 +533,16 @@
   ],
   "signals": [
     {
+      "at": "2026-08-23T13:06:01.086Z",
+      "name": "moneybag",
+      "thesis": "Handle @moneybag_solana was real. Same shape as HOBBES: inverted + boost COMPLETED, 5m already red, fade off ATH. Not a first-print hold.",
+      "heat": "farmed",
+      "mint": "7S8tqYmatHc2UkpYXmpEiFCecHCF1N8ABNL6UYFFpump",
+      "source": "x.com/moneybag_solana",
+      "verdict": "REFUSE",
+      "ticker": "moneybag"
+    },
+    {
       "at": "2026-08-23T11:43:09.440Z",
       "name": "HOBBES",
       "thesis": "Minutes-old handle @thehobbesol and Dex after grad were real, then inverted + boost COMPLETED and 5m already -17. Boost-done fade. Not a first-print hold.",
@@ -689,6 +704,78 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 5.12,
+      "dexLiqUsd": 7422.04,
+      "socials": "x.com/chizzosol",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS dump; real handle @chizzosol; PumpSwap Dex~$7.4k; 5m -68 off ATH $70k now ~$12.3k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:05:24.000Z",
+      "mint": "55N4h6Et6eu4EAyDjwjAqvwPPudjo1Rt3wKcwX5epump",
+      "ticker": "CHIZZO"
+    },
+    {
+      "ageMin": 7.7,
+      "dexLiqUsd": 52339.47,
+      "socials": "x.com/AMD",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation; official @AMD not a token handle; inverted+boost COMPLETED; PumpSwap Dex~$52.3k; 5m -3 off ATH. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:05:24.000Z",
+      "mint": "aNeKejAKyfqfqikYKc5cjyTTszq85tiw7Rd5xcmpump",
+      "ticker": "AMD"
+    },
+    {
+      "ageMin": 12.3,
+      "dexLiqUsd": 20626.49,
+      "socials": "https://x.com/moneybag_solana",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED, 5m -26 boost-done fade off ATH ~$150k now ~$69k. Prior PASS withdrawn. Do not bring back.",
+      "at": "2026-08-23T13:02:27.000Z",
+      "mint": "7S8tqYmatHc2UkpYXmpEiFCecHCF1N8ABNL6UYFFpump",
+      "ticker": "moneybag"
+    },
+    {
+      "ageMin": 10.72,
+      "dexLiqUsd": 25060.95,
+      "socials": "x.com/moneybag_solana",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "minutes-old first print; real handle @moneybag_solana; PumpSwap Dex~$25,061; 5m -31.05 1h 155; boost NONE. Not inverted+boost fade.",
+      "at": "2026-08-23T13:00:28.000Z",
+      "mint": "7S8tqYmatHc2UkpYXmpEiFCecHCF1N8ABNL6UYFFpump",
+      "ticker": "moneybag"
+    },
+    {
+      "ageMin": 15.5,
+      "dexLiqUsd": 2099.64,
+      "socials": "x.com/octochadspl",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted dump; real handle @octochadspl; PumpSwap Dex~$2,100; 1h -94.58 off ATH $55k now ~$2,110. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:00:28.000Z",
+      "mint": "AuXLXwwEpUMUCpCUJF8fR5phmiXNH8yWNBV533QQpump",
+      "ticker": "OCHAD"
+    },
+    {
+      "ageMin": 24.32,
+      "dexLiqUsd": 1671.34,
+      "socials": "x.com/OpenAI",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation; official @OpenAI not a token handle; PumpSwap Dex~$1,671; 1h -95.77 off ATH $495k now ~$1,664. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:00:28.000Z",
+      "mint": "LiWDetKXxcz8rKTimsjrqR46E45YfAAJ2UGKojepump",
+      "ticker": "OpenAI"
+    },
     {
       "ageMin": 12.96,
       "dexLiqUsd": 142065.35,
@@ -1685,6 +1772,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:05:16.000Z",
+      "mint": "7S8tqYmatHc2UkpYXmpEiFCecHCF1N8ABNL6UYFFpump",
+      "ticker": "moneybag",
+      "reasons": [
+        "inverted + boost COMPLETED, 5m already red, fade off ATH. Board already REFUSE. Not a CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T11:42:10.000Z",
