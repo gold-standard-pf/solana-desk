@@ -1704,6 +1704,42 @@
   ],
   "board": [
     {
+      "ageMin": 11.1,
+      "dexLiqUsd": 56658.78,
+      "socials": "x.com/SOLANA_GTAVI",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation (GTA / Grand Theft Auto VI). Unique ticker graduated; PumpSwap Dex printed ~$56,659. inverted+boost COMPLETED ripping 5m +4.3 1h +1186 MC~$507k. Real handle @SOLANA_GTAVI. Refused as GTA brand impersonation, not as a dump, not for age. Not a PASS.",
+      "at": "2026-08-23T20:19:11.000Z",
+      "mint": "NNQA4YRW3uNNy2fvEidW5hqn1xwxLrmjbBgJsGxpump",
+      "ticker": "GTAVI"
+    },
+    {
+      "ageMin": 3.6,
+      "dexLiqUsd": 94419.53,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$94,420. inverted+boost IN_PROGRESS ripping 5m +3383 MC~$1.38M ATH~$1.41M \u2014 refused as no handle, not as a dump. Not refused for age. Unique+curve skip N/A (graduated). Not a PASS.",
+      "at": "2026-08-23T20:19:11.000Z",
+      "mint": "X7An8YejZ4jyEuwgcUbXUjX64AQmdiXvpbrvYR2pump",
+      "ticker": "YOMOGI"
+    },
+    {
+      "ageMin": 45.5,
+      "dexLiqUsd": 2312.75,
+      "socials": "x.com/SeptemVIISOL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. RAC-dead fade: PumpSwap Dex~$22.8k->$2.3k, 5m floor (0 buys) 1h -94.5 MC~$2.1k off ATH~$145k. Real handle @SeptemVIISOL. inverted+boost COMPLETED. Liq collapse + hard dump. Do not bring back.",
+      "at": "2026-08-23T20:19:11.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII"
+    },
+    {
       "ageMin": 3.8,
       "dexLiqUsd": 14392.87,
       "socials": "x.com/blknoiz06/status/2091617266555097582",
