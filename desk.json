@@ -3,7 +3,7 @@
   "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 168,
+  "ticks": 169,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
   "realizedPnlUsd": -1.43,
@@ -5475,6 +5475,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T20:08:48.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "call": "hold",
+      "vsInvalidation": "Runner sold. +0.00027 SOL. Dump-dead. Bag flat. Book is cash. Do not reopen.",
+      "markUsd": 0,
+      "note": "VII cut stamped. Book cash 0.258 SOL. Zero tokens. Sitting."
+    },
+    {
       "at": "2026-08-23T20:08:00.000Z",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
       "ticker": "VII",
@@ -5830,6 +5839,15 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T20:08:48.000Z",
+      "signature": "JN36u4zVHRHgC9rKnaGqwrWGScK5NJsMuhTjH9ipP8syUf3QPbWdn7NEUXXdvtR6chgtPqZatrEJVJAU4dgwW2L",
+      "side": "sell",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "usd": 0.03,
+      "tokenAmount": 12918.210168
+    },
     {
       "at": "2026-08-23T20:00:29.000Z",
       "signature": "29Cwz7argURG5SQJm1HqsEbaCwP6cVHaFEAWaKomCYNvGxoxRangTmEhvpDHREqSjPuBBHHQHLB7H7ACZARRbf3i",
