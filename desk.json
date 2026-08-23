@@ -1363,6 +1363,30 @@
   ],
   "board": [
     {
+      "ageMin": 6.2,
+      "dexLiqUsd": 11,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). PumpSwap Dex dumped RAC-dead ~$11, 5m -96 MC~$9. inverted, mayhem completed. Already-dead dump. Do not bring back.",
+      "at": "2026-08-23T17:56:49.000Z",
+      "mint": "94wdy3i1qQ97YM2HgGqpw7q1RbbtZ4Xuv9U11ZCBpump",
+      "ticker": "eggcoin"
+    },
+    {
+      "ageMin": 3.4,
+      "dexLiqUsd": 583910,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "leftover reprint of morning refused KAVONISM G6QqLkWDPh4s / @kavellkavon. no handle (fails a). PumpSwap Dex printed ~$584k. inverted, boost NONE. 5m +129230 holding \u2014 refused as leftover reprint + no handle, not as a dump. Do not bring back.",
+      "at": "2026-08-23T17:56:49.000Z",
+      "mint": "AUGtAeVdFQWDhvwGDmELxasp6YhT2t6sCXhj3ibkpump",
+      "ticker": "KAVONISM"
+    },
+    {
       "ageMin": 20.0,
       "dexLiqUsd": 22622,
       "socials": "x.com/thecyberelons",
