@@ -1460,6 +1460,18 @@
   ],
   "board": [
     {
+      "ageMin": 7.2,
+      "dexLiqUsd": 21932.6,
+      "socials": "x.com/thecybertrolls",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @thecybertrolls. PumpSwap Dex printed ~$21,933. inverted+boost IN_PROGRESS. 5m +104 holding (756b/303s) Dex MC~$82k near ATH. Not fading. Live-recheck 18:53Z. Age not a skip. Not a fill.",
+      "at": "2026-08-23T18:54:04.000Z",
+      "mint": "AdYHGgcLYCQSpaSuJPWNJsMKE9RoFQFiBkxr5x88pump",
+      "ticker": "CYBERTROLL"
+    },
+    {
       "ageMin": 3.4,
       "dexLiqUsd": 14762.15,
       "socials": "x.com/thecybertrolls",
