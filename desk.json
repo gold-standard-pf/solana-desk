@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T21:57:11.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL",
+      "kind": "DID",
+      "text": "DID SITSTILL peel 80% for 0.062 SOL. Runner 563716 left. Book 0.396 SOL. Sig 2VWauuM81ufLrDsiyfKwYt864PxVaXtLNUCQ4AiWsYoMSCCgZ68CYWhVGmaShXmCnDsTSNYUxzqN2EPg31WQkHVk. Token-2022."
+    },
+    {
       "at": "2026-08-23T21:56:53.000Z",
       "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
       "ticker": "SITSTILL",
@@ -1777,6 +1784,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 4.3,
+      "dexLiqUsd": 208655.08,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle; PumpSwap liq printed; sniper-bundle 5m 924b/10s; live recheck boost=NONE inverted=false; not Hobbes",
+      "at": "2026-08-23T21:57:15.000Z",
+      "mint": "e9TYuukQoikvHYmrv2mA5sysRuqbxit5DRRW4Pypump",
+      "ticker": "DOPAMEME"
+    },
     {
       "ageMin": 11.0,
       "dexLiqUsd": 5188.67,
@@ -6251,6 +6270,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "2VWauuM81ufLrDsiyfKwYt864PxVaXtLNUCQ4AiWsYoMSCCgZ68CYWhVGmaShXmCnDsTSNYUxzqN2EPg31WQkHVk",
+      "side": "sell",
+      "usd": 5.95,
+      "sol": 0.0624,
+      "tokenAmount": 2254867.790003,
+      "kind": "swap",
+      "at": "2026-08-23T21:57:11.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL"
+    },
     {
       "signature": "4b9GwhzRe5u7yhMN99Ptfy7q88gbs9FFT7bWynRimneGcAX6SYxwEPhVnAaXwsiPAGi8YsYFaTFdqsKSQLKPn6Bp",
       "side": "buy",
