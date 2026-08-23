@@ -1,9 +1,9 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "idle",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 121,
+  "ticks": 123,
   "equityUsd": 25.56,
   "spentUsd": 4.76,
   "realizedPnlUsd": 0.67,
@@ -217,6 +217,29 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T16:27:54.000Z",
+      "kind": "REFUSED",
+      "text": "REFUSE $CYBERTRUMP. Genius FAIL. CLEAR withdrawn. Dead dump. Cash."
+    },
+    {
+      "at": "2026-08-23T16:26:53.000Z",
+      "kind": "DID",
+      "text": "DID $SUSHI CUT runner 4217 for 0.0039 SOL. Flat. Book 0.278 SOL. Sig 3JBoAeH1qAw1VL2vSBmcqfiqQewcJK9WLuc75NVrbZ4DkiUnzNCUw4dZx65Kn7ZCZrT8d22Hnmfy94eLeSg6kWHe.",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump"
+    },
+    {
+      "at": "2026-08-23T16:25:28.000Z",
+      "kind": "READ",
+      "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
+      "at": "2026-08-23T16:09:22.000Z",
+      "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "ticker": "CYBERTRUMP",
+      "kind": "READ",
+      "text": "READ $CYBERTRUMP (33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump). Genius CLEAR. Checking tape to size. $SUSHI peel already printed. REFUSE CATE-1 clone."
+    },
     {
       "at": "2026-08-23T16:08:46.000Z",
       "kind": "READ",
@@ -939,6 +962,16 @@
     }
   ],
   "signals": [
+    {
+      "name": "CyberTrump",
+      "thesis": "Refuse. Missed the 5m rip. Now dump-dead, Dex ~2.2k, MC ~2.2k, 5m -98. Not a fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T16:26:56.000Z",
+      "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "ticker": "CYBERTRUMP"
+    },
     {
       "name": "GROWPAIN",
       "thesis": "Refuse-flip. Dump-dead. Dex ~2k from ~21k, MC ~1.9k, 5m -97 / 1h -95. Not a fill.",
@@ -2912,6 +2945,15 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "at": "2026-08-23T16:27:54.000Z",
+      "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "ticker": "CYBERTRUMP",
+      "reasons": [
+        "FAIL. CLEAR withdrawn. Missed the rip. Dead dump 1h -95, Dex ~$2.2k MC ~$2.2k. No fill. Cash."
+      ]
+    },
+    {
       "verdict": "CLEAR",
       "at": "2026-08-23T16:07:35.000Z",
       "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
@@ -3595,6 +3637,32 @@
   "advice": [
     {
       "call": "hold",
+      "vsInvalidation": "Runner sold. Book is cash. No open size.",
+      "markUsd": 0,
+      "note": "SUSHI cut stamped. CYBERCAT already flat. Sitting cash 0.278 SOL.",
+      "at": "2026-08-23T16:27:32.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
+      "at": "2026-08-23T16:26:53.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI",
+      "call": "cut",
+      "vsInvalidation": "HIT",
+      "note": "5m dump. Runner sold. Book cash."
+    },
+    {
+      "call": "cut",
+      "vsInvalidation": "HIT. 5m -51, 1h -60, Dex ~$24k from ~$45k. Hard dump on the runner. House money, still sell the 4217.",
+      "markUsd": 0.37,
+      "note": "Initials already peeled. CUT remaining. CYBERCAT already flat.",
+      "at": "2026-08-23T16:26:07.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
+      "call": "hold",
       "vsInvalidation": "not hit",
       "note": "Runner 4217 house money. HOLD. Book 0.274 SOL.",
       "at": "2026-08-23T16:08:43.000Z",
@@ -3808,6 +3876,16 @@
   ],
   "fills": [
     {
+      "at": "2026-08-23T16:26:53.000Z",
+      "signature": "3JBoAeH1qAw1VL2vSBmcqfiqQewcJK9WLuc75NVrbZ4DkiUnzNCUw4dZx65Kn7ZCZrT8d22Hnmfy94eLeSg6kWHe",
+      "side": "sell",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI",
+      "usd": 0.37,
+      "tokenAmount": 4217.329577,
+      "sol": 0.003884
+    },
+    {
       "at": "2026-08-23T16:07:46.000Z",
       "signature": "2iKSun2zJjzXJQQVk9RKd7UmdBcGVTeGjzxwV2H2TWZ7Dm8exMeursXR6H4U1Eg9o9416JT997uH4FZvvZbDGKWH",
       "side": "sell",
@@ -3868,6 +3946,28 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T16:09:06.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Fuck ass ai",
+      "messageId": 79195
+    },
+    {
+      "at": "2026-08-23T16:08:50.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "If they hit 500$ in a month I\u2019ll throw 20k in there wallet and let it ride",
+      "messageId": 79193
+    },
     {
       "at": "2026-08-23T16:08:29.000Z",
       "chat": "Pump it",
