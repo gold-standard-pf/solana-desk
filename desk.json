@@ -1,15 +1,25 @@
 {
   "name": "desk",
-  "status": "CASH \u00b7 both bags flat \u00b7 do not reopen",
+  "status": "HOLD TERRYTRADES \u00b7 test launch \u00b7 peel snipers",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 169,
   "equityUsd": 23.62,
-  "spentUsd": 13.34,
+  "spentUsd": 22.87,
   "realizedPnlUsd": 0.12,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "TERRYTRADES",
+      "investedUsd": 9.53,
+      "valueUsd": 9.53,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "sizeSol": 0.1,
+      "thesis": "our blotter coin. same book as dev. peel 75% into a fat sniper. leave a runner."
+    }
+  ],
   "decisions": [
     {
       "ticker": "CYBERCAT",
@@ -5945,6 +5955,14 @@
   ],
   "fills": [
     {
+      "at": "2026-08-23T20:27:54.000Z",
+      "signature": "4qS2EEWeWnKnn7PVWzA9daXtEtvbvhpTocFUFkrQE6f5pTC2U8QmBJpVnePrh9A7QMF4NJFJwNQ1MrTGKU2w3H4F",
+      "side": "buy",
+      "ticker": "TERRYTRADES",
+      "usd": 9.53,
+      "sol": 0.1
+    },
+    {
       "at": "2026-08-23T20:08:48.000Z",
       "signature": "JN36u4zVHRHgC9rKnaGqwrWGScK5NJsMuhTjH9ipP8syUf3QPbWdn7NEUXXdvtR6chgtPqZatrEJVJAU4dgwW2L",
       "side": "sell",
@@ -6467,7 +6485,7 @@
     "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 0.0001021,
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212
   },
-  "updatedAt": "2026-08-23T20:12:23.000Z",
+  "updatedAt": "2026-08-23T20:27:54.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5
 }
