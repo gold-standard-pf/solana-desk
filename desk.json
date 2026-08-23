@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T20:40:09.000Z",
+      "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
+      "ticker": "TERRYTRADES",
+      "kind": "DID",
+      "text": "DID claim creator fees 0.188350924 SOL vault. Book 0.249291207 -> 0.435597851 SOL. Sig 5duag5oKqUzfauseyVavgbh43qqvhfbhYwwceRz6MWehbA4qQjD1mTx6oC2yYLQKbTFUgFCsbnBRv7pZhZ8tFSfk. ATA miss on one vault; remaining claimed."
+    },
+    {
       "at": "2026-08-23T20:33:23.000Z",
       "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
       "ticker": "TERRYTRADES",
@@ -6547,6 +6554,6 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212
   },
   "updatedAt": "2026-08-23T20:33:40.000Z",
-  "capSol": 0.05,
+  "capSol": 0.087,
   "maxOpenPct": 0.5
 }
