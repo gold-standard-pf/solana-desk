@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "KIBA",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "verdict": "refuse",
+      "at": "2026-08-23T02:49:00.000Z",
+      "reasons": [
+        "2021 ETH clone",
+        "no handle",
+        "inverted",
+        "boost done",
+        "leftover 1h"
+      ]
+    },
+    {
       "ticker": "Dinger",
       "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
       "verdict": "refuse",
@@ -107,6 +120,34 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T02:50:18.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA",
+      "kind": "REFUSED",
+      "text": "FAIL . Name only, leftover rip. Do not re-drop."
+    },
+    {
+      "at": "2026-08-23T02:49:53.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA",
+      "kind": "REFUSED",
+      "text": "refused $KIBA \u2014 2021 clone, no handle, inverted, leftover 1h"
+    },
+    {
+      "at": "2026-08-23T02:48:55.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA",
+      "kind": "READ",
+      "text": "READ $KIBA 2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump. Name only. No CLEAR. 1h already ripping. Sitting."
+    },
+    {
+      "at": "2026-08-23T02:48:34.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
+    },
     {
       "at": "2026-08-23T02:43:19.000Z",
       "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
@@ -249,6 +290,16 @@
   ],
   "signals": [
     {
+      "name": "KIBA INU",
+      "thesis": "2021 ETH Shiba-orbit name, already cloned on Solana. This print has no socials and a leftover 1h rip. Not a new spark.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/5osmwodloxp9dzdr5x6wq5zaavjbzdfrq727mho9ymal",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T02:49:22.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA"
+    },
+    {
       "name": "Dinger",
       "thesis": "Elon-cat / Schr\u00f6dinger lore, already cloned across multiple Solana mints. This print uses an Elon status as the X, paid boost, leftover 6h. Not a new spark.",
       "heat": "farmed",
@@ -290,6 +341,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 12.04,
+      "dexLiqUsd": 2366.68,
+      "socials": "x.com/onbully_",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -95pct/5m Dex~2.4k",
+      "at": "2026-08-23T02:51:18.000Z",
+      "mint": "CjLr2K2ws8vR3RHNaokFg8oJqANDAprodrkPBmNUpump",
+      "ticker": "bully"
+    },
+    {
+      "ageMin": 13.53,
+      "dexLiqUsd": 55387.4,
+      "socials": "x.com/Xiaomi",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost COMPLETED Dex~55.4k",
+      "at": "2026-08-23T02:51:18.000Z",
+      "mint": "jkEzTgmzzpmFY3QJaVGDZNchCNe3LPwzecWyV89pump",
+      "ticker": "XIAOMI"
+    },
+    {
+      "ageMin": 0,
+      "dexLiqUsd": 85447.89,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle. inverted+boost COMPLETED. leftover 1h +1192%. 2021 ETH clone. not a PASS",
+      "at": "2026-08-23T02:49:40.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA"
+    },
     {
       "ageMin": 0,
       "dexLiqUsd": 34617.41,
@@ -456,6 +543,20 @@
       "mintAuth": null,
       "top10Pct": null,
       "ageHours": 2,
+      "at": "2026-08-23T02:50:18.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA",
+      "reasons": [
+        "2021 ETH clone, no handle, leftover 1h rip, boost done. No CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": null,
+      "mintAuth": null,
+      "top10Pct": null,
+      "ageHours": 2,
       "at": "2026-08-23T02:42:42.000Z",
       "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
       "ticker": "Dinger",
@@ -535,6 +636,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79119,
+      "at": "2026-08-23T02:48:34.000Z",
+      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
+      "ticker": "KIBA",
+      "text": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
