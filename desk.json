@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T10:03:39.000Z",
+      "kind": "READ",
+      "text": "REFUSE $KNIFE (iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump). Genius FAIL. Dumped on curve, no Dex. Dead. Cash."
+    },
+    {
       "at": "2026-08-23T09:54:24.000Z",
       "kind": "READ",
       "text": "REFUSE $CLUSTLY (FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump). Genius FAIL. Dumped on curve, no Dex liq. Dead. $KNIFE still a name, cash. Not a fill."
@@ -642,6 +647,30 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 6.4,
+      "dexLiqUsd": 56315.01,
+      "socials": "x.com/CateusMaxi",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE-orbit clone commander-of-cat-memes; inverted+boost IN_PROGRESS PumpSwap Dex~$56.3k; 5m -13% off ATH. Not a PASS.",
+      "at": "2026-08-23T10:06:06.000Z",
+      "mint": "J3veoBM2JZ41Lsc2Zf81E4BxZWRFdqXm7GzC7LYXpump",
+      "ticker": "CATEUS"
+    },
+    {
+      "ageMin": 17.43,
+      "dexLiqUsd": 0,
+      "socials": "https://x.com/KitKnifeDEV",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "dumped on curve $13k to ~$2.6k dead-curve in minutes; no Dex after grad. Same death as CLUSTLY. Do not bring back.",
+      "at": "2026-08-23T10:02:55.000Z",
+      "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
+      "ticker": "KNIFE"
+    },
     {
       "ageMin": 67.7,
       "dexLiqUsd": 0,
@@ -1443,8 +1472,8 @@
       ],
       "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
       "boundAt": "2026-08-23T09:55:26.000Z",
-      "status": "watching",
-      "note": "first print, real handle @KitKnifeDEV, still on curve; bind/board PASS only after Dex liq prints and not inverted"
+      "status": "dead",
+      "note": "dumped on curve to ~$2.6k dead-curve; no Dex. REFUSE. Do not bring back."
     },
     {
       "name": "CLUSTLY",
@@ -1458,6 +1487,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T10:03:14.000Z",
+      "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
+      "ticker": "KNIFE",
+      "reasons": [
+        "dumped on the curve, 5m -80, MC ~2.6k dead-curve, no Dex liq after grad"
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T09:53:11.000Z",
