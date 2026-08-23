@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T16:35:35.000Z",
+      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
+      "ticker": "STONKCAT",
+      "kind": "READ",
+      "text": "READ $STONKCAT. Genius CLEAR. Size 0.03 ready. Group cannot authorize the send. REFUSE $FERGO. $SUSHI stays dead."
+    },
+    {
       "at": "2026-08-23T16:34:42.000Z",
       "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
       "ticker": "SUSHI",
