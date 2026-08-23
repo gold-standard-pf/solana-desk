@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T14:57:12.000Z",
+      "kind": "READ",
+      "text": "READ $CYBERCAT (9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump). Name only. Real handle, Dex after grad, still green. Not $CYBERCATE. Cash until Genius CLEAR."
+    },
+    {
       "at": "2026-08-23T14:39:40.000Z",
       "kind": "READ",
       "text": "REFUSE $catelyn, $OnlyPump, $CATELEEK. Genius FAIL. Boost-done / CATE orbit. Cash."
@@ -612,6 +617,16 @@
   ],
   "signals": [
     {
+      "at": "2026-08-23T14:54:20.327Z",
+      "name": "Cybercat",
+      "thesis": "Live CYBERLEEK+CAT mashup. Real handle @0x_cybercat, PumpSwap Dex about 66k, MC about 618k, 5m +12 / 1h +217. Not the dumped CYBERCATE mint. Hours-old is fine. Boost flag is on but tape is still green near ATH.",
+      "heat": "heating",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "source": "https://x.com/0x_cybercat",
+      "verdict": "PASS",
+      "ticker": "CYBERCAT"
+    },
+    {
       "at": "2026-08-23T14:10:54.443Z",
       "name": "neko",
       "thesis": "TG name. Pair ~17h, 6h already red, boost 100. Age is not why this dies \u2014 the tape is already red. Not a PASS.",
@@ -823,6 +838,54 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 82.1,
+      "dexLiqUsd": 70799.71,
+      "socials": "x.com/0x_cybercat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Not the dumped CYBERCATE mint. Real handle @0x_cybercat, PumpSwap Dex~$70.8k after grad, 5m +16 1h +224 still green. Hours-old is fine. inverted+boost COMPLETED but tape is not a fade. Not a fill.",
+      "at": "2026-08-23T14:56:03.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT"
+    },
+    {
+      "ageMin": 15.5,
+      "dexLiqUsd": 78790.97,
+      "socials": "x.com/MCChampionship_",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "IP impersonation @MCChampionship_ (Minecraft Championship); inverted+boost COMPLETED; PumpSwap Dex~$78.8k; 5m +0.9 holding near ATH ~$968k. Fails (a)+(c). Not a PASS.",
+      "at": "2026-08-23T14:54:32.000Z",
+      "mint": "2QbQqRZVmUm5WfD1rm63N5zEK9WUcEj9gqMWFtWBpump",
+      "ticker": "MC"
+    },
+    {
+      "ageMin": 12.6,
+      "dexLiqUsd": 27772.4,
+      "socials": "x.com/licking_solcat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED; 5m still +26 off ATH ~$145k now ~$139k. Real handle @licking_solcat; PumpSwap Dex~$27.8k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:54:32.000Z",
+      "mint": "FPi4Mt6cAqA3riPS72L1TFrd9eAbxP8YF7EXt1szpump",
+      "ticker": "lickingcat"
+    },
+    {
+      "ageMin": 5.2,
+      "dexLiqUsd": 55636.31,
+      "socials": "x.com/amazon",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation; official @amazon not a token handle; inverted+boost IN_PROGRESS; PumpSwap Dex~$55.6k; 5m +10 ripping. Fails (a)+(c). Not a PASS.",
+      "at": "2026-08-23T14:54:32.000Z",
+      "mint": "RcCvo5JsxNbJNyedW6dZGix5nHae1WuDLi23Mxqpump",
+      "ticker": "Amazon"
+    },
     {
       "ageMin": 115.1,
       "dexLiqUsd": 1956.41,
@@ -2119,6 +2182,42 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:57:15.000Z",
+      "mint": "RcCvo5JsxNbJNyedW6dZGix5nHae1WuDLi23Mxqpump",
+      "ticker": "Amazon",
+      "reasons": [
+        "brand impersonation. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:57:15.000Z",
+      "mint": "FPi4Mt6cAqA3riPS72L1TFrd9eAbxP8YF7EXt1szpump",
+      "ticker": "lickingcat",
+      "reasons": [
+        "HOBBES-shape inverted + boost COMPLETED. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:57:15.000Z",
+      "mint": "2QbQqRZVmUm5WfD1rm63N5zEK9WUcEj9gqMWFtWBpump",
+      "ticker": "MC",
+      "reasons": [
+        "IP impersonation, inverted + boost COMPLETED. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "CLEAR",
+      "at": "2026-08-23T14:57:15.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "reasons": [
+        "CLEAR. Real handle @0x_cybercat, PumpSwap Dex ~$73k after grad, 5m +52 1h +222 still green. Not the dumped CYBERCATE mint. Age ~84m is fine. Not a fill."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T14:39:29.000Z",
