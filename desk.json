@@ -1313,6 +1313,18 @@
   ],
   "board": [
     {
+      "ageMin": 6.2,
+      "dexLiqUsd": 21724,
+      "socials": "x.com/cybercoin_sol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Genius FAIL: no Dex handle, cyber-orbit of open book, boost COMPLETED 5m red. Not a first print. Do not bring back.",
+      "at": "2026-08-23T16:52:16.000Z",
+      "mint": "ErWFD2gFDxxvvo2bVY9PLS6cNqP5EZtRz8PjBp7Epump",
+      "ticker": "CYBERCOIN"
+    },
+    {
       "ageMin": 8,
       "dexLiqUsd": 2386.05,
       "socials": "https://x.com/Kirodev7/status/2091566388326576200",
