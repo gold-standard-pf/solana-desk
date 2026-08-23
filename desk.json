@@ -1761,6 +1761,30 @@
   ],
   "board": [
     {
+      "ageMin": 13.3,
+      "dexLiqUsd": 1882.58,
+      "socials": "status-URL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost COMPLETED dump. PumpSwap Dex printed ~$1,883. 5m -96 1h -95.",
+      "at": "2026-08-23T20:50:45.000Z",
+      "mint": "7MbbgvKTBjxKFr9LbSRd8BGUUMEjE9FbNkbARhx9pump",
+      "ticker": "TFT"
+    },
+    {
+      "ageMin": 25.1,
+      "dexLiqUsd": 15819.68,
+      "socials": "x.com/handlepay_",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. Real handle x.com/handlepay_. PumpSwap Dex printed ~$15,820. 5m +16 does not CLEAR. Do not PASS.",
+      "at": "2026-08-23T20:50:45.000Z",
+      "mint": "3oLjmp4N8a2JTauYkhT6t8ok77wss4DXtbtxHwoKpump",
+      "ticker": "HANDLEPAY"
+    },
+    {
       "ageMin": 3.8,
       "dexLiqUsd": 27917.7,
       "socials": "x.com/GTAVICate",
