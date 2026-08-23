@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T13:10:48.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CHIZZO (55N4h6Et6eu4EAyDjwjAqvwPPudjo1Rt3wKcwX5epump) and $AMD (aNeKejAKyfqfqikYKc5cjyTTszq85tiw7Rd5xcmpump). Genius FAIL. Boost dumps. Cash."
+    },
+    {
       "at": "2026-08-23T13:05:38.000Z",
       "kind": "READ",
       "text": "REFUSE $moneybag (7S8tqYmatHc2UkpYXmpEiFCecHCF1N8ABNL6UYFFpump). Genius FAIL. Inverted + boost done, fading. Cash."
@@ -1772,6 +1777,33 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:10:31.000Z",
+      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
+      "ticker": "Farte",
+      "reasons": [
+        "leftover TG reprint, Fartcoin misspell, no handle, already board REFUSE hours ago. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:10:31.000Z",
+      "mint": "aNeKejAKyfqfqikYKc5cjyTTszq85tiw7Rd5xcmpump",
+      "ticker": "AMD",
+      "reasons": [
+        "brand impersonation, inverted + boost COMPLETED, 5m -99 dead. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:10:31.000Z",
+      "mint": "55N4h6Et6eu4EAyDjwjAqvwPPudjo1Rt3wKcwX5epump",
+      "ticker": "CHIZZO",
+      "reasons": [
+        "inverted + boost dump, 5m -82 1h -94, MC ~2k off ATH. Board already REFUSE. Not a CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T13:05:16.000Z",
