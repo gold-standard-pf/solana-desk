@@ -1649,6 +1649,18 @@
   ],
   "board": [
     {
+      "ageMin": 5,
+      "dexLiqUsd": 586735.63,
+      "socials": "x.com/UnitedOilFund",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Leftover UOTF skip-forever reprint, not a first print. Prior PASS pulled. Do not reopen.",
+      "at": "2026-08-23T19:54:38.000Z",
+      "mint": "KhoE5v92QK79Rtrs9KDJatRNdUiAu4bdJ1Z7eRkpump",
+      "ticker": "UOTF"
+    },
+    {
       "ageMin": 11.62,
       "dexLiqUsd": 3614.64,
       "socials": "x.com/hotdog12354/status/2091612120844501461",
