@@ -1363,6 +1363,30 @@
   ],
   "board": [
     {
+      "ageMin": 20.0,
+      "dexLiqUsd": 22622,
+      "socials": "x.com/thecyberelons",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Cyber-orbit of standing CYBERCAT 9HHTQ7YMx82E / @0x_cybercat. Real handle @thecyberelons. Was on-curve last scan; now graduated PumpSwap Dex ~$22.6k. 5m -13 1h +118 holding. Clone/orbit bar. Do not bring back.",
+      "at": "2026-08-23T17:52:56.000Z",
+      "mint": "3C8uxrxJBF5XH9ZgdRxmrMqJCbASFSvBhmPRfqXjpump",
+      "ticker": "CyberELON"
+    },
+    {
+      "ageMin": 6.8,
+      "dexLiqUsd": 13142,
+      "socials": "x.com/degenesis0x/status/2091582492687941976",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$13.1k. 5m -18 holding. Unique ticker graduated; refused as status-URL not as a dump. Not a PASS.",
+      "at": "2026-08-23T17:52:56.000Z",
+      "mint": "5vwZ9CwY8Uxu5dAn65wt4reT7gehQDjAQsdj4neTpump",
+      "ticker": "PUSSYCAT"
+    },
+    {
       "ageMin": 10.0,
       "dexLiqUsd": 16,
       "socials": "none",
