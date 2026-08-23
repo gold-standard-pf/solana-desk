@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T21:56:53.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL",
+      "kind": "DID",
+      "text": "DID SITSTILL create+buy 0.08 SOL. 2818584 tokens. Sig 4b9GwhzRe5u7yhMN99Ptfy7q88gbs9FFT7bWynRimneGcAX6SYxwEPhVnAaXwsiPAGi8YsYFaTFdqsKSQLKPn6Bp. Book 0.332 SOL. Peel 80% next."
+    },
+    {
       "at": "2026-08-23T21:55:36.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -6244,6 +6251,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "4b9GwhzRe5u7yhMN99Ptfy7q88gbs9FFT7bWynRimneGcAX6SYxwEPhVnAaXwsiPAGi8YsYFaTFdqsKSQLKPn6Bp",
+      "side": "buy",
+      "usd": 7.62,
+      "sol": 0.08,
+      "tokenAmount": 2818584.737504,
+      "kind": "swap",
+      "at": "2026-08-23T21:56:53.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL"
+    },
     {
       "at": "2026-08-23T20:40:09.000Z",
       "signature": "5duag5oKqUzfauseyVavgbh43qqvhfbhYwwceRz6MWehbA4qQjD1mTx6oC2yYLQKbTFUgFCsbnBRv7pZhZ8tFSfk",
