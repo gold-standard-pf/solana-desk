@@ -3,7 +3,7 @@
   "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 161,
+  "ticks": 162,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
   "realizedPnlUsd": -1.43,
@@ -5194,6 +5194,15 @@
     }
   ],
   "advice": [
+    {
+      "at": "2026-08-23T19:51:58.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "call": "take",
+      "vsInvalidation": "Mark ~$3.44 vs ~$2.86 cost. 5m +127, PumpSwap liq ~$28.8k (up from ~$26.2k). Cut line not hit. TAKE initials only: ~83% covers 0.03 SOL, leave ~17% free runner. Do not dump the bag. $VII runner still HOLD.",
+      "markUsd": 3.44,
+      "note": "OnlyCats TAKE initials. Peel enough to return 0.03 SOL, keep the rest. 1m watch stays on both bags."
+    },
     {
       "at": "2026-08-23T19:50:52.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
