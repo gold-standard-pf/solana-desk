@@ -1373,6 +1373,18 @@
   ],
   "board": [
     {
+      "ageMin": 12.2,
+      "dexLiqUsd": 13025.45,
+      "socials": "x.com/callout_pf",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Prior PASS withdrawn. Live-recheck 13:11 CT: inverted+boost IN_PROGRESS, PumpSwap Dex~$13.0k, 5m -5 1h -18 off ATH. HOBBES-shape fade. Real handle @callout_pf. Do not bring back.",
+      "at": "2026-08-23T18:11:41.000Z",
+      "mint": "DREc3Bg1dwa3FkA1H1tGscpx2Lr9rw3hMzDj8287pump",
+      "ticker": "CALLOUT"
+    },
+    {
       "ageMin": 11.6,
       "dexLiqUsd": 15469,
       "socials": "x.com/callout_pf",
