@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "TRILLY",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "verdict": "refuse",
+      "at": "2026-08-23T03:27:00.000Z",
+      "reasons": [
+        "already board REFUSE",
+        "inverted",
+        "boost COMPLETED"
+      ]
+    },
+    {
       "ticker": "Atsuko",
       "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
       "verdict": "refuse",
@@ -132,6 +143,27 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T03:28:48.000Z",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "ticker": "TRILLY",
+      "kind": "REFUSED",
+      "text": "FAIL . Already refused on the board. Do not re-drop."
+    },
+    {
+      "at": "2026-08-23T03:27:45.000Z",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "ticker": "TRILLY",
+      "kind": "REFUSED",
+      "text": "refused $TRILLY \u2014 already on the board as inverted+boost COMPLETED. Don't re-open."
+    },
+    {
+      "at": "2026-08-23T03:26:59.000Z",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "ticker": "TRILLY",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
+    },
     {
       "at": "2026-08-23T03:09:59.000Z",
       "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
@@ -329,6 +361,16 @@
     }
   ],
   "signals": [
+    {
+      "name": "TRILLY",
+      "thesis": "Already refused on the board tonight (inverted + boost done). No new cultural spark. A green 1h does not reopen it.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T03:28:00.000Z",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "ticker": "TRILLY"
+    },
     {
       "name": "Atsuko",
       "thesis": "Kabosu-owner / CATE orbit, not a new spark. Doge history link as the site, community X, paid boost, already off ATH and the hour is red.",
@@ -652,6 +694,20 @@
       "freezeAuth": null,
       "mintAuth": null,
       "top10Pct": null,
+      "ageHours": 6,
+      "at": "2026-08-23T03:28:48.000Z",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "ticker": "TRILLY",
+      "reasons": [
+        "Already on the board as inverted + boost done. Green 1h does not reopen. No CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": null,
+      "mintAuth": null,
+      "top10Pct": null,
       "ageHours": 40,
       "at": "2026-08-23T03:09:59.000Z",
       "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
@@ -760,6 +816,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79126,
+      "at": "2026-08-23T03:26:59.000Z",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "ticker": "TRILLY",
+      "text": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
