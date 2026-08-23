@@ -1766,6 +1766,30 @@
   ],
   "board": [
     {
+      "ageMin": 11.0,
+      "dexLiqUsd": 5188.67,
+      "socials": "status-URL not a real handle",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost COMPLETED. status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$5,189. 5m -7 1h -83.",
+      "at": "2026-08-23T21:46:50.000Z",
+      "mint": "13TwCJxUkk8TgmcErpgEkkKdP7uofBYat5HpVZKnpump",
+      "ticker": "BUCKY"
+    },
+    {
+      "ageMin": 2.9,
+      "dexLiqUsd": 19733.17,
+      "socials": "status-URL not a real handle",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$19,733. 5m +74.",
+      "at": "2026-08-23T21:46:50.000Z",
+      "mint": "BNB3XfWDta7duFRNwAEjC8LRWZj74MNq9WK6ZvPhpump",
+      "ticker": "RAGECAT"
+    },
+    {
       "at": "2026-08-23T21:37:25.000Z",
       "mint": "9SrXqHQszZvDjSPP3Uzf3MJemTQBG7CefX1AzCGJpump",
       "ticker": "NUBCAT",
