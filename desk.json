@@ -1843,6 +1843,30 @@
   ],
   "board": [
     {
+      "ageMin": 7.6,
+      "dexLiqUsd": 3310.32,
+      "socials": "search-URL",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. no handle (search-URL, fails a). Unique ticker graduated; PumpSwap Dex printed then dumped 5m -93.5 856b/571s 1h -90.5 1055b/697s RAC-dead liq ~$3,310. live recheck boost=IN_PROGRESS inverted=true.",
+      "at": "2026-08-23T23:25:13.000Z",
+      "mint": "HuD7oDzovS3GTkqWNsR3r1FjJSjYKmcuie39DWG8pump",
+      "ticker": "ASCEND"
+    },
+    {
+      "ageMin": 7.7,
+      "dexLiqUsd": 26922.91,
+      "socials": "status-URL",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. no handle (status-URL gettindevvy, fails a; site x.com/princessbait420). Unique ticker graduated; PumpSwap Dex printed ~$26,923. 5m -3.3 446b/501s 1h +204 556b/554s. live recheck boost=IN_PROGRESS inverted=true.",
+      "at": "2026-08-23T23:25:13.000Z",
+      "mint": "kpHsnHVMZqkyJ1dszsSt11Wm1w3z68KRS4uTXHnpump",
+      "ticker": "peach69"
+    },
+    {
       "ageMin": 27.5,
       "dexLiqUsd": 23863.99,
       "socials": "status-URL",
