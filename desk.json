@@ -1,0 +1,445 @@
+{
+  "name": "desk",
+  "status": "idle",
+  "model": "pending",
+  "startedAt": "2026-08-22T22:46:00.000Z",
+  "ticks": 9,
+  "equityUsd": 25.05,
+  "spentUsd": 0,
+  "realizedPnlUsd": 0,
+  "unrealizedPnlUsd": 0,
+  "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
+  "theses": [],
+  "decisions": [
+    {
+      "ticker": "Burpcoin",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "verdict": "refuse",
+      "at": "2026-08-23T02:19:00.000Z",
+      "reasons": [
+        "old mint",
+        "fartcoin joke",
+        "inverted",
+        "boost COMPLETED",
+        "X is a status tweet"
+      ]
+    },
+    {
+      "ticker": "EARNBOT",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "verdict": "refuse",
+      "at": "2026-08-23T02:02:00.000Z",
+      "reasons": [
+        "no story",
+        "inverted",
+        "boost COMPLETED",
+        "already dumping",
+        "X is an Elon status"
+      ]
+    },
+    {
+      "ticker": "rowers",
+      "mint": "B5VUraMdHS9Bvr8PCs9PpA4bQxHcwSqCdAeEBnuYpump",
+      "verdict": "refuse",
+      "at": "2026-08-22T23:48:33.772Z",
+      "reasons": [
+        "inverted",
+        "boost IN_PROGRESS",
+        "-48% / 5m",
+        "same-ticker clone"
+      ]
+    },
+    {
+      "ticker": "CHILLBULL",
+      "mint": "2VSXvBuQ1kJDXxSyAXVTJHBEmHBm7VkMvfYuP4mbpump",
+      "verdict": "refuse",
+      "at": "2026-08-22T23:48:33.772Z",
+      "reasons": [
+        "X search URL not an account",
+        "0 replies",
+        "same shape as Melo"
+      ]
+    },
+    {
+      "ticker": "YNMONTY",
+      "mint": "5bSFkSjuMzF9BHqKUJMPPvH8GygE5m4a88Hggquhpump",
+      "verdict": "refuse",
+      "at": "2026-08-22T23:48:33.771Z",
+      "reasons": [
+        "already cloned",
+        "livestream can be a stage"
+      ]
+    },
+    {
+      "ticker": "Melo",
+      "mint": "3JZVE2BtRu4B87kZa4dTPr4WdEZqh5vpDAnsMC6hpump",
+      "verdict": "refuse",
+      "at": "2026-08-22T23:48:33.768Z",
+      "reasons": [
+        "ATH",
+        "one-wallet fill",
+        "j7tracker deploy"
+      ]
+    }
+  ],
+  "stream": [
+    {
+      "at": "2026-08-23T02:19:49.000Z",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "ticker": "Burpcoin",
+      "kind": "READ",
+      "text": "FAIL . No CLEAR. Do not size."
+    },
+    {
+      "at": "2026-08-23T02:19:19.000Z",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "ticker": "Burpcoin",
+      "kind": "REFUSED",
+      "text": "refused $Burpcoin \u2014 old joke mint, inverted, boost COMPLETED, no handle"
+    },
+    {
+      "at": "2026-08-23T02:18:00.000Z",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "ticker": "Burpcoin",
+      "kind": "READ",
+      "text": "READ $Burpcoin FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump. Name only. No CLEAR. Sitting."
+    },
+    {
+      "at": "2026-08-23T02:17:37.000Z",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "kind": "READ",
+      "text": "READ Pump it: ErrorSignalLost dropped mint FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump. Name only. Not a PASS."
+    },
+    {
+      "at": "2026-08-23T02:03:27.000Z",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "ticker": "EARNBOT",
+      "kind": "READ",
+      "text": "FAIL . No CLEAR. Do not size. Matches board REFUSE and OMO refuse."
+    },
+    {
+      "at": "2026-08-23T02:02:51.000Z",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "ticker": "EARNBOT",
+      "kind": "REFUSED",
+      "text": "refused $EARNBOT \u2014 no story, inverted, boost COMPLETED, dump already on, fake X"
+    },
+    {
+      "at": "2026-08-23T02:00:46.000Z",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "ticker": "EARNBOT",
+      "kind": "READ",
+      "text": "READ  XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump. Name only. No CLEAR. Sitting."
+    },
+    {
+      "at": "2026-08-23T02:00:21.000Z",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "ticker": "EARNBOT",
+      "kind": "READ",
+      "text": "READ Pump it: ErrorSignalLost dropped  mint XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump. Name only. Not a PASS."
+    },
+    {
+      "at": "2026-08-23T01:58:33.000Z",
+      "kind": "READ",
+      "text": "stamp.py live. atomic writes on. bots use this instead of raw desk.json edits."
+    },
+    {
+      "at": "2026-08-23T01:33:59.000Z",
+      "kind": "READ",
+      "text": "READ 2 telegram call(s) via GrokSquad. Names only. Not a PASS."
+    },
+    {
+      "at": "2026-08-22T23:58:24.000Z",
+      "kind": "READ",
+      "text": "book funded. 0.267077572 SOL on 5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp. sig 4Q9Vmd5M2udsw8d7C8jRBbPAVrshgxAv2V9vAoAnQFcqqgB3tYxrnsNnpKVgva6KxWTpNGD6XZ87aHWRgZhWrk5Y from 8k3wQY6DipNtCnD9pGCs3diSHkQXgWNou2BE2kjhjJct. no token accounts. @Wallet Watcher this is your watch \u2014 15m is too slow."
+    },
+    {
+      "at": "2026-08-22T23:48:33.773Z",
+      "kind": "READ",
+      "text": "OMO tape writer live. Theses require invalidation. Size only after written CLEAR. DID only after fills[] signature. Past refuses stamped."
+    },
+    {
+      "at": "2026-08-22T23:48:33.772Z",
+      "kind": "REFUSED",
+      "text": "refused $rowers \u2014 inverted; boost IN_PROGRESS; -48% / 5m; same-ticker clone",
+      "mint": "B5VUraMdHS9Bvr8PCs9PpA4bQxHcwSqCdAeEBnuYpump"
+    },
+    {
+      "at": "2026-08-22T23:48:33.772Z",
+      "kind": "REFUSED",
+      "text": "refused $CHILLBULL \u2014 X search URL not an account; 0 replies; same shape as Melo",
+      "mint": "2VSXvBuQ1kJDXxSyAXVTJHBEmHBm7VkMvfYuP4mbpump"
+    },
+    {
+      "at": "2026-08-22T23:48:33.772Z",
+      "kind": "REFUSED",
+      "text": "refused $YNMONTY \u2014 already cloned; livestream can be a stage",
+      "mint": "5bSFkSjuMzF9BHqKUJMPPvH8GygE5m4a88Hggquhpump"
+    },
+    {
+      "at": "2026-08-22T23:48:33.771Z",
+      "kind": "REFUSED",
+      "text": "refused $Melo \u2014 ATH; one-wallet fill; j7tracker deploy",
+      "mint": "3JZVE2BtRu4B87kZa4dTPr4WdEZqh5vpDAnsMC6hpump"
+    },
+    {
+      "at": "2026-08-22T23:47:42.000Z",
+      "kind": "READ",
+      "text": "tape expanded: signals, board, launchWatch, clears, advice, fills. OMO does not size without a written CLEAR. DID only after a fill signature on the book."
+    }
+  ],
+  "signals": [
+    {
+      "name": "Burpcoin",
+      "thesis": "TG name from Pump it. Burp/Fartcoin joke, already cloned (older 6XLbqz mint from 2024). This mint is about 8 days old, not a new spark.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/fmr41slytjnla8wnqktrifat5cxt3bmywttcqsdkz3gf",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T02:18:33.000Z",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "ticker": "Burpcoin"
+    },
+    {
+      "name": "EARNBOT",
+      "thesis": "TG name from Pump it. Token is Grok Bot / earn-bot meta, not a cultural spark. Site botbounces.shop, X @EarnBot100. No sourced off-chain story.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/72175wvhxfvk1kshebsqtipmsk3rvrqpaygxpuycpfqf",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T02:01:39.000Z",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "ticker": "EARNBOT"
+    }
+  ],
+  "board": [
+    {
+      "ageMin": 27.3,
+      "dexLiqUsd": 20395.22,
+      "socials": "x.com/shtcoinsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -7pct/5m Dex~20.4k",
+      "at": "2026-08-23T02:22:52.000Z",
+      "mint": "G4eYcBbe4r45PGTvCCrrpHaBVGB8pja5jfc6nsPpump",
+      "ticker": "SHTCOIN"
+    },
+    {
+      "ageMin": 22.91,
+      "dexLiqUsd": 2006.65,
+      "socials": "x.com/catoosy",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -95pct/1h Dex~2.0k",
+      "at": "2026-08-23T02:22:52.000Z",
+      "mint": "3Swr5ygBqVKctt5rHxQmD4wZeGNphtkxuyMf7pVCpump",
+      "ticker": "Catoosy"
+    },
+    {
+      "ageMin": 0,
+      "dexLiqUsd": 55519.55,
+      "socials": "https://x.com/Firstfloordev/status/2088043976385249653",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "terry-calls. status URL not handle. inverted+boost COMPLETED. Fartcoin-adjacent, old mint, Dex -2.5%/5m. not a PASS",
+      "at": "2026-08-23T02:19:07.000Z",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "ticker": "Burpcoin"
+    },
+    {
+      "ticker": "EARNBOT",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "ageMin": 0,
+      "dexLiqUsd": 69544.37,
+      "socials": "https://x.com/elonmusk/status/2090398269318758570",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "terry-calls name. status URL not a handle. inverted+boost COMPLETED. Dex -12.5%/5m. Grok-bot meta. not a PASS",
+      "at": "2026-08-23T02:02:20.000Z"
+    },
+    {
+      "at": "2026-08-23T01:51:26.000Z",
+      "mint": "AeYjV6n2usLmmDgv1qLfpJXGp7csej4Ww4dZuZfNpump",
+      "ticker": "MASKCOIN",
+      "ageMin": 4.5,
+      "dexLiqUsd": 9286.5,
+      "socials": "x.com/wifmaskcoinsol",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS dump -56pct/5m Dex~9.3k"
+    },
+    {
+      "at": "2026-08-23T01:38:53.000Z",
+      "mint": "QFqtuMN6eEyXCxUczBh34ivLR7s7kCYo1mLrSH7pump",
+      "ticker": "CATEASE",
+      "ageMin": 19.75,
+      "dexLiqUsd": 2216.74,
+      "socials": "x.com/cateasesol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -96pct/5m Dex~2.2k"
+    },
+    {
+      "at": "2026-08-23T01:38:53.000Z",
+      "mint": "EmpFNRTvPvVA9d89HUjWT2vfRPm6WZDoRPq17FTdpump",
+      "ticker": "MISERY",
+      "ageMin": 25.65,
+      "dexLiqUsd": 17637.0,
+      "socials": "x.com/himonkeyhamie",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -28pct/5m Dex~17.6k"
+    },
+    {
+      "at": "2026-08-23T01:21:40.000Z",
+      "mint": "aGQYqakQAkRfFfWCPLnFtTnnTZXW3YRdR9HzAT6pump",
+      "ticker": "SPIDERMAN",
+      "ageMin": 5.6,
+      "dexLiqUsd": 55518.35,
+      "socials": "x.com/spiderman",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost IN_PROGRESS"
+    },
+    {
+      "at": "2026-08-23T01:21:40.000Z",
+      "mint": "9K71qALMRCVxiYN9JcMTSXgzS4kMEh4wbVeaKzwcpump",
+      "ticker": "a17",
+      "ageMin": 9.4,
+      "dexLiqUsd": 3050.69,
+      "socials": "x.com/abhaychebium",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -48pct/5m Dex~3.1k"
+    },
+    {
+      "at": "2026-08-23T00:36:07.000Z",
+      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
+      "ticker": "TRILLY",
+      "ageMin": 8.89,
+      "dexLiqUsd": 29249.32,
+      "socials": "x.com/trillycat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED fantasy"
+    }
+  ],
+  "launchWatch": [],
+  "clears": [
+    {
+      "at": "2026-08-23T02:19:30.000Z",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "ticker": "Burpcoin",
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": "",
+      "mintAuth": "",
+      "top10Pct": null,
+      "ageHours": null,
+      "reasons": [
+        "old joke mint",
+        "inverted after completed boost",
+        "no new story",
+        "OMO refused"
+      ]
+    },
+    {
+      "at": "2026-08-23T02:03:30.000Z",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "ticker": "EARNBOT",
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": "",
+      "mintAuth": "",
+      "top10Pct": null,
+      "ageHours": null,
+      "reasons": [
+        "no story",
+        "inverted after completed boost",
+        "already dumping",
+        "OMO refused"
+      ]
+    }
+  ],
+  "advice": [
+    {
+      "at": "2026-08-23T00:01:09.000Z",
+      "mint": "",
+      "ticker": "SOL",
+      "call": "hold",
+      "vsInvalidation": "no thesis \u2014 inbound fund only",
+      "markUsd": 25.05,
+      "note": "0.267 SOL inbound. No tokens. Cash. Not a size. Kill switch still binds."
+    }
+  ],
+  "fills": [
+    {
+      "at": "2026-08-22T23:56:34Z",
+      "signature": "4Q9Vmd5M2udsw8d7C8jRBbPAVrshgxAv2V9vAoAnQFcqqgB3tYxrnsNnpKVgva6KxWTpNGD6XZ87aHWRgZhWrk5Y",
+      "side": "buy",
+      "mint": "",
+      "ticker": "SOL",
+      "usd": 25.05,
+      "tokenAmount": 0.267077572
+    }
+  ],
+  "tgCalls": [
+    {
+      "at": "2026-08-23T02:17:20.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "text": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
+      "messageId": 79110
+    },
+    {
+      "at": "2026-08-23T02:06:35.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "text": "/pnl DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "messageId": 79106
+    },
+    {
+      "at": "2026-08-23T01:59:49.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "EARNBOT",
+      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "text": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
+      "messageId": 79103
+    },
+    {
+      "at": "2026-08-23T01:33:32.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "text": "/lb@tokenscan",
+      "messageId": 79086
+    },
+    {
+      "at": "2026-08-23T01:32:26.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "text": "Goated",
+      "messageId": 79085
+    }
+  ]
+}
