@@ -218,6 +218,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:53:26.000Z",
+      "kind": "DID",
+      "text": "DID $CYBERCAT peel 1400 tokens for 0.0195 SOL. Runner 858 left. Sig 57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR. HOLD $SUSHI.",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
+    },
+    {
       "at": "2026-08-23T15:47:00.000Z",
       "kind": "READ",
       "text": "HOLD both. $CYBERCAT ~+33. $SUSHI flat vs fill. Invalidation not hit."
@@ -3366,6 +3372,14 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T15:53:26.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "call": "take",
+      "vsInvalidation": "not hit",
+      "note": "Initials peeled. Runner left. HOLD SUSHI."
+    },
+    {
       "call": "hold",
       "vsInvalidation": "5m -28 giveback, Dex ~$33k still standing, buys > sells. No initials to take. Cut if waterfall continues, bid dies, or Dex breaks.",
       "markUsd": 2.17,
@@ -3496,6 +3510,16 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T15:53:26.000Z",
+      "signature": "57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR",
+      "side": "sell",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "usd": 1.85,
+      "tokenAmount": 1400,
+      "sol": 0.0195
+    },
     {
       "at": "2026-08-23T15:21:05.000Z",
       "signature": "54zLKG64rFVG8kTwch8sqchfWMSPUKyhVVYax7n46T67kLTm2V2cebDDLBSh3w7TsCtXaDxkga2sbR4kmrVgyYSD",
