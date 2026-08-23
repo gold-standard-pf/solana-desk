@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T20:26:46.000Z",
+      "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
+      "ticker": "TERRYTRADES",
+      "kind": "DID",
+      "text": "DID TERRYTRADES create+buy 0.1 SOL. Sig 4qS2EEWeWnKnn7PVWzA9daXtEtvbvhpTocFUFkrQE6f5pTC2U8QmBJpVnePrh9A7QMF4NJFJwNQ1MrTGKU2w3H4F. Book 0.146 SOL. Sniper peel 75% if fat buy hits."
+    },
+    {
       "at": "2026-08-23T20:25:46.000Z",
       "mint": "GmghJHqqrJRWieYTjnWZkTbvKVQhUvChpbXwha8mpump",
       "ticker": "FLAM",
