@@ -169,6 +169,17 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T08:18:43.000Z",
+      "kind": "READ",
+      "text": "REFUSE $GLITCH (GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump). Genius FAIL. Pair ~6h, already ran, leftover. Cash."
+    },
+    {
+      "at": "2026-08-23T08:17:57.000Z",
+      "mint": "GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-23T07:33:35.000Z",
       "kind": "READ",
       "text": "REFUSE $F\u00e9licette (F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D). Genius FAIL. 2024 mint, no handle, revival not first print. Cash."
@@ -456,6 +467,16 @@
   ],
   "signals": [
     {
+      "name": "GLITCH",
+      "thesis": "TG drop on a ~6h mint that already ran. Handle exists. Still leftover, not a first print.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T08:19:24.000Z",
+      "mint": "GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump",
+      "ticker": "GLITCH"
+    },
+    {
       "name": "F\u00e9licette",
       "thesis": "2024 mint revival of the space-cat lore. Not a minutes-old first print. Leftover.",
       "heat": "farmed",
@@ -557,6 +578,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 360,
+      "dexLiqUsd": 34814.78,
+      "socials": "x.com/SolGlitch_",
+      "boost": "IN_PROGRESS",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "TG leftover ~6h, already ran +422%/6h, boost 80. Not a first print.",
+      "at": "2026-08-23T08:19:55.000Z",
+      "mint": "GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump",
+      "ticker": "GLITCH"
+    },
     {
       "ageMin": 9.9,
       "dexLiqUsd": 41479.84,
@@ -1214,6 +1247,23 @@
       "freezeAuth": "",
       "mintAuth": "",
       "top10Pct": "",
+      "ageHours": 6,
+      "reasons": [
+        "leftover 6h",
+        "+413pct 6h",
+        "boost 80",
+        "not first print"
+      ],
+      "at": "2026-08-23T08:18:05.000Z",
+      "mint": "GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump",
+      "ticker": "GLITCH"
+    },
+    {
+      "verdict": "FAIL",
+      "lpBurned": "",
+      "freezeAuth": "",
+      "mintAuth": "",
+      "top10Pct": "",
       "ageHours": 24,
       "reasons": [
         "old mint 2024",
@@ -1384,6 +1434,16 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79149,
+      "at": "2026-08-23T08:17:57.000Z",
+      "mint": "GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump",
+      "text": "GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
