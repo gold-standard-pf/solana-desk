@@ -670,6 +670,18 @@
   ],
   "board": [
     {
+      "ageMin": 12.8,
+      "dexLiqUsd": 29066.45,
+      "socials": "x.com/BullishCatPump",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted dump; PumpSwap Dex~$29.1k; CATE-adjacent cat; not a PASS",
+      "at": "2026-08-23T10:54:02.000Z",
+      "mint": "6viwViudfDz2s9C7CoqUTPVHZDksywbaf1sxTH9jpump",
+      "ticker": "BULLISHCAT"
+    },
+    {
       "ageMin": 10.59,
       "dexLiqUsd": 190349.6,
       "socials": "x.com/UnitedOilFund",
