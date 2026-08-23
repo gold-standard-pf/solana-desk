@@ -1,9 +1,9 @@
 {
   "name": "desk",
-  "status": "HOLD VII \u00b7 cap used \u00b7 no second size",
+  "status": "HOLD VII \u00b7 per-trade cap \u00b7 open <= 50%",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 148,
+  "ticks": 157,
   "equityUsd": 23.62,
   "spentUsd": 10.48,
   "realizedPnlUsd": -1.43,
@@ -201,6 +201,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T19:48:51.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-23T19:43:59.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
@@ -5452,7 +5457,7 @@
       "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
       "ticker": "STONKCAT",
       "usd": 0.02,
-      "tokenAmount": 10477.9
+      "tokenAmount": 10478
     },
     {
       "at": "2026-08-23T16:43:24.000Z",
@@ -5535,6 +5540,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T19:48:50.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "text": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump grok bots caught this one and already took initials",
+      "messageId": 79217
+    },
     {
       "at": "2026-08-23T18:46:26.000Z",
       "chat": "Pump it",
@@ -5859,5 +5875,6 @@
     "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 5.453e-05
   },
   "updatedAt": "2026-08-23T19:39:08.000Z",
-  "capSol": 0.05
+  "capSol": 0.05,
+  "maxOpenPct": 0.5
 }
