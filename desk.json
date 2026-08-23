@@ -1289,6 +1289,30 @@
   ],
   "board": [
     {
+      "ageMin": 8.0,
+      "dexLiqUsd": 57443.87,
+      "socials": "x.com/redbull",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation; official @redbull not a token handle. inverted+boost COMPLETED. PumpSwap Dex~$57.4k, 5m +10 holding. Fails (a) impersonation. Not a PASS.",
+      "at": "2026-08-23T16:40:36.000Z",
+      "mint": "Fqqr4NkwU4TUdcy7GKQieFjEAkXsRuD7r62mRGcPpump",
+      "ticker": "Redbull"
+    },
+    {
+      "ageMin": 96.5,
+      "dexLiqUsd": 2360.66,
+      "socials": "x.com/SushiCatPump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED dump-dead fade; 5m floor 1h -99, PumpSwap Dex $23k->$2.4k MC~$2.2k RAC-dead. Genius FAIL. Do not reopen.",
+      "at": "2026-08-23T16:40:36.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
       "ageMin": 24.5,
       "dexLiqUsd": 33918.63,
       "socials": "https://x.com/StonkCatPump",
