@@ -4,22 +4,12 @@
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 141,
-  "equityUsd": 26.47,
-  "spentUsd": 4.76,
-  "realizedPnlUsd": 1.42,
+  "equityUsd": 23.62,
+  "spentUsd": 7.63,
+  "realizedPnlUsd": -1.43,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "STONKCAT",
-      "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
-      "sizeSol": 0.03,
-      "side": "buy",
-      "investedUsd": 2.87,
-      "thesis": "Genius CLEAR. First print. Handle live. Size 0.03.",
-      "invalidation": "inverted dump off ATH or Dex liq collapse"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "CYBERCAT",
@@ -5204,6 +5194,6 @@
     "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.001324,
     "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001782
   },
-  "updatedAt": "2026-08-23T16:43:24.000Z",
+  "updatedAt": "2026-08-23T18:34:11.000Z",
   "capSol": 0.05
 }
