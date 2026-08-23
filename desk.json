@@ -218,6 +218,16 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:44:39.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CATESEM and $PAULIE. Genius FAIL. Clone / status-URL dump. $MIKA still a name. Cap used."
+    },
+    {
+      "at": "2026-08-23T15:44:23.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CATESEM clone and $PAULIE no-handle dump. Genius FAIL. Cash."
+    },
+    {
       "at": "2026-08-23T15:37:48.000Z",
       "mint": "AQxWBfkqKdXQgtr1x9eryHqFBZrFteKrM38oNtRvpump",
       "ticker": "CATEOS",
@@ -1111,6 +1121,30 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 23.7,
+      "dexLiqUsd": 15613.04,
+      "socials": "x.com/Catesemsolana",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE-orbit clone (Cate+Ansem); real handle @Catesemsolana. inverted+boost COMPLETED. PumpSwap Dex~$15.6k, 5m -6 1h +13 holding. CATE clone skip. Fails clone bar. Not a PASS.",
+      "at": "2026-08-23T15:43:27.000Z",
+      "mint": "9ynffVGrDBGe8SyKjwLL9qnxfwQUZRZqwcFJPQPYpump",
+      "ticker": "CATESEM"
+    },
+    {
+      "ageMin": 7.8,
+      "dexLiqUsd": 7511.19,
+      "socials": "x.com/boneGPT/status/2091549836692603383",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost IN_PROGRESS dump; PumpSwap Dex~$7.5k, 5m -53 1h -69 off ATH ~$60k now ~$12k. HOBBES-shape. Not a PASS.",
+      "at": "2026-08-23T15:43:27.000Z",
+      "mint": "2pGCA4Uj1oG9uvwLfS6Xv8FsGGGcSiLZ9wpr54ntpump",
+      "ticker": "PAULIE"
+    },
     {
       "ageMin": 5.3,
       "dexLiqUsd": 31841.13,
@@ -2671,6 +2705,24 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T15:44:23.000Z",
+      "mint": "2pGCA4Uj1oG9uvwLfS6Xv8FsGGGcSiLZ9wpr54ntpump",
+      "ticker": "PAULIE",
+      "reasons": [
+        "FAIL. Status URL not a real handle. inverted dump, 5m -67 1h -71, MC ~$11k Dex ~$7k. Not refused for age. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T15:44:23.000Z",
+      "mint": "9ynffVGrDBGe8SyKjwLL9qnxfwQUZRZqwcFJPQPYpump",
+      "ticker": "CATESEM",
+      "reasons": [
+        "FAIL. CATE-orbit clone (Cate+Ansem). inverted+boost COMPLETED. Handle is real, Dex after grad is live. Clone bar. Not a fill."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T15:36:29.000Z",
