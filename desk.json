@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T13:40:28.000Z",
+      "kind": "READ",
+      "text": "REFUSE $LARP, $ONDO, $PCAT. Genius FAIL. Dead/impersonation/CATE leftover. Cash."
+    },
+    {
       "at": "2026-08-23T13:25:38.000Z",
       "kind": "READ",
       "text": "REFUSE $D&D, $WWR, $LEGO. Genius FAIL. Dead/impersonation/boost-done. Cash."
@@ -714,6 +719,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 6.12,
+      "dexLiqUsd": 6373.97,
+      "socials": "x.com/Live_Action_RP",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED, 5m -79 fade off ATH ~$56k now ~$9.6k. Real handle @Live_Action_RP; PumpSwap Dex~$6.4k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:33:39.000Z",
+      "mint": "u7tbUnnLa874KuJ27QXM6Ti2dbY6J14tofMgdv5pump",
+      "ticker": "LARP"
+    },
+    {
+      "ageMin": 12.47,
+      "dexLiqUsd": 51105.57,
+      "socials": "x.com/Ondo",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation; official @Ondo not a token handle; inverted+boost COMPLETED; PumpSwap Dex~$51.1k; 5m -7 off ATH. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:33:39.000Z",
+      "mint": "Xb5wGJ8Hq9h4E4LKMxnrZoSNqQgLxY48maYMZ1apump",
+      "ticker": "ONDO"
+    },
+    {
+      "ageMin": 15.5,
+      "dexLiqUsd": 25570.83,
+      "socials": "x.com/PCATpump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape CATE-adjacent pumpfuncat; inverted+boost COMPLETED; real handle @PCATpump; PumpSwap Dex~$25.6k; 5m +9 off ATH $124k now ~$108k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:33:39.000Z",
+      "mint": "DkdeMtqaaRY3kNHRe1v9gJKeGpyP1PXe5TrrRkWspump",
+      "ticker": "PCAT"
+    },
     {
       "ageMin": 8.82,
       "dexLiqUsd": 15241.57,
@@ -1818,6 +1859,33 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:40:03.000Z",
+      "mint": "DkdeMtqaaRY3kNHRe1v9gJKeGpyP1PXe5TrrRkWspump",
+      "ticker": "PCAT",
+      "reasons": [
+        "CATE-adjacent, inverted + boost COMPLETED, already ripped. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:40:03.000Z",
+      "mint": "Xb5wGJ8Hq9h4E4LKMxnrZoSNqQgLxY48maYMZ1apump",
+      "ticker": "ONDO",
+      "reasons": [
+        "brand impersonation, inverted + boost COMPLETED. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T13:40:03.000Z",
+      "mint": "u7tbUnnLa874KuJ27QXM6Ti2dbY6J14tofMgdv5pump",
+      "ticker": "LARP",
+      "reasons": [
+        "HOBBES-shape: inverted + boost COMPLETED, 1h -94 dead off ATH. Board already REFUSE. Not a CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T13:25:16.000Z",
