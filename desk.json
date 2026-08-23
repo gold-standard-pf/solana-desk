@@ -1346,6 +1346,42 @@
   ],
   "board": [
     {
+      "ageMin": 3.8,
+      "dexLiqUsd": 13457,
+      "socials": "x.com/lolahiggins223/status/2091577486836392081",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$13.5k. inverted+boost IN_PROGRESS. 5m -13 holding \u2014 refused as status-URL.",
+      "at": "2026-08-23T17:29:41.000Z",
+      "mint": "H1VzU4k7cjSZaqLkfhzmvt2CvgZZUUqdsNwqVmtApump",
+      "ticker": "green"
+    },
+    {
+      "ageMin": 9.3,
+      "dexLiqUsd": 123705,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex~$124k. inverted+boost COMPLETED. 5m +2 holding \u2014 refused as no handle, not as fade.",
+      "at": "2026-08-23T17:29:41.000Z",
+      "mint": "Gf4uXBK1KDRgXaxmGRd5VcpdTep4Kuo6AVtP7xqpump",
+      "ticker": "TNOS"
+    },
+    {
+      "ageMin": 9.2,
+      "dexLiqUsd": 2568,
+      "socials": "x.com/selfawarepepe/status/2091575915914330226",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed then dumped RAC-dead ~$2.6k; 5m -94 1h -93. inverted+boost COMPLETED dump.",
+      "at": "2026-08-23T17:29:41.000Z",
+      "mint": "LHbswJTEWKUTyfX34kGDHogY66UiKQxnaxKsjaFpump",
+      "ticker": "DELUSIONAL"
+    },
+    {
       "ageMin": 7.7,
       "dexLiqUsd": 55821,
       "socials": "x.com/OpenAI",
