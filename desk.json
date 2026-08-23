@@ -710,6 +710,42 @@
   ],
   "board": [
     {
+      "ageMin": 8.82,
+      "dexLiqUsd": 15241.57,
+      "socials": "x.com/doganddogsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED, 5m -13 fade off ATH ~$90k now ~$54k. Real handle @doganddogsol; PumpSwap Dex~$15.2k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:22:44.000Z",
+      "mint": "Ho77WkfqpU8n8QFZpr6wroH5FB8BqHBSDGfXaSKspump",
+      "ticker": "D&D"
+    },
+    {
+      "ageMin": 8.88,
+      "dexLiqUsd": 591754.68,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake world institution World Water Reserve; no handle; inverted+boost COMPLETED; PumpSwap Dex~$592k; fantasy MC ~$52M. Not a PASS.",
+      "at": "2026-08-23T13:22:44.000Z",
+      "mint": "3wqbmnkV76YBxXKKY8qJPbJgdYdqaLPmuJ8FeiPmpump",
+      "ticker": "WWR"
+    },
+    {
+      "ageMin": 12.12,
+      "dexLiqUsd": 52646.63,
+      "socials": "x.com/LEGO_Group",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation; official @LEGO_Group not a token handle; inverted+boost COMPLETED; PumpSwap Dex~$52.6k; 5m -4 off ATH. Fails (c). Not a PASS.",
+      "at": "2026-08-23T13:22:44.000Z",
+      "mint": "rpiYNtbA8osAiTR9Rpdj1qM6YpKQN6XJGL5rBAdpump",
+      "ticker": "LEGO"
+    },
+    {
       "ageMin": 5.12,
       "dexLiqUsd": 7422.04,
       "socials": "x.com/chizzosol",
