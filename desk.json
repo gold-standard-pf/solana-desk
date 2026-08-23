@@ -1397,6 +1397,42 @@
   ],
   "board": [
     {
+      "ageMin": 16.5,
+      "dexLiqUsd": 6237.7,
+      "socials": "x.com/poolhorsesol",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Was curve last scan; now graduated. Real handle @poolhorsesol. PumpSwap Dex printed ~$6,238. inverted+boost IN_PROGRESS. 5m -78 1h -76 dumping. HOBBES-shape fade. Fails (c). Not refused for age. Live-recheck 18:24Z. Not a PASS.",
+      "at": "2026-08-23T18:24:02.000Z",
+      "mint": "3RUNAakFkBhncScGRhV7txPHoabgg8kP9ycT8ENopump",
+      "ticker": "HORSE"
+    },
+    {
+      "ageMin": 17.5,
+      "dexLiqUsd": 5614.59,
+      "socials": "x.com/SolPawCrypto",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Was curve last scan; now graduated. Real handle @SolPawCrypto. PumpSwap Dex printed ~$5,615. inverted+boost COMPLETED. 5m -80 1h -80 off ATH. HOBBES-shape fade. Fails (c). Not refused for age. Live-recheck 18:24Z. Not a PASS.",
+      "at": "2026-08-23T18:24:02.000Z",
+      "mint": "77MqJyigmPRjPdGaRgUtXoUYBoXEsuCiVjDe3Yg9pump",
+      "ticker": "PAW"
+    },
+    {
+      "ageMin": 9.5,
+      "dexLiqUsd": 33446.48,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$33,446. 5m +77 1h +264 holding \u2014 refused as no handle, not as a dump. inverted+boost COMPLETED, not a HOBBES-fade. Live-recheck 18:24Z. Not a PASS.",
+      "at": "2026-08-23T18:24:02.000Z",
+      "mint": "9ddBkYDHiqVvxecCG7RM6Tmen9fTeTPPquhLLwTopump",
+      "ticker": "MISO"
+    },
+    {
       "ageMin": 15.9,
       "dexLiqUsd": 5622.36,
       "socials": "x.com/SolPawCrypto",
