@@ -3493,6 +3493,15 @@
   ],
   "advice": [
     {
+      "call": "hold",
+      "vsInvalidation": "Not hit. Dex ~$37k, 5m was green on last mark. CYBERCAT runner is flat (sold). Cut SUSHI if 5m waterfall, bid dies, or Dex breaks.",
+      "markUsd": 2.75,
+      "note": "CYBERCAT cut stamped. Only open is SUSHI 12817. HOLD.",
+      "at": "2026-08-23T16:03:29.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
       "at": "2026-08-23T16:02:59.000Z",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
       "ticker": "CYBERCAT",
