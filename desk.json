@@ -1766,6 +1766,42 @@
   ],
   "board": [
     {
+      "ageMin": 12,
+      "dexLiqUsd": 25415,
+      "socials": "status-URL",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost IN_PROGRESS. PumpSwap Dex ~25.4k. 5m +214 green does not clear Hobbes IN_PROGRESS (HANDLEPAY shape).",
+      "at": "2026-08-23T21:16:29.000Z",
+      "mint": "Da9TrRXf69zR5FU1nvwwPyA3DwiJYxv4ZXtnaWNzpump",
+      "ticker": "PUGCOIN"
+    },
+    {
+      "ageMin": 14,
+      "dexLiqUsd": 18850,
+      "socials": "status-URL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). inverted+boost COMPLETED. PumpSwap Dex ~18.8k. 5m still green does not clear Hobbes.",
+      "at": "2026-08-23T21:16:29.000Z",
+      "mint": "pYCXxKFo8hugeBXU6JyEF4JRcJE1FwGiGMaKBoQpump",
+      "ticker": "JOBCOIN"
+    },
+    {
+      "ageMin": 13,
+      "dexLiqUsd": 1899,
+      "socials": "x.com/NubCat_solX",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost COMPLETED. Real handle x.com/NubCat_solX. PumpSwap Dex printed ~1.9k. 5m -97 dump. Handle+Dex do not save Hobbes COMPLETED.",
+      "at": "2026-08-23T21:16:29.000Z",
+      "mint": "J1j4SjaLqwJRYDdsDN7hqmUWhafjZMHYgMypH7cNpump",
+      "ticker": "NUBCAT"
+    },
+    {
       "ageMin": 8.1,
       "dexLiqUsd": 36328.27,
       "socials": "status-URL",
