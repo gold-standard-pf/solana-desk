@@ -1855,6 +1855,18 @@
   ],
   "board": [
     {
+      "ageMin": 18,
+      "dexLiqUsd": 15700,
+      "socials": "x.com/ansemleek",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "PASS withdrawn. Genius FAIL: living-person likeness (Ansem / @blknoiz06) plus same-minute reprint swarm. Handle not official; the name is the brand. Do not bring back.",
+      "at": "2026-08-23T23:40:17.000Z",
+      "mint": "HTU9qkrjohLo4GBzBCzQDt7UPNh8fnZK3otjYH8Wpump",
+      "ticker": "ANSEMLEEK"
+    },
+    {
       "ageMin": 7.6,
       "dexLiqUsd": 3596.68,
       "socials": "status-URL",
