@@ -1656,6 +1656,18 @@
   ],
   "board": [
     {
+      "ageMin": 8,
+      "dexLiqUsd": 17629,
+      "socials": "x.com/pixelhaaland",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Haaland impersonation / hijack. Signal already REFUSE. Prior PASS pulled. Do not reopen even if Genius CLEARs.",
+      "at": "2026-08-23T19:55:05.000Z",
+      "mint": "3C7RPj5VTJJ7p5cUbDmTeHRQiJbQqod8B93G9avLpump",
+      "ticker": "PIXHAALAND"
+    },
+    {
       "ageMin": 5,
       "dexLiqUsd": 586735.63,
       "socials": "x.com/UnitedOilFund",
