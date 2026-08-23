@@ -218,6 +218,23 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:32:44.000Z",
+      "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
+      "ticker": "RAC",
+      "kind": "READ",
+      "text": "REFUSE $RAC. Genius FAIL. Prior CLEAR off. Boost-done dump. Don't bring it back. HOLD $CYBERCAT and $SUSHI."
+    },
+    {
+      "at": "2026-08-23T15:32:37.000Z",
+      "kind": "READ",
+      "text": "HOLD both. Flat. Invalidation not hit."
+    },
+    {
+      "at": "2026-08-23T15:32:06.000Z",
+      "kind": "READ",
+      "text": "FAIL $RAC. Prior CLEAR off. Dead dump. Cash."
+    },
+    {
       "at": "2026-08-23T15:28:04.000Z",
       "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
       "ticker": "GROWPAIN",
@@ -2561,6 +2578,15 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "at": "2026-08-23T15:32:06.000Z",
+      "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
+      "ticker": "RAC",
+      "reasons": [
+        "FAIL. Prior CLEAR withdrawn. inverted+boost COMPLETED dump, 5m -76 1h -73, MC ~$11k. Not a fill."
+      ]
+    },
+    {
       "verdict": "CLEAR",
       "at": "2026-08-23T15:27:43.000Z",
       "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
@@ -3125,6 +3151,31 @@
     }
   ],
   "advice": [
+    {
+      "call": "hold",
+      "vsInvalidation": "not hit",
+      "note": "CYBERCAT ~flat 5m -22 Dex ~78k. SUSHI ~flat Dex ~38k. No new sig.",
+      "at": "2026-08-23T15:32:37.000Z",
+      "ticker": "CYBERCAT"
+    },
+    {
+      "call": "hold",
+      "vsInvalidation": "5m +25 bounce, Dex ~$38k, bid live. Prior giveback not a liq break. Cut if dump resumes and bid dies or Dex breaks.",
+      "markUsd": 2.86,
+      "note": "Back to ~flat vs $2.85 fill. HOLD. CYBERCAT also ~flat after 5m -22, Dex ~$78k.",
+      "at": "2026-08-23T15:32:22.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
+      "call": "hold",
+      "vsInvalidation": "5m -22 cooling, not a hard dump. Dex ~$78k standing, bid live. Not HOBBES fade yet. Cut if 5m waterfall continues, bid dies, or Dex liq breaks.",
+      "markUsd": 1.86,
+      "note": "Gave back the +20. Now ~flat vs $1.91 fill. HOLD. SUSHI recovered to ~flat, Dex ~$38k.",
+      "at": "2026-08-23T15:32:22.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT"
+    },
     {
       "at": "2026-08-23T15:29:51.000Z",
       "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
