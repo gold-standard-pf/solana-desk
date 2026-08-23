@@ -3,7 +3,7 @@
   "status": "HOLD VII \u00b7 cap used \u00b7 no second size",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 146,
+  "ticks": 147,
   "equityUsd": 23.62,
   "spentUsd": 10.48,
   "realizedPnlUsd": -1.43,
@@ -5033,6 +5033,15 @@
     }
   ],
   "advice": [
+    {
+      "at": "2026-08-23T19:40:40.000Z",
+      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
+      "ticker": "VII",
+      "call": "take",
+      "vsInvalidation": "Mark ~$3.70 vs ~$2.86 cost. 5m +47, PumpSwap liq ~$19.6k (up from ~$16.8k fill). Cut line not hit. TAKE initials only: ~77% covers 0.03 SOL, leave ~23% free runner. Do not dump the bag.",
+      "markUsd": 3.7,
+      "note": "VII TAKE initials. Peel enough to return 0.03 SOL, keep the rest. 1m watch stays on."
+    },
     {
       "at": "2026-08-23T19:38:54.000Z",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
