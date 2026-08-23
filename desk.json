@@ -1855,6 +1855,18 @@
   ],
   "board": [
     {
+      "ageMin": 2,
+      "dexLiqUsd": 312696.97,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted=true (kill Hobbes). no handle (fails a). USWS-orbit (United States Mineral Supply). Unique ticker graduated; PumpSwap Dex printed ~$312,697. Live recheck 23:44Z boost=NONE. Not a PASS.",
+      "at": "2026-08-23T23:44:51.000Z",
+      "mint": "2o8aVJkpCj41dw4Z3DedqLZsqFWkqh8StjQZpp2Lpump",
+      "ticker": "USMS"
+    },
+    {
       "ageMin": 1,
       "dexLiqUsd": 0,
       "socials": "x.com/Zumi_solana",
