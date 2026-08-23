@@ -1792,6 +1792,18 @@
   ],
   "board": [
     {
+      "ageMin": 6.8,
+      "dexLiqUsd": 34641.29,
+      "socials": "status-URL not a real handle",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL); PumpSwap liq printed; sniper-heavy 5m 705b/545s; live recheck boost=NONE inverted=false; not Hobbes",
+      "at": "2026-08-23T22:05:23.000Z",
+      "mint": "91xMtMgiS3BSxtTRADr5gwRLkQR64E2jweqSUsqypump",
+      "ticker": "BLUNTZ"
+    },
+    {
       "ageMin": 4.3,
       "dexLiqUsd": 208655.08,
       "socials": "none",
