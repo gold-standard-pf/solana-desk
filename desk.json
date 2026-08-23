@@ -218,6 +218,30 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:37:48.000Z",
+      "mint": "AQxWBfkqKdXQgtr1x9eryHqFBZrFteKrM38oNtRvpump",
+      "ticker": "CATEOS",
+      "kind": "READ",
+      "text": "REFUSE $CATEOS (AQxWBfkqKdXQgtr1x9eryHqFBZrFteKrM38oNtRvpump). Genius FAIL. CATE leftover, boost-done dump. Cash add."
+    },
+    {
+      "at": "2026-08-23T15:36:30.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CATEOS. Genius FAIL. Dead dump. Cash."
+    },
+    {
+      "at": "2026-08-23T15:36:06.000Z",
+      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "ticker": "MIKA",
+      "kind": "READ",
+      "text": "READ $MIKA (Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump). Genius CLEAR. Name only. Cap used. Sit."
+    },
+    {
+      "at": "2026-08-23T15:35:42.000Z",
+      "kind": "READ",
+      "text": "CLEAR $MIKA. Real handle, Dex after grad, still green. Cap is used. Not a fill."
+    },
+    {
       "at": "2026-08-23T15:32:44.000Z",
       "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
       "ticker": "RAC",
@@ -1077,6 +1101,66 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 5.3,
+      "dexLiqUsd": 31841.13,
+      "socials": "x.com/mikacatsol_x",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print. Real handle @mikacatsol_x, PumpSwap Dex~$31.8k after grad, 5m +16 holding near ATH. inverted but boost NONE (not HOBBES). Not a fill.",
+      "at": "2026-08-23T15:34:46.000Z",
+      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "ticker": "MIKA"
+    },
+    {
+      "ageMin": 39.9,
+      "dexLiqUsd": 2695.25,
+      "socials": "x.com/CateOS_SOL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; 1h -93 off ATH ~$54k now ~$2.8k. Real handle @CateOS_SOL; PumpSwap Dex~$2.7k. CATE-adjacent. Fails (c).",
+      "at": "2026-08-23T15:34:46.000Z",
+      "mint": "AQxWBfkqKdXQgtr1x9eryHqFBZrFteKrM38oNtRvpump",
+      "ticker": "CATEOS"
+    },
+    {
+      "ageMin": 21.8,
+      "dexLiqUsd": 2560.2,
+      "socials": "x.com/racmadeit",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED dead fade; 5m -96 1h -94 off ATH ~$120k now ~$2.4k, Dex liq $21k->$2.6k. HOBBES-shape. Do not bring back.",
+      "at": "2026-08-23T15:34:46.000Z",
+      "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
+      "ticker": "RAC"
+    },
+    {
+      "ageMin": 5.5,
+      "dexLiqUsd": 31192.75,
+      "socials": "x.com/mikacatsol_x",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print. Real handle @mikacatsol_x, PumpSwap Dex~$31.2k after grad, 5m +124 holding. inverted=true but boost NONE, not a fade. Not a fill.",
+      "at": "2026-08-23T15:34:43.000Z",
+      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "ticker": "MIKA"
+    },
+    {
+      "ageMin": 22.0,
+      "dexLiqUsd": 2500.97,
+      "socials": "x.com/racmadeit",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED dead fade; 5m -96 1h -94 off ATH ~$120k now ~$2.3k, Dex liq ~$2.5k. HOBBES-shape. Not refused for age.",
+      "at": "2026-08-23T15:34:43.000Z",
+      "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
+      "ticker": "RAC"
+    },
     {
       "ageMin": 12.5,
       "dexLiqUsd": 16005.48,
@@ -2577,6 +2661,24 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T15:36:29.000Z",
+      "mint": "AQxWBfkqKdXQgtr1x9eryHqFBZrFteKrM38oNtRvpump",
+      "ticker": "CATEOS",
+      "reasons": [
+        "FAIL. inverted+boost COMPLETED dump, 1h -93, MC ~$2.8k. CATE-adjacent. Not refused for age. Not a fill."
+      ]
+    },
+    {
+      "verdict": "CLEAR",
+      "at": "2026-08-23T15:35:42.000Z",
+      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "ticker": "MIKA",
+      "reasons": [
+        "CLEAR. Minutes-old. Real handle @mikacatsol_x, PumpSwap Dex ~$34k after grad, 5m +34 1h +170 still green. Boost none, not a fade. Not a fill."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T15:32:06.000Z",
