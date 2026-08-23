@@ -1460,6 +1460,18 @@
   ],
   "board": [
     {
+      "ageMin": 3.4,
+      "dexLiqUsd": 14762.15,
+      "socials": "x.com/thecybertrolls",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "cyber-orbit of CYBERCAT. Real handle @thecybertrolls. Unique ticker graduated; PumpSwap Dex printed ~$14,762. inverted+boost IN_PROGRESS. 5m +2 holding \u2014 refused as cyber-orbit, not as a dump. Not refused for age. Live-recheck 18:49Z. Not a PASS.",
+      "at": "2026-08-23T18:49:59.000Z",
+      "mint": "AdYHGgcLYCQSpaSuJPWNJsMKE9RoFQFiBkxr5x88pump",
+      "ticker": "CYBERTROLL"
+    },
+    {
       "ageMin": 1.9,
       "dexLiqUsd": 53428.08,
       "socials": "x.com/NBA/status/2091548517818900573",
