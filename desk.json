@@ -1830,6 +1830,42 @@
   ],
   "board": [
     {
+      "ageMin": 6.2,
+      "dexLiqUsd": 18806.89,
+      "socials": "x.com/nalacat_x",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Unique ticker graduated; PumpSwap Dex printed ~$18,807. Real handle x.com/nalacat_x. live recheck boost=NONE inverted=false (orders/boosts empty). 5m 791b/105s 1h 834b/109s. Minutes-old first print that can actually run.",
+      "at": "2026-08-23T23:11:39.000Z",
+      "mint": "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
+      "ticker": "NALA"
+    },
+    {
+      "ageMin": 4.7,
+      "dexLiqUsd": 12546.6,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL babby_soko, fails a). Unique ticker graduated; PumpSwap Dex printed ~$12,547. live recheck boost=NONE inverted=false. 5m -25 200b/334s. Not refused for age.",
+      "at": "2026-08-23T23:11:37.000Z",
+      "mint": "9ZMJqA1QsjS9NexwtA2yTgv6DJARn8TAREFp3ESrpump",
+      "ticker": "IRENE"
+    },
+    {
+      "ageMin": 6.3,
+      "dexLiqUsd": 19782.54,
+      "socials": "x.com/nalacat_x",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @nalacat_x. PumpSwap Dex printed ~$19,783. live recheck boost=NONE inverted=false (not Hobbes). 5m +5.6 holding (1006b/121s) 1h +55 Dex still ~$20k. First print after 23:03Z.",
+      "at": "2026-08-23T23:11:37.000Z",
+      "mint": "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
+      "ticker": "NALA"
+    },
+    {
       "ageMin": 4.0,
       "dexLiqUsd": 7147.66,
       "socials": "none",
