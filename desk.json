@@ -202,6 +202,20 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T19:43:59.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "kind": "READ",
+      "text": "CLEAR $OnlyCats. First print this mint. Handle live, Dex after grad, boost none. 5m slight red is not a dump. Cap used. Not a fill."
+    },
+    {
+      "at": "2026-08-23T19:43:55.000Z",
+      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "ticker": "MIAO",
+      "kind": "READ",
+      "text": "CLEAR $MIAO. First print. Handle live, Dex after grad, boost none, 5m green. Cap used. Not a fill."
+    },
+    {
       "at": "2026-08-23T19:41:15.000Z",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
       "ticker": "VII",
@@ -4309,6 +4323,30 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "first print this mint",
+        "handle @OnlyCatsPump",
+        "PumpSwap Dex after grad",
+        "boost NONE, 5m slight red not dump"
+      ],
+      "at": "2026-08-23T19:43:59.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats"
+    },
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "first print",
+        "handle @sol_miao",
+        "PumpSwap Dex after grad ~$15.7k",
+        "boost NONE 5m +21"
+      ],
+      "at": "2026-08-23T19:43:55.000Z",
+      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "ticker": "MIAO"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
