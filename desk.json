@@ -1629,6 +1629,42 @@
   ],
   "board": [
     {
+      "ageMin": 10.3,
+      "dexLiqUsd": 23048.3,
+      "socials": "status-url",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$23,048. inverted+boost IN_PROGRESS. 5m +114 ripping Dex MC~$89.4k. Not refused for age. Not a PASS.",
+      "at": "2026-08-23T19:53:09.000Z",
+      "mint": "2vwp2fLV6Qgprba3Q3noKXnx2wnVcLpNmFThrCYBpump",
+      "ticker": "\ud835\udd4fimba"
+    },
+    {
+      "ageMin": 7.9,
+      "dexLiqUsd": 112539.77,
+      "socials": "none",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$112,540. inverted+boost COMPLETED. 5m +5 Dex MC~$1.94M. Fake US-institution (Strategic American Oil Fund). Not refused for age. Not a PASS.",
+      "at": "2026-08-23T19:53:09.000Z",
+      "mint": "oh2QDyk59qWWLRSkjAGyWQcDzG1bTsxXTD34kLgpump",
+      "ticker": "SAOF"
+    },
+    {
+      "ageMin": 12.3,
+      "dexLiqUsd": 17629.36,
+      "socials": "x.com/pixelhaaland",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old unique ticker graduated. Real handle @pixelhaaland. PumpSwap Dex printed ~$17,629. inverted+boost COMPLETED but not dump-dead. 5m +30 holding (189b/215s) Dex MC~$55.0k. Not fading. Age not a skip. Not a fill.",
+      "at": "2026-08-23T19:53:09.000Z",
+      "mint": "3C7RPj5VTJJ7p5cUbDmTeHRQiJbQqod8B93G9avLpump",
+      "ticker": "PIXHAALAND"
+    },
+    {
       "ageMin": 17,
       "dexLiqUsd": 0,
       "socials": "x.com/sol_miao",
