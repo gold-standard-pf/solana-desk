@@ -218,6 +218,18 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T16:07:02.000Z",
+      "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
+      "ticker": "GROWPAIN",
+      "kind": "READ",
+      "text": "REFUSE $GROWPAIN. Genius FAIL. Dead dump. Never sized. HOLD $SUSHI."
+    },
+    {
+      "at": "2026-08-23T16:06:38.000Z",
+      "kind": "REFUSED",
+      "text": "REFUSE $GROWPAIN. Genius FAIL. CLEAR withdrawn. Dead dump. Cash."
+    },
+    {
       "at": "2026-08-23T16:02:59.000Z",
       "kind": "DID",
       "text": "DID $CYBERCAT CUT runner 858 for 0.0082 SOL. Flat. Sig BQ1NGNmWwhjiw7H2X7bGSJph6kCT9zybUUziumAZZY3CyMFY5Ub8ALCWkVhKzMHBuxDEPq4UegXk76TW8gvtyZ5. HOLD $SUSHI.",
@@ -912,6 +924,16 @@
   ],
   "signals": [
     {
+      "name": "GROWPAIN",
+      "thesis": "Refuse-flip. Dump-dead. Dex ~2k from ~21k, MC ~1.9k, 5m -97 / 1h -95. Not a fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T16:06:29.000Z",
+      "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
+      "ticker": "GROWPAIN"
+    },
+    {
       "name": "Maru",
       "thesis": "Reprint of dumped \u307e\u308b HTee6ny. New mint, @maruhanamogucat, Dex about 26k, MC about 114k, 5m flat, inverted+boost COMPLETED. Not a first print. Not a fill.",
       "heat": "farmed",
@@ -1193,6 +1215,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 6.5,
+      "dexLiqUsd": 29674.84,
+      "socials": "x.com/Cate1Meme",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE clone (Cate-1 / first Cate in space). Real handle @Cate1Meme; PumpSwap Dex~$29.7k after grad; inverted+boost COMPLETED. 5m +15 1h +125 holding \u2014 refused as CATE clone not as a dump. Not a PASS.",
+      "at": "2026-08-23T16:06:38.000Z",
+      "mint": "3LhExM1v9JFoM2ZHQnXvBbuthSWa96Yc2ubhPYw9pump",
+      "ticker": "CATE-1"
+    },
+    {
+      "ageMin": 5.1,
+      "dexLiqUsd": 21010.4,
+      "socials": "x.com/thecybertrumps",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Minutes-old first print. Real handle @thecybertrumps (not official Trump), PumpSwap Dex~$21.0k after grad, 5m +92 holding. inverted+boost IN_PROGRESS but tape is not a fade. Not CYBERCAT/CYBERLEEK clone mint. Not a fill.",
+      "at": "2026-08-23T16:06:38.000Z",
+      "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "ticker": "CYBERTRUMP"
+    },
+    {
+      "ageMin": 51.9,
+      "dexLiqUsd": 1966.76,
+      "socials": "x.com/growpainsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED dead fade; 5m -97 1h -95, PumpSwap Dex $19k->$2.0k RAC-dead. HOBBES-shape. Real handle @growpainsol. Not refused for age. Not a fill.",
+      "at": "2026-08-23T16:06:38.000Z",
+      "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
+      "ticker": "GROWPAIN"
+    },
     {
       "ageMin": 7.1,
       "dexLiqUsd": 57230.83,
@@ -2837,6 +2895,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T16:06:38.000Z",
+      "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
+      "ticker": "GROWPAIN",
+      "reasons": [
+        "FAIL. CLEAR withdrawn. Dead dump off ATH, 5m -97 1h -95, MC ~$1.9k Dex ~$2k. No fill. Cash."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T16:02:07.000Z",
