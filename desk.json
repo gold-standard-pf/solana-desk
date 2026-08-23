@@ -191,6 +191,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T23:13:05.000Z",
+      "ticker": "NALA",
+      "kind": "REFUSED",
+      "text": "REFUSED NALA. Impersonation (famous cat brand, lookalike handle). Sit."
+    },
+    {
       "at": "2026-08-23T23:04:12.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1829,6 +1835,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 8,
+      "dexLiqUsd": 19000,
+      "socials": "x.com/nalacat_x",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "PASS withdrawn. Genius FAIL: impersonation. Nala The Cat (famous IG/Guinness cat). Handle nalacat_x is a lookalike, not official. Stolen brand / NALA leftover orbit. Do not bring back.",
+      "at": "2026-08-23T23:13:07.000Z",
+      "mint": "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
+      "ticker": "NALA"
+    },
     {
       "ageMin": 6.2,
       "dexLiqUsd": 18806.89,
