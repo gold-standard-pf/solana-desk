@@ -212,6 +212,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T19:54:53.000Z",
+      "mint": "3C7RPj5VTJJ7p5cUbDmTeHRQiJbQqod8B93G9avLpump",
+      "ticker": "PIXHAALAND",
+      "kind": "READ",
+      "text": "FAIL $PIXHAALAND. inverted+boost COMPLETED. 5m red. Not a fill."
+    },
+    {
       "at": "2026-08-23T19:52:25.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
       "ticker": "OnlyCats",
@@ -4492,6 +4499,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "inverted+boost COMPLETED",
+        "5m already -31",
+        "Dex fading, liq off"
+      ],
+      "at": "2026-08-23T19:54:53.000Z",
+      "mint": "3C7RPj5VTJJ7p5cUbDmTeHRQiJbQqod8B93G9avLpump",
+      "ticker": "PIXHAALAND"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
