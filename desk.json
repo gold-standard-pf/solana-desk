@@ -1848,6 +1848,42 @@
   ],
   "board": [
     {
+      "ageMin": 7.6,
+      "dexLiqUsd": 3596.68,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL RT_com, fails a). Unique ticker graduated; PumpSwap Dex printed then dumped RAC-dead ~$3,597. 5m -16.15 24b/101s. live recheck boost=NONE inverted=false (not Hobbes).",
+      "at": "2026-08-23T23:38:53.000Z",
+      "mint": "9ZxWxaeq1wYZAmamR1B91mxrZyiejhYanwfbqG8Fpump",
+      "ticker": "MERCHANT"
+    },
+    {
+      "ageMin": 9.1,
+      "dexLiqUsd": 2113.91,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL, fails a). Trump brand impersonation (GYATRUMP). Unique ticker graduated; PumpSwap Dex printed then dumped RAC-dead ~$2,114. 5m -93.94 189b/712s. live recheck boost=NONE inverted=false (not Hobbes).",
+      "at": "2026-08-23T23:38:53.000Z",
+      "mint": "B8N35AMfVsH1Lee3MbLqzVXt13XADs4oJ9RJCji2pump",
+      "ticker": "GYATRUMP"
+    },
+    {
+      "ageMin": 16.8,
+      "dexLiqUsd": 15301.26,
+      "socials": "x.com/ansemleek",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Unique ticker graduated; PumpSwap Dex printed ~$15,301. Real handle x.com/ansemleek (own account, not Ansem @blknoiz06 lookalike; tribute meme 10% to @blknoiz06). live recheck boost=NONE inverted=false (boosts empty; tokenProfile approved is not Hobbes). 5m 265b/236s +10.51 holding. Watch mint now Dex-graduated first print that can actually run.",
+      "at": "2026-08-23T23:38:53.000Z",
+      "mint": "HTU9qkrjohLo4GBzBCzQDt7UPNh8fnZK3otjYH8Wpump",
+      "ticker": "ANSEMLEEK"
+    },
+    {
       "ageMin": 4.4,
       "dexLiqUsd": 168026,
       "socials": "none",
