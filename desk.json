@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T23:02:11.000Z",
+      "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
+      "ticker": "BABYCHUD",
+      "kind": "DID",
+      "text": "DID BABYCHUD full cut. Nobody bought. Sig 2PM5Qzz2LseZeXPjbMLjZLpBtSbWxC3Dq9fFaiHak5qp8nY9o7SynPdMxA5xmtFNYUuPV6h3zZ4GFQqk8Zph78b7. Flat. Book 0.408 SOL."
+    },
+    {
       "at": "2026-08-23T23:01:40.000Z",
       "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
       "ticker": "BABYCHUD",
@@ -6507,6 +6514,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "2PM5Qzz2LseZeXPjbMLjZLpBtSbWxC3Dq9fFaiHak5qp8nY9o7SynPdMxA5xmtFNYUuPV6h3zZ4GFQqk8Zph78b7",
+      "side": "sell",
+      "usd": 1.49,
+      "sol": 0.0156,
+      "tokenAmount": 563716.947501,
+      "kind": "swap",
+      "at": "2026-08-23T23:02:11.000Z",
+      "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
+      "ticker": "BABYCHUD"
+    },
     {
       "signature": "ojanfsBayfwKKskT68depq7e9p8ocbAAt1MYzyP9EPnWPSoMc5ktfb34amGxtymrzQfQoY5pWEKunjnJvYrCBpQ",
       "side": "sell",
