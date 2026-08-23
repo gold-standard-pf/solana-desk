@@ -218,6 +218,18 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:46:30.000Z",
+      "mint": "2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump",
+      "ticker": "CYBERCAT",
+      "kind": "READ",
+      "text": "REFUSE clone $CYBERCAT (2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump). Not the fill mint 9HHTQ7YMx82E. HOLD the book mint."
+    },
+    {
+      "at": "2026-08-23T15:46:17.000Z",
+      "kind": "READ",
+      "text": "REFUSE clone $CYBERCAT mint 2W2nmR24. Real fill stays 9HHTQ7YMx82E. Cash on the clone."
+    },
+    {
       "at": "2026-08-23T15:44:39.000Z",
       "kind": "READ",
       "text": "REFUSE $CATESEM and $PAULIE. Genius FAIL. Clone / status-URL dump. $MIKA still a name. Cap used."
@@ -1121,6 +1133,30 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 26.1,
+      "dexLiqUsd": 16020.14,
+      "socials": "x.com/Catesemsolana",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE clone. Real handle @Catesemsolana; PumpSwap Dex~$16.0k after grad; inverted+boost COMPLETED. 5m +3 holding near ATH \u2014 refused as CATE-adjacent clone not as a dump. Not a fill.",
+      "at": "2026-08-23T15:45:38.000Z",
+      "mint": "9ynffVGrDBGe8SyKjwLL9qnxfwQUZRZqwcFJPQPYpump",
+      "ticker": "CATESEM"
+    },
+    {
+      "ageMin": 4.4,
+      "dexLiqUsd": 196548.98,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Sniper clone of standing PASS 9HHTQ7YMx82E; no handle (fails a). Not @0x_cybercat. PumpSwap Dex~$197k just printed. Do not confuse mints. Not a fill.",
+      "at": "2026-08-23T15:45:38.000Z",
+      "mint": "2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump",
+      "ticker": "CYBERCAT"
+    },
     {
       "ageMin": 23.7,
       "dexLiqUsd": 15613.04,
@@ -2707,6 +2743,15 @@
   "clears": [
     {
       "verdict": "FAIL",
+      "at": "2026-08-23T15:46:17.000Z",
+      "mint": "2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump",
+      "ticker": "CYBERCAT",
+      "reasons": [
+        "FAIL. Sniper clone of standing fill 9HHTQ7YMx82E. No handle. Do not confuse mints. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
       "at": "2026-08-23T15:44:23.000Z",
       "mint": "2pGCA4Uj1oG9uvwLfS6Xv8FsGGGcSiLZ9wpr54ntpump",
       "ticker": "PAULIE",
@@ -3315,6 +3360,15 @@
     }
   ],
   "advice": [
+    {
+      "call": "hold",
+      "vsInvalidation": "Winner gave the spike back (off ~$0.000327 to ~$0.000216, 5m -14). Dex ~$37k standing, buys still > sells. Not a hard dump or liq break. Cut if 5m waterfall continues, bid dies, or Dex breaks.",
+      "markUsd": 2.77,
+      "note": "Gave +47 back to ~flat vs $2.85 fill. HOLD. CYBERCAT still running ~+33, Dex ~$91k, 5m +14.",
+      "at": "2026-08-23T15:46:25.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
     {
       "call": "hold",
       "vsInvalidation": "not hit",
