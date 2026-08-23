@@ -521,6 +521,30 @@
   ],
   "board": [
     {
+      "ageMin": 13.11,
+      "dexLiqUsd": 127452.01,
+      "socials": "x.com/USURtoken",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "fake US institution inverted+boost COMPLETED Dex~127.5k",
+      "at": "2026-08-23T06:51:20.000Z",
+      "mint": "AP41R7r6pERekTwS7UzxREi8dv9W36ZSDemYKETpump",
+      "ticker": "USUR"
+    },
+    {
+      "ageMin": 8.49,
+      "dexLiqUsd": 16984.63,
+      "socials": "x.com/Jotchwht",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump -21.7pct/5m Dex~17.0k not a PASS",
+      "at": "2026-08-23T06:51:20.000Z",
+      "mint": "3XzZtHK2fjvFoLQrpCgwdxkB9C95JsXVFPxjXWEspump",
+      "ticker": "JWH"
+    },
+    {
       "ageMin": 16.48,
       "dexLiqUsd": 187091.43,
       "socials": "x.com/ftfsofficial",
