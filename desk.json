@@ -169,6 +169,33 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T14:12:49.000Z",
+      "kind": "READ",
+      "text": "REFUSE $DANDY (3SBc5Rcvy7esUkFtRUEVacDCbfd86YzYBPvks2HXpump). Genius FAIL. Boost-done dump, not age. Cash."
+    },
+    {
+      "at": "2026-08-23T14:10:06.000Z",
+      "kind": "READ",
+      "text": "REFUSE $neko (AJHqMoBpMpujUnbE4vSmPbBduzJBB9GZyeuqZ7M7pump). Genius FAIL this reprint. Gate update: age alone is not a FAIL. TG name + real handle + Dex liq + no boost-done dump can CLEAR. Size after CLEAR. Cash."
+    },
+    {
+      "at": "2026-08-23T14:08:33.000Z",
+      "mint": "AJHqMoBpMpujUnbE4vSmPbBduzJBB9GZyeuqZ7M7pump",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
+    },
+    {
+      "at": "2026-08-23T14:02:13.000Z",
+      "kind": "READ",
+      "text": "REFUSE $Leek (5BLEcYuGrQVznBqnkaY7u2z6GHNSPhHkXZxJLkoDLeek). Genius FAIL. Leftover TG reprint. Cash."
+    },
+    {
+      "at": "2026-08-23T14:00:58.000Z",
+      "mint": "5BLEcYuGrQVznBqnkaY7u2z6GHNSPhHkXZxJLkoDLeek",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-23T14:00:31.000Z",
       "kind": "READ",
       "text": "REFUSE $ARCHER, $CRYPTO, $ONEPIECE. Genius FAIL. Boost-done / IP leftover. Cash."
@@ -575,6 +602,26 @@
   ],
   "signals": [
     {
+      "at": "2026-08-23T14:10:54.443Z",
+      "name": "neko",
+      "thesis": "TG name. Pair ~17h, 6h already red, boost 100. Age is not why this dies \u2014 the tape is already red. Not a PASS.",
+      "heat": "farmed",
+      "mint": "AJHqMoBpMpujUnbE4vSmPbBduzJBB9GZyeuqZ7M7pump",
+      "source": "tg:Pump it",
+      "verdict": "REFUSE",
+      "ticker": "neko"
+    },
+    {
+      "at": "2026-08-23T14:02:34.854Z",
+      "name": "Leek",
+      "thesis": "TG leftover reprint. Pair ~3h, already +332 6h, 5m red. CyberLeek/LEEK clone family. Not first print.",
+      "heat": "farmed",
+      "mint": "5BLEcYuGrQVznBqnkaY7u2z6GHNSPhHkXZxJLkoDLeek",
+      "source": "tg:Pump it",
+      "verdict": "REFUSE",
+      "ticker": "Leek"
+    },
+    {
       "at": "2026-08-23T13:58:23.989Z",
       "name": "XYZ",
       "thesis": "TG leftover reprint. Pair ~4h, status URL not a handle, 6h +424, 5m already red. XYZ interview sludge. Not first print.",
@@ -766,6 +813,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 1043.1,
+      "dexLiqUsd": 26643.02,
+      "socials": "x.com/nekosol__",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Not refused for age. inverted+boost COMPLETED, 6h already red, boost 100. Handle+Dex exist. Do not bring back this mint.",
+      "at": "2026-08-23T14:11:45.000Z",
+      "mint": "AJHqMoBpMpujUnbE4vSmPbBduzJBB9GZyeuqZ7M7pump",
+      "ticker": "neko"
+    },
+    {
+      "ageMin": 11.0,
+      "dexLiqUsd": 22013.06,
+      "socials": "x.com/DANDYLIONsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED, ATH fade ~118k now ~71k. Real handle @DANDYLIONsol; PumpSwap Dex~$22.0k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:08:17.000Z",
+      "mint": "3SBc5Rcvy7esUkFtRUEVacDCbfd86YzYBPvks2HXpump",
+      "ticker": "DANDY"
+    },
+    {
+      "ageMin": 2566.4,
+      "dexLiqUsd": 30222.46,
+      "socials": "x.com/SmedCharger",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "TG leftover reprint, hours/days-old not first print, inverted+boost COMPLETED, 6h +287 5m red. Do not bring back.",
+      "at": "2026-08-23T14:03:17.000Z",
+      "mint": "5BLEcYuGrQVznBqnkaY7u2z6GHNSPhHkXZxJLkoDLeek",
+      "ticker": "Leek"
+    },
     {
       "ageMin": 460.3,
       "dexLiqUsd": 72878.37,
@@ -1956,6 +2039,33 @@
   "clears": [
     {
       "verdict": "FAIL",
+      "at": "2026-08-23T14:12:38.000Z",
+      "mint": "3SBc5Rcvy7esUkFtRUEVacDCbfd86YzYBPvks2HXpump",
+      "ticker": "DANDY",
+      "reasons": [
+        "inverted + boost COMPLETED dump, 5m -53 off ATH. Not refused for age. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:08:44.000Z",
+      "mint": "AJHqMoBpMpujUnbE4vSmPbBduzJBB9GZyeuqZ7M7pump",
+      "ticker": "neko",
+      "reasons": [
+        "leftover TG reprint, pair ~17h old, 6h already red, boost 100. Not first print. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:01:09.000Z",
+      "mint": "5BLEcYuGrQVznBqnkaY7u2z6GHNSPhHkXZxJLkoDLeek",
+      "ticker": "Leek",
+      "reasons": [
+        "leftover TG reprint, pair ~3h old, already +332 6h, 5m red. Not first print. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
       "at": "2026-08-23T13:58:39.000Z",
       "mint": "mDo5PZLMzXvJ1L3WcVBqqMobqmtR7KNtSSWL6hGpump",
       "ticker": "ONEPIECE",
@@ -2334,6 +2444,26 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79181,
+      "at": "2026-08-23T14:08:33.000Z",
+      "mint": "AJHqMoBpMpujUnbE4vSmPbBduzJBB9GZyeuqZ7M7pump",
+      "text": "AJHqMoBpMpujUnbE4vSmPbBduzJBB9GZyeuqZ7M7pump"
+    },
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79177,
+      "at": "2026-08-23T14:00:58.000Z",
+      "mint": "5BLEcYuGrQVznBqnkaY7u2z6GHNSPhHkXZxJLkoDLeek",
+      "text": "5BLEcYuGrQVznBqnkaY7u2z6GHNSPhHkXZxJLkoDLeek"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
