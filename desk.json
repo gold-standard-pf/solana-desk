@@ -1346,6 +1346,30 @@
   ],
   "board": [
     {
+      "ageMin": 10,
+      "dexLiqUsd": 1869,
+      "socials": "x.com/qauntisthememe/status/2091572781028704427",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed then dumped RAC-dead ~$1.9k; 5m -97 1h -96. Already-dead dump.",
+      "at": "2026-08-23T17:18:45.000Z",
+      "mint": "8pmrSxkpuQLd2xnxSE6yczBhUzmatCqTF9GpwFkpzgJ7",
+      "ticker": "MU"
+    },
+    {
+      "ageMin": 8,
+      "dexLiqUsd": 13560,
+      "socials": "x.com/Lapaa_sol/status/2091573525475639493",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). PumpSwap Dex printed ~$13.6k. 5m ~0 1h -12. Unique ticker graduated; refused as status-URL not age.",
+      "at": "2026-08-23T17:18:45.000Z",
+      "mint": "FsVqGSxtyUsfuap1sNyxHYUVewBsCF9tSbGW2VzKpump",
+      "ticker": "WOMBAT"
+    },
+    {
       "ageMin": 4.0,
       "dexLiqUsd": 582537,
       "socials": "x.com/Resolut_AI",
