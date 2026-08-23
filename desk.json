@@ -558,6 +558,18 @@
   ],
   "board": [
     {
+      "ageMin": 9.7,
+      "dexLiqUsd": 51817.57,
+      "socials": "x.com/redbull",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "brand impersonation inverted+boost COMPLETED dump -7.8pct/5m Dex~51.8k",
+      "at": "2026-08-23T07:50:16.000Z",
+      "mint": "Q1ApqHo8qswysysqbSWURhWh2AGDVGjtwwWR5zupump",
+      "ticker": "Redbull"
+    },
+    {
       "ageMin": 9999,
       "dexLiqUsd": 24672.99,
       "socials": "none",
