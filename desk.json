@@ -3,7 +3,7 @@
   "status": "HOLD TERRYTRADES \u00b7 test launch \u00b7 peel snipers",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 169,
+  "ticks": 172,
   "equityUsd": 23.62,
   "spentUsd": 22.87,
   "realizedPnlUsd": 0.12,
@@ -201,6 +201,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T20:29:19.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-23T20:26:46.000Z",
       "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
@@ -6107,6 +6112,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T20:29:12.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
+      "text": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
+      "messageId": 79227
+    },
     {
       "at": "2026-08-23T20:00:30.000Z",
       "chat": "Pump it",
