@@ -1704,6 +1704,18 @@
   ],
   "board": [
     {
+      "at": "2026-08-23T20:22:21.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "ageMin": 40.0,
+      "dexLiqUsd": 0.0,
+      "socials": "@OnlyCatsPump",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Terry cut; bag flat, not a HOLD. Prior PASS pulled. Book cash. ErrorSignalLost stays a name until mint+CLEAR. Do not add VII or OnlyCats."
+    },
+    {
       "ageMin": 11.1,
       "dexLiqUsd": 56658.78,
       "socials": "x.com/SOLANA_GTAVI",
