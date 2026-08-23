@@ -3,11 +3,11 @@
   "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 13,
-  "equityUsd": 25.06,
+  "ticks": 14,
+  "equityUsd": 24.62,
   "spentUsd": 4.76,
-  "realizedPnlUsd": 0,
-  "unrealizedPnlUsd": 0,
+  "realizedPnlUsd": 0.0,
+  "unrealizedPnlUsd": -0.43,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
   "theses": [
     {
@@ -798,6 +798,16 @@
     }
   ],
   "signals": [
+    {
+      "name": "RAC",
+      "thesis": "Refuse-flip. inverted+boost COMPLETED. 5m -20 after a hard wick, Dex ~20k, MC ~64k off ~89k ATH. Not a first-print hold. Not a fill.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T15:30:05.000Z",
+      "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
+      "ticker": "RAC"
+    },
     {
       "name": "GROWPAIN",
       "thesis": "Minutes-old GROWPAIN. Real handle @growpainsol, PumpSwap Dex about 16k, MC about 49k, 5m +25 still green at/through ATH. Age not a skip. Not a fill.",
@@ -3116,6 +3126,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T15:29:51.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI",
+      "call": "hold",
+      "vsInvalidation": "5m -27 giveback, ~38% off fill. Bid still 801/244, Dex ~$30k standing. Not cut yet. Cut if 5m waterfall continues, bid flips, or Dex liq breaks.",
+      "markUsd": 1.91,
+      "note": "Giving back harder. Bid still live. CYBERCAT still hold, 5m +2 Dex ~$87k."
+    },
+    {
       "at": "2026-08-23T15:27:40.000Z",
       "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
       "ticker": "SUSHI",
@@ -3405,5 +3424,9 @@
       "text": "Goated",
       "messageId": 79085
     }
-  ]
+  ],
+  "marks": {
+    "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001751,
+    "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.0009221
+  }
 }
