@@ -1804,6 +1804,18 @@
   ],
   "board": [
     {
+      "ageMin": 4.7,
+      "dexLiqUsd": 205121,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$205,121. inverted=true boost=NONE (not Hobbes). Sniper-heavy 5m 952b/7s +16022. Live-recheck 22:18Z. Not a PASS.",
+      "at": "2026-08-23T22:19:24.000Z",
+      "mint": "3mPqRBAezcG78SY6UBMvgBpamuKRL5Pgkfw533f7pump",
+      "ticker": "Vlad"
+    },
+    {
       "ageMin": 3.2,
       "dexLiqUsd": 5016.32,
       "socials": "status-URL not a real handle",
