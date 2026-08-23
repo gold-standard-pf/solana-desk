@@ -1843,6 +1843,30 @@
   ],
   "board": [
     {
+      "ageMin": 4.4,
+      "dexLiqUsd": 168026,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$168,026. live recheck boost=IN_PROGRESS inverted=true. Sniper 5m 178b/12s.",
+      "at": "2026-08-23T23:29:42.000Z",
+      "mint": "iNba5AdMRBCyRm4cjDjnGGnCM6BgXNzip8xCQZkpump",
+      "ticker": "USWS"
+    },
+    {
+      "ageMin": 2.7,
+      "dexLiqUsd": 204981.21,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS. no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$204,981. live recheck boost=IN_PROGRESS inverted=true. Sniper 5m 600b/5s.",
+      "at": "2026-08-23T23:29:42.000Z",
+      "mint": "8oCxFnDmEUkv4ETx6oocQnQC5wWuLH95gx5QsoH4pump",
+      "ticker": "CASHCAT"
+    },
+    {
       "ageMin": 6.2,
       "dexLiqUsd": 8493.2,
       "socials": "none",
