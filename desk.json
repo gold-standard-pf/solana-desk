@@ -690,6 +690,30 @@
   ],
   "board": [
     {
+      "ageMin": 6.8,
+      "dexLiqUsd": 26934.41,
+      "socials": "x.com/kabofuns",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; real handle @kabofuns; PumpSwap Dex~$26.9k; 5m -20 off ATH $909k now ~$91-121k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T12:25:25.000Z",
+      "mint": "29Z97PsvkPpTy7b5UjLfN1Pq5TuQ5amx53mFa9JLpump",
+      "ticker": "KABO"
+    },
+    {
+      "ageMin": 10.85,
+      "dexLiqUsd": 18968.92,
+      "socials": "x.com/purrjan",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED fade; real handle @purrjan; PumpSwap Dex~$19.0k; 5m -4 off ATH $81k. HOBBES lesson. Fails (c). Not a PASS.",
+      "at": "2026-08-23T12:25:25.000Z",
+      "mint": "6skiYKpydLmG1Z3k9F1tmLPDttss9fufd87t1kQypump",
+      "ticker": "PURRJAN"
+    },
+    {
       "ageMin": 11.1,
       "dexLiqUsd": 63005.06,
       "socials": "https://x.com/elonmusk/status/1834672481762001276",
