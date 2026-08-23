@@ -201,6 +201,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T16:52:10.000Z",
+      "mint": "ErWFD2gFDxxvvo2bVY9PLS6cNqP5EZtRz8PjBp7Epump",
+      "ticker": "CYBERCOIN",
+      "kind": "REFUSED",
+      "text": "FAIL $CYBERCOIN. No Dex handle. Cyber-orbit of the open book name. Boost done, 5m already red. Not a fill."
+    },
+    {
       "at": "2026-08-23T16:43:03.000Z",
       "mint": "DAujm7LtjCoUGTu7MzVM51qHqM8CyNKYdEB7Qdrupump",
       "ticker": "STONKCAT",
@@ -3141,6 +3148,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no Dex handle",
+        "cyber-orbit of standing book name",
+        "boost COMPLETED 5m red"
+      ],
+      "at": "2026-08-23T16:52:10.000Z",
+      "mint": "ErWFD2gFDxxvvo2bVY9PLS6cNqP5EZtRz8PjBp7Epump",
+      "ticker": "CYBERCOIN"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
