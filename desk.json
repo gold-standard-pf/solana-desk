@@ -1484,6 +1484,30 @@
   ],
   "board": [
     {
+      "ageMin": 8.5,
+      "dexLiqUsd": 581819.48,
+      "socials": "none",
+      "boost": "none",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$581,819. inverted+boost none. 5m +1 holding \u2014 refused as no handle, not as a dump. Not refused for age. Live-recheck 19:07Z. Not a PASS.",
+      "at": "2026-08-23T19:08:44.000Z",
+      "mint": "yDX6M6VccnvQ3K4PzTmYWKydmpo376WEUKDxn3Bpump",
+      "ticker": "WOFI"
+    },
+    {
+      "ageMin": 27.5,
+      "dexLiqUsd": 2383.91,
+      "socials": "x.com/UpCatpump",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. RAC-dead/HOBBES fade: PumpSwap Dex~$21.0k->$2.4k, 5m -97 1h -96 MC~$2.4k. Real handle @UpCatpump. inverted+boost COMPLETED. Liq collapse + hard dump. Do not bring back.",
+      "at": "2026-08-23T19:08:44.000Z",
+      "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
+      "ticker": "UPCAT"
+    },
+    {
       "ageMin": 2.2,
       "dexLiqUsd": 30166.19,
       "socials": "x.com/LexLuthorDev_/status/2091601260659065142",
