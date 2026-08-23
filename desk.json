@@ -3,7 +3,7 @@
   "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 163,
+  "ticks": 164,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
   "realizedPnlUsd": -1.43,
@@ -211,6 +211,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T19:59:58.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
+    },
     {
       "at": "2026-08-23T19:54:53.000Z",
       "mint": "3C7RPj5VTJJ7p5cUbDmTeHRQiJbQqod8B93G9avLpump",
@@ -1203,6 +1208,16 @@
     }
   ],
   "signals": [
+    {
+      "at": "2026-08-23T19:59:57.000Z",
+      "name": "ErrorSignalLost",
+      "thesis": "/wallet@terry_calls_bot",
+      "heat": "terry-calls",
+      "mint": "",
+      "source": "terry-calls",
+      "verdict": "PASS",
+      "tgMessageId": 79220
+    },
     {
       "name": "PIXEL HAALAND",
       "thesis": "Brand impersonation of Erling Haaland. @pixelhaaland is a 2010 hijack tell (11 fol, 2 tweets). Dex ~$17k holding, not a dump skip. Age not a skip. Not a fill.",
@@ -4514,6 +4529,16 @@
   ],
   "launchWatch": [
     {
+      "name": "ErrorSignalLost",
+      "sources": [
+        "terry-calls",
+        "telegram:Pump it"
+      ],
+      "mint": "",
+      "boundAt": "",
+      "status": "watching"
+    },
+    {
       "name": "KNIFE",
       "sources": [
         "signal"
@@ -5348,6 +5373,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T19:59:56.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "call": "cut",
+      "vsInvalidation": "Dex 5m -27 after fill. Fade hit. Liq still ~$35.3k vs ~$26.2k fill (not halved). Cost already back. CUT the 4326 runner. $VII runner 5m -20, still HOLD.",
+      "markUsd": 0.85,
+      "note": "CUT OnlyCats runner. First fade. VII still HOLD."
+    },
+    {
       "at": "2026-08-23T19:52:38.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
       "ticker": "OnlyCats",
@@ -5802,6 +5836,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T19:59:57.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "terry",
+      "ticker": "",
+      "mint": "",
+      "text": "/wallet@terry_calls_bot",
+      "messageId": 79220
+    },
     {
       "at": "2026-08-23T19:51:02.000Z",
       "chat": "Pump it",
