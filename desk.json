@@ -1735,6 +1735,42 @@
   ],
   "board": [
     {
+      "ageMin": 29.4,
+      "dexLiqUsd": 22346.47,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$22,346. inverted+boost IN_PROGRESS. 5m +113 does not PASS.",
+      "at": "2026-08-23T20:37:17.000Z",
+      "mint": "5b4n12eHotCTYxktAkKcD6xhakzoAnwZJJad8f8fpump",
+      "ticker": "FOXTILKI"
+    },
+    {
+      "ageMin": 8.9,
+      "dexLiqUsd": 10488.04,
+      "socials": "https://x.com/AutismCapital/status/2091623459512353004",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status URL not handle (fails a). inverted+boost IN_PROGRESS dump 5m -62. PumpSwap Dex printed ~$10,488.",
+      "at": "2026-08-23T20:37:17.000Z",
+      "mint": "Bb1TGJTw1snk13fBX7mGBuSLb7u1cT5ipP6A72pY2x7",
+      "ticker": "demons"
+    },
+    {
+      "ageMin": 14.0,
+      "dexLiqUsd": 15969.26,
+      "socials": "x.com/AroNeverRush",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost COMPLETED. Real handle x.com/AroNeverRush. PumpSwap Dex printed ~$15,969. 5m -35. Do not PASS.",
+      "at": "2026-08-23T20:37:17.000Z",
+      "mint": "FxkG9P5Pn6djkfcwn4LTpCGomuvjPFVnrkFVvHXfpump",
+      "ticker": "ARO"
+    },
+    {
       "at": "2026-08-23T20:25:51.000Z",
       "mint": "GmghJHqqrJRWieYTjnWZkTbvKVQhUvChpbXwha8mpump",
       "ticker": "FLAM",
