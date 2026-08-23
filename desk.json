@@ -1501,6 +1501,42 @@
   ],
   "board": [
     {
+      "ageMin": 7.3,
+      "dexLiqUsd": 207490.59,
+      "socials": "none",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). Brand impersonation of MrBeast. Unique ticker graduated; PumpSwap Dex printed ~$207,491. 5m +3 1h ripping. boost NONE.",
+      "at": "2026-08-23T19:16:37.000Z",
+      "mint": "Bxw9F84mcQpkaW2EQD3FVsz32jAux32e7sKq77Frpump",
+      "ticker": "BEAST"
+    },
+    {
+      "ageMin": 8.7,
+      "dexLiqUsd": 57641.62,
+      "socials": "x.com/redbull",
+      "boost": "IN_PROGRESS",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Brand impersonation @redbull (official Red Bull handle, not a project account). Unique ticker graduated; PumpSwap Dex printed ~$57,642. 5m +10 1h +1230 not inverted. boost IN_PROGRESS. REFUSE even if first-print looking.",
+      "at": "2026-08-23T19:16:37.000Z",
+      "mint": "Cokrar5Dv8ibPLAgstLYP7sBHnupKAWTe78HwEw5pump",
+      "ticker": "Redbull"
+    },
+    {
+      "ageMin": 13.3,
+      "dexLiqUsd": 12171.1,
+      "socials": "x.com/pubity/status/2091601709520851146",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$12,171. inverted+boost IN_PROGRESS dump; 5m -41 1h -28.",
+      "at": "2026-08-23T19:16:37.000Z",
+      "mint": "GPHzySB7NvHSnrd5tRzfyaLSb9LMxDzatbFd3zqhpump",
+      "ticker": "Olav"
+    },
+    {
       "ageMin": 8.5,
       "dexLiqUsd": 581819.48,
       "socials": "none",
