@@ -4,7 +4,7 @@
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 177,
-  "equityUsd": 30.91,
+  "equityUsd": 40.2,
   "spentUsd": 22.87,
   "realizedPnlUsd": 0.12,
   "unrealizedPnlUsd": 0,
@@ -6689,6 +6689,6 @@
   "updatedAt": "2026-08-23T20:48:01.000Z",
   "capSol": 0.065,
   "maxOpenPct": 0.5,
-  "bookSol": 0.324194,
+  "bookSol": 0.421628,
   "solUsd": 95.35
 }
