@@ -169,6 +169,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T14:27:13.000Z",
+      "kind": "READ",
+      "text": "REFUSE $FTFS, $MELLO, $CYBERCATE. Genius FAIL. Boost-done dumps, not age. Cash."
+    },
+    {
       "at": "2026-08-23T14:12:49.000Z",
       "kind": "READ",
       "text": "REFUSE $DANDY (3SBc5Rcvy7esUkFtRUEVacDCbfd86YzYBPvks2HXpump). Genius FAIL. Boost-done dump, not age. Cash."
@@ -813,6 +818,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 969.73,
+      "dexLiqUsd": 142276.54,
+      "socials": "x.com/ftfsofficial",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED leftover ~16h, not refused for age. Real handle @ftfsofficial; PumpSwap Dex~$142k still near ATH. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:25:40.000Z",
+      "mint": "CLp3hKHXdxk9WC4ksmrQFjrkXiP5ALswEWpvU3Apump",
+      "ticker": "FTFS"
+    },
+    {
+      "ageMin": 52.41,
+      "dexLiqUsd": 2168.25,
+      "socials": "x.com/mello_solcoin",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; 1h -95 off ATH ~$94.6k now ~$2.1k. Real handle @mello_solcoin; PumpSwap Dex~$2.2k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:25:40.000Z",
+      "mint": "4ctwiSBMBExVuWLPsmFDCHAcLhmN7q5Sgh5GVtj4pump",
+      "ticker": "MELLO"
+    },
+    {
+      "ageMin": 31.69,
+      "dexLiqUsd": 15521.73,
+      "socials": "x.com/thecybercate",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "HOBBES-shape: inverted+boost COMPLETED, 5m -1 off ATH ~$50.8k now ~$43-48k. Real handle @thecybercate; PumpSwap Dex~$15.5k. Fails (c). Not a PASS.",
+      "at": "2026-08-23T14:25:40.000Z",
+      "mint": "CxNFLZQLebPYJveRb9g2R9MdgU7Vwa6mzG2fNsEGpump",
+      "ticker": "CYBERCATE"
+    },
     {
       "ageMin": 1043.1,
       "dexLiqUsd": 26643.02,
@@ -2037,6 +2078,33 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:27:01.000Z",
+      "mint": "CxNFLZQLebPYJveRb9g2R9MdgU7Vwa6mzG2fNsEGpump",
+      "ticker": "CYBERCATE",
+      "reasons": [
+        "HOBBES-shape: inverted + boost COMPLETED fade off ATH. Not refused for age. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:27:01.000Z",
+      "mint": "4ctwiSBMBExVuWLPsmFDCHAcLhmN7q5Sgh5GVtj4pump",
+      "ticker": "MELLO",
+      "reasons": [
+        "inverted + boost COMPLETED dump, 1h -95 dead off ATH. Not refused for age. Board already REFUSE. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T14:27:01.000Z",
+      "mint": "CLp3hKHXdxk9WC4ksmrQFjrkXiP5ALswEWpvU3Apump",
+      "ticker": "FTFS",
+      "reasons": [
+        "inverted + boost COMPLETED. Not refused for age. Board already REFUSE. Not a CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T14:12:38.000Z",
