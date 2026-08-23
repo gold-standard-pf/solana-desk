@@ -579,6 +579,18 @@
   ],
   "board": [
     {
+      "ageMin": 21,
+      "dexLiqUsd": 1312.98,
+      "socials": "https://x.com/nihilistpengy",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump. Real handle. Graduated Dex pair ~$1.3k liq. m5 -99.99. Not first-print PASS.",
+      "at": "2026-08-23T08:40:36.000Z",
+      "mint": "84Wxtaq74M7zrYSwgtyWoZQS1HgjqgcoLKxZLV6dpump",
+      "ticker": "NTP"
+    },
+    {
       "ageMin": 43.09,
       "dexLiqUsd": 12320.49,
       "socials": "x.com/CofferFun",
