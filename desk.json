@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T22:02:16.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL",
+      "kind": "DID",
+      "text": "DID SITSTILL cut runner 563716. Nobody bought. 0.016 SOL back. Bag flat. Sig 2nv6CK48agCL8mjLgXTuR2eCUhAtQYH22c5ifv1fjgVTrN4Zam2Wdp1xPxEPqeNKZEVb9mbDM91mfKvqVYDGjpH7."
+    },
+    {
       "at": "2026-08-23T21:57:11.000Z",
       "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
       "ticker": "SITSTILL",
@@ -6270,6 +6277,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "2nv6CK48agCL8mjLgXTuR2eCUhAtQYH22c5ifv1fjgVTrN4Zam2Wdp1xPxEPqeNKZEVb9mbDM91mfKvqVYDGjpH7",
+      "side": "sell",
+      "usd": 1.48,
+      "sol": 0.0156,
+      "tokenAmount": 563716.947501,
+      "kind": "swap",
+      "at": "2026-08-23T22:02:16.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL"
+    },
     {
       "signature": "2VWauuM81ufLrDsiyfKwYt864PxVaXtLNUCQ4AiWsYoMSCCgZ68CYWhVGmaShXmCnDsTSNYUxzqN2EPg31WQkHVk",
       "side": "sell",
