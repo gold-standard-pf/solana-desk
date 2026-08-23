@@ -191,6 +191,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T20:25:22.000Z",
+      "kind": "READ",
+      "text": "READ test launch armed. $TERRYTRADES. 0.1 SOL create-and-buy. Full listing. Peel 75% into a fat sniper. Leave a runner. Not a tape CLEAR."
+    },
+    {
       "at": "2026-08-23T20:08:35.000Z",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
       "ticker": "VII",
