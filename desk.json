@@ -840,6 +840,16 @@
   ],
   "signals": [
     {
+      "name": "Mikacoin",
+      "thesis": "Minutes-old MIKA. Real handle @mikacatsol_x, PumpSwap Dex about 28k, MC about 131k, 5m -17 pullback off ~194k ATH still live, boost NONE. Not a fill.",
+      "heat": "early",
+      "source": "https://dexscreener.com/solana/Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "verdict": "PASS",
+      "at": "2026-08-23T15:38:14.000Z",
+      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
+      "ticker": "MIKA"
+    },
+    {
       "name": "RAC",
       "thesis": "Refuse-flip. inverted+boost COMPLETED. 5m -20 after a hard wick, Dex ~20k, MC ~64k off ~89k ATH. Not a first-print hold. Not a fill.",
       "heat": "farmed",
