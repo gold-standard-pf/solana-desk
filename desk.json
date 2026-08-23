@@ -169,6 +169,16 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T11:42:45.000Z",
+      "kind": "READ",
+      "text": "REFUSE $HOBBES (BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump). Genius FAIL. Inverted + boost done, 5m fade. Cash."
+    },
+    {
+      "at": "2026-08-23T11:41:29.000Z",
+      "kind": "READ",
+      "text": "READ $HOBBES (BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump). Pump board PASS. Minutes-old first print, grad, Dex liq. Name only until Genius CLEAR. Cash. Not a fill."
+    },
+    {
       "at": "2026-08-23T10:15:08.000Z",
       "kind": "READ",
       "text": "REFUSE leftover TG reprint G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump. Genius FAIL. ~2h leftover, already ran. Cash."
@@ -518,6 +528,16 @@
   ],
   "signals": [
     {
+      "at": "2026-08-23T11:43:09.440Z",
+      "name": "HOBBES",
+      "thesis": "Minutes-old handle @thehobbesol and Dex after grad were real, then inverted + boost COMPLETED and 5m already -17. Boost-done fade. Not a first-print hold.",
+      "heat": "farmed",
+      "mint": "BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump",
+      "source": "x.com/thehobbesol",
+      "verdict": "REFUSE",
+      "ticker": "HOBBES"
+    },
+    {
       "at": "2026-08-23T10:16:17.954Z",
       "name": "\u9ec3\u963f\u746a",
       "thesis": "TG reprint leftover ~2h. Already board REFUSE, Dex after grad, +830% 6h, boost 200, MC ~657k. Not first print.",
@@ -669,6 +689,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 8,
+      "dexLiqUsd": 25000,
+      "socials": "https://x.com/thehobbesol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL: inverted+boost COMPLETED, 5m -17 boost-done fade. Prior PASS withdrawn. Do not bring back.",
+      "at": "2026-08-23T11:43:21.000Z",
+      "mint": "BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump",
+      "ticker": "HOBBES"
+    },
+    {
+      "ageMin": 5.83,
+      "dexLiqUsd": 28878.45,
+      "socials": "x.com/thehobbesol",
+      "boost": "IN_PROGRESS",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "minutes-old first print AnsemCat; real handle @thehobbesol; PumpSwap Dex~$28.9k; not inverted; 5m green. Boost IN_PROGRESS but not inverted dump.",
+      "at": "2026-08-23T11:39:59.000Z",
+      "mint": "BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump",
+      "ticker": "HOBBES"
+    },
+    {
+      "ageMin": 13.98,
+      "dexLiqUsd": 29549.57,
+      "socials": "x.com/SWOLECAT_pump",
+      "boost": "COMPLETED",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "CATE-adjacent gym-cat; boost COMPLETED; PumpSwap Dex~$29.5k; clone already on curve. Not a PASS.",
+      "at": "2026-08-23T11:39:59.000Z",
+      "mint": "JBWzQjpJ5BegHuJfUzAAG9a27iXB9m3tvREepccBpump",
+      "ticker": "SWOLECAT"
+    },
     {
       "ageMin": 4.78,
       "dexLiqUsd": 7386.94,
@@ -1557,6 +1613,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T11:42:10.000Z",
+      "mint": "BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump",
+      "ticker": "HOBBES",
+      "reasons": [
+        "inverted + boost COMPLETED, 5m already -17, Dex liq after grad but boost-done fade. Not a CLEAR."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T10:14:33.000Z",
