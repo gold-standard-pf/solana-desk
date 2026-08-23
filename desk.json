@@ -201,6 +201,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T18:12:03.000Z",
+      "mint": "DREc3Bg1dwa3FkA1H1tGscpx2Lr9rw3hMzDj8287pump",
+      "ticker": "CALLOUT",
+      "kind": "READ",
+      "text": "REFUSE CALLOUT. Pump withdraw. HOBBES-shape. Skip forever. HOLD STONKCAT."
+    },
+    {
       "at": "2026-08-23T18:05:40.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
