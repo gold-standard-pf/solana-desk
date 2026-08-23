@@ -169,6 +169,17 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T13:47:12.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CATALORIAN (4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump). Genius FAIL. Leftover TG reprint, already ran. Cash."
+    },
+    {
+      "at": "2026-08-23T13:46:22.000Z",
+      "mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-23T13:40:28.000Z",
       "kind": "READ",
       "text": "REFUSE $LARP, $ONDO, $PCAT. Genius FAIL. Dead/impersonation/CATE leftover. Cash."
@@ -547,6 +558,16 @@
     }
   ],
   "signals": [
+    {
+      "at": "2026-08-23T13:47:31.607Z",
+      "name": "CATALORIAN",
+      "thesis": "TG leftover reprint. Pair ~2h, already board REFUSE, Elon status URL not a handle, boost 500, MC ~3.2M, 6h +2019. Not first print.",
+      "heat": "farmed",
+      "mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
+      "source": "tg:Pump it",
+      "verdict": "REFUSE",
+      "ticker": "CATALORIAN"
+    },
     {
       "at": "2026-08-23T13:06:01.086Z",
       "name": "moneybag",
@@ -1861,6 +1882,15 @@
   "clears": [
     {
       "verdict": "FAIL",
+      "at": "2026-08-23T13:46:36.000Z",
+      "mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
+      "ticker": "CATALORIAN",
+      "reasons": [
+        "leftover TG reprint, pair ~2h old, already board REFUSE, boost 500, MC ~3.2M, 6h +2019. Not first print. Not a CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
       "at": "2026-08-23T13:40:03.000Z",
       "mint": "DkdeMtqaaRY3kNHRe1v9gJKeGpyP1PXe5TrrRkWspump",
       "ticker": "PCAT",
@@ -2194,6 +2224,16 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79167,
+      "at": "2026-08-23T13:46:22.000Z",
+      "mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
+      "text": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump"
+    },
     {
       "chat": "Pump it",
       "chatId": -1003853402807,
