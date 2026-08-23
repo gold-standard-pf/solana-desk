@@ -1,9 +1,9 @@
 {
   "name": "desk",
-  "status": "HOLD VII \u00b7 per-trade cap \u00b7 open <= 50%",
+  "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 157,
+  "ticks": 158,
   "equityUsd": 23.62,
   "spentUsd": 10.48,
   "realizedPnlUsd": -1.43,
@@ -13,12 +13,22 @@
     {
       "ticker": "VII",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
-      "investedUsd": 2.85,
-      "valueUsd": 3.06,
-      "pnlUsd": 0.21,
-      "pnlPct": 7.4,
+      "investedUsd": 0.66,
+      "valueUsd": 1.32,
+      "pnlUsd": 0.66,
+      "pnlPct": 100.0,
+      "sizeSol": 0.007,
+      "thesis": "runner after peel. Dex after grad. 5m still green."
+    },
+    {
+      "ticker": "OnlyCats",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "investedUsd": 2.86,
+      "valueUsd": 3.08,
+      "pnlUsd": 0.22,
+      "pnlPct": 7.7,
       "sizeSol": 0.03,
-      "thesis": "first print. Dex after grad. boost none. 5m green. cap used."
+      "thesis": "first print. Dex after grad. boost none. 5m green."
     }
   ],
   "decisions": [
@@ -201,6 +211,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T19:50:34.000Z",
+      "ticker": "MIAO",
+      "kind": "READ",
+      "text": "REFUSE $MIAO. Hijack+boost done. Sat. Not a fill."
+    },
     {
       "at": "2026-08-23T19:49:38.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
@@ -4373,6 +4389,16 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "signal flip hijack+boost done",
+        "sat, never sized"
+      ],
+      "at": "2026-08-23T19:50:34.000Z",
+      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "ticker": "MIAO"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "first print this mint",
@@ -5164,6 +5190,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T19:50:29.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "call": "hold",
+      "vsInvalidation": "5m +133, PumpSwap liq ~$26.2k, mark ~$2.89 vs ~$2.86 cost. Thin bag. Cut first hit: mark <=60% cost, 5m <=-25, liq halves (~$13.1k), or inverted+boost COMPLETED + 5m red. Take initials only if mark covers 0.03 SOL with a real runner left.",
+      "markUsd": 2.89,
+      "note": "OnlyCats fill stamped. 25448 tokens. HOLD. 1m Dex watch on. VII runner stays. MIAO is not a bag."
+    },
+    {
       "at": "2026-08-23T19:42:11.000Z",
       "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
       "ticker": "VII",
@@ -5456,6 +5491,15 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T19:50:29.000Z",
+      "signature": "46Th4jNaHx7P2fABPR3Y3x4ZiH6c8bMsLhNYGHupz7QcKhdrbcx3mkPDUfMALMB7wZ95jVrbWRtYX1SBXMuvmUVn",
+      "side": "buy",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "usd": 2.86,
+      "tokenAmount": 25448.371144
+    },
     {
       "at": "2026-08-23T19:42:11.000Z",
       "signature": "2TWJ3FBx3M5zTctCWNsXYwQ1fvEgbRCk2YHKQrRX5XvHfFqXdBKEuRqkvtqWgMLh3nv3dYT81vFwD2UBkcQCYWN8",
@@ -5896,9 +5940,10 @@
   "marks": {
     "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump": 0.001324,
     "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump": 0.0001782,
-    "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 5.453e-05
+    "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 0.0001021,
+    "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212
   },
-  "updatedAt": "2026-08-23T19:39:08.000Z",
+  "updatedAt": "2026-08-23T19:50:34.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5
 }
