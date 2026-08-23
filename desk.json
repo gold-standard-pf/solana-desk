@@ -194,6 +194,28 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T15:09:15.000Z",
+      "kind": "READ",
+      "text": "CLEAR $\u307e\u308b. Real handle, Dex after grad, not a dead dump. CYBERCAT CLEAR still stands. Not fills."
+    },
+    {
+      "at": "2026-08-23T15:09:02.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CGOD and $GDOGE. Genius FAIL. Dead dumps. Cash."
+    },
+    {
+      "at": "2026-08-23T15:09:02.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT",
+      "kind": "READ",
+      "text": "SIZE correction $CYBERCAT: hard cap 0.01 SOL not 0.05. Kill switch still on. Phantom signer timeout. I hold the book. No signature. Not a fill."
+    },
+    {
+      "at": "2026-08-23T15:07:30.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CGOD, $GDOGE. Genius FAIL. Dead dumps off ATH, not age. Cash."
+    },
+    {
       "at": "2026-08-23T15:03:06.000Z",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
       "ticker": "CYBERCAT",
@@ -876,6 +898,90 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 95.0,
+      "dexLiqUsd": 78435.41,
+      "socials": "x.com/0x_cybercat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "WITHDRAW reversed. Live 5m +31 1h +211, Dex~$78k, still green. Prior 5m -8 was a flicker. Not CYBERCATE. Not a fill.",
+      "at": "2026-08-23T15:08:53.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT"
+    },
+    {
+      "ageMin": 9.7,
+      "dexLiqUsd": 209262.61,
+      "socials": "X.cyberleek.com",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE/LEEK clone of refused Leek/CATELEEK; twitter is X.cyberleek.com not a real x.com/handle (fails a). inverted+boost COMPLETED. PumpSwap Dex~$209k. Not a PASS.",
+      "at": "2026-08-23T15:07:43.000Z",
+      "mint": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
+      "ticker": "CYBERLEEK"
+    },
+    {
+      "ageMin": 24.58,
+      "dexLiqUsd": 2186.31,
+      "socials": "x.com/CIRCUITGODsol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost COMPLETED dump; 5m flat 1h -94.5 off ATH ~$70.6k now ~$2.1k. Real handle @CIRCUITGODsol; PumpSwap Dex~$2.2k. Not a PASS.",
+      "at": "2026-08-23T15:07:42.000Z",
+      "mint": "HjYvT8FCT2UBU5CRNTnbfDtPsGJDdHrPpBJp9wv5pump",
+      "ticker": "CGOD"
+    },
+    {
+      "ageMin": 31.1,
+      "dexLiqUsd": 24368.12,
+      "socials": "x.com/maruon_sol",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "Real handle @maruon_sol, PumpSwap Dex~$24.4k after grad, 5m +17 1h +37 still green. inverted+boost COMPLETED but tape is not a fade (CYBERCAT-shape). Not a fill.",
+      "at": "2026-08-23T15:07:42.000Z",
+      "mint": "HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump",
+      "ticker": "\u307e\u308b"
+    },
+    {
+      "ageMin": 22.84,
+      "dexLiqUsd": 2201.91,
+      "socials": "x.com/CIRCUITGODsol",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted dump after grad; real handle @CIRCUITGODsol; PumpSwap Dex~$2.2k; 1h -94 off Dex.",
+      "at": "2026-08-23T15:05:58.000Z",
+      "mint": "HjYvT8FCT2UBU5CRNTnbfDtPsGJDdHrPpBJp9wv5pump",
+      "ticker": "CGOD"
+    },
+    {
+      "ageMin": 41.39,
+      "dexLiqUsd": 1857.0,
+      "socials": "x.com/goldendoge3d",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted dump after grad; real handle @goldendoge3d; PumpSwap Dex~$1.9k; 5m -96 off Dex, liq collapsed from ~$15k.",
+      "at": "2026-08-23T15:05:58.000Z",
+      "mint": "9TFPnYhX48etGTBGAZU4DgmkeHPkJPUwou3XeHsqpump",
+      "ticker": "GDOGE"
+    },
+    {
+      "ageMin": 92.21,
+      "dexLiqUsd": 69689.7,
+      "socials": "x.com/0x_cybercat",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. inverted+boost COMPLETED 5m red fade HOBBES-shape; pumpswap 5m -8 off prior hold, Dex~$69.7k still printed. Not the dumped CYBERCATE mint.",
+      "at": "2026-08-23T15:05:58.000Z",
+      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
+      "ticker": "CYBERCAT"
+    },
     {
       "ageMin": 82.1,
       "dexLiqUsd": 70799.71,
@@ -2220,6 +2326,33 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "at": "2026-08-23T15:09:15.000Z",
+      "mint": "HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump",
+      "ticker": "\u307e\u308b",
+      "reasons": [
+        "CLEAR. Real handle @maruon_sol, PumpSwap Dex ~$21k after grad, 1h still green. 5m cooled +22 to -4, not a dead dump. Age ~31m is fine. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T15:07:30.000Z",
+      "mint": "9TFPnYhX48etGTBGAZU4DgmkeHPkJPUwou3XeHsqpump",
+      "ticker": "GDOGE",
+      "reasons": [
+        "FAIL. Already-dead dump off ATH. Real handle @goldendoge3d, PumpSwap Dex ~$1.9k, 5m -96 liq collapsed. Not refused for age. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T15:07:30.000Z",
+      "mint": "HjYvT8FCT2UBU5CRNTnbfDtPsGJDdHrPpBJp9wv5pump",
+      "ticker": "CGOD",
+      "reasons": [
+        "FAIL. Already-dead dump off ATH. Real handle @CIRCUITGODsol, PumpSwap Dex ~$2.2k, 1h -94. Not refused for age. Not a fill."
+      ]
+    },
     {
       "verdict": "FAIL",
       "at": "2026-08-23T14:57:15.000Z",
