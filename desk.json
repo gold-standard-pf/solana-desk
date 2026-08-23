@@ -12,6 +12,30 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "Dinger",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "verdict": "refuse",
+      "at": "2026-08-23T02:43:00.000Z",
+      "reasons": [
+        "leftover 6h",
+        "Elon status tweet",
+        "boost done",
+        "FAIL"
+      ]
+    },
+    {
+      "ticker": "BABYCATE",
+      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "verdict": "refuse",
+      "at": "2026-08-23T02:32:00.000Z",
+      "reasons": [
+        "already ran",
+        "ATH fade",
+        "baby-CATE copy",
+        "FAIL from Genius"
+      ]
+    },
+    {
       "ticker": "Burpcoin",
       "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
       "verdict": "refuse",
@@ -83,6 +107,41 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T02:43:19.000Z",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "ticker": "Dinger",
+      "kind": "REFUSED",
+      "text": "refused $Dinger \u2014 leftover 6h, Elon tweet, boost done. FAIL."
+    },
+    {
+      "at": "2026-08-23T02:42:42.000Z",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "ticker": "Dinger",
+      "kind": "REFUSED",
+      "text": "FAIL . Name only, leftover tape. Do not re-drop."
+    },
+    {
+      "at": "2026-08-23T02:41:13.000Z",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "ticker": "Dinger",
+      "kind": "READ",
+      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
+    },
+    {
+      "at": "2026-08-23T02:32:36.000Z",
+      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "ticker": "BABYCATE",
+      "kind": "REFUSED",
+      "text": "refused $BABYCATE \u2014 already ran, ATH fade, baby-CATE copy. Mikey name, not a fill."
+    },
+    {
+      "at": "2026-08-23T02:32:03.000Z",
+      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "ticker": "BABYCATE",
+      "kind": "REFUSED",
+      "text": "FAIL . Already ran and dumped off ATH. No CLEAR. Do not re-drop."
+    },
     {
       "at": "2026-08-23T02:19:49.000Z",
       "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
@@ -190,6 +249,26 @@
   ],
   "signals": [
     {
+      "name": "Dinger",
+      "thesis": "Elon-cat / Schr\u00f6dinger lore, already cloned across multiple Solana mints. This print uses an Elon status as the X, paid boost, leftover 6h. Not a new spark.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/cwboviddjjpmwvahcklyr5wxs3xqxbz8fkdlkkyfek2v",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T02:41:58.000Z",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "ticker": "Dinger"
+    },
+    {
+      "name": "BABYCATE",
+      "thesis": "CATE-orbit copy, not a new cultural spark. Parent story already farmed tonight. A second ATH is possible; that is not a story PASS.",
+      "heat": "farmed",
+      "source": "https://dexscreener.com/solana/DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "verdict": "REFUSE",
+      "at": "2026-08-23T02:33:27.000Z",
+      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "ticker": "BABYCATE"
+    },
+    {
       "name": "Burpcoin",
       "thesis": "TG name from Pump it. Burp/Fartcoin joke, already cloned (older 6XLbqz mint from 2024). This mint is about 8 days old, not a new spark.",
       "heat": "farmed",
@@ -211,6 +290,42 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 0,
+      "dexLiqUsd": 34617.41,
+      "socials": "https://x.com/elonmusk/status/1764897061143474593",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Elon status URL not handle. inverted+boost COMPLETED. leftover 6h +413%. Dex -13%/5m. not a PASS",
+      "at": "2026-08-23T02:42:18.000Z",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "ticker": "Dinger"
+    },
+    {
+      "ageMin": 1.83,
+      "dexLiqUsd": 17561.97,
+      "socials": "x.com/NeonWojak",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS Dex~17.6k +42pct/5m not a PASS",
+      "at": "2026-08-23T02:36:14.000Z",
+      "mint": "DrpiMuC1z2Vk7VcLf7uN9TwaqpWC91E3rj9XbLxwpump",
+      "ticker": "NEONJAK"
+    },
+    {
+      "ageMin": 0,
+      "dexLiqUsd": 54670.15,
+      "socials": "https://x.com/Bcrypto00/status/2091237677848834233",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "CATE clone. status URL not handle. inverted+boost COMPLETED. leftover 6h tape. not a PASS",
+      "at": "2026-08-23T02:34:28.000Z",
+      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "ticker": "BABYCATE"
+    },
     {
       "ageMin": 27.3,
       "dexLiqUsd": 20395.22,
@@ -335,6 +450,34 @@
   "launchWatch": [],
   "clears": [
     {
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": null,
+      "mintAuth": null,
+      "top10Pct": null,
+      "ageHours": 2,
+      "at": "2026-08-23T02:42:42.000Z",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "ticker": "Dinger",
+      "reasons": [
+        "Elon-cat clone, graduated leftover 6h, boost done, 5m already fading. No CLEAR."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "lpBurned": null,
+      "freezeAuth": null,
+      "mintAuth": null,
+      "top10Pct": null,
+      "ageHours": 8,
+      "at": "2026-08-23T02:32:02.000Z",
+      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
+      "ticker": "BABYCATE",
+      "reasons": [
+        "late chase: Token-2022 baby-CATE copy, graduated, ATH 1.36M now ~311k, 6h +772 then 1h red, livestream tape, 0.267 SOL book does not size this"
+      ]
+    },
+    {
       "at": "2026-08-23T02:19:30.000Z",
       "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
       "ticker": "Burpcoin",
@@ -392,6 +535,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "messageId": 79115,
+      "at": "2026-08-23T02:41:13.000Z",
+      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
+      "ticker": "Dinger",
+      "text": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump"
+    },
     {
       "at": "2026-08-23T02:17:20.000Z",
       "chat": "Pump it",
