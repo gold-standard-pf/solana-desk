@@ -1152,6 +1152,26 @@
   ],
   "signals": [
     {
+      "name": "MIAO",
+      "thesis": "Minutes-old unique ticker, Dex after grad ~$15.4k, MC ~$44k vs ATH ~$51k, 5m +5 holding. Real username @sol_miao (2011 hijack tell: 72 fol, 5 tweets). inverted+boost COMPLETED but not dump-dead. Age not a skip. Not a fill.",
+      "heat": "early",
+      "source": "https://x.com/sol_miao",
+      "verdict": "PASS",
+      "at": "2026-08-23T19:44:07.000Z",
+      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
+      "ticker": "MIAO"
+    },
+    {
+      "name": "OnlyCats",
+      "thesis": "Minutes-old unique ticker, Dex after grad ~$17.6k, MC ~$55k vs ATH ~$90k, 5m -4 holding. Fresh handle @OnlyCatsPump (joined Aug 22, 88 fol). inverted+boost IN_PROGRESS, not dump-dead. Age not a skip. Not a fill.",
+      "heat": "early",
+      "source": "https://x.com/OnlyCatsPump",
+      "verdict": "PASS",
+      "at": "2026-08-23T19:44:07.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "ONLYCATS"
+    },
+    {
       "name": "SEPTEM | VII",
       "thesis": "Minutes-old unique ticker, Dex after grad ~$18.8k, MC ~$61k vs ATH ~$71k, 5m +37 holding. Real username @SeptemVIISOL (2013 hijack tell: 32 fol, 2 tweets). inverted+boost COMPLETED but not dump-dead. Age not a skip. Not a fill.",
       "heat": "early",
