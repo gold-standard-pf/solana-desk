@@ -1855,6 +1855,42 @@
   ],
   "board": [
     {
+      "ageMin": 1,
+      "dexLiqUsd": 0,
+      "socials": "x.com/Zumi_solana",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS (fails c). Unique ticker complete=True; DexScreener still pumpfun pair, no liq object (Jupiter Pump.fun Amm route live). Real handle x.com/Zumi_solana. Live recheck 23:41Z. Not a PASS.",
+      "at": "2026-08-23T23:41:56.000Z",
+      "mint": "EJxJra2QjDtbyqaAkzE5aZ71ACuTSXzSNCB9VMRxpump",
+      "ticker": "ZUMI"
+    },
+    {
+      "ageMin": 2,
+      "dexLiqUsd": 12137.54,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS (fails c). no handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$12,138. Live recheck 23:41Z.",
+      "at": "2026-08-23T23:41:56.000Z",
+      "mint": "1mHHojnbX4eyLTLXBNGvUHjB3tabF2yMTauWncRpump",
+      "ticker": "COPE"
+    },
+    {
+      "ageMin": 2,
+      "dexLiqUsd": 175867.54,
+      "socials": "x.com/BasecatOnBase",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "Hobbes. inverted+boost IN_PROGRESS (fails c). Unique ticker graduated; PumpSwap Dex printed ~$175,868. Real handle x.com/BasecatOnBase. Live recheck 23:41Z.",
+      "at": "2026-08-23T23:41:56.000Z",
+      "mint": "Qcxb7rrqPn2Kpi5iW7NgvByostj5bAty5Xu6uZnpump",
+      "ticker": "Basecat"
+    },
+    {
       "ageMin": 18,
       "dexLiqUsd": 15700,
       "socials": "x.com/ansemleek",
