@@ -1320,6 +1320,42 @@
   ],
   "board": [
     {
+      "ageMin": 5.0,
+      "dexLiqUsd": 19955.6,
+      "socials": "x.com/thecyberbulls",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "cyber-orbit of standing CYBERCAT 9HHTQ7YMx82E / @0x_cybercat. Real handle @thecyberbulls, PumpSwap Dex~$20.0k after grad, 5m +74 holding. Clone/orbit bar (Genius FAILed CYBERCOIN for that). Do not bring back.",
+      "at": "2026-08-23T17:00:28.000Z",
+      "mint": "9WdDJ65qfL7c9wv5sf2nKFLD67rzA6w9NwF4Tw83pump",
+      "ticker": "CYBERBULL"
+    },
+    {
+      "ageMin": 26.4,
+      "dexLiqUsd": 7346.52,
+      "socials": "x.com/voltharesol",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted+boost IN_PROGRESS dump; 5m -69 1h -69, PumpSwap Dex $14.5k->$7.3k MC~$12k. Real handle @voltharesol. Fails (c) HOBBES-shape. Not refused for age.",
+      "at": "2026-08-23T17:00:28.000Z",
+      "mint": "CAb83ZqwqQaXmLiikQzpYxyZKsNzWetk74cpDAoipump",
+      "ticker": "VOLT"
+    },
+    {
+      "ageMin": 4.4,
+      "dexLiqUsd": 394948.57,
+      "socials": "none",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (fails a). CATE clone (Binance Cat). PumpSwap Dex~$395k after grad; inverted+boost IN_PROGRESS. Not refused for age.",
+      "at": "2026-08-23T17:00:28.000Z",
+      "mint": "4pb2QrFRhuNqomXvJeAiTcyJq1o3KmzUuRUaon5Jpump",
+      "ticker": "BNBCAT"
+    },
+    {
       "ageMin": 22.4,
       "dexLiqUsd": 29864,
       "socials": "x.com/Bymotionn/status/2091532503743918391",
