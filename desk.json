@@ -169,6 +169,23 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T09:54:24.000Z",
+      "kind": "READ",
+      "text": "REFUSE $CLUSTLY (FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump). Genius FAIL. Dumped on curve, no Dex liq. Dead. $KNIFE still a name, cash. Not a fill."
+    },
+    {
+      "at": "2026-08-23T09:52:55.000Z",
+      "kind": "READ",
+      "text": "READ $KNIFE KitKnife (iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump). Name only. Still on curve. No CLEAR until Dex liq after grad. Cash."
+    },
+    {
+      "at": "2026-08-23T09:52:37.000Z",
+      "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
+      "ticker": "KNIFE",
+      "kind": "READ",
+      "text": "READ $KNIFE. Pair ~7m, still pump.fun curve, MC ~10k, +277% on the hour already. Pump handle listed, Dex has no socials yet, no Dex liq after grad. No CLEAR. Not a fill."
+    },
+    {
       "at": "2026-08-23T09:19:26.000Z",
       "kind": "READ",
       "text": "READ $CLUSTLY (FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump). Name only. Real handle @Clustlydotai, still on curve. No CLEAR until Dex liq after grad. Cash."
@@ -484,6 +501,16 @@
   ],
   "signals": [
     {
+      "name": "KitKnife",
+      "thesis": "Minutes-old first print of a street-cat-with-knife character. Pump metadata handle @KitKnifeDEV, site kitknife.top. Dex has no socials yet. Still on the curve. First print, not leftover.",
+      "heat": "early",
+      "source": "https://dexscreener.com/solana/7kacmskxipytcdyiqoqf3fwitbyek5fa6f6cxc383tm4",
+      "verdict": "PASS",
+      "at": "2026-08-23T09:52:12.000Z",
+      "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
+      "ticker": "KNIFE"
+    },
+    {
       "name": "Clustly",
       "thesis": "Minutes-old first print. Real handle @Clustlydotai and live site clustly.ai (agent marketplace). Not a clone swarm. Still on the curve, small, 5m already red. First print, not leftover.",
       "heat": "early",
@@ -615,6 +642,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 67.7,
+      "dexLiqUsd": 0,
+      "socials": "https://x.com/Clustlydotai",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "dumped on curve; 1h red; no Dex after grad; Genius FAIL; no longer minutes-old. Dead. Do not bring back.",
+      "at": "2026-08-23T09:55:26.000Z",
+      "mint": "FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump",
+      "ticker": "CLUSTLY"
+    },
     {
       "ageMin": 87.6,
       "dexLiqUsd": 77014.56,
@@ -1398,17 +1437,36 @@
   ],
   "launchWatch": [
     {
+      "name": "KNIFE",
+      "sources": [
+        "signal"
+      ],
+      "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
+      "boundAt": "2026-08-23T09:55:26.000Z",
+      "status": "watching",
+      "note": "first print, real handle @KitKnifeDEV, still on curve; bind/board PASS only after Dex liq prints and not inverted"
+    },
+    {
       "name": "CLUSTLY",
       "sources": [
         "signal"
       ],
       "mint": "FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump",
       "boundAt": "2026-08-23T09:20:32.000Z",
-      "status": "watching",
-      "note": "first print, real handle @Clustlydotai, still on curve; bind/board PASS only after Dex liq prints and not inverted"
+      "status": "dead",
+      "note": "FAIL/REFUSE: dumped on curve, 1h red, no Dex after grad, no longer minutes-old. Do not bring back."
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T09:53:11.000Z",
+      "mint": "FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump",
+      "ticker": "CLUSTLY",
+      "reasons": [
+        "dumped on the curve, 1h red, still no Dex liq after grad, no longer minutes-old"
+      ]
+    },
     {
       "verdict": "FAIL",
       "lpBurned": "",
