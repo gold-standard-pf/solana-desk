@@ -3,7 +3,7 @@
   "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 115,
+  "ticks": 121,
   "equityUsd": 25.56,
   "spentUsd": 4.76,
   "realizedPnlUsd": 0.67,
@@ -217,6 +217,22 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T16:08:46.000Z",
+      "kind": "READ",
+      "text": "READ 4 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
+      "at": "2026-08-23T16:07:46.000Z",
+      "kind": "DID",
+      "text": "DID $SUSHI peel 8600 for 0.0335 SOL. Runner 4217 left. Book 0.274 SOL. Sig 2iKSun2zJjzXJQQVk9RKd7UmdBcGVTeGjzxwV2H2TWZ7Dm8exMeursXR6H4U1Eg9o9416JT997uH4FZvvZbDGKWH.",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump"
+    },
+    {
+      "at": "2026-08-23T16:07:35.000Z",
+      "kind": "READ",
+      "text": "FAIL $CATE-1 clone. CLEAR $CYBERTRUMP first print. Not a fill."
+    },
     {
       "at": "2026-08-23T16:07:02.000Z",
       "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
@@ -2896,6 +2912,24 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "at": "2026-08-23T16:07:35.000Z",
+      "mint": "33Rz4AQpQcbUkwGJ993mnD1LgEbjRscrAv5zcdTxpump",
+      "ticker": "CYBERTRUMP",
+      "reasons": [
+        "CLEAR. Minutes-old first print. Handle @thecybertrumps, PumpSwap Dex ~$21k after grad, 5m +98 holding. Boost in progress, not a fade. Not a fill."
+      ]
+    },
+    {
+      "verdict": "FAIL",
+      "at": "2026-08-23T16:07:35.000Z",
+      "mint": "3LhExM1v9JFoM2ZHQnXvBbuthSWa96Yc2ubhPYw9pump",
+      "ticker": "CATE-1",
+      "reasons": [
+        "FAIL. CATE clone. Handle is real, Dex after grad is live. Clone bar. Not a fill."
+      ]
+    },
+    {
       "verdict": "FAIL",
       "at": "2026-08-23T16:06:38.000Z",
       "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
@@ -3561,6 +3595,39 @@
   "advice": [
     {
       "call": "hold",
+      "vsInvalidation": "not hit",
+      "note": "Runner 4217 house money. HOLD. Book 0.274 SOL.",
+      "at": "2026-08-23T16:08:43.000Z",
+      "ticker": "SUSHI"
+    },
+    {
+      "call": "hold",
+      "vsInvalidation": "Initials peeled. Runner 4217 is house money. Cut the runner if 5m dumps hard, bid dies, or Dex breaks.",
+      "markUsd": 1.4,
+      "note": "Sell stamped 8600 tokens, +0.0335 SOL. Runner 4217 left. HOLD runner. CYBERCAT still flat.",
+      "at": "2026-08-23T16:08:27.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
+      "at": "2026-08-23T16:07:46.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI",
+      "call": "take",
+      "vsInvalidation": "not hit",
+      "note": "Initials peeled. Runner 4217 house money."
+    },
+    {
+      "call": "take",
+      "vsInvalidation": "Not hit. Dex ~$47k, 5m +45. TAKE initials only: peel ~$2.85 / ~0.032 SOL (~8600 of 12817 tokens), leave the rest as a free runner. Do not dump the bag.",
+      "markUsd": 4.25,
+      "note": "Up ~+49 vs $2.85 fill. First take is initials, not full exit. CYBERCAT already flat.",
+      "at": "2026-08-23T16:07:14.000Z",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI"
+    },
+    {
+      "call": "hold",
       "vsInvalidation": "Not hit. Dex ~$37k, 5m was green on last mark. CYBERCAT runner is flat (sold). Cut SUSHI if 5m waterfall, bid dies, or Dex breaks.",
       "markUsd": 2.75,
       "note": "CYBERCAT cut stamped. Only open is SUSHI 12817. HOLD.",
@@ -3741,6 +3808,16 @@
   ],
   "fills": [
     {
+      "at": "2026-08-23T16:07:46.000Z",
+      "signature": "2iKSun2zJjzXJQQVk9RKd7UmdBcGVTeGjzxwV2H2TWZ7Dm8exMeursXR6H4U1Eg9o9416JT997uH4FZvvZbDGKWH",
+      "side": "sell",
+      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
+      "ticker": "SUSHI",
+      "usd": 3.18,
+      "tokenAmount": 8600,
+      "sol": 0.0335
+    },
+    {
       "at": "2026-08-23T16:02:59.000Z",
       "signature": "BQ1NGNmWwhjiw7H2X7bGSJph6kCT9zybUUziumAZZY3CyMFY5Ub8ALCWkVhKzMHBuxDEPq4UegXk76TW8gvtyZ5",
       "side": "sell",
@@ -3791,6 +3868,50 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T16:08:29.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "They kinda smart ngl",
+      "messageId": 79192
+    },
+    {
+      "at": "2026-08-23T16:08:07.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "This there wallet",
+      "messageId": 79191
+    },
+    {
+      "at": "2026-08-23T16:08:01.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
+      "text": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
+      "messageId": 79190
+    },
+    {
+      "at": "2026-08-23T16:07:56.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Gave those grok bots 25$ might make it 100$ tomorrow after watching them for a day or two",
+      "messageId": 79189
+    },
     {
       "at": "2026-08-23T15:55:28.000Z",
       "chat": "Pump it",
