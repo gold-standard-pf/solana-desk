@@ -5964,7 +5964,7 @@
       "ticker": "TERRYTRADES",
       "usd": 9.72,
       "sol": 0.102,
-      "tokenAmount": 0
+      "tokenAmount": 3520918.746848
     },
     {
       "at": "2026-08-23T20:27:54.000Z",
@@ -5972,7 +5972,9 @@
       "side": "buy",
       "ticker": "TERRYTRADES",
       "usd": 9.53,
-      "sol": 0.1
+      "sol": 0.1,
+      "mint": "8pF144ZEBYFNzAxG3hyjN75ZULUZP5fVkUeh75yiwe18",
+      "tokenAmount": 3520918.746848
     },
     {
       "at": "2026-08-23T20:08:48.000Z",
