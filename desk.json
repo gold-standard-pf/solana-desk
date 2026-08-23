@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T20:25:46.000Z",
+      "mint": "GmghJHqqrJRWieYTjnWZkTbvKVQhUvChpbXwha8mpump",
+      "ticker": "FLAM",
+      "kind": "READ",
+      "text": "FAIL $FLAM. inverted+boost COMPLETED. Not a fill. Book cash. Launch is separate."
+    },
+    {
       "at": "2026-08-23T20:25:22.000Z",
       "kind": "READ",
       "text": "READ test launch armed. $TERRYTRADES. 0.1 SOL create-and-buy. Full listing. Peel 75% into a fat sniper. Leave a runner. Not a tape CLEAR."
@@ -1708,6 +1715,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-23T20:25:51.000Z",
+      "mint": "GmghJHqqrJRWieYTjnWZkTbvKVQhUvChpbXwha8mpump",
+      "ticker": "FLAM",
+      "ageMin": 25.0,
+      "dexLiqUsd": 18700.0,
+      "socials": "@catchtheflam",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "WITHDRAW. Genius FAIL: inverted+boost COMPLETED is Hobbes shape. Dex and a green 5m do not CLEAR. Prior PASS pulled. Book cash. Do not reopen."
+    },
     {
       "ageMin": 8.09,
       "dexLiqUsd": 66858.38,
@@ -4730,6 +4749,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "inverted+boost COMPLETED",
+        "HOBBES shape not a CLEAR",
+        "5m green is not enough"
+      ],
+      "at": "2026-08-23T20:25:46.000Z",
+      "mint": "GmghJHqqrJRWieYTjnWZkTbvKVQhUvChpbXwha8mpump",
+      "ticker": "FLAM"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
