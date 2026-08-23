@@ -3,7 +3,7 @@
   "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 162,
+  "ticks": 163,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
   "realizedPnlUsd": -1.43,
@@ -5202,6 +5202,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-23T19:52:38.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "call": "hold",
+      "vsInvalidation": "Initials peeled +0.038 SOL. 4326 runner left (~$0.77). 5m +65, liq ~$33.3k vs ~$26.2k fill. HOLD runner. $VII runner 12918 (~$1.51) 5m +18, liq ~$27.3k vs ~$16.8k. HOLD. Cut first fade on either.",
+      "markUsd": 0.77,
+      "note": "OnlyCats peel stamped. Cost back plus. Both runners HOLD. 1m watch stays on."
+    },
+    {
       "at": "2026-08-23T19:51:58.000Z",
       "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
       "ticker": "OnlyCats",
@@ -5521,6 +5530,15 @@
     }
   ],
   "fills": [
+    {
+      "at": "2026-08-23T19:52:38.000Z",
+      "signature": "47XaYCfF7G8fyma5MtEwcuDUKmS5n4yGYoEUbK6GCk5p3g78E34H3Gs4EMgHEM1xcWYMvY4hR4DRTSy4tBGacrUV",
+      "side": "sell",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "usd": 3.63,
+      "tokenAmount": 21122.0
+    },
     {
       "at": "2026-08-23T19:50:29.000Z",
       "signature": "46Th4jNaHx7P2fABPR3Y3x4ZiH6c8bMsLhNYGHupz7QcKhdrbcx3mkPDUfMALMB7wZ95jVrbWRtYX1SBXMuvmUVn",
