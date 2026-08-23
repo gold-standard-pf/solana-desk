@@ -1501,6 +1501,42 @@
   ],
   "board": [
     {
+      "ageMin": 2.09,
+      "dexLiqUsd": 19812.83,
+      "socials": "x.com/mark_k/status/2091609069639315528",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Unique ticker graduated; PumpSwap Dex printed ~$19,813. inverted+boost NONE. 5m +73 holding (135b/205s) Dex MC~$68.7k. Refused as status-URL, not as a dump. Not refused for age. Live-recheck 19:33Z. Not a PASS.",
+      "at": "2026-08-23T19:33:45.000Z",
+      "mint": "DuhwVcTFeRCLLRx8rppLr1eWRFRz1zi9S74aXqzvpump",
+      "ticker": "MARS"
+    },
+    {
+      "ageMin": 7.52,
+      "dexLiqUsd": 4069.08,
+      "socials": "x.com/1hastorun/status/2091607806411452809",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Cyber-orbit CYBER* of CYBERCAT book. Unique ticker graduated; PumpSwap Dex printed ~$4,069. inverted+boost NONE. 5m -25 1h -87 dumping (26b/51s) MC~$4.9k. Refused as status-URL+cyber-orbit, not as a dump. Not refused for age. Live-recheck 19:33Z. Not a PASS.",
+      "at": "2026-08-23T19:33:44.000Z",
+      "mint": "FrSHLvKVA9cDVzm8Wv8qEoD8NAGiakPS29DCwRkWfmj8",
+      "ticker": "CYBERSTAR"
+    },
+    {
+      "ageMin": 11.01,
+      "dexLiqUsd": 8347.33,
+      "socials": "x.com/Armoskii/status/2091606858129719429",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "status-URL not a real handle (fails a). Website is x.com search URL. Unique ticker graduated; PumpSwap Dex printed ~$8,347. inverted+boost IN_PROGRESS. 5m +78 bounce after dump 1h -61 (549b/285s) MC~$14.9k. Refused as status-URL, not as a dump. Not refused for age. Live-recheck 19:33Z. Not a PASS.",
+      "at": "2026-08-23T19:33:44.000Z",
+      "mint": "7JqghDMFBHWZJKUEYeWd27aDvprzXowL59h1y1QYpump",
+      "ticker": "FASTEST"
+    },
+    {
       "ageMin": 3.7,
       "dexLiqUsd": 4969.24,
       "socials": "x.com/1hastorun/status/2091607806411452809",
