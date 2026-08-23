@@ -1078,6 +1078,16 @@
   ],
   "signals": [
     {
+      "name": "NIX - Aurora-9",
+      "thesis": "Minutes-old unique ticker, Dex after grad ~$21.7k, MC ~$78k vs ATH ~$94k, 5m +64 holding. Real username @NixAurora9SOL (2013 hijack tell: 29 fol, 2 tweets). inverted+boost COMPLETED but not dump-dead. Age not a skip. Not a fill.",
+      "heat": "early",
+      "source": "https://x.com/NixAurora9SOL",
+      "verdict": "PASS",
+      "at": "2026-08-23T18:48:55.000Z",
+      "mint": "5Z14izCPnneQnQoznB2F8jWCYG1qxuRiFijoP6VYpump",
+      "ticker": "NIX"
+    },
+    {
       "name": "UpCat",
       "thesis": "Minutes-old UPCAT. Real handle @UpCatpump, PumpSwap Dex about 20k, MC about 72k, 5m -2 / 1h +25 buy-heavy. inverted+boost COMPLETED but not a fade. Not a fill.",
       "heat": "early",
