@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-23T22:06:17.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL",
+      "kind": "DID",
+      "text": "DID claim creator fees 0.00875 SOL. Book 0.411 -> 0.420. Sig 5JSZAqqeqg7Pz5mWBTiEGZZ2sqSsKaAugHAafGNa6iMXGpwoXyDoGNqJeQu8EAERBcXD49fhgT6f6JJZy6Hm5ZJE."
+    },
+    {
       "at": "2026-08-23T22:02:16.000Z",
       "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
       "ticker": "SITSTILL",
@@ -6289,6 +6296,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "5JSZAqqeqg7Pz5mWBTiEGZZ2sqSsKaAugHAafGNa6iMXGpwoXyDoGNqJeQu8EAERBcXD49fhgT6f6JJZy6Hm5ZJE",
+      "side": "claim",
+      "kind": "claim",
+      "usd": 0.83,
+      "sol": 0.00875,
+      "tokenAmount": 0,
+      "at": "2026-08-23T22:06:17.000Z",
+      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
+      "ticker": "SITSTILL"
+    },
     {
       "signature": "2nv6CK48agCL8mjLgXTuR2eCUhAtQYH22c5ifv1fjgVTrN4Zam2Wdp1xPxEPqeNKZEVb9mbDM91mfKvqVYDGjpH7",
       "side": "sell",
