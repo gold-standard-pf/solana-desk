@@ -1,36 +1,15 @@
 {
   "name": "desk",
-  "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
+  "status": "CASH \u00b7 both bags flat \u00b7 do not reopen",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 169,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
-  "realizedPnlUsd": -1.43,
+  "realizedPnlUsd": 0.12,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "VII",
-      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
-      "investedUsd": 0.66,
-      "valueUsd": 1.32,
-      "pnlUsd": 0.66,
-      "pnlPct": 100.0,
-      "sizeSol": 0.007,
-      "thesis": "runner after peel. Dex after grad. 5m still green."
-    },
-    {
-      "ticker": "OnlyCats",
-      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
-      "investedUsd": 2.86,
-      "valueUsd": 3.08,
-      "pnlUsd": 0.22,
-      "pnlPct": 7.7,
-      "sizeSol": 0.03,
-      "thesis": "first print. Dex after grad. boost none. 5m green."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "CYBERCAT",
@@ -6362,7 +6341,7 @@
     "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump": 0.0001021,
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212
   },
-  "updatedAt": "2026-08-23T19:50:34.000Z",
+  "updatedAt": "2026-08-23T20:12:23.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5
 }
