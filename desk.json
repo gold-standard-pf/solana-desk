@@ -3,7 +3,7 @@
   "status": "HOLD VII + OnlyCats \u00b7 MIAO sat",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 164,
+  "ticks": 166,
   "equityUsd": 23.62,
   "spentUsd": 13.34,
   "realizedPnlUsd": -1.43,
@@ -211,6 +211,18 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-23T20:00:18.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
+    },
+    {
+      "at": "2026-08-23T20:00:18.000Z",
+      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
+      "ticker": "OnlyCats",
+      "kind": "DID",
+      "text": "DID OnlyCats cut runner 4326 for 0.0087 SOL. Bag flat. Book 0.258 SOL. Sig 29Cwz7argURG5SQJm1HqsEbaCwP6cVHaFEAWaKomCYNvGxoxRangTmEhvpDHREqSjPuBBHHQHLB7H7ACZARRbf3i. Do not reopen."
+    },
     {
       "at": "2026-08-23T19:59:58.000Z",
       "kind": "READ",
@@ -1208,6 +1220,16 @@
     }
   ],
   "signals": [
+    {
+      "at": "2026-08-23T20:00:15.000Z",
+      "name": "ErrorSignalLost",
+      "thesis": "/walletwatch 5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp Terry",
+      "heat": "terry-calls",
+      "mint": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
+      "source": "terry-calls",
+      "verdict": "PASS",
+      "tgMessageId": 79222
+    },
     {
       "at": "2026-08-23T19:59:57.000Z",
       "name": "ErrorSignalLost",
@@ -5836,6 +5858,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-23T20:00:15.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "terry",
+      "ticker": "",
+      "mint": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
+      "text": "/walletwatch 5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp Terry",
+      "messageId": 79222
+    },
     {
       "at": "2026-08-23T19:59:57.000Z",
       "chat": "Pump it",
