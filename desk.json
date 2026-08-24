@@ -689,6 +689,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:06:39.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Pixwojak flat. Book cash. Hunting first prints."
+    },
+    {
       "at": "2026-08-24T04:06:18.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -2352,6 +2358,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T04:06:39.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "Pixwojak",
+      "ageMin": 20.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/pixwojak",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "book flat. In 0.05 out 0.059. Prior CLEAR stale. Do not re-PASS. Do not reopen. SlopyHouse stay closed."
+    },
     {
       "at": "2026-08-24T04:06:18.000Z",
       "mint": "DxZ2dfefW66PB2gSDAHPi9x6V5qg4KgpUaPbvNSQpump",
@@ -10100,7 +10118,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:06:18.000Z",
+  "updatedAt": "2026-08-24T04:06:39.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
