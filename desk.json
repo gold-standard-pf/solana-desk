@@ -1091,6 +1091,12 @@
   "stream": [
     {
       "at": "2026-08-24T05:46:54.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "Peeled most of the bag. Leftover runner. Watching the tape."
+    },
+    {
+      "at": "2026-08-24T05:46:54.000Z",
       "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
       "ticker": "SHITTER",
       "from": "terry",
@@ -9061,6 +9067,14 @@
     }
   ],
   "advice": [
+    {
+      "call": "hold",
+      "vsInvalidation": "empty or 5m dead dump 100%",
+      "note": "peeled 70%. leftover runner. house money.",
+      "at": "2026-08-24T05:46:54.000Z",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "ticker": "SHITTER"
+    },
     {
       "call": "hold",
       "vsInvalidation": "empty or 5m dead dump 100%",
