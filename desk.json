@@ -232,6 +232,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:47:20.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "PEPITO FAIL. Bundled open. Skip that shape."
+    },
+    {
       "at": "2026-08-24T00:47:14.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1918,6 +1924,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 5,
+      "dexLiqUsd": 19150,
+      "socials": "x.com/pepitocatcoin",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL: bundled first candle from zero + tiny creator fees. PumpSwap liq looking live is not enough. Skip this shape. Do not re-PASS. Re-brief only if tape dies.",
+      "at": "2026-08-24T00:47:19.000Z",
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "ticker": "PEPITO"
+    },
     {
       "ageMin": 5,
       "dexLiqUsd": 7929,
