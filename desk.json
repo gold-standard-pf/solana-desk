@@ -444,6 +444,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:07:51.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "ASCEND FAIL leftover TG reprint. Still hunting unique first prints."
+    },
+    {
       "at": "2026-08-24T03:07:23.000Z",
       "from": "genius",
       "kind": "READ",
@@ -2141,6 +2147,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:07:51.000Z",
+      "mint": "2oEQxkHyUtD1wBopB3GWLmwySKr4s97JWtfg7uWspump",
+      "ticker": "ASCEND",
+      "ageMin": 8.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/ascend_cat",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL leftover TG reprint after bond. Same tweet cloned. Do not PASS leftover ASCEND. Do not size."
+    },
     {
       "at": "2026-08-24T02:58:30.000Z",
       "mint": "9WrT4hhP4YHLouYo49ajwyDVMgBK8sqpt9gW4c37pump",
@@ -8967,7 +8985,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:07:23.000Z",
+  "updatedAt": "2026-08-24T03:07:51.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
