@@ -1594,6 +1594,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T06:44:05.000Z",
+      "ticker": "TIM",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  dump 100% dying tape (~0.042 back)."
+    },
+    {
       "at": "2026-08-24T06:41:52.000Z",
       "from": "genius",
       "kind": "TALK",
