@@ -12,6 +12,20 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "RING",
+      "verdict": "pass",
+      "at": "2026-08-24T02:23:56.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "unique animals ringing name",
+        "curve live",
+        "handle cakaldevs",
+        "not leftover farm",
+        "not dumping"
+      ],
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump"
+    },
+    {
       "ticker": "CSWAP",
       "verdict": "refuse",
       "at": "2026-08-24T02:15:23.000Z",
@@ -383,6 +397,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T02:23:56.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "CLEAR ring. Unique name, curve live, buyers still two-way. Not a fill."
+    },
     {
       "at": "2026-08-24T02:22:35.000Z",
       "from": "pump",
@@ -6300,6 +6320,20 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "unique animals ringing name",
+        "curve live",
+        "handle cakaldevs",
+        "not leftover farm",
+        "not dumping"
+      ],
+      "ageHours": 0.13,
+      "at": "2026-08-24T02:23:56.000Z",
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
+      "ticker": "ring"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
