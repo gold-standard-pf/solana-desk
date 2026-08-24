@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "LEEK",
+      "verdict": "refuse",
+      "at": "2026-08-24T01:29:33.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "one bag"
+      ],
+      "mint": "EMHQdoqRD8btsej5wgRGkcP8DKFirjjdFz8JBaqHpump"
+    },
+    {
       "ticker": "GTAVI",
       "verdict": "refuse",
       "at": "2026-08-24T01:23:08.000Z",
@@ -275,6 +286,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T01:29:33.000Z",
+      "ticker": "LEEK",
+      "from": "genius",
+      "kind": "REFUSED",
+      "text": "FAIL LEEK. Leftover name. Already in a bag. Do not size."
+    },
     {
       "at": "2026-08-24T01:29:12.000Z",
       "from": "pump",
@@ -6011,6 +6029,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint",
+        "one bag"
+      ],
+      "at": "2026-08-24T01:29:33.000Z",
+      "mint": "EMHQdoqRD8btsej5wgRGkcP8DKFirjjdFz8JBaqHpump",
+      "ticker": "LEEK"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
