@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "HF",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "Hugging Face brand",
+        "m5 -30"
+      ],
+      "mint": "93NX8hYU6pWaxFVA69M2bZmvQbnGbS8UoYSSohZZpump"
+    },
+    {
       "ticker": "TMX",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7745,6 +7756,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "Hugging Face brand",
+        "m5 -30"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "93NX8hYU6pWaxFVA69M2bZmvQbnGbS8UoYSSohZZpump",
+      "ticker": "HF"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
