@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "TIM",
+      "verdict": "pass",
+      "at": "2026-08-24T06:40:48.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "B9KKTkGykyBxxDmVyW8TLM7dyei5q15VHRXgYUYtpump"
+    },
+    {
       "ticker": "RETAIL",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -1516,6 +1526,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T06:40:48.000Z",
+      "ticker": "TIM",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  0.05 buy. CLEAR, live two-way. Token-2022. Watching."
+    },
     {
       "at": "2026-08-24T06:39:25.000Z",
       "from": "genius",
