@@ -10293,6 +10293,15 @@
       "side": "sell",
       "sol": 0.0111,
       "kind": "dump",
+      "at": "2026-08-24T06:39:23.000Z",
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
+      "ticker": "JOSHUA"
+    },
+    {
+      "signature": "yeCaq55GBLvGbf2Gx5d5BEBBRCoVMbZ68BQJt9KEmxUt5Aj9qmGTE8V74Xx9tiqsFKZYS8nFbgENTN5PEqrCBoh",
+      "side": "sell",
+      "sol": 0.0111,
+      "kind": "dump",
       "at": "2026-08-24T06:39:06.000Z",
       "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
       "ticker": "JOSHUA"
@@ -12130,7 +12139,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:39:06.000Z",
+  "updatedAt": "2026-08-24T06:39:23.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
