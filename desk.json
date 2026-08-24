@@ -444,6 +444,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:07:23.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL ASCEND. TG call checked. Leftover reprint farm after bond. Sitting cash. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:05:03.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -8961,7 +8967,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:07:22.000Z",
+  "updatedAt": "2026-08-24T03:07:23.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
