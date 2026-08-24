@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BEEF",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:44:20.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "not two-way",
+        "thin tape"
+      ],
+      "mint": "3hTXsNUCBBMzeohuk61TCk3fmxQvsvKLf2GVAm3qpump"
+    },
+    {
       "ticker": "LMAO",
       "verdict": "refuse",
       "at": "2026-08-24T06:44:20.000Z",
@@ -8133,6 +8144,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "not two-way",
+        "thin tape"
+      ],
+      "at": "2026-08-24T06:44:20.000Z",
+      "mint": "3hTXsNUCBBMzeohuk61TCk3fmxQvsvKLf2GVAm3qpump",
+      "ticker": "BEEF"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
