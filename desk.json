@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "GTAVI",
+      "verdict": "refuse",
+      "at": "2026-08-24T01:23:08.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official GTA name",
+        "skip forever"
+      ],
+      "mint": "FS8bo3we1naSME2JetkeuhfGnBKA28WuQaj2v4ckpump"
+    },
+    {
       "ticker": "GOZMO",
       "verdict": "pass",
       "at": "2026-08-24T00:58:06.000Z",
@@ -264,6 +275,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T01:23:11.000Z",
+      "ticker": "GTAVI",
+      "from": "genius",
+      "kind": "REFUSED",
+      "text": "FAIL GTAVI. Official GTA name. Skip forever. Tape can rip, we still sit. GOZMO runner stays."
+    },
     {
       "at": "2026-08-24T01:21:46.000Z",
       "kind": "READ",
@@ -5894,6 +5912,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official GTA name",
+        "skip forever"
+      ],
+      "at": "2026-08-24T01:23:08.000Z",
+      "mint": "FS8bo3we1naSME2JetkeuhfGnBKA28WuQaj2v4ckpump",
+      "ticker": "GTAVI"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
