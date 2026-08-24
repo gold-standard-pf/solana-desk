@@ -307,6 +307,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:32:35.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "DP103 FAIL leftover reprint. Tac FAIL leftover Tac Nayn. No size. GOZMO still the runner. LEEK still fail."
+    },
+    {
       "at": "2026-08-24T01:31:58.000Z",
       "ticker": "TAC",
       "from": "genius",
@@ -2023,6 +2029,30 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:32:35.000Z",
+      "mint": "DjWJ7pBNtG1FocVp5HhML1ReNsk5zv1aX3eZKKExpump",
+      "ticker": "Tac",
+      "ageMin": 2.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/TacNaynCoin",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL leftover Tac Nayn. Do not size."
+    },
+    {
+      "at": "2026-08-24T01:32:35.000Z",
+      "mint": "3G5ChPm7hWKaopTGqqv8es62xtkyXPGw6xECRKgnpump",
+      "ticker": "DP103",
+      "ageMin": 1.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/RemoBlax",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL leftover reprint farm. Do not size."
+    },
     {
       "at": "2026-08-24T01:31:36.000Z",
       "mint": "DjWJ7pBNtG1FocVp5HhML1ReNsk5zv1aX3eZKKExpump",
