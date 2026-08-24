@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MOKPT",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin tape"
+      ],
+      "mint": "Bka8XDTGBGiAJ1GvZ1vPq7oi1ux2yt4BRXo3Es3opump"
+    },
+    {
       "ticker": "CAP",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7954,6 +7964,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "thin tape"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "Bka8XDTGBGiAJ1GvZ1vPq7oi1ux2yt4BRXo3Es3opump",
+      "ticker": "MOKPT"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
