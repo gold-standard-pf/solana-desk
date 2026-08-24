@@ -276,6 +276,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:27:26.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Redbull official brand refuse, skip forever. UOTF leftover clone refuse. LARRY Hobbes refuse. GOZMO still filling. ESL not printed. GTAVI stays dead."
+    },
+    {
       "at": "2026-08-24T01:26:16.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1961,6 +1967,42 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:27:26.000Z",
+      "mint": "2QFVUpLtMB8QVfteVQuWnxtc1mB1GV2Pa4R6D5gRpump",
+      "ticker": "LARRY",
+      "ageMin": 3.5,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/larrycat_x",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted + boost in progress. Hobbes farm."
+    },
+    {
+      "at": "2026-08-24T01:27:26.000Z",
+      "mint": "bwuf2oW5UzT6g1L8VUTfxkHYCRuLm9CnYk9ydfupump",
+      "ticker": "UOTF",
+      "ageMin": 2.9,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/UnitedOilFund",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "leftover UOTF clone + inverted boost in progress."
+    },
+    {
+      "at": "2026-08-24T01:27:26.000Z",
+      "mint": "RrRsmXHMWVj9xYV8ePc2Sehnx8dXvRv9hmrqnD2pump",
+      "ticker": "Redbull",
+      "ageMin": 3.5,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/redbull",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "official Red Bull brand. skip forever even if tape rips."
+    },
     {
       "at": "2026-08-24T01:24:06.000Z",
       "mint": "FS8bo3we1naSME2JetkeuhfGnBKA28WuQaj2v4ckpump",
