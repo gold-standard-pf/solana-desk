@@ -689,6 +689,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:05:43.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:04:29.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1836,12 +1841,6 @@
       "at": "2026-08-24T00:39:55.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T00:39:46.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "HOBBES live after bond. PASS. Tape lifting."
     }
   ],
   "signals": [
@@ -9041,6 +9040,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:05:41.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "tokenscan",
+      "ticker": "",
+      "mint": "",
+      "text": "/settings@tokenscan",
+      "messageId": 79348
+    },
     {
       "at": "2026-08-24T04:04:28.000Z",
       "chat": "Pump it",
