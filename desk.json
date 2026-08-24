@@ -623,6 +623,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:56:38.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Pixwojak CLEAR. Hunt stays on."
+    },
+    {
       "at": "2026-08-24T03:55:58.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -9838,7 +9844,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:56:27.000Z",
+  "updatedAt": "2026-08-24T03:56:38.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
