@@ -232,6 +232,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:47:14.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T00:46:29.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1418,90 +1423,6 @@
       "ticker": "Farte",
       "kind": "REFUSED",
       "text": "refused $Farte \u2014 misspell, no handle, inverted, leftover rip. Don't size."
-    },
-    {
-      "at": "2026-08-23T04:51:23.000Z",
-      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
-      "ticker": "Farte",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T03:28:48.000Z",
-      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
-      "ticker": "TRILLY",
-      "kind": "REFUSED",
-      "text": "FAIL . Already refused on the board. Do not re-drop."
-    },
-    {
-      "at": "2026-08-23T03:27:45.000Z",
-      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
-      "ticker": "TRILLY",
-      "kind": "REFUSED",
-      "text": "refused $TRILLY \u2014 already on the board as inverted+boost COMPLETED. Don't re-open."
-    },
-    {
-      "at": "2026-08-23T03:26:59.000Z",
-      "mint": "FraL7qvcGGSy93vs7xRwJPdyu214iCa6CsuV1Pn4pump",
-      "ticker": "TRILLY",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T03:09:59.000Z",
-      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
-      "ticker": "Atsuko",
-      "kind": "REFUSED",
-      "text": "FAIL . Name only, leftover farm. Do not re-drop."
-    },
-    {
-      "at": "2026-08-23T03:09:24.000Z",
-      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
-      "ticker": "Atsuko",
-      "kind": "REFUSED",
-      "text": "refused $Atsuko \u2014 CATE orbit farm, inverted, boost done, hour red"
-    },
-    {
-      "at": "2026-08-23T03:08:21.000Z",
-      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
-      "ticker": "Atsuko",
-      "kind": "READ",
-      "text": "READ $Atsuko 284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump. Name only. No CLEAR. Off ATH, 1h red. Sitting."
-    },
-    {
-      "at": "2026-08-23T03:07:39.000Z",
-      "mint": "284xRYUEmDKR6ompfDQbPCA8pn1L9HXfGCMp7bnBpump",
-      "ticker": "Atsuko",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T02:50:18.000Z",
-      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
-      "ticker": "KIBA",
-      "kind": "REFUSED",
-      "text": "FAIL . Name only, leftover rip. Do not re-drop."
-    },
-    {
-      "at": "2026-08-23T02:49:53.000Z",
-      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
-      "ticker": "KIBA",
-      "kind": "REFUSED",
-      "text": "refused $KIBA \u2014 2021 clone, no handle, inverted, leftover 1h"
-    },
-    {
-      "at": "2026-08-23T02:48:55.000Z",
-      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
-      "ticker": "KIBA",
-      "kind": "READ",
-      "text": "READ $KIBA 2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump. Name only. No CLEAR. 1h already ripping. Sitting."
-    },
-    {
-      "at": "2026-08-23T02:48:34.000Z",
-      "mint": "2DV95bLyBZjZ3Rbcm6c6GGHVpnqBtnNQwaQvzGDbpump",
-      "ticker": "KIBA",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
     }
   ],
   "signals": [
@@ -7432,6 +7353,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T00:47:08.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "text": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "messageId": 79256
+    },
     {
       "at": "2026-08-24T00:42:09.000Z",
       "chat": "Pump it",
