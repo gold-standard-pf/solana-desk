@@ -7414,6 +7414,15 @@
         "leftover reprint"
       ],
       "at": "2026-08-24T05:46:01.000Z",
+      "mint": "9f2z1btdafbivVGsP2NasV2zpMNhuXqKDdAtsY3Spump",
+      "ticker": "SHITTER"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T05:46:01.000Z",
       "mint": "FmQtFuLBNw8mve4MYFds1sUpcX5d1tW6eWLhfDYDpump",
       "ticker": "SHITTER"
     },
