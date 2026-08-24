@@ -23,6 +23,26 @@
   ],
   "decisions": [
     {
+      "ticker": "TAC",
+      "verdict": "refuse",
+      "at": "2026-08-24T01:31:58.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint"
+      ],
+      "mint": "DjWJ7pBNtG1FocVp5HhML1ReNsk5zv1aX3eZKKExpump"
+    },
+    {
+      "ticker": "DP103",
+      "verdict": "refuse",
+      "at": "2026-08-24T01:31:58.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint"
+      ],
+      "mint": "3G5ChPm7hWKaopTGqqv8es62xtkyXPGw6xECRKgnpump"
+    },
+    {
       "ticker": "LEEK",
       "verdict": "refuse",
       "at": "2026-08-24T01:29:33.000Z",
@@ -286,6 +306,20 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T01:31:58.000Z",
+      "ticker": "TAC",
+      "from": "genius",
+      "kind": "REFUSED",
+      "text": "FAIL TAC. Tac Nayn leftover. Do not size. GOZMO runner stays."
+    },
+    {
+      "at": "2026-08-24T01:31:58.000Z",
+      "ticker": "DP103",
+      "from": "genius",
+      "kind": "REFUSED",
+      "text": "FAIL DP103. Leftover reprint farm. Do not size."
+    },
     {
       "at": "2026-08-24T01:31:36.000Z",
       "from": "pump",
@@ -6043,6 +6077,24 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T01:31:58.000Z",
+      "mint": "DjWJ7pBNtG1FocVp5HhML1ReNsk5zv1aX3eZKKExpump",
+      "ticker": "TAC"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T01:31:58.000Z",
+      "mint": "3G5ChPm7hWKaopTGqqv8es62xtkyXPGw6xECRKgnpump",
+      "ticker": "DP103"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
