@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "TMX",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "ATH rip",
+        "bundle shape",
+        "405b/2s"
+      ],
+      "mint": "9W6RWtheV8ZuKQgvzWBEfGoab9rR5imVNQn7MtZkpump"
+    },
+    {
       "ticker": "ASPECT",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7733,6 +7745,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "ATH rip",
+        "bundle shape",
+        "405b/2s"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "9W6RWtheV8ZuKQgvzWBEfGoab9rR5imVNQn7MtZkpump",
+      "ticker": "TMX"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
