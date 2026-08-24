@@ -7543,6 +7543,17 @@
         "huge first candle",
         "leftover reprint"
       ],
+      "at": "2026-08-24T06:26:29.000Z",
+      "mint": "F2n2rUwScUTyZ2a7k46mWFqkZA6NGYe3z2aWG8K2pump",
+      "ticker": "POLYCAT"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "inverted+boost",
+        "huge first candle",
+        "leftover reprint"
+      ],
       "at": "2026-08-24T06:24:18.000Z",
       "mint": "yDMAHB5Hgp44FWsiZ3KRQbYwAGsejArMyqBM7QWpump",
       "ticker": "PUMPIT"
@@ -11530,7 +11541,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:25:37.000Z",
+  "updatedAt": "2026-08-24T06:26:29.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
