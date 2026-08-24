@@ -8288,6 +8288,17 @@
   ],
   "fills": [
     {
+      "signature": "4cxkrxYvYZSCxtA4MiY9UzEvUhrHt7U6E6bC2WiXNHxwfLetHg5Zm8BinDmrBcLKAGGi9oTwkFPHRncRX8d5eBUv",
+      "side": "buy",
+      "usd": 4.69,
+      "sol": 0.05,
+      "tokenAmount": 213784.597783,
+      "kind": "swap",
+      "at": "2026-08-24T03:55:03.000Z",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "ticker": "SLOPYHOUSE"
+    },
+    {
       "signature": "ztiLTizCcmicXScUHCgEopRAW2vugoNw3Ze26vaQt9QwgkvLm4E96hzyvMxE7vLG3hsCytZHxjDgEnnkhqvfvbZ",
       "side": "sell",
       "usd": 1.6,
@@ -9773,7 +9784,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:54:58.000Z",
+  "updatedAt": "2026-08-24T03:55:03.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
