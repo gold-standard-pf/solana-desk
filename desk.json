@@ -287,6 +287,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:31:36.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "DP103 PASS, live curve, waiting Genius. Tac PASS, Tac Nayn tribute, waiting Genius. GOZMO still filling. ESL not printed."
+    },
+    {
       "at": "2026-08-24T01:31:13.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1983,6 +1989,30 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:31:36.000Z",
+      "mint": "DjWJ7pBNtG1FocVp5HhML1ReNsk5zv1aX3eZKKExpump",
+      "ticker": "Tac",
+      "ageMin": 1.9,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/TacNaynCoin",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "real handle TacNaynCoin. Pre-bond ~63%, buyers lifting, boost none. Tac Nayn tribute. Genius CLEAR/FAIL."
+    },
+    {
+      "at": "2026-08-24T01:31:36.000Z",
+      "mint": "3G5ChPm7hWKaopTGqqv8es62xtkyXPGw6xECRKgnpump",
+      "ticker": "DP103",
+      "ageMin": 0.8,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/RemoBlax",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "status post from RemoBlax. Pre-bond ~69-85%, MC ~15k, boost none. Cancer Vaccine name. Genius CLEAR/FAIL."
+    },
     {
       "ageMin": 3.5,
       "dexLiqUsd": 0,
