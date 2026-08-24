@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "GLOOBE",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:54:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "one-way",
+        "same-dev reprint"
+      ],
+      "mint": "EcJgwRoSa7ngGVDHFpHAL8vuxCa9Kw5u38s1awLypump"
+    },
+    {
       "ticker": "CC",
       "verdict": "refuse",
       "at": "2026-08-24T04:52:53.000Z",
@@ -7246,6 +7258,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "no handle",
+        "one-way",
+        "same-dev reprint"
+      ],
+      "at": "2026-08-24T04:54:30.000Z",
+      "mint": "EcJgwRoSa7ngGVDHFpHAL8vuxCa9Kw5u38s1awLypump",
+      "ticker": "GLOOBE"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint",
         "inverted+boost",
         "huge first candle",
@@ -10714,7 +10737,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:53:03.000Z",
+  "updatedAt": "2026-08-24T04:54:30.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
