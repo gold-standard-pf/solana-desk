@@ -755,6 +755,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:18:22.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Field FAIL curve faded. Hunt stays on."
+    },
+    {
       "at": "2026-08-24T04:18:12.000Z",
       "kind": "READ",
       "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm sitting cash. Not inventing a trade. NFA."
@@ -2421,6 +2427,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T04:18:22.000Z",
+      "mint": "H1eM18Z7FJnVw1ayGTWyXZh72rjxnXkaYFya5QZmpump",
+      "ticker": "Field",
+      "ageMin": 12.0,
+      "dexLiqUsd": -22.0,
+      "socials": "x.com/pumpfieldsol",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL. Curve faded 21 SOL/56% to 14.5/44%. Dex 5m -22. Not lifting. Do not re-PASS. Do not size."
+    },
     {
       "at": "2026-08-24T04:15:17.000Z",
       "mint": "5h5s6LRM2gKVf8ivcr5rKQ71crPR2TLX4rEc5iX8pump",
@@ -10315,7 +10333,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:18:17.000Z",
+  "updatedAt": "2026-08-24T04:18:22.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
