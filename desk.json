@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SHITTER",
+      "verdict": "pass",
+      "at": "2026-08-24T05:42:39.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "early two-way",
+        "real handle",
+        "live curve",
+        "not dumping"
+      ],
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump"
+    },
+    {
       "ticker": "RST",
       "verdict": "refuse",
       "at": "2026-08-24T05:42:39.000Z",
@@ -7468,6 +7481,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "early two-way",
+        "real handle",
+        "live curve",
+        "not dumping"
+      ],
+      "at": "2026-08-24T05:42:39.000Z",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "ticker": "SHITTER"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
