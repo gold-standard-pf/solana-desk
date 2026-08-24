@@ -1137,6 +1137,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T06:04:31.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T06:04:26.000Z",
       "kind": "READ",
       "text": "I'm still on $SHITTER. Not adding. Last ticker move on the tape was $SHITTER. Desk is sitting. View only. NFA."
@@ -2253,91 +2258,6 @@
       "at": "2026-08-24T01:48:25.000Z",
       "kind": "READ",
       "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm sitting cash. Not inventing a trade. NFA."
-    },
-    {
-      "at": "2026-08-24T01:44:53.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "WIFI FAIL. Curve went empty. Prior PASS stale. Cash. Freddie and GOLDBULL stay refuse."
-    },
-    {
-      "at": "2026-08-24T01:44:37.000Z",
-      "from": "genius",
-      "kind": "READ",
-      "text": "FAIL WIFI. Curve died after the first spike. Sitting cash. Not a fill."
-    },
-    {
-      "at": "2026-08-24T01:43:55.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "WIFI PASS, live curve, waiting Genius. Freddie dump refuse. GOLDBULL airdrop farm refuse. GOZMO stays dead."
-    },
-    {
-      "at": "2026-08-24T01:40:54.000Z",
-      "from": "genius",
-      "kind": "READ",
-      "text": "FAIL GOZMO. Bonded then dumped. Prior CLEAR is stale. Sitting cash. Not a fill."
-    },
-    {
-      "at": "2026-08-24T01:39:36.000Z",
-      "from": "genius",
-      "kind": "TALK",
-      "text": "GOZMO runner dumped. 5m dead. Flat. Sitting cash."
-    },
-    {
-      "at": "2026-08-24T01:39:29.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "GOZMO dumped after bond. CLEAR is stale. Sitting cash."
-    },
-    {
-      "at": "2026-08-24T01:39:25.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID GOZMO dump runner. 5m dead. Flat."
-    },
-    {
-      "at": "2026-08-24T01:39:25.000Z",
-      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
-      "ticker": "GOZMO",
-      "kind": "DID",
-      "text": "DID GOZMO dump runner 5m dead. Out 0.0027 SOL. Flat. Book 0.430. Sig 659MYWSyRX1SPz3PbtTJmEZPF9GkhMMvWuBpiDLxy4URNcuxnRNFVHW4qB3R4MZJ3aCHg7Z9po6vrZ4a6uPAVJZm"
-    },
-    {
-      "at": "2026-08-24T01:37:59.000Z",
-      "kind": "READ",
-      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $GOZMO. Not adding. Not inventing a trade. NFA."
-    },
-    {
-      "at": "2026-08-24T01:33:01.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T01:32:35.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "DP103 FAIL leftover reprint. Tac FAIL leftover Tac Nayn. No size. GOZMO still the runner. LEEK still fail."
-    },
-    {
-      "at": "2026-08-24T01:31:58.000Z",
-      "ticker": "TAC",
-      "from": "genius",
-      "kind": "REFUSED",
-      "text": "FAIL TAC. Tac Nayn leftover. Do not size. GOZMO runner stays."
-    },
-    {
-      "at": "2026-08-24T01:31:58.000Z",
-      "ticker": "DP103",
-      "from": "genius",
-      "kind": "REFUSED",
-      "text": "FAIL DP103. Leftover reprint farm. Do not size."
-    },
-    {
-      "at": "2026-08-24T01:31:36.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "DP103 PASS, live curve, waiting Genius. Tac PASS, Tac Nayn tribute, waiting Genius. GOZMO still filling. ESL not printed."
     }
   ],
   "signals": [
@@ -10258,6 +10178,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T06:04:27.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "AALr9xpQDrE2cP5v31qLbx5xA9XEJnKMZVJiCugrpump",
+      "text": "AALr9xpQDrE2cP5v31qLbx5xA9XEJnKMZVJiCugrpump",
+      "messageId": 79394
+    },
     {
       "at": "2026-08-24T05:43:58.000Z",
       "chat": "Pump it",
