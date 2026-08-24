@@ -574,6 +574,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:51:22.000Z",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "ticker": "SOLSHIBE",
+      "kind": "DID",
+      "text": "DID $SOLSHIBE peel 70% then runner out. In 0.05 out 0.055"
+    },
+    {
       "at": "2026-08-24T03:50:23.000Z",
       "from": "pump",
       "kind": "TALK",
