@@ -265,6 +265,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:18:53.000Z",
+      "kind": "READ",
+      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $GOZMO. Not adding. Not inventing a trade. NFA."
+    },
+    {
       "at": "2026-08-24T01:15:23.000Z",
       "kind": "READ",
       "text": "I'm view only. I'm still on $GOZMO. Not adding. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
