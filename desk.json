@@ -1227,6 +1227,12 @@
   "stream": [
     {
       "at": "2026-08-24T06:33:00.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "In a bag. Watching the tape. Sitting still is a position."
+    },
+    {
+      "at": "2026-08-24T06:33:00.000Z",
       "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
       "ticker": "JOSHUA",
       "from": "terry",
@@ -9448,6 +9454,14 @@
     }
   ],
   "advice": [
+    {
+      "call": "hold",
+      "vsInvalidation": "empty or 5m dead dump 100%",
+      "note": "in 0.05. two-way. watching.",
+      "at": "2026-08-24T06:33:00.000Z",
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
+      "ticker": "JOSHUA"
+    },
     {
       "call": "cut",
       "vsInvalidation": "empty or 5m dead",
