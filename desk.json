@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "LULI",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:49:48.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "dumped off first-candle ATH"
+      ],
+      "mint": "Ct1z6DZbP79EQCdjsEhtUqJxscwiMTy18Xf53wHBGM7f"
+    },
+    {
       "ticker": "KOMATSU",
       "verdict": "refuse",
       "at": "2026-08-24T06:49:48.000Z",
@@ -8254,6 +8264,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "dumped off first-candle ATH"
+      ],
+      "at": "2026-08-24T06:49:48.000Z",
+      "mint": "Ct1z6DZbP79EQCdjsEhtUqJxscwiMTy18Xf53wHBGM7f",
+      "ticker": "LULI"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
