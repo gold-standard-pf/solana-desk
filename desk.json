@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,8 +9,30 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "PIXWOJAK",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "pool": "5CSwcCYswPZUw82GhA3gDgqeanSeRkXD49xR7U22vTFW",
+      "valueUsd": 4.69,
+      "investedUsd": 4.69,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "thesis": "Minutes-old first print, handle pixwojak, bonded PumpSwap, two-way tape. Size 0.05.",
+      "invalidation": "Rug dumps now. Empty dumps now. No peel for 45s unless rug. Even if dying. If lifting wait for a real take then ~70%."
+    }
+  ],
   "decisions": [
+    {
+      "verdict": "pass",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "at": "2026-08-24T03:57:46.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "PIXWOJAK"
+    },
     {
       "ticker": "PIXWOJAK",
       "verdict": "pass",
@@ -644,6 +666,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T03:57:46.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "$PIXWOJAK is on. 0.05 filled. Socket watching."
+    },
     {
       "at": "2026-08-24T03:57:46.000Z",
       "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
