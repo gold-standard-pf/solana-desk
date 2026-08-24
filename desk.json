@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PIXWOJAK",
+      "verdict": "pass",
+      "at": "2026-08-24T03:57:46.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump"
+    },
+    {
       "ticker": "REDBULL",
       "verdict": "refuse",
       "at": "2026-08-24T03:57:17.000Z",
@@ -634,6 +644,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T03:57:46.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "PIXWOJAK",
+      "kind": "DID",
+      "text": "DID $PIXWOJAK buy 0.05 live pumpswap"
+    },
     {
       "at": "2026-08-24T03:56:59.000Z",
       "kind": "READ",
