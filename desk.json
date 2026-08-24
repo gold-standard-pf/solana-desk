@@ -384,6 +384,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:17:13.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T02:16:59.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1574,11 +1579,6 @@
       "kind": "DID",
       "text": "DID $CYBERCAT peel 1400 tokens for 0.0195 SOL. Runner 858 left. Sig 57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR. HOLD $SUSHI.",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
-    },
-    {
-      "at": "2026-08-23T15:47:00.000Z",
-      "kind": "READ",
-      "text": "HOLD both. $CYBERCAT ~+33. $SUSHI flat vs fill. Invalidation not hit."
     }
   ],
   "signals": [
@@ -8008,6 +8008,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T02:17:11.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Damn",
+      "messageId": 79288
+    },
     {
       "at": "2026-08-24T02:16:55.000Z",
       "chat": "Pump it",
