@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "OKAYU",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin tape"
+      ],
+      "mint": "AQZdHHtNCs5mxAhYzWV839VRX4WU3zeJw2erjKbZpump"
+    },
+    {
       "ticker": "MOKPT",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7964,6 +7974,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "thin tape"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "AQZdHHtNCs5mxAhYzWV839VRX4WU3zeJw2erjKbZpump",
+      "ticker": "OKAYU"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
