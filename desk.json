@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "WP",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "first-candle wipe",
+        "m5 -88"
+      ],
+      "mint": "3ujSoZ7D2VW7FCrw1RnaCSR85cgJZLxZFNvsoG9epump"
+    },
+    {
       "ticker": "TITS",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7677,6 +7689,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "first-candle wipe",
+        "m5 -88"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "3ujSoZ7D2VW7FCrw1RnaCSR85cgJZLxZFNvsoG9epump",
+      "ticker": "WP"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
