@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "JOSHUA",
+      "verdict": "pass",
+      "at": "2026-08-24T06:29:34.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "early two-way",
+        "real handle",
+        "live curve",
+        "not dumping"
+      ],
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump"
+    },
+    {
       "ticker": "PUMPERS",
       "verdict": "refuse",
       "at": "2026-08-24T06:27:34.000Z",
@@ -7552,6 +7565,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "early two-way",
+        "real handle",
+        "live curve",
+        "not dumping"
+      ],
+      "at": "2026-08-24T06:29:34.000Z",
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
+      "ticker": "JOSHUA"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
