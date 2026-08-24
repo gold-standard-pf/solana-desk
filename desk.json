@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MIRALIE",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:17:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "already dumping",
+        "leftover reprint"
+      ],
+      "mint": "3Zogtb9AgUrXyG9YW2dnmFfT1xYPFukxmxqqFfAHpump"
+    },
+    {
       "ticker": "OCTO",
       "verdict": "refuse",
       "at": "2026-08-24T04:17:28.000Z",
@@ -7057,6 +7068,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "already dumping",
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T04:17:28.000Z",
+      "mint": "3Zogtb9AgUrXyG9YW2dnmFfT1xYPFukxmxqqFfAHpump",
+      "ticker": "MIRALIE"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
