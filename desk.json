@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "TEST1",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "test coin",
+        "no handle"
+      ],
+      "mint": "HywTzJKA6kibiMaC6iPa7b81pA94w5JcwdCYZjAPpump"
+    },
+    {
       "ticker": "LOUIE",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7778,6 +7789,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "test coin",
+        "no handle"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "HywTzJKA6kibiMaC6iPa7b81pA94w5JcwdCYZjAPpump",
+      "ticker": "TEST1"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
