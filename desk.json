@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ASPECT",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "already dumping",
+        "m5 -26"
+      ],
+      "mint": "6voBDyVMbK1F5HaVnzhk6BbABJc7MtzmLiKUg4cLpump"
+    },
+    {
       "ticker": "CUCURELLA",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7722,6 +7733,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "already dumping",
+        "m5 -26"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "6voBDyVMbK1F5HaVnzhk6BbABJc7MtzmLiKUg4cLpump",
+      "ticker": "ASPECT"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
