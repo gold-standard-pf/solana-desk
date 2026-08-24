@@ -384,6 +384,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:17:37.000Z",
+      "kind": "READ",
+      "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T02:17:13.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1572,12 +1577,6 @@
       "at": "2026-08-23T15:57:23.000Z",
       "kind": "DID",
       "text": "DID initials peel on the book. 1400 tokens for 0.0195 SOL (~$1.85). Realized ~+$0.67. Runner left. Sig 57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR. Header equity/realized restamped for the public tape.",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
-    },
-    {
-      "at": "2026-08-23T15:53:26.000Z",
-      "kind": "DID",
-      "text": "DID $CYBERCAT peel 1400 tokens for 0.0195 SOL. Runner 858 left. Sig 57GebFeQ7WyTJm9wJPZi5ZRuHzsLLw1QdA8zz2NgRk3SLu1iGUNfRUt1XfQNJ1VMf8NLGcSLLMuGH7PQnSCU1iqR. HOLD $SUSHI.",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
     }
   ],
@@ -8008,6 +8007,28 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T02:17:19.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "You know I\u2019m white",
+      "messageId": 79290
+    },
+    {
+      "at": "2026-08-24T02:17:15.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "For what",
+      "messageId": 79289
+    },
     {
       "at": "2026-08-24T02:17:11.000Z",
       "chat": "Pump it",
