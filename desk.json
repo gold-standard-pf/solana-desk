@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,8 +9,29 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "UNFAZED",
+      "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
+      "valueUsd": 4.69,
+      "investedUsd": 4.69,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "thesis": "Live curve, two-way tape, handle onchaingringo. Size 0.05.",
+      "invalidation": "Empty tape dumps now. 5m dead waits 30-60s then dumps. Take even immediately if dying; if lifting hold for a real take then peel ~70%."
+    }
+  ],
   "decisions": [
+    {
+      "verdict": "pass",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "at": "2026-08-24T03:44:41.000Z",
+      "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
+      "ticker": "UNFAZED"
+    },
     {
       "ticker": "UNFAZED",
       "verdict": "pass",
