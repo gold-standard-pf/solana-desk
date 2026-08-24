@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "LOUIE",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "not two-way",
+        "1 buy"
+      ],
+      "mint": "BsRKiD8BzAMkuyx6GUiBJT211v43G7ME69mdKphKpump"
+    },
+    {
       "ticker": "BACK2SKOL",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7767,6 +7778,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "not two-way",
+        "1 buy"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "BsRKiD8BzAMkuyx6GUiBJT211v43G7ME69mdKphKpump",
+      "ticker": "LOUIE"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
