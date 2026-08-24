@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "AMAZON",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:07:32.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official Amazon brand",
+        "stolen brand sit"
+      ],
+      "mint": "9EFKRvUj7oYfzUMdbbzrnC2YzCmAZunav2oJam5cpump"
+    },
+    {
       "ticker": "CATTIBAL",
       "verdict": "refuse",
       "at": "2026-08-24T04:07:32.000Z",
@@ -6984,6 +6995,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official Amazon brand",
+        "stolen brand sit"
+      ],
+      "at": "2026-08-24T04:07:32.000Z",
+      "mint": "9EFKRvUj7oYfzUMdbbzrnC2YzCmAZunav2oJam5cpump",
+      "ticker": "AMAZON",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
