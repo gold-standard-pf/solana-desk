@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "bag",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,16 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "TIM",
-      "mint": "B9KKTkGykyBxxDmVyW8TLM7dyei5q15VHRXgYUYtpump",
-      "thesis": "Early two-way first print. Real handle. Token-2022. Sit if it dies.",
-      "sizeSol": 0.05,
-      "invalidation": "empty tape or 5m dead = dump 100%",
-      "at": "2026-08-24T06:41:52.000Z"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "ADRIAN",
@@ -10907,6 +10898,15 @@
   ],
   "fills": [
     {
+      "signature": "33HZTnVT6AfPDpu2BnfUDt3m6NhfhFRMoRjirdfTFhq44Rt9mFUrk1qNhCHiczrXEr9jTWrzh3hsni4F3Rhd7pFF",
+      "side": "sell",
+      "sol": 0.0423,
+      "kind": "dump",
+      "at": "2026-08-24T06:44:05.000Z",
+      "mint": "B9KKTkGykyBxxDmVyW8TLM7dyei5q15VHRXgYUYtpump",
+      "ticker": "TIM"
+    },
+    {
       "signature": "HthucErqMXTPsJRudvA47H1SqrNNrvDffCMn9irDaCLASnSmQiY2rJGPJ2ZNzzuxiM9McbmfLtPqZ5YVa16QXCp",
       "side": "buy",
       "sol": 0.05,
@@ -12766,7 +12766,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:43:38.000Z",
+  "updatedAt": "2026-08-24T06:44:05.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
