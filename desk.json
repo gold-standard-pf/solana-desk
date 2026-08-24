@@ -8161,6 +8161,15 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:45:31.000Z",
+      "mint": "DKbfiuY1HEvZPeoA7SUGTx9GqPz5fXy1g1Umvy3opump",
+      "ticker": "BLACKBUCK"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "not two-way",
         "thin tape"
       ],
@@ -12972,7 +12981,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:44:44.000Z",
+  "updatedAt": "2026-08-24T06:45:31.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
