@@ -8493,6 +8493,17 @@
   ],
   "fills": [
     {
+      "signature": "SDKaCvS1G3TD47UawXTN9bbCJfQM7DvPa1zUDymQ56Rr8THaRVG4UuQURen6dN8NE7Phd5VrHvf234FdARzfdFJ",
+      "side": "sell",
+      "usd": 1.66,
+      "sol": 0.01765,
+      "tokenAmount": 25723.78539,
+      "kind": "swap",
+      "at": "2026-08-24T04:03:19.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "PIXWOJAK"
+    },
+    {
       "signature": "4F6Y2McFMxoixfQRbfY5wbRTbEZoK3iu62xtUHpWH8SJhmkBHdFPNdNBfChBRQ3j8o5amPT9ddmkCQAwDjak5rjh",
       "side": "sell",
       "usd": 3.91,
