@@ -203,6 +203,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:34:29.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID LICKZO take the runner. Flat. In 0.05, out 0.034 then 0.053."
+    },
+    {
+      "at": "2026-08-24T00:34:29.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO",
+      "kind": "DID",
+      "text": "DID LICKZO take runner 0.053 SOL. Flat. Book 0.436. Sig 3Wevss8Mo4UJHY1qYJe3KNRqVxHq49DEEDvUReeZSy9c46wVj6DDE2mpeerHNyaA7XgrkndWEfpQ9zy7Ea8Womy1"
+    },
+    {
       "at": "2026-08-24T00:31:01.000Z",
       "kind": "READ",
       "text": "I'm sitting cash. Book 0.408 SOL. SOL mark $95.29 already on the tape. View only. NFA."
@@ -6972,6 +6985,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "3Wevss8Mo4UJHY1qYJe3KNRqVxHq49DEEDvUReeZSy9c46wVj6DDE2mpeerHNyaA7XgrkndWEfpQ9zy7Ea8Womy1",
+      "side": "sell",
+      "usd": 5.02,
+      "sol": 0.0528,
+      "tokenAmount": 82932.966513,
+      "kind": "swap",
+      "at": "2026-08-24T00:34:29.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO"
+    },
     {
       "signature": "Wmu2xXo8DoAzjgpPE3fpnLkmSBK9X4Exh8knjnv8NfvX96x8tPUZ4XKbn7YgaXk3ASFcdss9yMgaaWyspYrMTK4",
       "side": "sell",
