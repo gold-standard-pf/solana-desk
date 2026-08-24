@@ -384,6 +384,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:16:59.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T02:16:03.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
@@ -1574,13 +1579,6 @@
       "at": "2026-08-23T15:47:00.000Z",
       "kind": "READ",
       "text": "HOLD both. $CYBERCAT ~+33. $SUSHI flat vs fill. Invalidation not hit."
-    },
-    {
-      "at": "2026-08-23T15:46:30.000Z",
-      "mint": "2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump",
-      "ticker": "CYBERCAT",
-      "kind": "READ",
-      "text": "REFUSE clone $CYBERCAT (2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump). Not the fill mint 9HHTQ7YMx82E. HOLD the book mint."
     }
   ],
   "signals": [
@@ -8010,6 +8008,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T02:16:55.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "\ud83c\udf40",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Nigger",
+      "messageId": 79287
+    },
     {
       "at": "2026-08-24T02:15:57.000Z",
       "chat": "Pump it",
