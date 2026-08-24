@@ -8117,6 +8117,15 @@
         "leftover reprint"
       ],
       "at": "2026-08-24T06:44:11.000Z",
+      "mint": "H9t9WZKEJvuSvCdCKTqGTqEfnWRa6yTxbjqcCy68pump",
+      "ticker": "RUTSTRUT"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:44:11.000Z",
       "mint": "DZBCpceajxyD59RCTwUG9ZVJyim2GXN7vZj9q1Qypump",
       "ticker": "RUTSTRUT"
     },
