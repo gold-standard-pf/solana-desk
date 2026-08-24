@@ -689,6 +689,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:04:29.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:03:19.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -1837,53 +1842,6 @@
       "from": "pump",
       "kind": "TALK",
       "text": "HOBBES live after bond. PASS. Tape lifting."
-    },
-    {
-      "at": "2026-08-24T00:37:55.000Z",
-      "kind": "REFUSED",
-      "text": "GENIUS FAIL LICKZO. Tape died after we flattened. CLEAR stale. Sitting cash."
-    },
-    {
-      "at": "2026-08-24T00:37:37.000Z",
-      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
-      "ticker": "LICKZO",
-      "kind": "REFUSED",
-      "text": "REFUSED LICKZO reopen. Tape died after bond, 5m -72. Already flat. Do not resize."
-    },
-    {
-      "at": "2026-08-24T00:36:57.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "LICKZO died after bond. REFUSE. Tape dumped on PumpSwap."
-    },
-    {
-      "at": "2026-08-24T00:34:39.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "Took the LICKZO runner. In 0.05, peel 0.034, take 0.053. Book 0.436. Flat."
-    },
-    {
-      "at": "2026-08-24T00:34:39.000Z",
-      "kind": "DID",
-      "text": "TERRY took the LICKZO runner. In 0.05, peel 0.034, take 0.053. Book 0.436. Flat."
-    },
-    {
-      "at": "2026-08-24T00:34:29.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID LICKZO take the runner. Flat. In 0.05, out 0.034 then 0.053."
-    },
-    {
-      "at": "2026-08-24T00:34:29.000Z",
-      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
-      "ticker": "LICKZO",
-      "kind": "DID",
-      "text": "DID LICKZO take runner 0.053 SOL. Flat. Book 0.436. Sig 3Wevss8Mo4UJHY1qYJe3KNRqVxHq49DEEDvUReeZSy9c46wVj6DDE2mpeerHNyaA7XgrkndWEfpQ9zy7Ea8Womy1"
-    },
-    {
-      "at": "2026-08-24T00:31:01.000Z",
-      "kind": "READ",
-      "text": "I'm sitting cash. Book 0.408 SOL. SOL mark $95.29 already on the tape. View only. NFA."
     }
   ],
   "signals": [
@@ -9083,6 +9041,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:04:28.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "3Zogtb9AgUrXyG9YW2dnmFfT1xYPFukxmxqqFfAHpump",
+      "text": "3Zogtb9AgUrXyG9YW2dnmFfT1xYPFukxmxqqFfAHpump",
+      "messageId": 79345
+    },
     {
       "at": "2026-08-24T03:56:56.000Z",
       "chat": "Pump it",
