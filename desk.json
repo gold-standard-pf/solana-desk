@@ -585,6 +585,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:49:23.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Unfazed tape died, curve empty. SOLSHIBE still live."
+    },
+    {
       "at": "2026-08-24T03:49:08.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -2251,6 +2257,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:49:23.000Z",
+      "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
+      "ticker": "Unfazed",
+      "ageMin": 12.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/onchaingringo",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "tape died. Helius curve emptied after 94% print. MC off ATH 35k to ~2.8k. Prior CLEAR stale. Do not re-PASS. Do not size."
+    },
     {
       "at": "2026-08-24T03:44:33.000Z",
       "mint": "J35ZiKQTvPT6PvbxwYHn2uY8q5YBGHLNMWyY4jbbpump",
@@ -9634,7 +9652,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:49:08.000Z",
+  "updatedAt": "2026-08-24T03:49:23.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
