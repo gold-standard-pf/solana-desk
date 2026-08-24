@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SOLANA",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:41:20.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "brand likeness"
+      ],
+      "mint": "3UNWhpKoZf8ZiY9dFLiPvQAQ634QTapLEpQUEMJ9pump"
+    },
+    {
       "ticker": "JELLYJELLY",
       "verdict": "refuse",
       "at": "2026-08-24T06:41:20.000Z",
@@ -8027,6 +8037,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "brand likeness"
+      ],
+      "at": "2026-08-24T06:41:20.000Z",
+      "mint": "3UNWhpKoZf8ZiY9dFLiPvQAQ634QTapLEpQUEMJ9pump",
+      "ticker": "SOLANA"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
