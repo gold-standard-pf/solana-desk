@@ -973,6 +973,12 @@
   "stream": [
     {
       "at": "2026-08-24T05:00:18.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "Filled 0.05. Live two-way. Watching."
+    },
+    {
+      "at": "2026-08-24T05:00:18.000Z",
       "ticker": "IN",
       "from": "terry",
       "kind": "DID",
