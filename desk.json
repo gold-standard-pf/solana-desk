@@ -7586,6 +7586,15 @@
         "leftover reprint"
       ],
       "at": "2026-08-24T06:30:58.000Z",
+      "mint": "69wJMzyAoJihPtnVHn3nSnFxEXD7ujAoKvjeHuNHpump",
+      "ticker": "JOSHUA"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:30:58.000Z",
       "mint": "D9gEgWm9x6D2CvV1hKLn1rTJj9YG5CapiNdhzuEJpump",
       "ticker": "JOSHUA"
     },
