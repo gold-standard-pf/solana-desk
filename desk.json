@@ -1399,6 +1399,13 @@
   "stream": [
     {
       "at": "2026-08-24T06:39:06.000Z",
+      "ticker": "JOSHUA",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  dump 100% runner on fade (~0.011 back)."
+    },
+    {
+      "at": "2026-08-24T06:39:06.000Z",
       "from": "genius",
       "kind": "TALK",
       "text": "Peeled. Watching the leftover. Sitting still is a position."
