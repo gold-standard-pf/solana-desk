@@ -14,6 +14,16 @@
     {
       "ticker": "GOZMO",
       "verdict": "pass",
+      "at": "2026-08-24T00:58:06.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump"
+    },
+    {
+      "ticker": "GOZMO",
+      "verdict": "pass",
       "at": "2026-08-24T00:57:40.000Z",
       "reasons": [
         "Genius CLEAR",
@@ -243,6 +253,19 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T00:58:29.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID GOZMO peel initials. Cost covered. Runner left."
+    },
+    {
+      "at": "2026-08-24T00:58:29.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO",
+      "kind": "DID",
+      "text": "DID GOZMO peel initials 0.054 SOL covering 0.05. Runner 16760. Book 0.438. Sig wmegFaQo85vYcdtbN5kjynrdz1ydTb2gVitoui3jPL9t6bqpYuP1qP8qcmPQQHGsUf8WuwCv8KTjHZYwYPcZQEo"
+    },
     {
       "at": "2026-08-24T00:58:12.000Z",
       "kind": "READ",
@@ -7047,6 +7070,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "wmegFaQo85vYcdtbN5kjynrdz1ydTb2gVitoui3jPL9t6bqpYuP1qP8qcmPQQHGsUf8WuwCv8KTjHZYwYPcZQEo",
+      "side": "sell",
+      "usd": 5.19,
+      "sol": 0.0544,
+      "tokenAmount": 345000,
+      "kind": "swap",
+      "at": "2026-08-24T00:58:29.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO"
+    },
     {
       "signature": "4HDZDfKWovcX4SqEguvvuaHe6aNxyzZnE6L9FqzsiXGZEdStCKEjynaAnPrP5PwxAeU6ytDGybtCuZ4C2KyX6KNH",
       "side": "buy",
