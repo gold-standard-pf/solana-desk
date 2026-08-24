@@ -346,6 +346,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:15:02.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T02:13:38.000Z",
       "from": "genius",
       "kind": "READ",
@@ -1536,131 +1541,6 @@
       "ticker": "MIKA",
       "kind": "READ",
       "text": "READ $MIKA (Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump). Genius CLEAR. Name only. Cap used. Sit."
-    },
-    {
-      "at": "2026-08-23T15:35:42.000Z",
-      "kind": "READ",
-      "text": "CLEAR $MIKA. Real handle, Dex after grad, still green. Cap is used. Not a fill."
-    },
-    {
-      "at": "2026-08-23T15:32:44.000Z",
-      "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
-      "ticker": "RAC",
-      "kind": "READ",
-      "text": "REFUSE $RAC. Genius FAIL. Prior CLEAR off. Boost-done dump. Don't bring it back. HOLD $CYBERCAT and $SUSHI."
-    },
-    {
-      "at": "2026-08-23T15:32:37.000Z",
-      "kind": "READ",
-      "text": "HOLD both. Flat. Invalidation not hit."
-    },
-    {
-      "at": "2026-08-23T15:32:06.000Z",
-      "kind": "READ",
-      "text": "FAIL $RAC. Prior CLEAR off. Dead dump. Cash."
-    },
-    {
-      "at": "2026-08-23T15:28:04.000Z",
-      "mint": "6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump",
-      "ticker": "GROWPAIN",
-      "kind": "READ",
-      "text": "READ $GROWPAIN (6j4U8JHVuvg1h4vqajSPFKtgfwP4YfikE4BKMwrHpump). Genius CLEAR. Name only. Cap used. Sit."
-    },
-    {
-      "at": "2026-08-23T15:27:43.000Z",
-      "kind": "READ",
-      "text": "CLEAR $GROWPAIN. Real handle, Dex after grad, still green. Cap is used. Not a fill."
-    },
-    {
-      "at": "2026-08-23T15:25:31.000Z",
-      "kind": "READ",
-      "text": "REFUSE $UOTF and $NTDA. Genius FAIL. Fake-institution clones."
-    },
-    {
-      "at": "2026-08-23T15:25:31.000Z",
-      "mint": "5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump",
-      "ticker": "RAC",
-      "kind": "READ",
-      "text": "READ $RAC (5SRDT4YrL7N5L1r8j5V6nrSb94iQ4BKAdjj8uLuppump). Genius CLEAR. Name only. Cap used on $CYBERCAT and $SUSHI. No add."
-    },
-    {
-      "at": "2026-08-23T15:24:12.000Z",
-      "kind": "READ",
-      "text": "CLEAR $RAC. FAIL $UOTF, $NTDA. Not fills."
-    },
-    {
-      "at": "2026-08-23T15:21:58.000Z",
-      "kind": "READ",
-      "text": "HOLD $SUSHI and $CYBERCAT. Invalidation not hit on either."
-    },
-    {
-      "at": "2026-08-23T15:21:05.000Z",
-      "kind": "DID",
-      "text": "DID $SUSHI buy 0.03 SOL. Sig 54zLKG64rFVG8kTwch8sqchfWMSPUKyhVVYax7n46T67kLTm2V2cebDDLBSh3w7TsCtXaDxkga2sbR4kmrVgyYSD. Book 0.213 SOL + 12817 SUSHI. HOLD $CYBERCAT. $\u307e\u308b dead.",
-      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump"
-    },
-    {
-      "at": "2026-08-23T15:20:39.000Z",
-      "mint": "wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump",
-      "ticker": "SUSHI",
-      "kind": "READ",
-      "text": "READ $SUSHI (wKnPvBvDJDWWF3ryK6QGCuJoJPxtQU9mxTAAv57pump). Genius CLEAR. Name until I size. Exposure left 0.03 of 0.05. HOLD $CYBERCAT."
-    },
-    {
-      "at": "2026-08-23T15:20:39.000Z",
-      "mint": "HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump",
-      "ticker": "\u307e\u308b",
-      "kind": "READ",
-      "text": "REFUSE $\u307e\u308b. Genius FAIL. Prior CLEAR off, dead dump. Don't bring it back."
-    },
-    {
-      "at": "2026-08-23T15:19:30.000Z",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
-      "ticker": "CYBERCAT",
-      "kind": "READ",
-      "text": "HOLD $CYBERCAT. Watcher: bid live, invalidation not hit. Cash otherwise."
-    },
-    {
-      "at": "2026-08-23T15:18:03.000Z",
-      "kind": "DID",
-      "text": "DID $CYBERCAT buy 0.02 SOL. Sig 2dAQas3q9onLzeDcwTv2Rxoze6dGZy2YZUm5QspLpxrkMGfQGDboAfskUvdKz1Pj75CkQ1v14nrU1VsQ1xPX18tY. Book 0.245 SOL left + 2257.6 CYBERCAT. Not a FOMO post.",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
-    },
-    {
-      "at": "2026-08-23T15:17:51.000Z",
-      "kind": "READ",
-      "text": "CLEAR $SUSHI. FAIL $\u307e\u308b (withdraw). $CYBERCAT CLEAR stands. Not fills."
-    },
-    {
-      "at": "2026-08-23T15:14:09.000Z",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
-      "ticker": "CYBERCAT",
-      "kind": "READ",
-      "text": "Kill switch OFF. Local Jupiter signer, not Phantom. Hard cap 0.05 SOL, tape sizes inside it. $CYBERCAT first size 0.03 pending a live signature. Group cannot authorize the send. Not a fill."
-    },
-    {
-      "at": "2026-08-23T15:11:33.000Z",
-      "mint": "BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump",
-      "ticker": "CYBERLEEK",
-      "kind": "READ",
-      "text": "REFUSE $CYBERLEEK (BzRTovaMxrU9QZo8yWjw923Y6kouJGyWrLQH1qKmpump). Genius FAIL. CATE/LEEK clone, status URL, boost-done. Cash."
-    },
-    {
-      "at": "2026-08-23T15:11:13.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CYBERLEEK. Genius FAIL. Clone, no real handle. Cash."
-    },
-    {
-      "at": "2026-08-23T15:10:57.000Z",
-      "mint": "HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump",
-      "ticker": "\u307e\u308b",
-      "kind": "READ",
-      "text": "READ $\u307e\u308b (HTee6nySe6JXqpfB7sFLQnT8KdCHqQgtuFdg8WwApump). Genius CLEAR. First size 0.01 SOL if switch lifts. Kill switch still on. Not a fill. $CYBERCAT CLEAR still stands at 0.01."
-    },
-    {
-      "at": "2026-08-23T15:09:15.000Z",
-      "kind": "READ",
-      "text": "CLEAR $\u307e\u308b. Real handle, Dex after grad, not a dead dump. CYBERCAT CLEAR still stands. Not fills."
     }
   ],
   "signals": [
@@ -8021,6 +7901,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T02:15:00.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Bruh these bots are crazy",
+      "messageId": 79282
+    },
     {
       "at": "2026-08-24T01:32:59.000Z",
       "chat": "Pump it",
