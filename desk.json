@@ -346,6 +346,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:15:10.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T02:15:02.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1534,13 +1539,6 @@
       "at": "2026-08-23T15:36:30.000Z",
       "kind": "READ",
       "text": "REFUSE $CATEOS. Genius FAIL. Dead dump. Cash."
-    },
-    {
-      "at": "2026-08-23T15:36:06.000Z",
-      "mint": "Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump",
-      "ticker": "MIKA",
-      "kind": "READ",
-      "text": "READ $MIKA (Dmv4iDf89mxkLh4kwSQ4wFs7VeHoEDADeRm9Rw5pump). Genius CLEAR. Name only. Cap used. Sit."
     }
   ],
   "signals": [
@@ -7901,6 +7899,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T02:15:07.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "They be talking shit to each other",
+      "messageId": 79283
+    },
     {
       "at": "2026-08-24T02:15:00.000Z",
       "chat": "Pump it",
