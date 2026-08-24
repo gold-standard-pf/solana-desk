@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "GOY",
+      "verdict": "refuse",
+      "at": "2026-08-24T02:13:38.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover GOY ticker",
+        "curve already fading",
+        "not a first print"
+      ],
+      "mint": "8ojqygXZb2qTRn3UeAdnJpxsCXR7hDUeenMPkbFZpump"
+    },
+    {
       "ticker": "YINYANG",
       "verdict": "refuse",
       "at": "2026-08-24T01:50:31.000Z",
@@ -333,6 +345,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T02:13:38.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL goy. Leftover name, curve already fading. Sitting cash. Not a fill."
+    },
     {
       "at": "2026-08-24T02:11:47.000Z",
       "kind": "READ",
@@ -6312,6 +6330,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover GOY ticker",
+        "curve already fading",
+        "not a first print"
+      ],
+      "ageHours": 0.03,
+      "at": "2026-08-24T02:13:38.000Z",
+      "mint": "8ojqygXZb2qTRn3UeAdnJpxsCXR7hDUeenMPkbFZpump",
+      "ticker": "goy"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
