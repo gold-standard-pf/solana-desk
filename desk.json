@@ -8174,6 +8174,15 @@
         "likeness"
       ],
       "at": "2026-08-24T06:45:32.000Z",
+      "mint": "BWtbqDjvmdNBHEx6GULKcVACtqE6tYy4BYoJt1T5pump",
+      "ticker": "SUPERMAN"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "likeness"
+      ],
+      "at": "2026-08-24T06:45:32.000Z",
       "mint": "BxcrmsSQc5LU6fxPdkgAWjbbbhBNVqKEfDjKYFcTpump",
       "ticker": "SUPERMAN"
     },
