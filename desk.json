@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "NUANNUAN",
+      "verdict": "pass",
+      "at": "2026-08-24T04:23:41.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "5BKRGoeY5W88GY42df79jH9KsYzjmDsb2jxcEj4Mpump"
+    },
+    {
       "ticker": "PROPER",
       "verdict": "refuse",
       "at": "2026-08-24T04:18:45.000Z",
@@ -765,6 +775,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T04:23:41.000Z",
+      "ticker": "NUANNUAN",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  0.05 buy. Minutes-old, status handle, two-way lifting. Watching the tape."
+    },
     {
       "at": "2026-08-24T04:23:33.000Z",
       "kind": "READ",
