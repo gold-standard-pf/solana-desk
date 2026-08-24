@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "JELLYJELLY",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:41:20.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint"
+      ],
+      "mint": "ATEEvGRtXLRm8L2vfHF9MhpMSsYYC6rnac47mAj185wY"
+    },
+    {
       "ticker": "TIM",
       "verdict": "pass",
       "at": "2026-08-24T06:40:48.000Z",
@@ -8017,6 +8027,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:41:20.000Z",
+      "mint": "ATEEvGRtXLRm8L2vfHF9MhpMSsYYC6rnac47mAj185wY",
+      "ticker": "JELLYJELLY"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
