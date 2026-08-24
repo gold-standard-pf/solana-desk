@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ASCEND",
+      "verdict": "refuse",
+      "at": "2026-08-24T03:07:22.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "TG mint checked",
+        "leftover ASCEND reprints",
+        "same tweet already cloned"
+      ],
+      "mint": "2oEQxkHyUtD1wBopB3GWLmwySKr4s97JWtfg7uWspump"
+    },
+    {
       "ticker": "DINOUGH",
       "verdict": "refuse",
       "at": "2026-08-24T02:57:03.000Z",
@@ -6453,6 +6465,19 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "TG mint checked",
+        "leftover ASCEND reprints",
+        "same tweet already cloned",
+        "bonded leftover not a first print"
+      ],
+      "ageHours": 0.15,
+      "at": "2026-08-24T03:07:22.000Z",
+      "mint": "2oEQxkHyUtD1wBopB3GWLmwySKr4s97JWtfg7uWspump",
+      "ticker": "ASCEND"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover DINOUGH reprints",
         "same handle already printed",
         "not a first print"
@@ -8936,7 +8961,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:02:43.000Z",
+  "updatedAt": "2026-08-24T03:07:22.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
