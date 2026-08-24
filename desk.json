@@ -22,6 +22,18 @@
   ],
   "decisions": [
     {
+      "ticker": "BEANS",
+      "verdict": "refuse",
+      "at": "2026-08-24T05:51:49.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "already dumping",
+        "off ATH",
+        "no Dex two-way"
+      ],
+      "mint": "CfFiQmFQgfZvDqFkLcSNK9fzBq8PuVz1kKsijjb6pump"
+    },
+    {
       "ticker": "SHITTER",
       "verdict": "refuse",
       "at": "2026-08-24T05:46:01.000Z",
@@ -7444,6 +7456,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "already dumping",
+        "off ATH",
+        "no Dex two-way"
+      ],
+      "at": "2026-08-24T05:51:49.000Z",
+      "mint": "CfFiQmFQgfZvDqFkLcSNK9fzBq8PuVz1kKsijjb6pump",
+      "ticker": "BEANS"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint"
       ],
       "at": "2026-08-24T05:48:01.000Z",
@@ -11288,7 +11311,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:50:25.000Z",
+  "updatedAt": "2026-08-24T05:51:49.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
