@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MORTY",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "Gucci/Morty likeness",
+        "ATH rip"
+      ],
+      "mint": "6NVJy8QnhDZMN9Wo8ghLbcy6G9jPqnYBkDd6BxVHpump"
+    },
+    {
       "ticker": "GORP",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7910,6 +7921,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "Gucci/Morty likeness",
+        "ATH rip"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "6NVJy8QnhDZMN9Wo8ghLbcy6G9jPqnYBkDd6BxVHpump",
+      "ticker": "MORTY"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
