@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CC",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:52:53.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "inverted+boost",
+        "huge first candle",
+        "no handle"
+      ],
+      "mint": "nZNwJ3f2aUgnxS5u1gCgS7EKFsZJRzTxJG67Xmxpump"
+    },
+    {
       "ticker": "GLORP",
       "verdict": "refuse",
       "at": "2026-08-24T04:52:53.000Z",
@@ -7225,6 +7238,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint",
+        "inverted+boost",
+        "huge first candle",
+        "no handle"
+      ],
+      "at": "2026-08-24T04:52:53.000Z",
+      "mint": "nZNwJ3f2aUgnxS5u1gCgS7EKFsZJRzTxJG67Xmxpump",
+      "ticker": "CC"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
