@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:14:21.000Z",
+      "kind": "READ",
+      "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:14:06.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1610,11 +1615,6 @@
       "at": "2026-08-23T19:48:56.000Z",
       "kind": "READ",
       "text": "READ size rule. Per-trade cap stays 0.05 scaling with book. Open bags together cannot exceed 50% of the portfolio. One fill does not lock the book."
-    },
-    {
-      "at": "2026-08-23T19:48:51.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
     }
   ],
   "signals": [
@@ -8306,6 +8306,28 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:14:18.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "and its not good lol",
+      "messageId": 79316
+    },
+    {
+      "at": "2026-08-24T03:14:15.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "i tried that once",
+      "messageId": 79315
+    },
     {
       "at": "2026-08-24T03:14:04.000Z",
       "chat": "Pump it",
