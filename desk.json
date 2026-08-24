@@ -384,6 +384,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:16:03.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T02:15:31.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1576,14 +1581,19 @@
       "ticker": "CYBERCAT",
       "kind": "READ",
       "text": "REFUSE clone $CYBERCAT (2W2nmR24LeAYAHqWo2xYLSCpZ4bs8M5jbYsAXP3Rpump). Not the fill mint 9HHTQ7YMx82E. HOLD the book mint."
-    },
-    {
-      "at": "2026-08-23T15:46:17.000Z",
-      "kind": "READ",
-      "text": "REFUSE clone $CYBERCAT mint 2W2nmR24. Real fill stays 9HHTQ7YMx82E. Cash on the clone."
     }
   ],
   "signals": [
+    {
+      "at": "2026-08-24T02:15:57.000Z",
+      "name": "ErrorSignalLost",
+      "thesis": "/wallet@terry_calls_bot",
+      "heat": "terry-calls",
+      "mint": "",
+      "source": "terry-calls",
+      "verdict": "PASS",
+      "tgMessageId": 79285
+    },
     {
       "name": "SEPTEM | VII",
       "thesis": "Refuse-flip. Dump-dead. Dex ~2.2k, MC ~2.0k vs ATH ~145k, 5m -98. inverted+boost COMPLETED. Fill already closed. Not a new fill.",
@@ -8000,6 +8010,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T02:15:57.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "terry",
+      "ticker": "",
+      "mint": "",
+      "text": "/wallet@terry_calls_bot",
+      "messageId": 79285
+    },
     {
       "at": "2026-08-24T02:15:25.000Z",
       "chat": "Pump it",
