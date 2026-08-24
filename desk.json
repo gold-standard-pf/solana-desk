@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BELUGA",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:31:54.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "no dex"
+      ],
+      "mint": "EkYtkUktv49EtvSx4FjEhHihaw7BPPJjkESWtRMUpump"
+    },
+    {
       "ticker": "CASIO",
       "verdict": "refuse",
       "at": "2026-08-24T04:31:54.000Z",
@@ -7122,6 +7133,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "no dex"
+      ],
+      "at": "2026-08-24T04:31:54.000Z",
+      "mint": "EkYtkUktv49EtvSx4FjEhHihaw7BPPJjkESWtRMUpump",
+      "ticker": "BELUGA"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
