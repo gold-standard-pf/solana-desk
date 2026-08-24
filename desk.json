@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BROS",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "already dumping",
+        "m5 -59"
+      ],
+      "mint": "wE2uJzHbeBggoiaJFtp8zZNVGwFB266gDnViZxNpump"
+    },
+    {
       "ticker": "EGGS",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7700,6 +7711,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "already dumping",
+        "m5 -59"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "wE2uJzHbeBggoiaJFtp8zZNVGwFB266gDnViZxNpump",
+      "ticker": "BROS"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
