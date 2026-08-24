@@ -309,6 +309,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:43:55.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "WIFI PASS, live curve, waiting Genius. Freddie dump refuse. GOLDBULL airdrop farm refuse. GOZMO stays dead."
+    },
+    {
       "at": "2026-08-24T01:40:54.000Z",
       "from": "genius",
       "kind": "READ",
@@ -2042,6 +2048,42 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:43:55.000Z",
+      "mint": "9wmfzAWRHg9ywzCgVRRy5TXVQfSVHo3D47w3NKKCpump",
+      "ticker": "GOLDBULL",
+      "ageMin": 1.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/CryptoGainsDev",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "60% airdrop at bond to top holders. Farm, not a first print."
+    },
+    {
+      "at": "2026-08-24T01:43:55.000Z",
+      "mint": "2Zr7cEEYEzi85Fq3s1kAs6xZ7HsMnSrp28eHBa1Ppump",
+      "ticker": "Freddie",
+      "ageMin": 2.2,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/steindevs_",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "dumped ATH ~25k to ~2.7k in 2m. Dead tape."
+    },
+    {
+      "at": "2026-08-24T01:43:55.000Z",
+      "mint": "C5VyzNakv248uGQqhNVhQSD1Ezzv2jm53SJcYfiopump",
+      "ticker": "WIFI",
+      "ageMin": 0.7,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/iclimbcharts",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "status post from iclimbcharts. Pre-bond ~81%, MC ~14k, boost none. Tiktok-is-wifi meme. Genius CLEAR/FAIL."
+    },
     {
       "at": "2026-08-24T01:39:29.000Z",
       "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
