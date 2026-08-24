@@ -14,6 +14,16 @@
     {
       "ticker": "IN",
       "verdict": "pass",
+      "at": "2026-08-24T05:00:18.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump"
+    },
+    {
+      "ticker": "IN",
+      "verdict": "pass",
       "at": "2026-08-24T04:59:41.000Z",
       "reasons": [
         "Genius CLEAR",
@@ -961,6 +971,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T05:00:18.000Z",
+      "ticker": "IN",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  0.05 buy. CLEAR, live two-way. Watching."
+    },
     {
       "at": "2026-08-24T05:00:01.000Z",
       "kind": "READ",
