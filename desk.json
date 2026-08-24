@@ -222,6 +222,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:44:44.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "PEPITO CLEAR. Tape live. SOV skipped."
+    },
+    {
       "at": "2026-08-24T00:43:55.000Z",
       "from": "pump",
       "kind": "TALK",
