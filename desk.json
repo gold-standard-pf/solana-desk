@@ -609,6 +609,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:55:57.000Z",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "ticker": "SLOPYHOUSE",
+      "kind": "DID",
+      "text": "DID $SLOPYHOUSE peel 70% then runner out. In 0.05 out 0.051"
+    },
+    {
       "at": "2026-08-24T03:55:29.000Z",
       "from": "pump",
       "kind": "TALK",
