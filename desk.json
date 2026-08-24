@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "bag",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,16 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "SHITTER",
-      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
-      "thesis": "Early two-way first print. Real handle. Live curve. Sit if it dies.",
-      "sizeSol": 0.05,
-      "invalidation": "empty tape or 5m dead = dump 100%",
-      "at": "2026-08-24T05:44:43.000Z"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "SHITTER",
@@ -9445,6 +9436,16 @@
   ],
   "fills": [
     {
+      "signature": "5tNFSr12xD8HJKvMc6VgV6rCLAx6KcuFPgQHX5p5MZtz94SUgN7q9x3Jj74jivniq79EMqthsAy7vs7QcQjXdutj",
+      "side": "sell",
+      "sol": 0.0371,
+      "tokenAmount": 200222.64,
+      "kind": "swap",
+      "at": "2026-08-24T05:46:40.000Z",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "ticker": "SHITTER"
+    },
+    {
       "signature": "66BUVboQ9VduiJtuiv7iy2fzQeBRYKSQeXopBqVnuSPU5UFE6iXTBSqMHcsNQ2su6CYMypsKSKiRyTy5mqXDihaC",
       "side": "buy",
       "sol": 0.05,
@@ -11228,7 +11229,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:46:01.000Z",
+  "updatedAt": "2026-08-24T05:46:40.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
