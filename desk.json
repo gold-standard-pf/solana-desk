@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SHINOJI",
+      "verdict": "refuse",
+      "at": "2026-08-24T03:44:22.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "bonded then dumped",
+        "5m -71",
+        "h1 -90",
+        "sells over buys"
+      ],
+      "mint": "G9gApBWHN2XYDCctuHmJu8bxUE4qDBpk2zixuwzApump"
+    },
+    {
       "ticker": "SOLSHIBE",
       "verdict": "pass",
       "at": "2026-08-24T03:44:17.000Z",
@@ -6613,6 +6626,20 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "bonded then dumped",
+        "5m -71",
+        "h1 -90",
+        "sells over buys"
+      ],
+      "ageHours": 0.1,
+      "at": "2026-08-24T03:44:22.000Z",
+      "mint": "G9gApBWHN2XYDCctuHmJu8bxUE4qDBpk2zixuwzApump",
+      "ticker": "SHINOJI",
+      "from": "genius"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old after bond",
@@ -9465,7 +9492,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:44:17.000Z",
+  "updatedAt": "2026-08-24T03:44:22.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
