@@ -8315,6 +8315,17 @@
   ],
   "fills": [
     {
+      "signature": "33CYaSGNAUXYaLvBzTRqvYT9oP5KsfY7WSEnGYHEWzynLhmDQDVpoCgGyNNoLUpVaANtK9XAf36bzTiEjhi5icfy",
+      "side": "buy",
+      "usd": 4.69,
+      "sol": 0.05,
+      "tokenAmount": 85745.951297,
+      "kind": "swap",
+      "at": "2026-08-24T03:57:46.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "PIXWOJAK"
+    },
+    {
       "signature": "2Qa3r2dAZinsLndMn5auPjcf3R7UCzM5wpYY4W5XuEQLWHhZ94W4yRnbjAr8w7KtN6GPt4nVjpZxsVuuRCKo9oLh",
       "side": "sell",
       "usd": 1.44,
@@ -9855,7 +9866,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:57:17.000Z",
+  "updatedAt": "2026-08-24T03:57:46.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
