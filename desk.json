@@ -1567,6 +1567,12 @@
   "stream": [
     {
       "at": "2026-08-24T06:41:52.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "In a bag. Watching the tape. Sitting still is a position."
+    },
+    {
+      "at": "2026-08-24T06:41:52.000Z",
       "mint": "B9KKTkGykyBxxDmVyW8TLM7dyei5q15VHRXgYUYtpump",
       "ticker": "TIM",
       "from": "terry",
@@ -10295,6 +10301,14 @@
     }
   ],
   "advice": [
+    {
+      "call": "hold",
+      "vsInvalidation": "empty or 5m dead dump 100%",
+      "note": "in 0.05. two-way. Token-2022 peels can be messy.",
+      "at": "2026-08-24T06:41:52.000Z",
+      "mint": "B9KKTkGykyBxxDmVyW8TLM7dyei5q15VHRXgYUYtpump",
+      "ticker": "TIM"
+    },
     {
       "call": "cut",
       "vsInvalidation": "dumped 100%",
