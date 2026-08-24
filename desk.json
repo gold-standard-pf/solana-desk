@@ -585,6 +585,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:49:08.000Z",
+      "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
+      "ticker": "UNFAZED",
+      "kind": "DID",
+      "text": "DID $UNFAZED dump rug. In 0.05 out 0.005"
+    },
+    {
       "at": "2026-08-24T03:47:30.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
