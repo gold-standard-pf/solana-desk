@@ -777,6 +777,12 @@
   "stream": [
     {
       "at": "2026-08-24T04:25:06.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "Dumped 100%. 0.05 in, about 0.049 back. First-candle wipe. Flat."
+    },
+    {
+      "at": "2026-08-24T04:25:06.000Z",
       "ticker": "NUANNUAN",
       "from": "terry",
       "kind": "DID",
