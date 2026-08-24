@@ -8020,6 +8020,15 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:41:20.000Z",
+      "mint": "GJ3PmiVHHb9S7GXjchTJ3UUKoSLnuo5oZC7k6HqEpump",
+      "ticker": "EGGS"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "no handle",
         "leftover"
       ],
