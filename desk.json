@@ -276,6 +276,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:24:06.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "GTAVI FAIL, official GTA name, skip forever. DRIP stays refuse. GOZMO no re-brief."
+    },
+    {
       "at": "2026-08-24T01:23:40.000Z",
       "ticker": "GTAVI",
       "kind": "REFUSED",
@@ -1972,6 +1978,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:24:06.000Z",
+      "mint": "FS8bo3we1naSME2JetkeuhfGnBKA28WuQaj2v4ckpump",
+      "ticker": "GTAVI",
+      "ageMin": 16.0,
+      "dexLiqUsd": 56000.0,
+      "socials": "x.com/SOLANA_GTAVI",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL. Official GTA name. Skip forever even if tape lifts."
+    },
     {
       "at": "2026-08-24T01:21:35.000Z",
       "mint": "7cVEbHT6LYzrukidURraXsFhhp11Yxc2n9yZLHb6pump",
