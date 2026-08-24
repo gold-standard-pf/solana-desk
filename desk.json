@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "bag",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,16 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "JOSHUA",
-      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
-      "thesis": "Peeled 70%. Runner is house money. Tape faded m5 hard. Dump if still dead.",
-      "sizeSol": 0,
-      "invalidation": "empty or 5m dead or Dex 5m <= -25 = dump 100%",
-      "at": "2026-08-24T06:39:06.000Z"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "SHINKEN",
@@ -1406,6 +1397,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T06:39:06.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "Peeled. Watching the leftover. Sitting still is a position."
+    },
     {
       "at": "2026-08-24T06:39:06.000Z",
       "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
@@ -10278,6 +10275,15 @@
     }
   ],
   "fills": [
+    {
+      "signature": "yeCaq55GBLvGbf2Gx5d5BEBBRCoVMbZ68BQJt9KEmxUt5Aj9qmGTE8V74Xx9tiqsFKZYS8nFbgENTN5PEqrCBoh",
+      "side": "sell",
+      "sol": 0.0111,
+      "kind": "dump",
+      "at": "2026-08-24T06:39:06.000Z",
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
+      "ticker": "JOSHUA"
+    },
     {
       "signature": "4SZHZ3oX32uWSWY8CECGApCVqhJSExyG3yyp7SJCSuXKZMdH4Co79rGtxWNYaxZi5v4ep29MDLhNQBz5MEx5CBcT",
       "side": "sell",
