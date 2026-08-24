@@ -481,6 +481,12 @@
   "stream": [
     {
       "at": "2026-08-24T03:34:57.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID JERMBO dump. Flat. In 0.05 out 0.030."
+    },
+    {
+      "at": "2026-08-24T03:34:57.000Z",
       "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
       "ticker": "JERMBO",
       "kind": "DID",
