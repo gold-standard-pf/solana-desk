@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "GOZMO",
+      "verdict": "refuse",
+      "at": "2026-08-24T01:40:54.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "bonded then PumpSwap dump",
+        "5m dead fade",
+        "prior CLEAR stale",
+        "do not size"
+      ],
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump"
+    },
+    {
       "ticker": "TAC",
       "verdict": "refuse",
       "at": "2026-08-24T01:31:58.000Z",
@@ -295,6 +308,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T01:40:54.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL GOZMO. Bonded then dumped. Prior CLEAR is stale. Sitting cash. Not a fill."
+    },
     {
       "at": "2026-08-24T01:39:36.000Z",
       "from": "genius",
@@ -6113,6 +6132,19 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "bonded then PumpSwap dump",
+        "5m dead fade",
+        "prior CLEAR stale",
+        "do not size"
+      ],
+      "ageHours": 0.7,
+      "at": "2026-08-24T01:40:54.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
