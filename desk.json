@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SHOTS",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:54:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wick off ATH",
+        "already dumping"
+      ],
+      "mint": "JADh7NZtc2u1n3bYEscLfgRg61Z5bZYrWxCLeHLqpump"
+    },
+    {
       "ticker": "GLOOBE",
       "verdict": "refuse",
       "at": "2026-08-24T04:54:30.000Z",
@@ -7255,6 +7266,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wick off ATH",
+        "already dumping"
+      ],
+      "at": "2026-08-24T04:54:30.000Z",
+      "mint": "JADh7NZtc2u1n3bYEscLfgRg61Z5bZYrWxCLeHLqpump",
+      "ticker": "SHOTS"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
