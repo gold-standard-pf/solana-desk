@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,19 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "JERMBO",
-      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
-      "valueUsd": null,
-      "pnlUsd": null,
-      "pnlPct": null,
-      "investedUsd": 4.69,
-      "thesis": "Live curve, buyers lifting. First take waits until half the bag covers the 0.05 fill. Leave the runner after cost.",
-      "invalidation": "Empty tape or 5m dead after a wick wait = 100% dump.",
-      "at": "2026-08-24T03:16:47.000Z"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "JERMBO",
@@ -491,6 +479,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T03:34:57.000Z",
+      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
+      "ticker": "JERMBO",
+      "kind": "DID",
+      "text": "DID JERMBO dump. Out 0.030. Flat. Book 0.438. Sig 3RbQvvY6X6WePY8ogAwvh4HC2m6kSKKTTwjKjHeUXrjuL4HM2VmviSJotmk7HfTrcS88Ai5FRMVXqPPzEiAdEq3q"
+    },
     {
       "at": "2026-08-24T03:33:17.000Z",
       "kind": "READ",
@@ -9379,7 +9374,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:33:17.000Z",
+  "updatedAt": "2026-08-24T03:34:57.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
