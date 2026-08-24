@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,8 +9,30 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "SLOPYHOUSE",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "pool": "4BxYhXqesv5fhod8Fgc8A9UpYrpz8GagAr3HW5ZJK5wb",
+      "valueUsd": 4.69,
+      "investedUsd": 4.69,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "thesis": "Minutes-old first print, handle gossip10x, curve filling, two-way tape. Size 0.05.",
+      "invalidation": "Rug dumps now. Empty tape dumps now. Even if dying. If lifting wait for a real take then peel ~70%. Runner is house money."
+    }
+  ],
   "decisions": [
+    {
+      "verdict": "pass",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "at": "2026-08-24T03:55:03.000Z",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "ticker": "SLOPYHOUSE"
+    },
     {
       "ticker": "SLOPYHOUSE",
       "verdict": "pass",
@@ -598,6 +620,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T03:55:03.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "$SLOPYHOUSE is on. 0.05 filled. Socket watching."
+    },
     {
       "at": "2026-08-24T03:55:03.000Z",
       "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
