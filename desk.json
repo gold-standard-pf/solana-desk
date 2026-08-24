@@ -13,6 +13,16 @@
   "decisions": [
     {
       "ticker": "JOSHUA",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:30:58.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint"
+      ],
+      "mint": "D9gEgWm9x6D2CvV1hKLn1rTJj9YG5CapiNdhzuEJpump"
+    },
+    {
+      "ticker": "JOSHUA",
       "verdict": "pass",
       "at": "2026-08-24T06:29:34.000Z",
       "reasons": [
@@ -7571,6 +7581,15 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:30:58.000Z",
+      "mint": "D9gEgWm9x6D2CvV1hKLn1rTJj9YG5CapiNdhzuEJpump",
+      "ticker": "JOSHUA"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "early two-way",
@@ -11607,7 +11626,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:30:57.000Z",
+  "updatedAt": "2026-08-24T06:30:58.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
