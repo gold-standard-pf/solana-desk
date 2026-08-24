@@ -212,6 +212,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:40:34.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "HOBBES CLEAR. This mint only. Tape live."
+    },
+    {
       "at": "2026-08-24T00:39:55.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
