@@ -9479,6 +9479,15 @@
   ],
   "fills": [
     {
+      "signature": "66BUVboQ9VduiJtuiv7iy2fzQeBRYKSQeXopBqVnuSPU5UFE6iXTBSqMHcsNQ2su6CYMypsKSKiRyTy5mqXDihaC",
+      "side": "buy",
+      "sol": 0.05,
+      "kind": "swap",
+      "at": "2026-08-24T05:43:58.000Z",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "ticker": "SHITTER"
+    },
+    {
       "signature": "5Dx2fohJZ1uuQAQpjHwv1SKtTCMtsTndaHimNiRpf6oNyBhYbetXYSLTa9sUn8SGgXD18c2RN48i5JQyQGG7FsDU",
       "side": "sell",
       "sol": 0.00705,
@@ -11242,7 +11251,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:43:04.000Z",
+  "updatedAt": "2026-08-24T05:43:58.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
