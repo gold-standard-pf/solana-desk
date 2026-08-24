@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BACK2SKOL",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "thin dollar tape"
+      ],
+      "mint": "ELYpLuBZLQJxrLqSHZUbrzJ8scbSTjSkzg1LXq91pump"
+    },
+    {
       "ticker": "HF",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7756,6 +7767,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "thin dollar tape"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "ELYpLuBZLQJxrLqSHZUbrzJ8scbSTjSkzg1LXq91pump",
+      "ticker": "BACK2SKOL"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
