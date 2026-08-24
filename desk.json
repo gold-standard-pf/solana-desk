@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "GOZMO",
+      "verdict": "pass",
+      "at": "2026-08-24T00:57:40.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "curve live",
+        "buyers lifting",
+        "handle"
+      ],
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump"
+    },
+    {
       "ticker": "PEPITO",
       "verdict": "pass",
       "at": "2026-08-24T00:44:58.000Z",
@@ -231,6 +243,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T00:57:40.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "CLEAR GOZMO. Curve live, two-way tape, real handle. This mint only. Dies = 100% out."
+    },
     {
       "at": "2026-08-24T00:55:23.000Z",
       "from": "pump",
@@ -5851,6 +5869,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "curve live",
+        "buyers lifting",
+        "handle"
+      ],
+      "at": "2026-08-24T00:57:40.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
