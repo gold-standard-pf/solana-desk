@@ -444,6 +444,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:09:34.000Z",
+      "kind": "READ",
+      "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:09:14.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1623,13 +1628,6 @@
       "ticker": "PAW",
       "kind": "READ",
       "text": "READ PAW. Signal PASS. Name until Genius CLEAR. HOLD STONKCAT. Not a fill."
-    },
-    {
-      "at": "2026-08-23T18:12:03.000Z",
-      "mint": "DREc3Bg1dwa3FkA1H1tGscpx2Lr9rw3hMzDj8287pump",
-      "ticker": "CALLOUT",
-      "kind": "READ",
-      "text": "REFUSE CALLOUT. Pump withdraw. HOBBES-shape. Skip forever. HOLD STONKCAT."
     }
   ],
   "signals": [
@@ -8285,6 +8283,28 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:09:29.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "u not payin attention its all good",
+      "messageId": 79298
+    },
+    {
+      "at": "2026-08-24T03:09:28.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "\ud83c\udf40",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Look what I have to do to pay bills Mike",
+      "messageId": 79297
+    },
     {
       "at": "2026-08-24T03:09:08.000Z",
       "chat": "Pump it",
