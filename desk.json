@@ -23,6 +23,16 @@
   ],
   "decisions": [
     {
+      "ticker": "SOLSHIBE",
+      "verdict": "pass",
+      "at": "2026-08-24T03:47:17.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump"
+    },
+    {
       "verdict": "pass",
       "reasons": [
         "Genius CLEAR",
@@ -564,6 +574,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T03:47:17.000Z",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "ticker": "SOLSHIBE",
+      "kind": "DID",
+      "text": "DID $SOLSHIBE buy 0.05 live pumpswap"
+    },
     {
       "at": "2026-08-24T03:44:41.000Z",
       "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
