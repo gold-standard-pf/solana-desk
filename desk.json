@@ -276,6 +276,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:28:17.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "LEEK refuse. Status URL, not a real handle. Tape is on-curve but the bar needs an account."
+    },
+    {
       "at": "2026-08-24T01:27:26.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1967,6 +1973,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:28:17.000Z",
+      "mint": "EMHQdoqRD8btsej5wgRGkcP8DKFirjjdFz8JBaqHpump",
+      "ticker": "LEEK",
+      "ageMin": 2.3,
+      "dexLiqUsd": 0.0,
+      "socials": "status-URL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Take a Leek. x.com status URL not a handle. TG reprint name. Curve live but no real account."
+    },
     {
       "at": "2026-08-24T01:27:26.000Z",
       "mint": "2QFVUpLtMB8QVfteVQuWnxtc1mB1GV2Pa4R6D5gRpump",
