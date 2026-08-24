@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,19 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "PIXWOJAK",
-      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
-      "pool": "5CSwcCYswPZUw82GhA3gDgqeanSeRkXD49xR7U22vTFW",
-      "valueUsd": 4.69,
-      "investedUsd": 4.69,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "thesis": "Minutes-old first print, handle pixwojak, bonded PumpSwap, two-way tape. Size 0.05.",
-      "invalidation": "Rug dumps now. Empty dumps now. No peel for 45s unless rug. Even if dying. If lifting wait for a real take then ~70%."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "VAMPURR",
@@ -8505,6 +8493,17 @@
   ],
   "fills": [
     {
+      "signature": "4F6Y2McFMxoixfQRbfY5wbRTbEZoK3iu62xtUHpWH8SJhmkBHdFPNdNBfChBRQ3j8o5amPT9ddmkCQAwDjak5rjh",
+      "side": "sell",
+      "usd": 3.91,
+      "sol": 0.0416,
+      "tokenAmount": 60022.1659079,
+      "kind": "swap",
+      "at": "2026-08-24T04:03:19.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "PIXWOJAK"
+    },
+    {
       "signature": "33CYaSGNAUXYaLvBzTRqvYT9oP5KsfY7WSEnGYHEWzynLhmDQDVpoCgGyNNoLUpVaANtK9XAf36bzTiEjhi5icfy",
       "side": "buy",
       "usd": 4.69,
@@ -10056,7 +10055,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:01:41.000Z",
+  "updatedAt": "2026-08-24T04:03:19.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
