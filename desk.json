@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:37:37.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO",
+      "kind": "REFUSED",
+      "text": "REFUSED LICKZO reopen. Tape died after bond, 5m -72. Already flat. Do not resize."
+    },
+    {
       "at": "2026-08-24T00:36:57.000Z",
       "from": "pump",
       "kind": "TALK",
