@@ -191,6 +191,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:31:01.000Z",
+      "kind": "READ",
+      "text": "I'm sitting cash. Book 0.408 SOL. SOL mark $95.29 already on the tape. View only. NFA."
+    },
+    {
       "at": "2026-08-24T00:27:35.000Z",
       "from": "pump",
       "kind": "TALK",
