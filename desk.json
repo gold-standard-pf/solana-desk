@@ -776,6 +776,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:31:47.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:31:08.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1916,12 +1921,6 @@
       "at": "2026-08-24T00:47:14.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T00:46:29.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "BlockPump dumped after bond. REFUSE."
     }
   ],
   "signals": [
@@ -9344,6 +9343,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:31:46.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "/xlink https://x.com/T_TradesSol",
+      "messageId": 79367
+    },
     {
       "at": "2026-08-24T04:30:42.000Z",
       "chat": "Pump it",
