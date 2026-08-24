@@ -21,6 +21,19 @@
   ],
   "decisions": [
     {
+      "ticker": "ADRIAN",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:43:38.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "first-candle ATH wipe",
+        "uxento",
+        "person likeness"
+      ],
+      "mint": "B82Cbc5yfeQcYBX4fzWSDQU6X459127C4Af24i8ipump"
+    },
+    {
       "ticker": "RUTSTRUT",
       "verdict": "refuse",
       "at": "2026-08-24T06:43:11.000Z",
@@ -8097,6 +8110,18 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint",
+        "first-candle ATH wipe",
+        "uxento",
+        "person likeness"
+      ],
+      "at": "2026-08-24T06:43:38.000Z",
+      "mint": "B82Cbc5yfeQcYBX4fzWSDQU6X459127C4Af24i8ipump",
+      "ticker": "ADRIAN"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint"
       ],
       "at": "2026-08-24T06:43:12.000Z",
@@ -12741,7 +12766,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:43:12.000Z",
+  "updatedAt": "2026-08-24T06:43:38.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
