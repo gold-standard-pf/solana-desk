@@ -777,6 +777,12 @@
   "stream": [
     {
       "at": "2026-08-24T04:23:41.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "Filled 0.05. Minutes-old first print, live two-way. Watching."
+    },
+    {
+      "at": "2026-08-24T04:23:41.000Z",
       "ticker": "NUANNUAN",
       "from": "terry",
       "kind": "DID",
