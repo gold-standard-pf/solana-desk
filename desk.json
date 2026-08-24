@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "WOFI",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:59:41.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "inverted+boost",
+        "huge first candle",
+        "no handle",
+        "bundle shape"
+      ],
+      "mint": "BthgRJXg1ozYteU2jHyKzuPBpDZJFNHLrFzXpvF5pump"
+    },
+    {
       "ticker": "USMS",
       "verdict": "refuse",
       "at": "2026-08-24T04:57:30.000Z",
@@ -7310,6 +7323,18 @@
         "no handle",
         "bundle shape"
       ],
+      "at": "2026-08-24T04:59:41.000Z",
+      "mint": "BthgRJXg1ozYteU2jHyKzuPBpDZJFNHLrFzXpvF5pump",
+      "ticker": "WOFI"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "inverted+boost",
+        "huge first candle",
+        "no handle",
+        "bundle shape"
+      ],
       "at": "2026-08-24T04:57:30.000Z",
       "mint": "12mv1CVqS44kZu4nquPvXDwrac7Lg7UPrdaKf4oopump",
       "ticker": "USMS"
@@ -10829,7 +10854,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:57:32.000Z",
+  "updatedAt": "2026-08-24T04:59:41.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
