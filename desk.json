@@ -7586,6 +7586,15 @@
         "leftover reprint"
       ],
       "at": "2026-08-24T06:30:58.000Z",
+      "mint": "C9NhKgGTJbfYsN6ZJkyfsQ8eqNBZAQkcYn2BQDkApump",
+      "ticker": "POLYCAT"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:30:58.000Z",
       "mint": "69wJMzyAoJihPtnVHn3nSnFxEXD7ujAoKvjeHuNHpump",
       "ticker": "JOSHUA"
     },
