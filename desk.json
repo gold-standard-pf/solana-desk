@@ -232,6 +232,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:51:19.000Z",
+      "kind": "READ",
+      "text": "I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
+    },
+    {
       "at": "2026-08-24T00:48:49.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
