@@ -1865,6 +1865,18 @@
   ],
   "board": [
     {
+      "ageMin": 12,
+      "dexLiqUsd": 0,
+      "socials": "x.com/LICKZO_LI",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "Genius 7:21 CT: bond not required. Real handle x.com/LICKZO_LI. Still on-curve complete=false ~$14.1k ~82% to bond. Live lift 5m 75b/62s +29%. get_tokens no boost/labels. Not dumping. Not leftover. Not ESL. PumpSwap after bond still a plus. PASS-brief for CLEAR/FAIL.",
+      "at": "2026-08-24T00:22:20.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO"
+    },
+    {
       "ageMin": 10,
       "dexLiqUsd": 0,
       "socials": "x.com/trumpleek",
