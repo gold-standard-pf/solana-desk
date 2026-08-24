@@ -12,6 +12,27 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "LICKZO",
+      "verdict": "refuse",
+      "at": "2026-08-24T00:37:55.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "tape died",
+        "already flat"
+      ],
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump"
+    },
+    {
+      "ticker": "LICKZO",
+      "verdict": "pass",
+      "at": "2026-08-24T00:24:05.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump"
+    },
+    {
       "ticker": "CYBERCAT",
       "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
       "verdict": "pass",
@@ -190,6 +211,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T00:39:46.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "HOBBES live after bond. PASS. Tape lifting."
+    },
     {
       "at": "2026-08-24T00:37:55.000Z",
       "kind": "REFUSED",
@@ -1964,6 +1991,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 10,
+      "dexLiqUsd": 17997,
+      "socials": "x.com/HOBBEScat_sol",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "real handle x.com/HOBBEScat_sol. Bonded. PumpSwap liq ~$18k mc ~$57k. 5m 675b/76s +3%. boosts none labels none. Not dumping. Tribute name ok. Not leftover. Not ESL. PASS for CLEAR/FAIL.",
+      "at": "2026-08-24T00:39:46.000Z",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "ticker": "HOBBES"
+    },
     {
       "ageMin": 27,
       "dexLiqUsd": 6966,
