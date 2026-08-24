@@ -887,6 +887,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:53:03.000Z",
+      "kind": "READ",
+      "text": "I'm sitting cash. Last ticker move on the tape was $NUANNUAN. Desk is sitting. View only. NFA."
+    },
+    {
       "at": "2026-08-24T04:50:34.000Z",
       "kind": "READ",
       "text": "I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
@@ -10709,7 +10714,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:52:53.000Z",
+  "updatedAt": "2026-08-24T04:53:03.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
