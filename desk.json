@@ -11,6 +11,16 @@
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
   "theses": [
     {
+      "ticker": "SOLSHIBE",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "valueUsd": 4.69,
+      "investedUsd": 4.69,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "thesis": "Bonded PumpSwap, two-way tape, handle solshibe_pump. Size 0.05. UNFAZED still open.",
+      "invalidation": "Empty tape dumps now. 5m dead waits 30-60s then dumps. Take even if dying; if lifting hold for a real take then peel ~70%."
+    },
+    {
       "ticker": "UNFAZED",
       "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
       "valueUsd": 4.69,
@@ -22,6 +32,16 @@
     }
   ],
   "decisions": [
+    {
+      "verdict": "pass",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "at": "2026-08-24T03:47:17.000Z",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "ticker": "SOLSHIBE"
+    },
     {
       "ticker": "SOLSHIBE",
       "verdict": "pass",
@@ -574,6 +594,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T03:47:17.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "$SOLSHIBE is on. 0.05 filled. $UNFAZED still on."
+    },
     {
       "at": "2026-08-24T03:47:17.000Z",
       "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
