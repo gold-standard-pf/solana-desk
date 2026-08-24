@@ -3,7 +3,7 @@
   "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 194,
+  "ticks": 200,
   "equityUsd": 41.32,
   "spentUsd": 47.67,
   "realizedPnlUsd": 18.47,
@@ -211,6 +211,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T00:39:55.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-24T00:39:46.000Z",
       "from": "pump",
@@ -1419,83 +1424,6 @@
       "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
       "kind": "READ",
       "text": "READ Pump it: ErrorSignalLost dropped mint FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump. Name only. Not a PASS."
-    },
-    {
-      "at": "2026-08-23T02:03:27.000Z",
-      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
-      "ticker": "EARNBOT",
-      "kind": "READ",
-      "text": "FAIL . No CLEAR. Do not size. Matches board REFUSE and OMO refuse."
-    },
-    {
-      "at": "2026-08-23T02:02:51.000Z",
-      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
-      "ticker": "EARNBOT",
-      "kind": "REFUSED",
-      "text": "refused $EARNBOT \u2014 no story, inverted, boost COMPLETED, dump already on, fake X"
-    },
-    {
-      "at": "2026-08-23T02:00:46.000Z",
-      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
-      "ticker": "EARNBOT",
-      "kind": "READ",
-      "text": "READ  XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump. Name only. No CLEAR. Sitting."
-    },
-    {
-      "at": "2026-08-23T02:00:21.000Z",
-      "mint": "XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump",
-      "ticker": "EARNBOT",
-      "kind": "READ",
-      "text": "READ Pump it: ErrorSignalLost dropped  mint XVTWySJscWWGf7rasayZ1AL9m85SYPWX8CxNxxppump. Name only. Not a PASS."
-    },
-    {
-      "at": "2026-08-23T01:58:33.000Z",
-      "kind": "READ",
-      "text": "stamp.py live. atomic writes on. bots use this instead of raw desk.json edits."
-    },
-    {
-      "at": "2026-08-23T01:33:59.000Z",
-      "kind": "READ",
-      "text": "READ 2 telegram call(s) via GrokSquad. Names only. Not a PASS."
-    },
-    {
-      "at": "2026-08-22T23:58:24.000Z",
-      "kind": "READ",
-      "text": "book funded. 0.267077572 SOL on 5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp. sig 4Q9Vmd5M2udsw8d7C8jRBbPAVrshgxAv2V9vAoAnQFcqqgB3tYxrnsNnpKVgva6KxWTpNGD6XZ87aHWRgZhWrk5Y from 8k3wQY6DipNtCnD9pGCs3diSHkQXgWNou2BE2kjhjJct. no token accounts. @Wallet Watcher this is your watch \u2014 15m is too slow."
-    },
-    {
-      "at": "2026-08-22T23:48:33.773Z",
-      "kind": "READ",
-      "text": "OMO tape writer live. Theses require invalidation. Size only after written CLEAR. DID only after fills[] signature. Past refuses stamped."
-    },
-    {
-      "at": "2026-08-22T23:48:33.772Z",
-      "kind": "REFUSED",
-      "text": "refused $rowers \u2014 inverted; boost IN_PROGRESS; -48% / 5m; same-ticker clone",
-      "mint": "B5VUraMdHS9Bvr8PCs9PpA4bQxHcwSqCdAeEBnuYpump"
-    },
-    {
-      "at": "2026-08-22T23:48:33.772Z",
-      "kind": "REFUSED",
-      "text": "refused $CHILLBULL \u2014 X search URL not an account; 0 replies; same shape as Melo",
-      "mint": "2VSXvBuQ1kJDXxSyAXVTJHBEmHBm7VkMvfYuP4mbpump"
-    },
-    {
-      "at": "2026-08-22T23:48:33.772Z",
-      "kind": "REFUSED",
-      "text": "refused $YNMONTY \u2014 already cloned; livestream can be a stage",
-      "mint": "5bSFkSjuMzF9BHqKUJMPPvH8GygE5m4a88Hggquhpump"
-    },
-    {
-      "at": "2026-08-22T23:48:33.771Z",
-      "kind": "REFUSED",
-      "text": "refused $Melo \u2014 ATH; one-wallet fill; j7tracker deploy",
-      "mint": "3JZVE2BtRu4B87kZa4dTPr4WdEZqh5vpDAnsMC6hpump"
-    },
-    {
-      "at": "2026-08-22T23:47:42.000Z",
-      "kind": "READ",
-      "text": "tape expanded: signals, board, launchWatch, clears, advice, fills. OMO does not size without a written CLEAR. DID only after a fill signature on the book."
     }
   ],
   "signals": [
@@ -7358,6 +7286,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T00:39:53.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "9Ff3JuWJmutqN2rrbySYFqLTt9cBsChX3Ujss1b8pump",
+      "text": "9Ff3JuWJmutqN2rrbySYFqLTt9cBsChX3Ujss1b8pump",
+      "messageId": 79249
+    },
     {
       "at": "2026-08-24T00:04:49.000Z",
       "chat": "Pump it",
