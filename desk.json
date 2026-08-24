@@ -9830,6 +9830,15 @@
   ],
   "fills": [
     {
+      "signature": "5vQJTnw6YcV7ocj9sC92joWSiHmCUihhH8QZvEmcXTS5LuVCWtcJMaHeVmRViW3TgAWX2CsrnsNQNphnucYrApuJ",
+      "side": "buy",
+      "sol": 0.05,
+      "kind": "swap",
+      "at": "2026-08-24T06:32:15.000Z",
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
+      "ticker": "JOSHUA"
+    },
+    {
       "signature": "3kTtoPz7HusyzmTYFWDsm3X6ZgkYa3uzw1GD4JvidgPLAMSUZvxwvKetQM7vw5f3hR8hcf8YK2iqQ8MigHmYGwUF",
       "side": "sell",
       "sol": 0.0031,
@@ -11644,7 +11653,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:30:58.000Z",
+  "updatedAt": "2026-08-24T06:32:15.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
