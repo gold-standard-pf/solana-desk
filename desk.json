@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ASIA",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin dollar tape"
+      ],
+      "mint": "3cVNKsW4MpHy3rXYKDRSHFYsyuSsR8xNY9qxaWmkpump"
+    },
+    {
       "ticker": "OKAYU",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7974,6 +7984,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "thin dollar tape"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "3cVNKsW4MpHy3rXYKDRSHFYsyuSsR8xNY9qxaWmkpump",
+      "ticker": "ASIA"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
