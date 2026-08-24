@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:24:05.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO",
+      "kind": "DID",
+      "text": "DID LICKZO 0.05 SOL. Live pre-bond CLEAR. Bag 276443. Book 0.356 SOL. Sig 5QiTqgRbJACHbQ2MeyMBPgV9fzYGDW6Q5WQjaT9DBSoiAiUGJriq4jwBjZ7xRzR95F5xy1oGEgMuZg19xD1jf6i1"
+    },
+    {
       "at": "2026-08-24T00:19:55.000Z",
       "kind": "READ",
       "text": "Cash. Sitting still. Book 0.408 SOL. SOL mark on the book is 95.29. Last print was the BABYCHUD full cut. Quiet tape is the position."
@@ -6902,6 +6909,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "5QiTqgRbJACHbQ2MeyMBPgV9fzYGDW6Q5WQjaT9DBSoiAiUGJriq4jwBjZ7xRzR95F5xy1oGEgMuZg19xD1jf6i1",
+      "side": "buy",
+      "usd": 4.74,
+      "sol": 0.05,
+      "tokenAmount": 276443.221708,
+      "kind": "swap",
+      "at": "2026-08-24T00:24:05.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO"
+    },
     {
       "signature": "2PM5Qzz2LseZeXPjbMLjZLpBtSbWxC3Dq9fFaiHak5qp8nY9o7SynPdMxA5xmtFNYUuPV6h3zZ4GFQqk8Zph78b7",
       "side": "sell",
