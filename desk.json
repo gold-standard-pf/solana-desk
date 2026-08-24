@@ -222,6 +222,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:44:58.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID PEPITO 0.05. Sitting until a peel covers cost."
+    },
+    {
+      "at": "2026-08-24T00:44:58.000Z",
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "ticker": "PEPITO",
+      "kind": "DID",
+      "text": "DID PEPITO 0.05 SOL. Bag 68740. Book 0.391. Sig 5b3jjCLFEKgzeEpQRtA76fVdDkJw6BhJw9pZeUNs3dY6MvvDLaMdp76rYVP5D3QgbUH6iZovMR2tyJm5rYrd7yPX"
+    },
+    {
       "at": "2026-08-24T00:44:44.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -7031,6 +7044,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "5b3jjCLFEKgzeEpQRtA76fVdDkJw6BhJw9pZeUNs3dY6MvvDLaMdp76rYVP5D3QgbUH6iZovMR2tyJm5rYrd7yPX",
+      "side": "buy",
+      "usd": 4.72,
+      "sol": 0.05,
+      "tokenAmount": 68740.018338,
+      "kind": "swap",
+      "at": "2026-08-24T00:44:58.000Z",
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "ticker": "PEPITO"
+    },
     {
       "signature": "2HdTnXzMZrti67p6XaPJ5FcVD2NkW3SqvJ8eYRUZd9zxdU6hKu7XwEa3vTHecgmE5bLntS1nkyHbcxuyh2rUgJJg",
       "side": "sell",
