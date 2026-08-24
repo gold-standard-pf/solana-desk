@@ -232,6 +232,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:47:50.000Z",
+      "kind": "DID",
+      "text": "TERRY dumped PEPITO. In 0.05 out 0.044. Bundle FAIL."
+    },
+    {
       "at": "2026-08-24T00:47:48.000Z",
       "from": "terry",
       "kind": "TALK",
