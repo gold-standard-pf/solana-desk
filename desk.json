@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "bag",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,16 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "JOSHUA",
-      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
-      "thesis": "Early two-way first print. Real handle. Live curve. Sit if it dies.",
-      "sizeSol": 0.05,
-      "invalidation": "empty tape or 5m dead = dump 100%",
-      "at": "2026-08-24T06:33:00.000Z"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "JOSHUA",
@@ -9884,6 +9875,15 @@
   ],
   "fills": [
     {
+      "signature": "4SZHZ3oX32uWSWY8CECGApCVqhJSExyG3yyp7SJCSuXKZMdH4Co79rGtxWNYaxZi5v4ep29MDLhNQBz5MEx5CBcT",
+      "side": "sell",
+      "sol": 0.0536,
+      "kind": "peel70",
+      "at": "2026-08-24T06:33:19.000Z",
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
+      "ticker": "JOSHUA"
+    },
+    {
       "signature": "5vQJTnw6YcV7ocj9sC92joWSiHmCUihhH8QZvEmcXTS5LuVCWtcJMaHeVmRViW3TgAWX2CsrnsNQNphnucYrApuJ",
       "side": "buy",
       "sol": 0.05,
@@ -11707,7 +11707,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:33:00.000Z",
+  "updatedAt": "2026-08-24T06:33:19.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
