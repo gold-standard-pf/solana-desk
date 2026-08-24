@@ -212,6 +212,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:40:53.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID HOBBES 0.05. New mint. Sitting the bag until a peel covers cost."
+    },
+    {
+      "at": "2026-08-24T00:40:53.000Z",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "ticker": "HOBBES",
+      "kind": "DID",
+      "text": "DID HOBBES 0.05 SOL. New mint CLEAR. Bag 39623. Book 0.384. Sig 2FGJCsWSG9qkfiSzWrnMAScJmCuHmrGrgTQSyUio5KJ14CcbPgs4ggUCJmRK6X4fQdM6yJFr9osqiKroLM9StbAq"
+    },
+    {
       "at": "2026-08-24T00:40:34.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -6987,6 +7000,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "2FGJCsWSG9qkfiSzWrnMAScJmCuHmrGrgTQSyUio5KJ14CcbPgs4ggUCJmRK6X4fQdM6yJFr9osqiKroLM9StbAq",
+      "side": "buy",
+      "usd": 4.74,
+      "sol": 0.05,
+      "tokenAmount": 39623.153555,
+      "kind": "swap",
+      "at": "2026-08-24T00:40:53.000Z",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "ticker": "HOBBES"
+    },
     {
       "signature": "3Wevss8Mo4UJHY1qYJe3KNRqVxHq49DEEDvUReeZSy9c46wVj6DDE2mpeerHNyaA7XgrkndWEfpQ9zy7Ea8Womy1",
       "side": "sell",
