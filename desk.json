@@ -3,25 +3,13 @@
   "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 193,
-  "equityUsd": 41.47,
+  "ticks": 194,
+  "equityUsd": 41.32,
   "spentUsd": 47.67,
   "realizedPnlUsd": 18.47,
-  "unrealizedPnlUsd": 1.43,
+  "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "LICKZO",
-      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
-      "valueUsd": 2.85,
-      "pnlUsd": 1.43,
-      "pnlPct": 100.22,
-      "investedUsd": 1.42,
-      "remainingQty": 82932.96651299999,
-      "thesis": "30% runner after a 70% peel on 5m green. Curve still live.",
-      "invalidation": "empty tape or 5m dead = 100% out"
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "CYBERCAT",
@@ -7769,9 +7757,9 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T00:33:20.000Z",
+  "updatedAt": "2026-08-24T00:36:02.000Z",
   "capSol": 0.066,
   "maxOpenPct": 0.5,
-  "bookSol": 0.407956638,
+  "bookSol": 0.436468708,
   "solUsd": 94.68
 }
