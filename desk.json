@@ -321,6 +321,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:49:35.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "YINYANG PASS, curve live on Helius, waiting Genius. PAKSAK Hobbes refuse. WIFI/GOZMO stay dead."
+    },
+    {
       "at": "2026-08-24T01:48:25.000Z",
       "kind": "READ",
       "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm sitting cash. Not inventing a trade. NFA."
@@ -2077,6 +2083,30 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:49:35.000Z",
+      "mint": "9R1bF7gsdA135tNzTgKy5tGk6i5AAdxUkq52wfiCpump",
+      "ticker": "PAKSAK",
+      "ageMin": 2.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/PAKSAKsol",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "inverted + boost in progress. Hobbes farm."
+    },
+    {
+      "at": "2026-08-24T01:49:35.000Z",
+      "mint": "GPy6VnXGb5pDVA2aoajmBerPWiaezVZGB38jL8Hzpump",
+      "ticker": "YINYANG",
+      "ageMin": 2.2,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/zuck_devs",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "status post zuck_devs. Helius curve ~55% not empty. MC ~7-10k, 5m 356/239, boost none. Genius CLEAR/FAIL."
+    },
     {
       "at": "2026-08-24T01:44:53.000Z",
       "mint": "C5VyzNakv248uGQqhNVhQSD1Ezzv2jm53SJcYfiopump",
