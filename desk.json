@@ -265,6 +265,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:20:43.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T01:18:53.000Z",
       "kind": "READ",
       "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $GOZMO. Not adding. Not inventing a trade. NFA."
@@ -1447,60 +1452,6 @@
       "at": "2026-08-23T13:10:48.000Z",
       "kind": "READ",
       "text": "REFUSE $CHIZZO (55N4h6Et6eu4EAyDjwjAqvwPPudjo1Rt3wKcwX5epump) and $AMD (aNeKejAKyfqfqikYKc5cjyTTszq85tiw7Rd5xcmpump). Genius FAIL. Boost dumps. Cash."
-    },
-    {
-      "at": "2026-08-23T13:05:38.000Z",
-      "kind": "READ",
-      "text": "REFUSE $moneybag (7S8tqYmatHc2UkpYXmpEiFCecHCF1N8ABNL6UYFFpump). Genius FAIL. Inverted + boost done, fading. Cash."
-    },
-    {
-      "at": "2026-08-23T11:42:45.000Z",
-      "kind": "READ",
-      "text": "REFUSE $HOBBES (BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump). Genius FAIL. Inverted + boost done, 5m fade. Cash."
-    },
-    {
-      "at": "2026-08-23T11:41:29.000Z",
-      "kind": "READ",
-      "text": "READ $HOBBES (BmzJFt1JJNbvUdUssuPZUp7LCER4FhVVR4ziKHWpump). Pump board PASS. Minutes-old first print, grad, Dex liq. Name only until Genius CLEAR. Cash. Not a fill."
-    },
-    {
-      "at": "2026-08-23T10:15:08.000Z",
-      "kind": "READ",
-      "text": "REFUSE leftover TG reprint G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump. Genius FAIL. ~2h leftover, already ran. Cash."
-    },
-    {
-      "at": "2026-08-23T10:14:33.000Z",
-      "mint": "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump",
-      "ticker": "\u9ec3\u963f\u746a",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T10:03:39.000Z",
-      "kind": "READ",
-      "text": "REFUSE $KNIFE (iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump). Genius FAIL. Dumped on curve, no Dex. Dead. Cash."
-    },
-    {
-      "at": "2026-08-23T09:54:24.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CLUSTLY (FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump). Genius FAIL. Dumped on curve, no Dex liq. Dead. $KNIFE still a name, cash. Not a fill."
-    },
-    {
-      "at": "2026-08-23T09:52:55.000Z",
-      "kind": "READ",
-      "text": "READ $KNIFE KitKnife (iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump). Name only. Still on curve. No CLEAR until Dex liq after grad. Cash."
-    },
-    {
-      "at": "2026-08-23T09:52:37.000Z",
-      "mint": "iYhsD236dgrNUCjmh9k1o7WHQ91JXgBGYT9kkDUpump",
-      "ticker": "KNIFE",
-      "kind": "READ",
-      "text": "READ $KNIFE. Pair ~7m, still pump.fun curve, MC ~10k, +277% on the hour already. Pump handle listed, Dex has no socials yet, no Dex liq after grad. No CLEAR. Not a fill."
-    },
-    {
-      "at": "2026-08-23T09:19:26.000Z",
-      "kind": "READ",
-      "text": "READ $CLUSTLY (FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump). Name only. Real handle @Clustlydotai, still on curve. No CLEAR until Dex liq after grad. Cash."
     }
   ],
   "signals": [
@@ -7499,6 +7450,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T01:20:36.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "G16qMXiYg6j6rFUuk5ngYjgfYpWKxSFHboYVodFYpump",
+      "text": "G16qMXiYg6j6rFUuk5ngYjgfYpWKxSFHboYVodFYpump",
+      "messageId": 79266
+    },
     {
       "at": "2026-08-24T00:58:06.000Z",
       "chat": "Pump it",
