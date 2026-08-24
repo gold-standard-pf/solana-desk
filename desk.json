@@ -276,6 +276,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:26:16.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T01:24:06.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1461,28 +1466,6 @@
       "at": "2026-08-23T13:58:03.000Z",
       "kind": "READ",
       "text": "REFUSE $XYZ (4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups). Genius FAIL. Leftover TG reprint, status URL. Cash."
-    },
-    {
-      "at": "2026-08-23T13:57:20.000Z",
-      "mint": "4aSYV3VQRCPD8yBWwRwbSTLfq1s48UB2PAjCVEBdjups",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T13:47:12.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CATALORIAN (4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump). Genius FAIL. Leftover TG reprint, already ran. Cash."
-    },
-    {
-      "at": "2026-08-23T13:46:22.000Z",
-      "mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T13:40:28.000Z",
-      "kind": "READ",
-      "text": "REFUSE $LARP, $ONDO, $PCAT. Genius FAIL. Dead/impersonation/CATE leftover. Cash."
     }
   ],
   "signals": [
@@ -7527,6 +7510,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T01:26:07.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "EMHQdoqRD8btsej5wgRGkcP8DKFirjjdFz8JBaqHpump",
+      "text": "EMHQdoqRD8btsej5wgRGkcP8DKFirjjdFz8JBaqHpump",
+      "messageId": 79270
+    },
     {
       "at": "2026-08-24T01:21:43.000Z",
       "chat": "Pump it",
