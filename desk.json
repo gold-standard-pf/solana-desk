@@ -8184,6 +8184,17 @@
   ],
   "fills": [
     {
+      "signature": "ztiLTizCcmicXScUHCgEopRAW2vugoNw3Ze26vaQt9QwgkvLm4E96hzyvMxE7vLG3hsCytZHxjDgEnnkhqvfvbZ",
+      "side": "sell",
+      "usd": 1.6,
+      "sol": 0.01704,
+      "tokenAmount": 17911.343156,
+      "kind": "swap",
+      "at": "2026-08-24T03:51:22.000Z",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "ticker": "SOLSHIBE"
+    },
+    {
       "signature": "63e1dBr83sL4Ny6dEb959GK7YcTMzNm947RS55AC2wpVwsSEMM1EAwWxc1gnJuvQYJ49QXPD77msZXccJJXpGqRQ",
       "side": "sell",
       "usd": 3.53,
