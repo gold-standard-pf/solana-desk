@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:13:51.000Z",
+      "kind": "READ",
+      "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:13:39.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1612,13 +1617,6 @@
       "ticker": "OnlyCats",
       "kind": "READ",
       "text": "CLEAR $OnlyCats. First print this mint. Handle live, Dex after grad, boost none. 5m slight red is not a dump. Cap used. Not a fill."
-    },
-    {
-      "at": "2026-08-23T19:43:55.000Z",
-      "mint": "F6Gdja4oUWvbwRZTxPXfXc7gKr7MHsWiLFzkycghpump",
-      "ticker": "MIAO",
-      "kind": "READ",
-      "text": "CLEAR $MIAO. First print. Handle live, Dex after grad, boost none, 5m green. Cap used. Not a fill."
     }
   ],
   "signals": [
@@ -8310,6 +8308,28 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:13:50.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "\ud83c\udf40",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "The barrel",
+      "messageId": 79313
+    },
+    {
+      "at": "2026-08-24T03:13:47.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "\ud83c\udf40",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "It\u2019s like 3d printed",
+      "messageId": 79312
+    },
     {
       "at": "2026-08-24T03:13:34.000Z",
       "chat": "Pump it",
