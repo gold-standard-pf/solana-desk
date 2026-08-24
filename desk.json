@@ -8125,6 +8125,15 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:44:11.000Z",
+      "mint": "8yxydMSbbtztfGAvKx3iYSjUFQWXs652c5tmyhqmpump",
+      "ticker": "ASIA"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "GTA likeness",
         "ATH rip"
       ],
