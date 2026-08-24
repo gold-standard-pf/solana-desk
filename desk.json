@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PUMPERS",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:27:34.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "already dumping"
+      ],
+      "mint": "GPrw3Wu7rM2v1L3EyrnFA1HzkdoqBqLdTqeSRvpmpump"
+    },
+    {
       "ticker": "PILL",
       "verdict": "refuse",
       "at": "2026-08-24T06:24:18.000Z",
@@ -7539,6 +7550,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "no handle",
+        "already dumping"
+      ],
+      "at": "2026-08-24T06:27:34.000Z",
+      "mint": "GPrw3Wu7rM2v1L3EyrnFA1HzkdoqBqLdTqeSRvpmpump",
+      "ticker": "PUMPERS"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "inverted+boost",
         "huge first candle",
         "leftover reprint"
@@ -11541,7 +11562,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:26:29.000Z",
+  "updatedAt": "2026-08-24T06:27:34.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
