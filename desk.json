@@ -276,6 +276,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:23:40.000Z",
+      "ticker": "GTAVI",
+      "kind": "REFUSED",
+      "text": "REFUSED GTAVI. Official GTA VI name. Skip forever. Sit."
+    },
+    {
       "at": "2026-08-24T01:23:11.000Z",
       "ticker": "GTAVI",
       "from": "genius",
