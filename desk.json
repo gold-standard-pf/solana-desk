@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "HOBBES",
+      "verdict": "pass",
+      "at": "2026-08-24T00:40:53.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump"
+    },
+    {
       "ticker": "LICKZO",
       "verdict": "refuse",
       "at": "2026-08-24T00:37:55.000Z",
@@ -211,6 +221,17 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T00:41:13.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID HOBBES 0.05. Waiting on cost cover. Dies = 100% out."
+    },
+    {
+      "at": "2026-08-24T00:41:13.000Z",
+      "kind": "DID",
+      "text": "TERRY DID HOBBES 0.05. Full bag quotes 0.050, short of cost, waiting. Dump 100% if tape dies."
+    },
     {
       "at": "2026-08-24T00:40:53.000Z",
       "from": "terry",
