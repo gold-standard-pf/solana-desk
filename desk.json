@@ -1399,6 +1399,12 @@
   "stream": [
     {
       "at": "2026-08-24T06:39:25.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "Flat. Sitting cash. Hunt stays on."
+    },
+    {
+      "at": "2026-08-24T06:39:25.000Z",
       "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
       "ticker": "JOSHUA",
       "from": "terry",
@@ -9872,6 +9878,14 @@
     }
   ],
   "advice": [
+    {
+      "call": "cut",
+      "vsInvalidation": "dumped 100%",
+      "note": "runner gone. cash. hunt on.",
+      "at": "2026-08-24T06:39:25.000Z",
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump",
+      "ticker": "JOSHUA"
+    },
     {
       "call": "cut",
       "vsInvalidation": "Dex 5m -71 real fade",
