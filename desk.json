@@ -456,6 +456,17 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:14:56.000Z",
+      "kind": "READ",
+      "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
+      "at": "2026-08-24T03:14:30.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Jermbo PASS, live curve filling. Amazon refuse official brand."
+    },
+    {
       "at": "2026-08-24T03:14:29.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1602,19 +1613,6 @@
       "at": "2026-08-23T19:51:07.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T19:50:34.000Z",
-      "ticker": "MIAO",
-      "kind": "READ",
-      "text": "REFUSE $MIAO. Hijack+boost done. Sat. Not a fill."
-    },
-    {
-      "at": "2026-08-23T19:49:38.000Z",
-      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
-      "ticker": "OnlyCats",
-      "kind": "DID",
-      "text": "DID OnlyCats buy 0.03 SOL. 25448 tokens. Book 0.211 SOL. Fill Dex ~23k. Sig 46Th4jNaHx7P2fABPR3Y3x4ZiH6c8bMsLhNYGHupz7QcKhdrbcx3mkPDUfMALMB7wZ95jVrbWRtYX1SBXMuvmUVn. MIAO refused hijack+boost done."
     }
   ],
   "signals": [
@@ -2120,6 +2118,30 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:14:30.000Z",
+      "mint": "iwZXwgrqVqRUxRkwFkafLXaxNppKQckmf9zHCQrpump",
+      "ticker": "Amazon",
+      "ageMin": 1.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/amazon",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "official Amazon brand. Skip forever even if tape rips."
+    },
+    {
+      "at": "2026-08-24T03:14:30.000Z",
+      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
+      "ticker": "Jermbo",
+      "ageMin": 3.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/RicherONG",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "minutes-old live mint. Handle RicherONG status. Helius curve ~80% filling, not empty. MC ~16k near ATH. Clones exist at dead 2.6k; this is the live one. Boost none. Genius CLEAR/FAIL."
+    },
     {
       "at": "2026-08-24T03:10:39.000Z",
       "mint": "Cvda6dH4bcB1UAPN2YBw6yyZXerLgXBdQGytgUkDpump",
@@ -8307,6 +8329,28 @@
   ],
   "tgCalls": [
     {
+      "at": "2026-08-24T03:14:42.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "\ud83c\udf40",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "I sold my prostitute gun \ud83e\udee9",
+      "messageId": 79319
+    },
+    {
+      "at": "2026-08-24T03:14:30.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "shit blew up in our face",
+      "messageId": 79318
+    },
+    {
       "at": "2026-08-24T03:14:21.000Z",
       "chat": "Pump it",
       "chatId": -1003853402807,
@@ -9225,7 +9269,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:10:39.000Z",
+  "updatedAt": "2026-08-24T03:14:30.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
