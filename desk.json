@@ -24,6 +24,17 @@
   ],
   "decisions": [
     {
+      "ticker": "SEASOLT",
+      "verdict": "refuse",
+      "at": "2026-08-24T03:59:25.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "impersonation Solana",
+        "not a first print"
+      ],
+      "mint": "91Er4LSnpW1iDKWs6TDJh26DYcA5erFgPcJdMygopump"
+    },
+    {
       "verdict": "pass",
       "reasons": [
         "Genius CLEAR",
@@ -6894,6 +6905,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "impersonation Solana",
+        "not a first print"
+      ],
+      "at": "2026-08-24T03:59:25.000Z",
+      "mint": "91Er4LSnpW1iDKWs6TDJh26DYcA5erFgPcJdMygopump",
+      "ticker": "SEASOLT",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "official Red Bull brand",
         "stolen brand sit",
         "inverted instant bond"
@@ -9947,7 +9969,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:57:57.000Z",
+  "updatedAt": "2026-08-24T03:59:25.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
