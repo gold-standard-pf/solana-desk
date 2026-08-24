@@ -621,6 +621,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:55:29.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "RedBull official brand. Skip forever. Hunt continues. ESL still empty."
+    },
+    {
       "at": "2026-08-24T03:55:10.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -2276,6 +2282,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:55:29.000Z",
+      "mint": "GP7RVfZCmiLdpk5CMEv5osf6VD8qzoCRffbaZ4gZpump",
+      "ticker": "RedBull",
+      "ageMin": 0.2,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/redbull",
+      "boost": "pumpswap",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "official Redbull brand. inverted instant bond. skip forever even if tape rips."
+    },
     {
       "at": "2026-08-24T03:54:58.000Z",
       "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
@@ -9767,7 +9785,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:55:03.000Z",
+  "updatedAt": "2026-08-24T03:55:29.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
