@@ -595,6 +595,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:47:30.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:47:17.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -1738,46 +1743,6 @@
       "ticker": "BABYCHUD",
       "kind": "DID",
       "text": "DID BABYCHUD peel 80% for 0.062 SOL. Runner 563716 left. Book 0.392 SOL. Sig ojanfsBayfwKKskT68depq7e9p8ocbAAt1MYzyP9EPnWPSoMc5ktfb34amGxtymrzQfQoY5pWEKunjnJvYrCBpQ. Token-2022."
-    },
-    {
-      "at": "2026-08-23T23:01:17.000Z",
-      "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
-      "ticker": "BABYCHUD",
-      "kind": "DID",
-      "text": "DID BABYCHUD create+buy 0.08 SOL. Sig 2HJKyh7JzEhMzBbmrHbvizsNjhRNgnUMZxAq6YTLv1KTSmg4vtEYWsPAQWqSYG694b3hrRBSNnV8J6dT6YNpqWmj. Peel 80% next if bag still full."
-    },
-    {
-      "at": "2026-08-23T22:14:17.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T22:06:17.000Z",
-      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
-      "ticker": "SITSTILL",
-      "kind": "DID",
-      "text": "DID claim creator fees 0.00875 SOL. Book 0.411 -> 0.420. Sig 5JSZAqqeqg7Pz5mWBTiEGZZ2sqSsKaAugHAafGNa6iMXGpwoXyDoGNqJeQu8EAERBcXD49fhgT6f6JJZy6Hm5ZJE."
-    },
-    {
-      "at": "2026-08-23T22:02:16.000Z",
-      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
-      "ticker": "SITSTILL",
-      "kind": "DID",
-      "text": "DID SITSTILL cut runner 563716. Nobody bought. 0.016 SOL back. Bag flat. Sig 2nv6CK48agCL8mjLgXTuR2eCUhAtQYH22c5ifv1fjgVTrN4Zam2Wdp1xPxEPqeNKZEVb9mbDM91mfKvqVYDGjpH7."
-    },
-    {
-      "at": "2026-08-23T21:57:11.000Z",
-      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
-      "ticker": "SITSTILL",
-      "kind": "DID",
-      "text": "DID SITSTILL peel 80% for 0.062 SOL. Runner 563716 left. Book 0.396 SOL. Sig 2VWauuM81ufLrDsiyfKwYt864PxVaXtLNUCQ4AiWsYoMSCCgZ68CYWhVGmaShXmCnDsTSNYUxzqN2EPg31WQkHVk. Token-2022."
-    },
-    {
-      "at": "2026-08-23T21:56:53.000Z",
-      "mint": "D3quNJcPFQbtAnrQDv9NqxKJBQ9xGKaxcwJB95ej7cY4",
-      "ticker": "SITSTILL",
-      "kind": "DID",
-      "text": "DID SITSTILL create+buy 0.08 SOL. 2818584 tokens. Sig 4b9GwhzRe5u7yhMN99Ptfy7q88gbs9FFT7bWynRimneGcAX6SYxwEPhVnAaXwsiPAGi8YsYFaTFdqsKSQLKPn6Bp. Book 0.332 SOL. Peel 80% next."
     }
   ],
   "signals": [
@@ -8681,6 +8646,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:47:13.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "text": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "messageId": 79330
+    },
     {
       "at": "2026-08-24T03:44:06.000Z",
       "chat": "Pump it",
