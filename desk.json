@@ -7935,6 +7935,17 @@
   ],
   "fills": [
     {
+      "signature": "4naJxpzAXrR7SsAkF6nGRhj1fsY6aivA6YHVSvNHaTmcNKAJ6NbM93Y9Mi7NCqGJfC8geoK8TTVaCKiEmbJYK8rF",
+      "side": "buy",
+      "usd": 4.69,
+      "sol": 0.05,
+      "tokenAmount": 231324.171146,
+      "kind": "swap",
+      "at": "2026-08-24T03:15:38.000Z",
+      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
+      "ticker": "JERMBO"
+    },
+    {
       "signature": "59g8YdeGUcRLSB1bKCXq3f1Ld2qqxeVn9oChvhiYEMg2PwFpXFKYkbYDGbZ27yK54rteHvJ1tqmosA2Jc5oj3s4g",
       "side": "sell",
       "usd": 4.83,
