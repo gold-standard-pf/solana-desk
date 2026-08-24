@@ -232,6 +232,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:55:23.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "PEPITO died. GOZMO live on curve. PASS."
+    },
+    {
       "at": "2026-08-24T00:54:38.000Z",
       "kind": "READ",
       "text": "I'm sitting cash. Last ticker move on the tape was $PEPITO. Desk is sitting. View only. NFA."
@@ -1923,6 +1929,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 1,
+      "dexLiqUsd": 0,
+      "socials": "x.com/GOZMO_GOAT",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "real handle x.com/GOZMO_GOAT. On-curve ~61% ~$9k. 5m 22b/2s +234%. Not dumping. Not bundled-open (small two-way, not zero-candle farm). Not leftover. Not ESL. PASS for CLEAR/FAIL.",
+      "at": "2026-08-24T00:55:23.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO"
+    },
     {
       "ageMin": 5,
       "dexLiqUsd": 19150,
