@@ -776,6 +776,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:27:45.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:27:35.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1917,12 +1922,6 @@
       "at": "2026-08-24T00:45:18.000Z",
       "kind": "DID",
       "text": "TERRY DID PEPITO 0.05. Waiting on cost cover."
-    },
-    {
-      "at": "2026-08-24T00:45:16.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID PEPITO 0.05. Full bag quotes 0.047, short of cost, waiting. Dies = 100% out."
     }
   ],
   "signals": [
@@ -9327,6 +9326,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:27:45.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "GeSfrQiscfsEv4Hx2TKaB9Nfid12qND1YYRYS1vSpump",
+      "text": "GeSfrQiscfsEv4Hx2TKaB9Nfid12qND1YYRYS1vSpump",
+      "messageId": 79362
+    },
     {
       "at": "2026-08-24T04:23:46.000Z",
       "chat": "Pump it",
