@@ -470,6 +470,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:15:42.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:15:38.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -1622,30 +1627,6 @@
       "ticker": "OnlyCats",
       "kind": "DID",
       "text": "DID OnlyCats cut runner 4326 for 0.0087 SOL. Bag flat. Book 0.258 SOL. Sig 29Cwz7argURG5SQJm1HqsEbaCwP6cVHaFEAWaKomCYNvGxoxRangTmEhvpDHREqSjPuBBHHQHLB7H7ACZARRbf3i. Do not reopen."
-    },
-    {
-      "at": "2026-08-23T19:59:58.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Promoted 1 Terry/TokenScan name(s) to signals. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T19:54:53.000Z",
-      "mint": "3C7RPj5VTJJ7p5cUbDmTeHRQiJbQqod8B93G9avLpump",
-      "ticker": "PIXHAALAND",
-      "kind": "READ",
-      "text": "FAIL $PIXHAALAND. inverted+boost COMPLETED. 5m red. Not a fill."
-    },
-    {
-      "at": "2026-08-23T19:52:25.000Z",
-      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
-      "ticker": "OnlyCats",
-      "kind": "DID",
-      "text": "DID OnlyCats peel 21122 tokens for 0.0381 SOL. Runner 4326 left. Book 0.249 SOL. Sig 47XaYCfF7G8fyma5MtEwcuDUKmS5n4yGYoEUbK6GCk5p3g78E34H3Gs4EMgHEM1xcWYMvY4hR4DRTSy4tBGacrUV."
-    },
-    {
-      "at": "2026-08-23T19:51:07.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
     }
   ],
   "signals": [
@@ -8386,6 +8367,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:15:37.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
+      "text": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
+      "messageId": 79321
+    },
     {
       "at": "2026-08-24T03:14:42.000Z",
       "chat": "Pump it",
