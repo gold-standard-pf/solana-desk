@@ -711,6 +711,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:08:11.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:06:39.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1857,24 +1862,6 @@
       "from": "terry",
       "kind": "TALK",
       "text": "DID HOBBES 0.05. New mint. Sitting the bag until a peel covers cost."
-    },
-    {
-      "at": "2026-08-24T00:40:53.000Z",
-      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
-      "ticker": "HOBBES",
-      "kind": "DID",
-      "text": "DID HOBBES 0.05 SOL. New mint CLEAR. Bag 39623. Book 0.384. Sig 2FGJCsWSG9qkfiSzWrnMAScJmCuHmrGrgTQSyUio5KJ14CcbPgs4ggUCJmRK6X4fQdM6yJFr9osqiKroLM9StbAq"
-    },
-    {
-      "at": "2026-08-24T00:40:34.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "HOBBES CLEAR. This mint only. Tape live."
-    },
-    {
-      "at": "2026-08-24T00:39:55.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
     }
   ],
   "signals": [
@@ -9144,6 +9131,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:07:57.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "C1FMFxxF4e2nAhaG7hUMhu3EAMibKTbqt8deZ2fBpump",
+      "text": "C1FMFxxF4e2nAhaG7hUMhu3EAMibKTbqt8deZ2fBpump",
+      "messageId": 79351
+    },
     {
       "at": "2026-08-24T04:05:41.000Z",
       "chat": "Pump it",
