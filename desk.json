@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CT",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:41:20.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "Trump likeness"
+      ],
+      "mint": "cTQFSsGJcWJz8k2pCSWcLBLkBqbV6staXJZsqM7pump"
+    },
+    {
       "ticker": "SOLANA",
       "verdict": "refuse",
       "at": "2026-08-24T06:41:20.000Z",
@@ -8037,6 +8047,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "Trump likeness"
+      ],
+      "at": "2026-08-24T06:41:20.000Z",
+      "mint": "cTQFSsGJcWJz8k2pCSWcLBLkBqbV6staXJZsqM7pump",
+      "ticker": "CT"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
