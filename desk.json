@@ -1860,6 +1860,42 @@
   ],
   "board": [
     {
+      "ageMin": 10,
+      "dexLiqUsd": 0,
+      "socials": "x.com/trumpleek",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "real handle x.com/trumpleek (a ok). Unique ticker just graduated complete=true. Dex 429 this tick so dexLiq not printed. inverted+boost IN_PROGRESS (fails c). Tribute ok; not a PASS.",
+      "at": "2026-08-24T00:06:58.000Z",
+      "mint": "BhwpxUrzY7yv5CM3nJLpTC76iTMfeHStbiqvezSjpump",
+      "ticker": "TRUMPLEEK"
+    },
+    {
+      "ageMin": 13,
+      "dexLiqUsd": 2026,
+      "socials": "status-URL",
+      "boost": "COMPLETED",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "no handle (status-URL SoloFNF, fails a). Unique ticker graduated; PumpSwap Dex printed ~$2,026 then dumped. inverted+boost COMPLETED (fails c). Not a PASS.",
+      "at": "2026-08-24T00:06:58.000Z",
+      "mint": "B4NsrUyZg8sbJhVHozL9CJCJCP5MCzBczF7RRAoBpump",
+      "ticker": "CyberMorty"
+    },
+    {
+      "ageMin": 24,
+      "dexLiqUsd": 16901,
+      "socials": "x.com/trumpjrcoin",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "real handle x.com/trumpjrcoin (a ok). Unique ticker graduated; PumpSwap Dex printed ~$16,901 (b ok). inverted+boost IN_PROGRESS (fails c). Standing watch bonded; not a PASS.",
+      "at": "2026-08-24T00:06:58.000Z",
+      "mint": "A4smRN9eBdfWVn6N4rqntJ7d95HWsTtss2r7ZdxFpump",
+      "ticker": "TrumpJr"
+    },
+    {
       "ageMin": 3,
       "dexLiqUsd": 13993.11,
       "socials": "status-URL",
