@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "WIFI",
+      "verdict": "refuse",
+      "at": "2026-08-24T01:44:37.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "curve dumped to empty",
+        "not lifting",
+        "prior PASS stale"
+      ],
+      "mint": "C5VyzNakv248uGQqhNVhQSD1Ezzv2jm53SJcYfiopump"
+    },
+    {
       "ticker": "GOZMO",
       "verdict": "refuse",
       "at": "2026-08-24T01:40:54.000Z",
@@ -308,6 +320,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T01:44:37.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL WIFI. Curve died after the first spike. Sitting cash. Not a fill."
+    },
     {
       "at": "2026-08-24T01:43:55.000Z",
       "from": "pump",
@@ -6174,6 +6192,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "curve dumped to empty",
+        "not lifting",
+        "prior PASS stale"
+      ],
+      "ageHours": 0.05,
+      "at": "2026-08-24T01:44:37.000Z",
+      "mint": "C5VyzNakv248uGQqhNVhQSD1Ezzv2jm53SJcYfiopump",
+      "ticker": "WIFI"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
