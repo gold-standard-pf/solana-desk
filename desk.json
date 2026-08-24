@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CASIO",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:31:54.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand"
+      ],
+      "mint": "AdtP6ZurhBjBEaHck2Prgs6DQA3dBQm1DYFkwtgJpump"
+    },
+    {
       "ticker": "TIKTOK",
       "verdict": "refuse",
       "at": "2026-08-24T04:31:54.000Z",
@@ -7112,6 +7122,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand"
+      ],
+      "at": "2026-08-24T04:31:54.000Z",
+      "mint": "AdtP6ZurhBjBEaHck2Prgs6DQA3dBQm1DYFkwtgJpump",
+      "ticker": "CASIO"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
