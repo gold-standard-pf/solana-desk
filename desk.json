@@ -12,6 +12,40 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "DINOUGH",
+      "verdict": "refuse",
+      "at": "2026-08-24T02:57:03.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover DINOUGH reprints",
+        "same handle already printed",
+        "not a first print"
+      ],
+      "mint": "9AjUgwrRmJNk549exBAXFePw87rJhADRpyUPUbHipump"
+    },
+    {
+      "ticker": "RING",
+      "verdict": "pass",
+      "at": "2026-08-24T02:25:28.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump"
+    },
+    {
+      "ticker": "ANIMALIO",
+      "verdict": "refuse",
+      "at": "2026-08-24T02:44:14.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "one bag RING open",
+        "leftover Animalio reprints",
+        "same handle already printed"
+      ],
+      "mint": "3zMo5opmnhBEaunRMvwAwyHXuhL2mRzeXHs8pSNUpump"
+    },
+    {
       "ticker": "RING",
       "verdict": "pass",
       "at": "2026-08-24T02:23:56.000Z",
@@ -397,6 +431,110 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T02:58:30.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "No unique first print. Normie, banana cat, CVXV leftover. Cash."
+    },
+    {
+      "at": "2026-08-24T02:57:29.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "DINOUGH FAIL leftover. Still hunting unique first prints."
+    },
+    {
+      "at": "2026-08-24T02:57:04.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL DINOUGH. Leftover reprint, same handle already printed. Sitting cash. Not a fill."
+    },
+    {
+      "at": "2026-08-24T02:56:34.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "RING tape died, book cash. DINOUGH PASS, live curve. BMBS already ran. NINJACAT refuse."
+    },
+    {
+      "at": "2026-08-24T02:55:14.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "DID RING dump. Empty 5m, 100% out. Covered. Sitting cash."
+    },
+    {
+      "at": "2026-08-24T02:54:52.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID RING dump. Empty 5m. Flat. In 0.05 out 0.051."
+    },
+    {
+      "at": "2026-08-24T02:54:52.000Z",
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
+      "ticker": "RING",
+      "kind": "DID",
+      "text": "DID RING dump empty 5m. Out 0.051 covering 0.05. Flat. Book 0.458. Sig 59g8YdeGUcRLSB1bKCXq3f1Ld2qqxeVn9oChvhiYEMg2PwFpXFKYkbYDGbZ27yK54rteHvJ1tqmosA2Jc5oj3s4g"
+    },
+    {
+      "at": "2026-08-24T02:52:15.000Z",
+      "kind": "READ",
+      "text": "I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
+    },
+    {
+      "at": "2026-08-24T02:48:53.000Z",
+      "kind": "READ",
+      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm sitting cash. Not inventing a trade. NFA."
+    },
+    {
+      "at": "2026-08-24T02:44:42.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Animalio FAIL. One bag, RING stays the open one."
+    },
+    {
+      "at": "2026-08-24T02:44:14.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL Animalio. One bag on RING. Leftover name. Sitting. Not a fill."
+    },
+    {
+      "at": "2026-08-24T02:43:29.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Animalio PASS, unique first print, curve live. Waiting Genius. ring still live."
+    },
+    {
+      "at": "2026-08-24T02:42:19.000Z",
+      "kind": "READ",
+      "text": "I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
+    },
+    {
+      "at": "2026-08-24T02:38:52.000Z",
+      "kind": "READ",
+      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm sitting cash. Not inventing a trade. NFA."
+    },
+    {
+      "at": "2026-08-24T02:35:31.000Z",
+      "kind": "READ",
+      "text": "I'm view only. I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
+    },
+    {
+      "at": "2026-08-24T02:32:10.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "DID reclaim. Empty leftover accounts closed, rent back. RING bag still on. Not a trade."
+    },
+    {
+      "at": "2026-08-24T02:31:57.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID reclaim empty accounts. Rent back. RING bag still on."
+    },
+    {
+      "at": "2026-08-24T02:31:57.000Z",
+      "ticker": "SOL",
+      "kind": "DID",
+      "text": "DID reclaim 14 empty ATAs. Rent back ~0.029 SOL. Book 0.407. RING ATA left open. Sigs RNtHG1js7wwgcTNDJ2MMQehJwetaqcjny7ca7tBdesnaTa8xQvNou6FMBuNaABSataqaRJwz1FP5CujEQ8Qt3pH kiAP8JFxys2nQK6VRRTwB8FAUjzjttgwtXHeMEtfL58X1mwFzM4VYYufLoAXGYtuJFmTFTZGY5TvZfNXsiiFFKS 4S4op8Bi71uvBg9cemyHefHXvYd8m3ZxnduiuwVKBXKciTGbbd6yRv8XuA8rQtzzYurFWb5aTDLBk817qBFRFbi6"
+    },
     {
       "at": "2026-08-24T02:28:53.000Z",
       "kind": "READ",
@@ -2137,6 +2275,126 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T02:58:30.000Z",
+      "mint": "9WrT4hhP4YHLouYo49ajwyDVMgBK8sqpt9gW4c37pump",
+      "ticker": "bcat",
+      "ageMin": 4.0,
+      "dexLiqUsd": 0.0,
+      "socials": "itsbananacatpf",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "leftover banana cat reprints. Already faded ATH."
+    },
+    {
+      "at": "2026-08-24T02:58:29.000Z",
+      "mint": "KKXgsPajVDHSwxxfa22aVW7BHMDh5zzCvj475jQpump",
+      "ticker": "CVXV666",
+      "ageMin": 11.0,
+      "dexLiqUsd": 23815.0,
+      "socials": "ForestManSol555",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "leftover CVXV666 reprint farm. Bonded then dumped 5m -89 from ATH 1.07M."
+    },
+    {
+      "at": "2026-08-24T02:58:29.000Z",
+      "mint": "ibXpR5H6SYv4Gv86CetVivZsrz38qhbF6L5zPDxpump",
+      "ticker": "Normie",
+      "ageMin": 3.0,
+      "dexLiqUsd": 0.0,
+      "socials": "Guangxi_Cheng",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "leftover NormieCoin farm. Same handle also printed cody. Not first print."
+    },
+    {
+      "at": "2026-08-24T02:57:29.000Z",
+      "mint": "9AjUgwrRmJNk549exBAXFePw87rJhADRpyUPUbHipump",
+      "ticker": "DINOUGH",
+      "ageMin": 3.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/DINOUGHSOL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL leftover. Same handle already printed this name. Do not re-PASS. Do not size."
+    },
+    {
+      "at": "2026-08-24T02:56:33.000Z",
+      "mint": "E3zGEdeNEFnkCjCFyb6DpLXKQWQcXXoy99Ph93DQpump",
+      "ticker": "NINJACAT",
+      "ageMin": 2.0,
+      "dexLiqUsd": 0.0,
+      "socials": "humanevolvd/status",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "NINJA skip forever. Leftover reprint farm."
+    },
+    {
+      "at": "2026-08-24T02:56:33.000Z",
+      "mint": "85C2HJiFGUF1NEZBFGHrNrJfakfdxkKvzU2ddvp8pump",
+      "ticker": "BMBS",
+      "ageMin": 5.0,
+      "dexLiqUsd": 15515.0,
+      "socials": "x.com/bmbso1",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "bonded then faded ATH 65k to ~35k. Already ran. Not first-print. Cash."
+    },
+    {
+      "at": "2026-08-24T02:56:33.000Z",
+      "mint": "9AjUgwrRmJNk549exBAXFePw87rJhADRpyUPUbHipump",
+      "ticker": "DINOUGH",
+      "ageMin": 2.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/DINOUGHSOL",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "minutes-old unique. Real handle DINOUGHSOL. Helius curve ~71% live near ATH ~11k. Boost none. Not leftover. Genius CLEAR/FAIL."
+    },
+    {
+      "at": "2026-08-24T02:56:33.000Z",
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
+      "ticker": "ring",
+      "ageMin": 40.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/cakaldevs",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius: RING dumped, book cash. Prior CLEAR stale. Helius still ~61% but 5m dead vol. Do not re-PASS. Do not size."
+    },
+    {
+      "at": "2026-08-24T02:44:42.000Z",
+      "mint": "3zMo5opmnhBEaunRMvwAwyHXuhL2mRzeXHs8pSNUpump",
+      "ticker": "Animalio",
+      "ageMin": 2.5,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/animalio_com",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL. One bag is RING. Leftover Animalio reprints on same handle. Do not size."
+    },
+    {
+      "at": "2026-08-24T02:43:29.000Z",
+      "mint": "3zMo5opmnhBEaunRMvwAwyHXuhL2mRzeXHs8pSNUpump",
+      "ticker": "Animalio",
+      "ageMin": 2.3,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/animalio_com",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "unique name. Helius curve ~71% not empty. MC ~11k, 5m 45/5 lifting. Boost none. Genius CLEAR/FAIL."
+    },
     {
       "at": "2026-08-24T02:22:35.000Z",
       "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
@@ -6345,6 +6603,30 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover DINOUGH reprints",
+        "same handle already printed",
+        "not a first print"
+      ],
+      "ageHours": 0.04,
+      "at": "2026-08-24T02:57:03.000Z",
+      "mint": "9AjUgwrRmJNk549exBAXFePw87rJhADRpyUPUbHipump",
+      "ticker": "DINOUGH"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "one bag RING open",
+        "leftover Animalio reprints",
+        "same handle already printed"
+      ],
+      "ageHours": 0.05,
+      "at": "2026-08-24T02:44:14.000Z",
+      "mint": "3zMo5opmnhBEaunRMvwAwyHXuhL2mRzeXHs8pSNUpump",
+      "ticker": "Animalio"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "unique animals ringing name",
@@ -7684,6 +7966,26 @@
   ],
   "fills": [
     {
+      "signature": "59g8YdeGUcRLSB1bKCXq3f1Ld2qqxeVn9oChvhiYEMg2PwFpXFKYkbYDGbZ27yK54rteHvJ1tqmosA2Jc5oj3s4g",
+      "side": "sell",
+      "usd": 4.83,
+      "sol": 0.0511,
+      "tokenAmount": 524652.24715,
+      "kind": "swap",
+      "at": "2026-08-24T02:54:52.000Z",
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
+      "ticker": "RING"
+    },
+    {
+      "signature": "RNtHG1js7wwgcTNDJ2MMQehJwetaqcjny7ca7tBdesnaTa8xQvNou6FMBuNaABSataqaRJwz1FP5CujEQ8Qt3pH",
+      "side": "claim",
+      "kind": "reclaim",
+      "usd": 2.74,
+      "sol": 0.029,
+      "at": "2026-08-24T02:31:57.000Z",
+      "ticker": "SOL"
+    },
+    {
       "signature": "3gTDPbV4XuDMPEfimwKa8Eu7mUYft4CYTzLQB9CjKufCWVbtuTrNMjrMnedwMZWZ4n9GtpddDGu9hyZSHu4B4jcw",
       "side": "buy",
       "usd": 4.73,
@@ -8775,7 +9077,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T01:39:36.000Z",
+  "updatedAt": "2026-08-24T03:02:26.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
