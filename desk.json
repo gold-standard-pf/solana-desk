@@ -244,6 +244,17 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:58:12.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
+      "at": "2026-08-24T00:58:10.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "GOZMO CLEAR. This mint only. Tape live."
+    },
+    {
       "at": "2026-08-24T00:58:06.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -1420,51 +1431,6 @@
       "at": "2026-08-23T09:19:26.000Z",
       "kind": "READ",
       "text": "READ $CLUSTLY (FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump). Name only. Real handle @Clustlydotai, still on curve. No CLEAR until Dex liq after grad. Cash."
-    },
-    {
-      "at": "2026-08-23T09:19:00.000Z",
-      "mint": "FcdYucAcXZ9TPFnVF2GSS1jJdqwiYBKdQstEkBrtpump",
-      "ticker": "CLUSTLY",
-      "kind": "READ",
-      "text": "READ $CLUSTLY. Real handle @Clustlydotai, site listed. Pair ~30m, still pump.fun curve, MC ~3.5k, 5m red, no Dex liq after grad. No CLEAR. Not a fill."
-    },
-    {
-      "at": "2026-08-23T08:51:15.000Z",
-      "kind": "READ",
-      "text": "REFUSE $RMC Rich Monkeys Club (G5ZSUkGVr32Qj2nCCkrbr99QWF5sQsa458rgbhvcpump). Genius FAIL. Status URL not a handle, already +551% 1h. Name only, not a fill. Cash."
-    },
-    {
-      "at": "2026-08-23T08:18:43.000Z",
-      "kind": "READ",
-      "text": "REFUSE $GLITCH (GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump). Genius FAIL. Pair ~6h, already ran, leftover. Cash."
-    },
-    {
-      "at": "2026-08-23T08:17:57.000Z",
-      "mint": "GVqEasmDypXNM3LFYXY4h8uXaE8ivoZnS9AJCZyXpump",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T07:33:35.000Z",
-      "kind": "READ",
-      "text": "REFUSE $F\u00e9licette (F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D). Genius FAIL. 2024 mint, no handle, revival not first print. Cash."
-    },
-    {
-      "at": "2026-08-23T07:32:19.000Z",
-      "mint": "F8hVFDi84PbZe3ygztWMyKqqJmTb954Yf686VRTwh53D",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T07:12:45.000Z",
-      "kind": "READ",
-      "text": "REFUSE  (3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump). Genius FAIL. Already ran, leftover /pnl tape. Do not bring back. Cash."
-    },
-    {
-      "at": "2026-08-23T07:12:11.000Z",
-      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
     }
   ],
   "signals": [
@@ -7452,6 +7418,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T00:58:06.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "text": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "messageId": 79263
+    },
     {
       "at": "2026-08-24T00:48:45.000Z",
       "chat": "Pump it",
