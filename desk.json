@@ -321,6 +321,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:44:53.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "WIFI FAIL. Curve went empty. Prior PASS stale. Cash. Freddie and GOLDBULL stay refuse."
+    },
+    {
       "at": "2026-08-24T01:44:37.000Z",
       "from": "genius",
       "kind": "READ",
@@ -2066,6 +2072,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:44:53.000Z",
+      "mint": "C5VyzNakv248uGQqhNVhQSD1Ezzv2jm53SJcYfiopump",
+      "ticker": "WIFI",
+      "ageMin": 1.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/iclimbcharts",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL. Helius curve empty after 81% print. Prior PASS stale. Do not size."
+    },
     {
       "at": "2026-08-24T01:43:55.000Z",
       "mint": "9wmfzAWRHg9ywzCgVRRy5TXVQfSVHo3D47w3NKKCpump",
