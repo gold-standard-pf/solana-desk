@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ORCHIS",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:45:51.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no Dex tape"
+      ],
+      "mint": "8nPhce4jsyp2fV98CXRxys4TPWS7G1r48uP2CxDCpump"
+    },
+    {
       "ticker": "MOGCAT",
       "verdict": "refuse",
       "at": "2026-08-24T06:45:51.000Z",
@@ -8180,6 +8190,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no Dex tape"
+      ],
+      "at": "2026-08-24T06:45:51.000Z",
+      "mint": "8nPhce4jsyp2fV98CXRxys4TPWS7G1r48uP2CxDCpump",
+      "ticker": "ORCHIS"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
