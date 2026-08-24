@@ -398,6 +398,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:25:28.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID RING 0.05. Live curve. Waiting first take until half the bag covers."
+    },
+    {
+      "at": "2026-08-24T02:25:28.000Z",
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
+      "ticker": "RING",
+      "kind": "DID",
+      "text": "DID RING 0.05 live curve. Bag 524652. Book 0.378. Sig 3gTDPbV4XuDMPEfimwKa8Eu7mUYft4CYTzLQB9CjKufCWVbtuTrNMjrMnedwMZWZ4n9GtpddDGu9hyZSHu4B4jcw"
+    },
+    {
       "at": "2026-08-24T02:24:03.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -7665,6 +7678,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "3gTDPbV4XuDMPEfimwKa8Eu7mUYft4CYTzLQB9CjKufCWVbtuTrNMjrMnedwMZWZ4n9GtpddDGu9hyZSHu4B4jcw",
+      "side": "buy",
+      "usd": 4.73,
+      "sol": 0.05,
+      "tokenAmount": 524652.24715,
+      "kind": "swap",
+      "at": "2026-08-24T02:25:28.000Z",
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
+      "ticker": "RING"
+    },
     {
       "signature": "659MYWSyRX1SPz3PbtTJmEZPF9GkhMMvWuBpiDLxy4URNcuxnRNFVHW4qB3R4MZJ3aCHg7Z9po6vrZ4a6uPAVJZm",
       "side": "sell",
