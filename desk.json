@@ -1,15 +1,26 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 201,
+  "ticks": 202,
   "equityUsd": 41.32,
   "spentUsd": 47.67,
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "IN",
+      "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump",
+      "valueUsd": 1.41,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "investedUsd": 1.41,
+      "thesis": "house-money runner after 70% peel. Cost mostly back.",
+      "invalidation": "empty or 5m-dead tape dump 100%. Do not sell the runner just because it is green."
+    }
+  ],
   "decisions": [
     {
       "ticker": "IN",
@@ -8763,6 +8774,15 @@
   ],
   "advice": [
     {
+      "at": "2026-08-24T05:03:33.000Z",
+      "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump",
+      "ticker": "IN",
+      "call": "hold",
+      "vsInvalidation": "still two-way after peel, leftover is house money",
+      "markUsd": 17462,
+      "note": "hold runner. Dump 100 if empty or 5m dead. Do not cut just because green."
+    },
+    {
       "at": "2026-08-24T05:02:18.000Z",
       "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump",
       "ticker": "IN",
@@ -10895,7 +10915,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:03:20.000Z",
+  "updatedAt": "2026-08-24T05:03:33.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
