@@ -998,6 +998,12 @@
   "stream": [
     {
       "at": "2026-08-24T05:17:01.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "Dumped the rest of . Flat."
+    },
+    {
+      "at": "2026-08-24T05:17:01.000Z",
       "ticker": "IN",
       "from": "terry",
       "kind": "DID",
