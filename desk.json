@@ -22,6 +22,17 @@
   ],
   "decisions": [
     {
+      "ticker": "API",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:07:45.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "inverted",
+        "huge first candle"
+      ],
+      "mint": "CHXrnJqhpJpPYXJBD71KXe3oLAAkafGk1p4EUJMhpump"
+    },
+    {
       "ticker": "SMUDGE",
       "verdict": "refuse",
       "at": "2026-08-24T06:05:09.000Z",
@@ -7455,6 +7466,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "inverted",
+        "huge first candle"
+      ],
+      "at": "2026-08-24T06:07:45.000Z",
+      "mint": "CHXrnJqhpJpPYXJBD71KXe3oLAAkafGk1p4EUJMhpump",
+      "ticker": "API"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
