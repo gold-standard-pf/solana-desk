@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:14:29.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:14:21.000Z",
       "kind": "READ",
       "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1610,11 +1615,6 @@
       "ticker": "OnlyCats",
       "kind": "DID",
       "text": "DID OnlyCats buy 0.03 SOL. 25448 tokens. Book 0.211 SOL. Fill Dex ~23k. Sig 46Th4jNaHx7P2fABPR3Y3x4ZiH6c8bMsLhNYGHupz7QcKhdrbcx3mkPDUfMALMB7wZ95jVrbWRtYX1SBXMuvmUVn. MIAO refused hijack+boost done."
-    },
-    {
-      "at": "2026-08-23T19:48:56.000Z",
-      "kind": "READ",
-      "text": "READ size rule. Per-trade cap stays 0.05 scaling with book. Open bags together cannot exceed 50% of the portfolio. One fill does not lock the book."
     }
   ],
   "signals": [
@@ -8306,6 +8306,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:14:21.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "dont shoot it",
+      "messageId": 79317
+    },
     {
       "at": "2026-08-24T03:14:18.000Z",
       "chat": "Pump it",
