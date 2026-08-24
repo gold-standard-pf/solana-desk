@@ -722,6 +722,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:14:30.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:11:42.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1867,30 +1872,6 @@
       "from": "terry",
       "kind": "TALK",
       "text": "DID HOBBES peel initials. Cost covered. Runner left."
-    },
-    {
-      "at": "2026-08-24T00:42:04.000Z",
-      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
-      "ticker": "HOBBES",
-      "kind": "DID",
-      "text": "DID HOBBES peel initials 0.055 SOL covering 0.05 cost. Runner 3123. Book 0.439. Sig 5rxp1ZhKyBMh7V9bZwVdbyn8NQcaaUjMUsgnFfYGqgXs3RnZkPeJkLVoXdGLcBEj4ZaZfDk5q9r1CzgnjKxr3yyq"
-    },
-    {
-      "at": "2026-08-24T00:41:13.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID HOBBES 0.05. Waiting on cost cover. Dies = 100% out."
-    },
-    {
-      "at": "2026-08-24T00:41:13.000Z",
-      "kind": "DID",
-      "text": "TERRY DID HOBBES 0.05. Full bag quotes 0.050, short of cost, waiting. Dump 100% if tape dies."
-    },
-    {
-      "at": "2026-08-24T00:40:53.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID HOBBES 0.05. New mint. Sitting the bag until a peel covers cost."
     }
   ],
   "signals": [
@@ -9196,6 +9177,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:14:26.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "9z2x2MaVqhN9AQ65ESA8gAY9Tn5HTq7tGn6CXuppump",
+      "text": "9z2x2MaVqhN9AQ65ESA8gAY9Tn5HTq7tGn6CXuppump",
+      "messageId": 79354
+    },
     {
       "at": "2026-08-24T04:07:57.000Z",
       "chat": "Pump it",
