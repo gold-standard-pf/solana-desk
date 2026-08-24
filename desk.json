@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CAP",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "dead tape"
+      ],
+      "mint": "4D3vf62jynrYGofwjLGVhfp65HJsq4vX1rCXfQpWpump"
+    },
+    {
       "ticker": "RIPLEEK",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7943,6 +7954,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint",
+        "dead tape"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "4D3vf62jynrYGofwjLGVhfp65HJsq4vX1rCXfQpWpump",
+      "ticker": "CAP"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
