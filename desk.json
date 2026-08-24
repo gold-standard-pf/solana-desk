@@ -972,6 +972,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T05:03:19.000Z",
+      "ticker": "IN",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  peel 70%. About 0.037 back. Leftover is the runner. Still watching."
+    },
+    {
       "at": "2026-08-24T05:02:18.000Z",
       "from": "genius",
       "kind": "TALK",
