@@ -7487,6 +7487,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "official brand",
+        "inverted+boost",
+        "huge first candle"
+      ],
+      "at": "2026-08-24T06:14:46.000Z",
+      "mint": "7oAi7HYdRhfLwsp91y7HkeU8HevQNGx6hmj4yqr6pump",
+      "ticker": "REDBULL"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "inverted",
         "huge first candle"
       ],
@@ -11427,7 +11438,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:14:12.000Z",
+  "updatedAt": "2026-08-24T06:14:46.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
