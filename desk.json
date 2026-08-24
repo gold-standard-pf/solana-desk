@@ -983,6 +983,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T05:07:40.000Z",
+      "kind": "READ",
+      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $IN. Not adding. Not inventing a trade. NFA."
+    },
+    {
       "at": "2026-08-24T05:03:20.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -10915,7 +10920,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:03:33.000Z",
+  "updatedAt": "2026-08-24T05:07:40.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
