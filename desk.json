@@ -21,6 +21,18 @@
   ],
   "decisions": [
     {
+      "ticker": "WASB",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:42:39.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "dumped off first-candle ATH",
+        "mark ~67% of print high",
+        "Token-2022"
+      ],
+      "mint": "4JjdktVwnM6NBLfpZGLDWszuQTvf3MCSQkjB8JKKpump"
+    },
+    {
       "ticker": "CT",
       "verdict": "refuse",
       "at": "2026-08-24T06:41:20.000Z",
@@ -8073,6 +8085,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "dumped off first-candle ATH",
+        "mark ~67% of print high",
+        "Token-2022"
+      ],
+      "at": "2026-08-24T06:42:39.000Z",
+      "mint": "4JjdktVwnM6NBLfpZGLDWszuQTvf3MCSQkjB8JKKpump",
+      "ticker": "WASB"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "Trump likeness"
       ],
       "at": "2026-08-24T06:41:20.000Z",
@@ -12614,7 +12637,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:41:52.000Z",
+  "updatedAt": "2026-08-24T06:42:39.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
