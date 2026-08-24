@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "REDBULL",
+      "verdict": "refuse",
+      "at": "2026-08-24T03:57:17.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official Red Bull brand",
+        "stolen brand sit",
+        "inverted instant bond"
+      ],
+      "mint": "GP7RVfZCmiLdpk5CMEv5osf6VD8qzoCRffbaZ4gZpump"
+    },
+    {
       "ticker": "PIXWOJAK",
       "verdict": "pass",
       "at": "2026-08-24T03:56:27.000Z",
@@ -6799,6 +6811,18 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "official Red Bull brand",
+        "stolen brand sit",
+        "inverted instant bond"
+      ],
+      "at": "2026-08-24T03:57:17.000Z",
+      "mint": "GP7RVfZCmiLdpk5CMEv5osf6VD8qzoCRffbaZ4gZpump",
+      "ticker": "RedBull",
+      "from": "genius"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old first print",
@@ -9831,7 +9855,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:56:38.000Z",
+  "updatedAt": "2026-08-24T03:57:17.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
