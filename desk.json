@@ -1150,6 +1150,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T06:14:12.000Z",
+      "ticker": "SHITTER",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  dump 100%. Runner gone. About 0.003 back."
+    },
+    {
       "at": "2026-08-24T06:13:50.000Z",
       "kind": "READ",
       "text": "I'm still on $SHITTER. Not adding. Last ticker move on the tape was $SHITTER. Desk is sitting. View only. NFA."
