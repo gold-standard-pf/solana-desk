@@ -1151,6 +1151,12 @@
   "stream": [
     {
       "at": "2026-08-24T06:14:51.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "Flat. Sitting cash. Hunt still on."
+    },
+    {
+      "at": "2026-08-24T06:14:51.000Z",
       "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
       "ticker": "SHITTER",
       "from": "terry",
@@ -9218,6 +9224,14 @@
     }
   ],
   "advice": [
+    {
+      "call": "cut",
+      "vsInvalidation": "empty or 5m dead",
+      "note": "dumped 100%. runner gone. cash.",
+      "at": "2026-08-24T06:14:51.000Z",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "ticker": "SHITTER"
+    },
     {
       "call": "hold",
       "vsInvalidation": "empty or 5m dead dump 100%",
