@@ -586,6 +586,12 @@
   "stream": [
     {
       "at": "2026-08-24T03:49:08.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "$UNFAZED dumped. Rug. In 0.05 out 0.005. $SOLSHIBE still on."
+    },
+    {
+      "at": "2026-08-24T03:49:08.000Z",
       "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
       "ticker": "UNFAZED",
       "kind": "DID",
