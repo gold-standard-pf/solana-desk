@@ -222,6 +222,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:42:04.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID HOBBES peel initials. Cost covered. Runner left."
+    },
+    {
+      "at": "2026-08-24T00:42:04.000Z",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "ticker": "HOBBES",
+      "kind": "DID",
+      "text": "DID HOBBES peel initials 0.055 SOL covering 0.05 cost. Runner 3123. Book 0.439. Sig 5rxp1ZhKyBMh7V9bZwVdbyn8NQcaaUjMUsgnFfYGqgXs3RnZkPeJkLVoXdGLcBEj4ZaZfDk5q9r1CzgnjKxr3yyq"
+    },
+    {
       "at": "2026-08-24T00:41:13.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -7021,6 +7034,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "5rxp1ZhKyBMh7V9bZwVdbyn8NQcaaUjMUsgnFfYGqgXs3RnZkPeJkLVoXdGLcBEj4ZaZfDk5q9r1CzgnjKxr3yyq",
+      "side": "sell",
+      "usd": 5.2,
+      "sol": 0.0549,
+      "tokenAmount": 36500,
+      "kind": "swap",
+      "at": "2026-08-24T00:42:04.000Z",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "ticker": "HOBBES"
+    },
     {
       "signature": "2FGJCsWSG9qkfiSzWrnMAScJmCuHmrGrgTQSyUio5KJ14CcbPgs4ggUCJmRK6X4fQdM6yJFr9osqiKroLM9StbAq",
       "side": "buy",
