@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "YINYANG",
+      "verdict": "refuse",
+      "at": "2026-08-24T01:50:31.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover YINYANG reprint farm",
+        "same ticker many mints",
+        "same tweet already cloned",
+        "not a first print"
+      ],
+      "mint": "GPy6VnXGb5pDVA2aoajmBerPWiaezVZGB38jL8Hzpump"
+    },
+    {
       "ticker": "WIFI",
       "verdict": "refuse",
       "at": "2026-08-24T01:44:37.000Z",
@@ -320,6 +333,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T01:50:31.000Z",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL YINYANG. Leftover reprint farm. Sitting cash. Not a fill."
+    },
     {
       "at": "2026-08-24T01:49:35.000Z",
       "from": "pump",
@@ -6245,6 +6264,19 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover YINYANG reprint farm",
+        "same ticker many mints",
+        "same tweet already cloned",
+        "not a first print"
+      ],
+      "ageHours": 0.05,
+      "at": "2026-08-24T01:50:31.000Z",
+      "mint": "GPy6VnXGb5pDVA2aoajmBerPWiaezVZGB38jL8Hzpump",
+      "ticker": "YINYANG"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
