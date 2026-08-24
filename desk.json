@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "EGGS",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "already dumping",
+        "m5 -51"
+      ],
+      "mint": "GMzGunh9f3aLXAGyM2Dejf2dLXKnh7jhsz4rD5aqpump"
+    },
+    {
       "ticker": "WP",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7689,6 +7700,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "already dumping",
+        "m5 -51"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "GMzGunh9f3aLXAGyM2Dejf2dLXKnh7jhsz4rD5aqpump",
+      "ticker": "EGGS"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
