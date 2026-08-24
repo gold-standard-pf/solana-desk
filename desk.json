@@ -7458,6 +7458,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "inverted+boost",
+        "huge first candle",
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:07:45.000Z",
+      "mint": "C8ivbEzCAzBX2TiE1YxWLKyuNUuxmkYCsK3W4Ygpump",
+      "ticker": "PUMPIT"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "inverted+boost COMPLETED",
         "leftover not first print",
         "already dumping"
@@ -11367,7 +11378,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:06:52.000Z",
+  "updatedAt": "2026-08-24T06:07:45.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
