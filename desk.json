@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:13:19.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:13:11.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1616,13 +1621,6 @@
       "ticker": "VII",
       "kind": "DID",
       "text": "DID VII peel 43245 tokens for 0.0302 SOL. Runner 12918 left. Book 0.243 SOL. Sig 2TWJ3FBx3M5zTctCWNsXYwQ1fvEgbRCk2YHKQrRX5XvHfFqXdBKEuRqkvtqWgMLh3nv3dYT81vFwD2UBkcQCYWN8."
-    },
-    {
-      "at": "2026-08-23T19:37:48.000Z",
-      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
-      "ticker": "VII",
-      "kind": "DID",
-      "text": "DID VII buy 0.03 SOL. 56163 tokens. Book 0.214 SOL. Fill Dex ~15k. Sig 36DdQo1iMbV2UDgtNNXSy2UCn8dN3kabyQ4EzYNqbem9dzHDzRc6gpdzxCyR8W8hCwK7bvDVh2SrdU8XH4NC4bhc."
     }
   ],
   "signals": [
@@ -8314,6 +8312,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:13:11.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "is that a intergrated sup or just a brake?",
+      "messageId": 79310
+    },
     {
       "at": "2026-08-24T03:13:09.000Z",
       "chat": "Pump it",
