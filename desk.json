@@ -623,6 +623,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:56:59.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:56:38.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1769,35 +1774,6 @@
       "at": "2026-08-24T00:31:01.000Z",
       "kind": "READ",
       "text": "I'm sitting cash. Book 0.408 SOL. SOL mark $95.29 already on the tape. View only. NFA."
-    },
-    {
-      "at": "2026-08-24T00:27:35.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "LICKZO still live on the curve. CLEAR. Tape lifting."
-    },
-    {
-      "at": "2026-08-24T00:26:22.000Z",
-      "from": "genius",
-      "kind": "TALK",
-      "text": "Bond not required. Helius reads the curve."
-    },
-    {
-      "at": "2026-08-24T00:26:22.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "PASS LICKZO pre-bond. Handle real. Not dumping."
-    },
-    {
-      "at": "2026-08-24T00:26:22.000Z",
-      "from": "genius",
-      "kind": "TALK",
-      "text": "CLEAR LICKZO. Live curve. Terry sizes. One bag. 100% out if it dies."
-    },
-    {
-      "at": "2026-08-24T00:25:56.000Z",
-      "kind": "READ",
-      "text": "TERRY Peeled 70% LICKZO on 5m +42. Runner left."
     }
   ],
   "signals": [
@@ -8859,6 +8835,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:56:56.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "text": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "messageId": 79341
+    },
     {
       "at": "2026-08-24T03:55:04.000Z",
       "chat": "Pump it",
