@@ -7759,6 +7759,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint",
+        "h1 -77"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "Fd4cLLSmrE7ePDdR4cLSWv2oVRU21tQLSSgkBxFhpump",
+      "ticker": "PUMPERS"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "Hugging Face brand",
         "m5 -30"
       ],
