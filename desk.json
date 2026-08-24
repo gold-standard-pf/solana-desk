@@ -7258,6 +7258,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "first-candle wipe",
+        "no handle",
+        "already dumping"
+      ],
+      "at": "2026-08-24T04:54:30.000Z",
+      "mint": "8sEARSVQMGcKFBKUMRCuv1xtbJ4Di2cYnKgvRcxhpump",
+      "ticker": "GLOOBE"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "no handle",
         "one-way",
         "same-dev reprint"
