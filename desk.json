@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "RETAIL",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin tape"
+      ],
+      "mint": "9K1Xre3ArxYYSrPDBeakC7m4LTXaJPq3dKCkaqNwpump"
+    },
+    {
       "ticker": "ASIA",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7984,6 +7994,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "thin tape"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "9K1Xre3ArxYYSrPDBeakC7m4LTXaJPq3dKCkaqNwpump",
+      "ticker": "RETAIL"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
