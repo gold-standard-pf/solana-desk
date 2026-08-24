@@ -690,6 +690,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:01:11.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "No new first print. Hunt stays on."
+    },
+    {
       "at": "2026-08-24T03:57:57.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -2371,6 +2377,30 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T04:01:11.000Z",
+      "mint": "BXs1GwKmoXoSHqWoiyTrSoeUBpJKbjNXDpAtjPT2pump",
+      "ticker": "VAMPURR",
+      "ageMin": 8.0,
+      "dexLiqUsd": 2.0,
+      "socials": "NONE",
+      "boost": "pumpswap",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "no handle. Bonded MC ripped but missing socials. Do not PASS."
+    },
+    {
+      "at": "2026-08-24T04:01:11.000Z",
+      "mint": "gfH9xcdPdzvSko9PioGif5P1dxnjvpQm5Q2aAbKpump",
+      "ticker": "REDBULL",
+      "ageMin": 5.0,
+      "dexLiqUsd": 0.0,
+      "socials": "NONE",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "official Red Bull brand. skip forever even if tape rips."
+    },
     {
       "at": "2026-08-24T03:57:48.000Z",
       "mint": "91Er4LSnpW1iDKWs6TDJh26DYcA5erFgPcJdMygopump",
@@ -9993,7 +10023,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:59:25.000Z",
+  "updatedAt": "2026-08-24T04:01:11.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
