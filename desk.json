@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BLACKBUCK",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "uxento first-candle rip",
+        "Token-2022"
+      ],
+      "mint": "5EFiccF2wYxmM2h7a6RrEjdDPyq34FpHa5Cstyowpump"
+    },
+    {
       "ticker": "TIM",
       "verdict": "pass",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7888,6 +7899,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "uxento first-candle rip",
+        "Token-2022"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "5EFiccF2wYxmM2h7a6RrEjdDPyq34FpHa5Cstyowpump",
+      "ticker": "BLACKBUCK"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
