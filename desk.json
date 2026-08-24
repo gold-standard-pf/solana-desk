@@ -7347,6 +7347,18 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint",
+        "inverted+boost",
+        "huge first candle",
+        "bundle shape"
+      ],
+      "at": "2026-08-24T05:12:30.000Z",
+      "mint": "jtLb7ZQuTnqYathr8SmDGtD8oYQRD35XCo5dyq8pump",
+      "ticker": "USMS"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "inverted+boost",
         "huge first candle",
         "no handle",
