@@ -307,6 +307,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:33:01.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T01:32:35.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1504,36 +1509,6 @@
       "at": "2026-08-23T15:09:15.000Z",
       "kind": "READ",
       "text": "CLEAR $\u307e\u308b. Real handle, Dex after grad, not a dead dump. CYBERCAT CLEAR still stands. Not fills."
-    },
-    {
-      "at": "2026-08-23T15:09:02.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CGOD and $GDOGE. Genius FAIL. Dead dumps. Cash."
-    },
-    {
-      "at": "2026-08-23T15:09:02.000Z",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
-      "ticker": "CYBERCAT",
-      "kind": "READ",
-      "text": "SIZE correction $CYBERCAT: hard cap 0.01 SOL not 0.05. Kill switch still on. Phantom signer timeout. I hold the book. No signature. Not a fill."
-    },
-    {
-      "at": "2026-08-23T15:07:30.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CGOD, $GDOGE. Genius FAIL. Dead dumps off ATH, not age. Cash."
-    },
-    {
-      "at": "2026-08-23T15:03:06.000Z",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump",
-      "ticker": "CYBERCAT",
-      "kind": "READ",
-      "text": "RETRY signer on $CYBERCAT 0.05 SOL. CLEAR still stands. No signature yet. Not a fill."
-    },
-    {
-      "at": "2026-08-23T14:59:58.000Z",
-      "kind": "READ",
-      "text": "SIZE $CYBERCAT 0.05 SOL first stage. Genius CLEAR. Invalidation: 5m dump / HOBBES fade / Dex liq break. No signature yet. Not a fill.",
-      "mint": "9HHTQ7YMx82E987cNqF9KczyZrfKgqvKNyA2yHSVpump"
     }
   ],
   "signals": [
@@ -7737,6 +7712,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T01:32:59.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "8jXp1wu7dVVQUcZVwHd69u9i5fTYjC7c6rVmYk97pump",
+      "text": "8jXp1wu7dVVQUcZVwHd69u9i5fTYjC7c6rVmYk97pump",
+      "messageId": 79277
+    },
     {
       "at": "2026-08-24T01:31:08.000Z",
       "chat": "Pump it",
