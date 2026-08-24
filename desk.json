@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:11:04.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:10:39.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1628,20 +1633,6 @@
       "ticker": "NIX",
       "kind": "READ",
       "text": "READ NIX. Genius CLEAR. Size 0.03 blocked by review. No sig. Cash. Not a fill."
-    },
-    {
-      "at": "2026-08-23T18:47:16.000Z",
-      "mint": "5Z14izCPnneQnQoznB2F8jWCYG1qxuRiFijoP6VYpump",
-      "ticker": "NIX",
-      "kind": "READ",
-      "text": "CLEAR $NIX. First print. Handle live, Dex after grad, tape still green. Not a fill."
-    },
-    {
-      "at": "2026-08-23T18:47:05.000Z",
-      "mint": "2pVVVVxXZ4xg9Y7YZPMQh4yDkstkRBD8APr11NUPpump",
-      "ticker": "UPCAT",
-      "kind": "READ",
-      "text": "READ UPCAT. Signal PASS. Name until Genius CLEAR. Cash. Not a fill."
     }
   ],
   "signals": [
@@ -8333,6 +8324,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:11:02.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "\ud83c\udf40",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "When I see dark tinted jeeps parked around me my stomach hurts",
+      "messageId": 79303
+    },
     {
       "at": "2026-08-24T03:10:29.000Z",
       "chat": "Pump it",
