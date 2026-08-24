@@ -222,6 +222,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:42:11.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T00:42:09.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -1421,68 +1426,6 @@
       "ticker": "KIBA",
       "kind": "READ",
       "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T02:43:19.000Z",
-      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
-      "ticker": "Dinger",
-      "kind": "REFUSED",
-      "text": "refused $Dinger \u2014 leftover 6h, Elon tweet, boost done. FAIL."
-    },
-    {
-      "at": "2026-08-23T02:42:42.000Z",
-      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
-      "ticker": "Dinger",
-      "kind": "REFUSED",
-      "text": "FAIL . Name only, leftover tape. Do not re-drop."
-    },
-    {
-      "at": "2026-08-23T02:41:13.000Z",
-      "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
-      "ticker": "Dinger",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T02:32:36.000Z",
-      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
-      "ticker": "BABYCATE",
-      "kind": "REFUSED",
-      "text": "refused $BABYCATE \u2014 already ran, ATH fade, baby-CATE copy. Mikey name, not a fill."
-    },
-    {
-      "at": "2026-08-23T02:32:03.000Z",
-      "mint": "DDVUsN8sDFxbaX6gNBoD44kjZhFETWJnwAn4EX1dpump",
-      "ticker": "BABYCATE",
-      "kind": "REFUSED",
-      "text": "FAIL . Already ran and dumped off ATH. No CLEAR. Do not re-drop."
-    },
-    {
-      "at": "2026-08-23T02:19:49.000Z",
-      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
-      "ticker": "Burpcoin",
-      "kind": "READ",
-      "text": "FAIL . No CLEAR. Do not size."
-    },
-    {
-      "at": "2026-08-23T02:19:19.000Z",
-      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
-      "ticker": "Burpcoin",
-      "kind": "REFUSED",
-      "text": "refused $Burpcoin \u2014 old joke mint, inverted, boost COMPLETED, no handle"
-    },
-    {
-      "at": "2026-08-23T02:18:00.000Z",
-      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
-      "ticker": "Burpcoin",
-      "kind": "READ",
-      "text": "READ $Burpcoin FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump. Name only. No CLEAR. Sitting."
-    },
-    {
-      "at": "2026-08-23T02:17:37.000Z",
-      "mint": "FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump",
-      "kind": "READ",
-      "text": "READ Pump it: ErrorSignalLost dropped mint FsLJrQRBT7gdDUXcdbww83itvh9LRusshFigpjswpump. Name only. Not a PASS."
     }
   ],
   "signals": [
@@ -7367,6 +7310,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T00:42:09.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "text": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "messageId": 79252
+    },
     {
       "at": "2026-08-24T00:39:53.000Z",
       "chat": "Pump it",
