@@ -232,6 +232,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:48:49.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T00:47:50.000Z",
       "kind": "DID",
       "text": "TERRY dumped PEPITO. In 0.05 out 0.044. Bundle FAIL."
@@ -1413,46 +1418,6 @@
       "mint": "3kvZYBrBPEySFwQfXZGEvJSeMWRa6BkTS34suBEYpump",
       "kind": "READ",
       "text": "READ 1 telegram message in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T07:04:30.000Z",
-      "kind": "READ",
-      "text": "READ desk live. Genius CLEARs. Terry sizes the book only after CLEAR. FOMO parked. Wallet Watcher advises after fills. Signals and Pump are names only. Cash until a first-print CLEAR."
-    },
-    {
-      "at": "2026-08-23T06:13:06.000Z",
-      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
-      "ticker": "CATLIST",
-      "kind": "REFUSED",
-      "text": "FAIL . Already refused on the board. Do not re-drop."
-    },
-    {
-      "at": "2026-08-23T05:49:36.000Z",
-      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
-      "ticker": "CATLIST",
-      "kind": "REFUSED",
-      "text": "refused $CATLIST \u2014 CATE orbit, leftover, hour red, already board REFUSE"
-    },
-    {
-      "at": "2026-08-23T05:48:08.000Z",
-      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
-      "ticker": "CATLIST",
-      "kind": "READ",
-      "text": "READ $CATLIST BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump. Name only. Off ATH, 1h already -34%, boost done. No CLEAR. Sitting."
-    },
-    {
-      "at": "2026-08-23T05:47:40.000Z",
-      "mint": "BKaXDgZxUSC9njpX89xpQ5USh2pnK1yzZvgk8Mg7pump",
-      "ticker": "CATLIST",
-      "kind": "READ",
-      "text": "READ 1 telegram message in Pump it. Name only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T04:53:32.000Z",
-      "mint": "DvVXHjpUyAunQFry3WjsLnZnriZ9QyzwiZ97eJQCpump",
-      "ticker": "Farte",
-      "kind": "REFUSED",
-      "text": "refused $Farte \u2014 misspell, no handle, inverted, leftover rip. Don't size."
     }
   ],
   "signals": [
@@ -7406,6 +7371,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T00:48:45.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "254MjZx4L1Mpmax6dVYxeX7ECsimK5wtxdgwYyJupump",
+      "text": "254MjZx4L1Mpmax6dVYxeX7ECsimK5wtxdgwYyJupump",
+      "messageId": 79259
+    },
     {
       "at": "2026-08-24T00:47:08.000Z",
       "chat": "Pump it",
