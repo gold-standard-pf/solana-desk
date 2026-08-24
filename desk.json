@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,7 +9,19 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "JERMBO",
+      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
+      "valueUsd": null,
+      "pnlUsd": null,
+      "pnlPct": null,
+      "investedUsd": 4.69,
+      "thesis": "Live curve, buyers lifting. First take waits until half the bag covers the 0.05 fill. Leave the runner after cost.",
+      "invalidation": "Empty tape or 5m dead after a wick wait = 100% dump.",
+      "at": "2026-08-24T03:16:47.000Z"
+    }
+  ],
   "decisions": [
     {
       "ticker": "JERMBO",
