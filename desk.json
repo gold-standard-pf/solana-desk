@@ -8024,6 +8024,16 @@
         "leftover"
       ],
       "at": "2026-08-24T06:41:20.000Z",
+      "mint": "Ddbg3EN8hgsdzNqzjfgw3HNJxc84pBtJt7wWvooNpump",
+      "ticker": "WP"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "leftover"
+      ],
+      "at": "2026-08-24T06:41:20.000Z",
       "mint": "HDuKusqyYhNXaukVmmmEEwhH5ug6BQJtHJTeEHyipump",
       "ticker": "WP"
     },
