@@ -3,7 +3,7 @@
   "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
-  "ticks": 202,
+  "ticks": 200,
   "equityUsd": 41.32,
   "spentUsd": 47.67,
   "realizedPnlUsd": 18.47,
@@ -1069,6 +1069,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T05:44:16.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
     {
       "at": "2026-08-24T05:43:59.000Z",
       "from": "terry",
@@ -2190,145 +2195,6 @@
       "from": "pump",
       "kind": "TALK",
       "text": "DP103 PASS, live curve, waiting Genius. Tac PASS, Tac Nayn tribute, waiting Genius. GOZMO still filling. ESL not printed."
-    },
-    {
-      "at": "2026-08-24T01:31:13.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T01:30:37.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID CHAOSCAT dump. Empty tape. Flat. In 0.05, out 0.049."
-    },
-    {
-      "at": "2026-08-24T01:30:37.000Z",
-      "mint": "9bjt3exZmKAXt6q2csTfXytQdGnjfyEvKgGXB3F49ocv",
-      "ticker": "CHAOSCAT",
-      "kind": "DID",
-      "text": "DID CHAOSCAT dump empty tape 0.049 SOL. Flat. Book 0.427. Sig HVxAbAGGwzcA6pdg7SKD2CiXPCkXuZRxrQP8t5pK1WUczU8MAjsvdfuNd9LvRRv1p9thCXEbyfRTSy7D7XXug6f"
-    },
-    {
-      "at": "2026-08-24T01:29:55.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "LEEK FAIL. Leftover reprint, no size. Sitting the bags."
-    },
-    {
-      "at": "2026-08-24T01:29:33.000Z",
-      "ticker": "LEEK",
-      "from": "genius",
-      "kind": "REFUSED",
-      "text": "FAIL LEEK. Leftover name. Already in a bag. Do not size."
-    },
-    {
-      "at": "2026-08-24T01:29:12.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "LEEK restamped PASS. Real handle via a status post, curve still lifting. Waiting Genius."
-    },
-    {
-      "at": "2026-08-24T01:29:00.000Z",
-      "from": "genius",
-      "kind": "TALK",
-      "text": "Created CHAOSCAT. Desk link is on it. Sitting the bag until half covers, or dump if the tape is empty."
-    },
-    {
-      "at": "2026-08-24T01:29:00.000Z",
-      "mint": "9bjt3exZmKAXt6q2csTfXytQdGnjfyEvKgGXB3F49ocv",
-      "ticker": "CHAOSCAT",
-      "from": "genius",
-      "kind": "DID",
-      "text": "DID CHAOSCAT create 0.05. Viral photoshoot tweet. Desk on the listing. Empty tape = 100% out."
-    },
-    {
-      "at": "2026-08-24T01:28:17.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "LEEK refuse. Status URL, not a real handle. Tape is on-curve but the bar needs an account."
-    },
-    {
-      "at": "2026-08-24T01:27:26.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "Redbull official brand refuse, skip forever. UOTF leftover clone refuse. LARRY Hobbes refuse. GOZMO still filling. ESL not printed. GTAVI stays dead."
-    },
-    {
-      "at": "2026-08-24T01:26:16.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T01:24:06.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "GTAVI FAIL, official GTA name, skip forever. DRIP stays refuse. GOZMO no re-brief."
-    },
-    {
-      "at": "2026-08-24T01:23:40.000Z",
-      "ticker": "GTAVI",
-      "kind": "REFUSED",
-      "text": "REFUSED GTAVI. Official GTA VI name. Skip forever. Sit."
-    },
-    {
-      "at": "2026-08-24T01:23:11.000Z",
-      "ticker": "GTAVI",
-      "from": "genius",
-      "kind": "REFUSED",
-      "text": "FAIL GTAVI. Official GTA name. Skip forever. Tape can rip, we still sit. GOZMO runner stays."
-    },
-    {
-      "at": "2026-08-24T01:21:46.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T01:21:36.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "GTAVI board PASS, live tape, waiting Genius. DRIP refuse, dump off highs. GOZMO still filling. ESL not printed."
-    },
-    {
-      "at": "2026-08-24T01:20:43.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T01:18:53.000Z",
-      "kind": "READ",
-      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $GOZMO. Not adding. Not inventing a trade. NFA."
-    },
-    {
-      "at": "2026-08-24T01:15:23.000Z",
-      "kind": "READ",
-      "text": "I'm view only. I'm still on $GOZMO. Not adding. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
-    },
-    {
-      "at": "2026-08-24T01:11:08.000Z",
-      "kind": "READ",
-      "text": "I'm still on $GOZMO. Not adding. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
-    },
-    {
-      "at": "2026-08-24T01:07:42.000Z",
-      "kind": "READ",
-      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $GOZMO. Not adding. Not inventing a trade. NFA."
-    },
-    {
-      "at": "2026-08-24T01:04:21.000Z",
-      "kind": "READ",
-      "text": "I'm still on $GOZMO. Not adding. Last ticker move on the tape was $GOZMO. Desk is sitting. View only. NFA."
-    },
-    {
-      "at": "2026-08-24T01:01:21.000Z",
-      "kind": "READ",
-      "text": "I'm still on $GOZMO. Not adding. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
-    },
-    {
-      "at": "2026-08-24T00:58:58.000Z",
-      "from": "genius",
-      "kind": "TALK",
-      "text": "GOZMO initials covered. Runner left. Dump only if the tape dies."
     }
   ],
   "signals": [
@@ -10135,6 +10001,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T05:43:58.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "text": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "messageId": 79389
+    },
     {
       "at": "2026-08-24T05:00:27.000Z",
       "chat": "Pump it",
