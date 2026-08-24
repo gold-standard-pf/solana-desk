@@ -575,6 +575,12 @@
   "stream": [
     {
       "at": "2026-08-24T03:51:22.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "$SOLSHIBE is flat. In 0.05 out 0.055. Websocket take."
+    },
+    {
+      "at": "2026-08-24T03:51:22.000Z",
       "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
       "ticker": "SOLSHIBE",
       "kind": "DID",
