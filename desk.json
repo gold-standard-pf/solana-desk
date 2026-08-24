@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 201,
@@ -9,18 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "IN",
-      "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump",
-      "valueUsd": 4.7,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "investedUsd": 4.7,
-      "thesis": "early two-way first print, real handle, live curve",
-      "invalidation": "empty or 5m-dead tape dump 100%. mark <= 60% of cost or Dex 5m <= -25."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "IN",
@@ -9140,6 +9129,16 @@
   ],
   "fills": [
     {
+      "signature": "3QUbayHDwx25421eZxn8xutqnnM17nbCTkFACLpZKKTENzvdK7Aswf6fAtdSdAiCY7hpDupgSLgvDzxtL2Ze5s2N",
+      "side": "sell",
+      "sol": 0.0365,
+      "tokenAmount": 318066.51,
+      "kind": "swap",
+      "at": "2026-08-24T05:03:19.000Z",
+      "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump",
+      "ticker": "IN"
+    },
+    {
       "signature": "Bcwu8cvUZqTMFa1xP25bkJtrKwKzjXDdevtBin87hSmgY7t6s95a4AXMoZARPmFV6ovUpo96JdouwYKKgnNQEZq",
       "side": "buy",
       "sol": 0.05,
@@ -10883,7 +10882,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:02:18.000Z",
+  "updatedAt": "2026-08-24T05:03:19.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
