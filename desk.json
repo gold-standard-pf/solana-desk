@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CUCURELLA",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "footballer likeness",
+        "thin tape"
+      ],
+      "mint": "413dfHiTy1SHTutS4c1vx8Tv68cY41Ew7mkMRqjDpump"
+    },
+    {
       "ticker": "BROS",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7711,6 +7722,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "footballer likeness",
+        "thin tape"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "413dfHiTy1SHTutS4c1vx8Tv68cY41Ew7mkMRqjDpump",
+      "ticker": "CUCURELLA"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
