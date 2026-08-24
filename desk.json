@@ -12,6 +12,20 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PIXWOJAK",
+      "verdict": "pass",
+      "at": "2026-08-24T03:56:27.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "handle pixwojak",
+        "bonded PumpSwap liq ~15k",
+        "two-way tape 507/426",
+        "not inverted"
+      ],
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump"
+    },
+    {
       "verdict": "pass",
       "reasons": [
         "Genius CLEAR",
@@ -6806,6 +6820,22 @@
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old first print",
+        "handle pixwojak",
+        "bonded PumpSwap liq ~15k",
+        "two-way tape 507/426",
+        "not inverted",
+        "boost in progress not done dump"
+      ],
+      "ageHours": 0.08,
+      "at": "2026-08-24T03:56:27.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "Pixwojak",
+      "from": "genius"
+    },
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
         "handle gossip10x tweet",
         "curve filling 76%",
         "38 SOL on curve",
@@ -9808,7 +9838,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:55:58.000Z",
+  "updatedAt": "2026-08-24T03:56:27.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
