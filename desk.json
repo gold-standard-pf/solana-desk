@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ELON",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:10:29.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official Elon likeness sit",
+        "not a desk first print"
+      ],
+      "mint": "C1FMFxxF4e2nAhaG7hUMhu3EAMibKTbqt8deZ2fBpump"
+    },
+    {
       "ticker": "AMAZON",
       "verdict": "refuse",
       "at": "2026-08-24T04:07:32.000Z",
@@ -7003,6 +7014,18 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "official Elon likeness sit",
+        "not a desk first print"
+      ],
+      "ageHours": 0.05,
+      "at": "2026-08-24T04:10:29.000Z",
+      "mint": "C1FMFxxF4e2nAhaG7hUMhu3EAMibKTbqt8deZ2fBpump",
+      "ticker": "Elon",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "official Amazon brand",
         "stolen brand sit"
       ],
@@ -10178,7 +10201,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:10:08.000Z",
+  "updatedAt": "2026-08-24T04:10:29.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
