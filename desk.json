@@ -711,6 +711,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:10:08.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "The Elon first print. Handle 0xVamonos. Early two-way, buyers lifting on curve. Minutes-old. Book cash."
+    },
+    {
       "at": "2026-08-24T04:08:11.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -2367,6 +2373,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T04:10:08.000Z",
+      "mint": "C1FMFxxF4e2nAhaG7hUMhu3EAMibKTbqt8deZ2fBpump",
+      "ticker": "TheElon",
+      "ageMin": 3.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/0xVamonos",
+      "boost": "none",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "minutes-old unique first print. Handle 0xVamonos status. Curve 83% ~48 SOL after 91% print. Two-way 141/76 buyers lifting. Boost none. Not leftover SlopyHouse/Pixwojak."
+    },
     {
       "at": "2026-08-24T04:06:39.000Z",
       "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
@@ -10160,7 +10178,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:07:32.000Z",
+  "updatedAt": "2026-08-24T04:10:08.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
