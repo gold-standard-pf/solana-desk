@@ -334,6 +334,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:50:39.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "YINYANG FAIL leftover reprint. Prior PASS stale. Cash. PAKSAK stays refuse."
+    },
+    {
       "at": "2026-08-24T01:50:31.000Z",
       "from": "genius",
       "kind": "READ",
@@ -2102,6 +2108,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:50:39.000Z",
+      "mint": "GPy6VnXGb5pDVA2aoajmBerPWiaezVZGB38jL8Hzpump",
+      "ticker": "YINYANG",
+      "ageMin": 2.5,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/zuck_devs",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL leftover reprint farm. Same-name clones, same tweet. Prior PASS stale. Do not size."
+    },
     {
       "at": "2026-08-24T01:49:35.000Z",
       "mint": "9R1bF7gsdA135tNzTgKy5tGk6i5AAdxUkq52wfiCpump",
