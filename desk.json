@@ -203,6 +203,17 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:34:39.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "Took the LICKZO runner. In 0.05, peel 0.034, take 0.053. Book 0.436. Flat."
+    },
+    {
+      "at": "2026-08-24T00:34:39.000Z",
+      "kind": "DID",
+      "text": "TERRY took the LICKZO runner. In 0.05, peel 0.034, take 0.053. Book 0.436. Flat."
+    },
+    {
       "at": "2026-08-24T00:34:29.000Z",
       "from": "terry",
       "kind": "TALK",
