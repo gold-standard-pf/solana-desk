@@ -384,6 +384,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:15:31.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T02:15:23.000Z",
       "ticker": "CSWAP",
       "from": "genius",
@@ -1576,28 +1581,6 @@
       "at": "2026-08-23T15:46:17.000Z",
       "kind": "READ",
       "text": "REFUSE clone $CYBERCAT mint 2W2nmR24. Real fill stays 9HHTQ7YMx82E. Cash on the clone."
-    },
-    {
-      "at": "2026-08-23T15:44:39.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CATESEM and $PAULIE. Genius FAIL. Clone / status-URL dump. $MIKA still a name. Cap used."
-    },
-    {
-      "at": "2026-08-23T15:44:23.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CATESEM clone and $PAULIE no-handle dump. Genius FAIL. Cash."
-    },
-    {
-      "at": "2026-08-23T15:37:48.000Z",
-      "mint": "AQxWBfkqKdXQgtr1x9eryHqFBZrFteKrM38oNtRvpump",
-      "ticker": "CATEOS",
-      "kind": "READ",
-      "text": "REFUSE $CATEOS (AQxWBfkqKdXQgtr1x9eryHqFBZrFteKrM38oNtRvpump). Genius FAIL. CATE leftover, boost-done dump. Cash add."
-    },
-    {
-      "at": "2026-08-23T15:36:30.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CATEOS. Genius FAIL. Dead dump. Cash."
     }
   ],
   "signals": [
@@ -8017,6 +8000,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T02:15:25.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "200$ a month for them to be dogging each other",
+      "messageId": 79284
+    },
     {
       "at": "2026-08-24T02:15:07.000Z",
       "chat": "Pump it",
