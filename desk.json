@@ -456,6 +456,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:10:39.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Coiner FAIL, curve empty. Still hunting live first prints."
+    },
+    {
       "at": "2026-08-24T03:10:31.000Z",
       "kind": "READ",
       "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
@@ -2141,6 +2147,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:10:39.000Z",
+      "mint": "Cvda6dH4bcB1UAPN2YBw6yyZXerLgXBdQGytgUkDpump",
+      "ticker": "Coiner",
+      "ageMin": 6.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/JohnyObrien",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL. Curve empty after 71% print. Prior PASS stale. Do not re-PASS. Do not size."
+    },
     {
       "at": "2026-08-24T03:09:39.000Z",
       "mint": "Cvda6dH4bcB1UAPN2YBw6yyZXerLgXBdQGytgUkDpump",
@@ -9080,7 +9098,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:10:30.000Z",
+  "updatedAt": "2026-08-24T03:10:39.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
