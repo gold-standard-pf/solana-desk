@@ -22,6 +22,18 @@
   ],
   "decisions": [
     {
+      "ticker": "TOAD",
+      "verdict": "refuse",
+      "at": "2026-08-24T05:54:14.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "inverted+boost",
+        "huge first candle",
+        "no handle"
+      ],
+      "mint": "hMLmBepapZ65n6aSgJCRYeyq3P4cEigwgd8dxmjpump"
+    },
+    {
       "ticker": "MEENY",
       "verdict": "refuse",
       "at": "2026-08-24T05:54:14.000Z",
@@ -7481,6 +7493,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "inverted+boost",
+        "huge first candle",
+        "no handle"
+      ],
+      "at": "2026-08-24T05:54:14.000Z",
+      "mint": "hMLmBepapZ65n6aSgJCRYeyq3P4cEigwgd8dxmjpump",
+      "ticker": "TOAD"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
