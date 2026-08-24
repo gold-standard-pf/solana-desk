@@ -667,6 +667,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:57:48.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "No new first print. Hunt stays on."
+    },
+    {
       "at": "2026-08-24T03:57:46.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -2336,6 +2342,30 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:57:48.000Z",
+      "mint": "91Er4LSnpW1iDKWs6TDJh26DYcA5erFgPcJdMygopump",
+      "ticker": "SEASOLT",
+      "ageMin": 3.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/solana",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "impersonation @solana. Not a first print. Skip."
+    },
+    {
+      "at": "2026-08-24T03:57:48.000Z",
+      "mint": "B14t9tUjRDbtDtNY9w2WGF8BKFZXqWfVLF1hkqbnpump",
+      "ticker": "CHILL",
+      "ageMin": 3.0,
+      "dexLiqUsd": 0.0,
+      "socials": "NONE",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "leftover Chill Guy SlopyHouse clone. No handle. Dead curve. Do not PASS."
+    },
     {
       "at": "2026-08-24T03:55:29.000Z",
       "mint": "GP7RVfZCmiLdpk5CMEv5osf6VD8qzoCRffbaZ4gZpump",
@@ -9911,7 +9941,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:57:46.000Z",
+  "updatedAt": "2026-08-24T03:57:48.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
