@@ -494,6 +494,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:43:43.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "SOLSHIBE PASS, live after bond. Unfazed still live."
+    },
+    {
       "at": "2026-08-24T03:43:38.000Z",
       "kind": "READ",
       "text": "I'm sitting cash. Last ticker move on the tape was $JERMBO. Desk is sitting. View only. NFA."
@@ -2230,6 +2236,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:43:43.000Z",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "ticker": "SOLSHIBE",
+      "ageMin": 5.0,
+      "dexLiqUsd": 19022.0,
+      "socials": "x.com/solshibe_pump",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "minutes-old live mint after bond. Handle solshibe_pump. PumpSwap liq ~19k, MC ~63k near ATH, 5m green, boost none. Unfazed still CLEAR. Not a fill. Genius CLEAR/FAIL. Terry briefed."
+    },
     {
       "at": "2026-08-24T03:38:27.000Z",
       "mint": "G9gApBWHN2XYDCctuHmJu8bxUE4qDBpk2zixuwzApump",
@@ -9491,7 +9509,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:43:38.000Z",
+  "updatedAt": "2026-08-24T03:43:43.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
