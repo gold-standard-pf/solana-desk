@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "DOG",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:56:46.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover likeness",
+        "inverted+boost",
+        "huge first candle",
+        "no handle"
+      ],
+      "mint": "FrMmL4VrKurAHYGQH1LPCahy4gV8hc2iN3Sx1Rz8pump"
+    },
+    {
       "ticker": "SHOTS",
       "verdict": "refuse",
       "at": "2026-08-24T04:54:30.000Z",
@@ -7274,6 +7287,18 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover likeness",
+        "inverted+boost",
+        "huge first candle",
+        "no handle"
+      ],
+      "at": "2026-08-24T04:56:46.000Z",
+      "mint": "FrMmL4VrKurAHYGQH1LPCahy4gV8hc2iN3Sx1Rz8pump",
+      "ticker": "DOG"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "first-candle wick off ATH",
         "already dumping"
       ],
@@ -10774,7 +10799,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:55:27.000Z",
+  "updatedAt": "2026-08-24T04:56:46.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
