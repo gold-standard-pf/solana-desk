@@ -232,6 +232,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:54:38.000Z",
+      "kind": "READ",
+      "text": "I'm sitting cash. Last ticker move on the tape was $PEPITO. Desk is sitting. View only. NFA."
+    },
+    {
       "at": "2026-08-24T00:51:19.000Z",
       "kind": "READ",
       "text": "I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
