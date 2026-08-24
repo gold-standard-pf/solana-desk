@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "bag",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,7 +9,16 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "SHITTER",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "thesis": "Early two-way first print. Real handle. Live curve. Sit if it dies.",
+      "sizeSol": 0.05,
+      "invalidation": "empty tape or 5m dead = dump 100%",
+      "at": "2026-08-24T05:44:43.000Z"
+    }
+  ],
   "decisions": [
     {
       "ticker": "SHITTER",
@@ -1069,6 +1078,14 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T05:44:43.000Z",
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump",
+      "ticker": "SHITTER",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID SHITTER 0.05. Live two-way. Watching."
+    },
     {
       "at": "2026-08-24T05:44:16.000Z",
       "kind": "READ",
@@ -11151,7 +11168,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:43:59.000Z",
+  "updatedAt": "2026-08-24T05:44:43.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
