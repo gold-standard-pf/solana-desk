@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:13:11.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:12:51.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1618,13 +1623,6 @@
       "ticker": "VII",
       "kind": "DID",
       "text": "DID VII buy 0.03 SOL. 56163 tokens. Book 0.214 SOL. Fill Dex ~15k. Sig 36DdQo1iMbV2UDgtNNXSy2UCn8dN3kabyQ4EzYNqbem9dzHDzRc6gpdzxCyR8W8hCwK7bvDVh2SrdU8XH4NC4bhc."
-    },
-    {
-      "at": "2026-08-23T19:36:37.000Z",
-      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
-      "ticker": "VII",
-      "kind": "READ",
-      "text": "CLEAR $VII. First print. Handle live, Dex after grad, boost none, tape still green. Not a fill."
     }
   ],
   "signals": [
@@ -8316,6 +8314,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:13:09.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "\ud83c\udf40",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "Yea idk what it is",
+      "messageId": 79309
+    },
     {
       "at": "2026-08-24T03:12:45.000Z",
       "chat": "Pump it",
