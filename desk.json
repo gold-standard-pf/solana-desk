@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,18 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "SOLSHIBE",
-      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
-      "valueUsd": 4.69,
-      "investedUsd": 4.69,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "thesis": "Bonded PumpSwap, two-way tape, handle solshibe_pump. Size 0.05. UNFAZED still open.",
-      "invalidation": "Empty tape dumps now. 5m dead waits 30-60s then dumps. Take even if dying; if lifting hold for a real take then peel ~70%."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "verdict": "pass",
@@ -8195,6 +8184,17 @@
   ],
   "fills": [
     {
+      "signature": "63e1dBr83sL4Ny6dEb959GK7YcTMzNm947RS55AC2wpVwsSEMM1EAwWxc1gnJuvQYJ49QXPD77msZXccJJXpGqRQ",
+      "side": "sell",
+      "usd": 3.53,
+      "sol": 0.03754,
+      "tokenAmount": 41793.1340288,
+      "kind": "swap",
+      "at": "2026-08-24T03:51:22.000Z",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "ticker": "SOLSHIBE"
+    },
+    {
       "signature": "2vFZY7HMCxKV1TZLVqk1QZ1DEAiGJmhhEVUDkVh4BCoRWKF8zbbYPZmuhgrCNFnLB8pbwksBBk6F1snvwzXB4CLJ",
       "side": "sell",
       "usd": 0.46,
@@ -9658,7 +9658,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:50:23.000Z",
+  "updatedAt": "2026-08-24T03:51:22.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
