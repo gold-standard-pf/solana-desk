@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "FOMOLISA",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:49:48.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin tape",
+        "profile-only handle"
+      ],
+      "mint": "EEwDNyDJ9E7SngBxc2WjoK2dEx3SgY71LbASv5K8pump"
+    },
+    {
       "ticker": "LULI",
       "verdict": "refuse",
       "at": "2026-08-24T06:49:48.000Z",
@@ -8264,6 +8275,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "thin tape",
+        "profile-only handle"
+      ],
+      "at": "2026-08-24T06:49:48.000Z",
+      "mint": "EEwDNyDJ9E7SngBxc2WjoK2dEx3SgY71LbASv5K8pump",
+      "ticker": "FOMOLISA"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
