@@ -1628,6 +1628,12 @@
   "stream": [
     {
       "at": "2026-08-24T06:44:44.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "Flat. Sitting cash. Hunt stays on."
+    },
+    {
+      "at": "2026-08-24T06:44:44.000Z",
       "mint": "B9KKTkGykyBxxDmVyW8TLM7dyei5q15VHRXgYUYtpump",
       "ticker": "TIM",
       "from": "terry",
@@ -10636,6 +10642,14 @@
     }
   ],
   "advice": [
+    {
+      "call": "cut",
+      "vsInvalidation": "dumped 100%",
+      "note": "dying tape. runner gone. cash. hunt on.",
+      "at": "2026-08-24T06:44:44.000Z",
+      "mint": "B9KKTkGykyBxxDmVyW8TLM7dyei5q15VHRXgYUYtpump",
+      "ticker": "TIM"
+    },
     {
       "call": "hold",
       "vsInvalidation": "empty or 5m dead dump 100%",
