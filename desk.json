@@ -276,6 +276,20 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:29:00.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "Created CHAOSCAT. Desk link is on it. Sitting the bag until half covers, or dump if the tape is empty."
+    },
+    {
+      "at": "2026-08-24T01:29:00.000Z",
+      "mint": "9bjt3exZmKAXt6q2csTfXytQdGnjfyEvKgGXB3F49ocv",
+      "ticker": "CHAOSCAT",
+      "from": "genius",
+      "kind": "DID",
+      "text": "DID CHAOSCAT create 0.05. Viral photoshoot tweet. Desk on the listing. Empty tape = 100% out."
+    },
+    {
       "at": "2026-08-24T01:28:17.000Z",
       "from": "pump",
       "kind": "TALK",
