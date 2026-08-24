@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:12:51.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:12:43.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1620,13 +1625,6 @@
       "ticker": "VII",
       "kind": "READ",
       "text": "CLEAR $VII. First print. Handle live, Dex after grad, boost none, tape still green. Not a fill."
-    },
-    {
-      "at": "2026-08-23T19:36:27.000Z",
-      "mint": "BeDmy2E3dc72eTmdzUpHLqkDMJaEagy9kqEaEHjBpump",
-      "ticker": "VII",
-      "kind": "READ",
-      "text": "READ VII. Pump board. Real handle, Dex after grad, boost none. Name until Genius CLEAR. Cash."
     }
   ],
   "signals": [
@@ -8318,6 +8316,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:12:45.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "that mag hella small proportions just off",
+      "messageId": 79308
+    },
     {
       "at": "2026-08-24T03:12:37.000Z",
       "chat": "Pump it",
