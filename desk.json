@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ACAN",
+      "verdict": "refuse",
+      "at": "2026-08-24T03:44:22.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "5m red",
+        "sells over buys",
+        "not lifting"
+      ],
+      "mint": "J35ZiKQTvPT6PvbxwYHn2uY8q5YBGHLNMWyY4jbbpump"
+    },
+    {
       "ticker": "SHINOJI",
       "verdict": "refuse",
       "at": "2026-08-24T03:44:22.000Z",
@@ -6625,6 +6637,19 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "5m red",
+        "sells over buys",
+        "not lifting"
+      ],
+      "ageHours": 0.15,
+      "at": "2026-08-24T03:44:22.000Z",
+      "mint": "J35ZiKQTvPT6PvbxwYHn2uY8q5YBGHLNMWyY4jbbpump",
+      "ticker": "ACAN",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
