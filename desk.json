@@ -222,6 +222,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:43:55.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "PEPITO live after bond. PASS. Tape lifting."
+    },
+    {
       "at": "2026-08-24T00:43:38.000Z",
       "kind": "DID",
       "text": "TERRY took the HOBBES runner. In 0.05, initials 0.055, runner 0.004. Book 0.443. Flat."
@@ -1945,6 +1951,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 1,
+      "dexLiqUsd": 18366,
+      "socials": "x.com/pepitocatcoin",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "real handle x.com/pepitocatcoin. Bonded ~1m. PumpSwap liq ~$18k mc ~$60k. 5m 60b/21s +36%. boosts none. Not dumping. Elon-cat tribute ok. Not leftover. Not ESL. PASS for CLEAR/FAIL.",
+      "at": "2026-08-24T00:43:55.000Z",
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "ticker": "PEPITO"
+    },
     {
       "ageMin": 10,
       "dexLiqUsd": 17997,
