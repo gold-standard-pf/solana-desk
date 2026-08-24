@@ -7454,6 +7454,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "no handle",
+        "same-dev reprint",
+        "leftover"
+      ],
+      "at": "2026-08-24T05:38:32.000Z",
+      "mint": "FGzz6CpuAjLpeyir8vWRWcayVTUVTWG8TC4LaqrZpump",
+      "ticker": "GLOOBE"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "inverted+boost",
         "huge first candle",
         "leftover reprint",
@@ -11173,7 +11184,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:38:26.000Z",
+  "updatedAt": "2026-08-24T05:38:32.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
