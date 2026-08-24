@@ -471,6 +471,12 @@
   "stream": [
     {
       "at": "2026-08-24T03:15:38.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID JERMBO 0.05. Live curve. Waiting first take until half the bag covers."
+    },
+    {
+      "at": "2026-08-24T03:15:38.000Z",
       "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
       "ticker": "JERMBO",
       "kind": "DID",
