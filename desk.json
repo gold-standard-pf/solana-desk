@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CLANKER",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:45:51.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no Dex tape"
+      ],
+      "mint": "v34cnHq8uAbheJ89XtAziMCfnUvgyYXKTrFraMBpump"
+    },
+    {
       "ticker": "ORCHIS",
       "verdict": "refuse",
       "at": "2026-08-24T06:45:51.000Z",
@@ -8190,6 +8200,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no Dex tape"
+      ],
+      "at": "2026-08-24T06:45:51.000Z",
+      "mint": "v34cnHq8uAbheJ89XtAziMCfnUvgyYXKTrFraMBpump",
+      "ticker": "CLANKER"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
