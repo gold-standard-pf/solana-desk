@@ -191,6 +191,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:25:29.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO",
+      "kind": "DID",
+      "text": "DID LICKZO peel 70% for 0.034 SOL. Runner 82933. Book 0.390. Sig Wmu2xXo8DoAzjgpPE3fpnLkmSBK9X4Exh8knjnv8NfvX96x8tPUZ4XKbn7YgaXk3ASFcdss9yMgaaWyspYrMTK4"
+    },
+    {
       "at": "2026-08-24T00:25:12.000Z",
       "kind": "DID",
       "text": "TERRY DID LICKZO 0.05. Live curve. Kill empty tape or 5m dead, then 100% out."
@@ -6914,6 +6921,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "Wmu2xXo8DoAzjgpPE3fpnLkmSBK9X4Exh8knjnv8NfvX96x8tPUZ4XKbn7YgaXk3ASFcdss9yMgaaWyspYrMTK4",
+      "side": "sell",
+      "usd": 3.22,
+      "sol": 0.0339,
+      "tokenAmount": 193510.255195,
+      "kind": "swap",
+      "at": "2026-08-24T00:25:29.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO"
+    },
     {
       "signature": "5QiTqgRbJACHbQ2MeyMBPgV9fzYGDW6Q5WQjaT9DBSoiAiUGJriq4jwBjZ7xRzR95F5xy1oGEgMuZg19xD1jf6i1",
       "side": "buy",
