@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "RIPLEEK",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "m5 -83"
+      ],
+      "mint": "CR9pgRYPY9hm94GEKg5AJWqBLJxwibijmyCviFVypump"
+    },
+    {
       "ticker": "HOOTAN",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7932,6 +7943,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wipe",
+        "m5 -83"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "CR9pgRYPY9hm94GEKg5AJWqBLJxwibijmyCviFVypump",
+      "ticker": "RIPLEEK"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
