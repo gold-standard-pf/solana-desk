@@ -997,6 +997,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T05:17:01.000Z",
+      "ticker": "IN",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  dump 100%. Runner gone. About 0.007 back."
+    },
+    {
       "at": "2026-08-24T05:16:54.000Z",
       "kind": "READ",
       "text": "I'm view only. I'm still on $IN. Not adding. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
