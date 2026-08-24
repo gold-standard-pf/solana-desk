@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CRISPE",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "dumping",
+        "5b/8s",
+        "m5 -38"
+      ],
+      "mint": "5bSgthYrk5AsXsBWkWB7Fv2bqXYhw7fKXa2Z6uUwpump"
+    },
+    {
       "ticker": "MAJORLEAK",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7654,6 +7666,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "dumping",
+        "5b/8s",
+        "m5 -38"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "5bSgthYrk5AsXsBWkWB7Fv2bqXYhw7fKXa2Z6uUwpump",
+      "ticker": "CRISPE"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
