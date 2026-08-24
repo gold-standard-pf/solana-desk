@@ -621,6 +621,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:55:10.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:55:03.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -1766,84 +1771,6 @@
       "at": "2026-08-24T00:25:56.000Z",
       "kind": "READ",
       "text": "TERRY Peeled 70% LICKZO on 5m +42. Runner left."
-    },
-    {
-      "at": "2026-08-24T00:25:34.000Z",
-      "kind": "READ",
-      "text": "TERRY peeled 70% LICKZO on 5m +42. Runner left. Kill empty tape or 5m dead, then 100% of the rest."
-    },
-    {
-      "at": "2026-08-24T00:25:29.000Z",
-      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
-      "ticker": "LICKZO",
-      "kind": "DID",
-      "text": "DID LICKZO peel 70% for 0.034 SOL. Runner 82933. Book 0.390. Sig Wmu2xXo8DoAzjgpPE3fpnLkmSBK9X4Exh8knjnv8NfvX96x8tPUZ4XKbn7YgaXk3ASFcdss9yMgaaWyspYrMTK4"
-    },
-    {
-      "at": "2026-08-24T00:25:12.000Z",
-      "kind": "DID",
-      "text": "TERRY DID LICKZO 0.05. Live curve. Kill empty tape or 5m dead, then 100% out."
-    },
-    {
-      "at": "2026-08-24T00:24:05.000Z",
-      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
-      "ticker": "LICKZO",
-      "kind": "DID",
-      "text": "DID LICKZO 0.05 SOL. Live pre-bond CLEAR. Bag 276443. Book 0.356 SOL. Sig 5QiTqgRbJACHbQ2MeyMBPgV9fzYGDW6Q5WQjaT9DBSoiAiUGJriq4jwBjZ7xRzR95F5xy1oGEgMuZg19xD1jf6i1"
-    },
-    {
-      "at": "2026-08-24T00:19:55.000Z",
-      "kind": "READ",
-      "text": "Cash. Sitting still. Book 0.408 SOL. SOL mark on the book is 95.29. Last print was the BABYCHUD full cut. Quiet tape is the position."
-    },
-    {
-      "at": "2026-08-24T00:04:53.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T23:40:16.000Z",
-      "mint": "HTU9qkrjohLo4GBzBCzQDt7UPNh8fnZK3otjYH8Wpump",
-      "ticker": "ANSEMLEEK",
-      "kind": "REFUSED",
-      "text": "REFUSED ANSEMLEEK. Ansem likeness plus reprint swarm. Sit cash. Do not reopen."
-    },
-    {
-      "at": "2026-08-23T23:38:11.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T23:13:10.000Z",
-      "mint": "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
-      "ticker": "NALA",
-      "kind": "REFUSED",
-      "text": "REFUSED NALA mint 62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump. Impersonation, PASS withdrawn. Do not reopen."
-    },
-    {
-      "at": "2026-08-23T23:13:05.000Z",
-      "ticker": "NALA",
-      "kind": "REFUSED",
-      "text": "REFUSED NALA. Impersonation (famous cat brand, lookalike handle). Sit."
-    },
-    {
-      "at": "2026-08-23T23:04:12.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T23:02:11.000Z",
-      "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
-      "ticker": "BABYCHUD",
-      "kind": "DID",
-      "text": "DID BABYCHUD full cut. Nobody bought. Sig 2PM5Qzz2LseZeXPjbMLjZLpBtSbWxC3Dq9fFaiHak5qp8nY9o7SynPdMxA5xmtFNYUuPV6h3zZ4GFQqk8Zph78b7. Flat. Book 0.408 SOL."
-    },
-    {
-      "at": "2026-08-23T23:01:40.000Z",
-      "mint": "JojfSNaVs5WAELJMQYBRtyWPvv4gPPvVKZyrgjmXEpx",
-      "ticker": "BABYCHUD",
-      "kind": "DID",
-      "text": "DID BABYCHUD peel 80% for 0.062 SOL. Runner 563716 left. Book 0.392 SOL. Sig ojanfsBayfwKKskT68depq7e9p8ocbAAt1MYzyP9EPnWPSoMc5ktfb34amGxtymrzQfQoY5pWEKunjnJvYrCBpQ. Token-2022."
     }
   ],
   "signals": [
@@ -8855,6 +8782,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:55:04.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "text": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "messageId": 79337
+    },
     {
       "at": "2026-08-24T03:47:13.000Z",
       "chat": "Pump it",
