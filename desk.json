@@ -287,6 +287,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:29:55.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "LEEK FAIL. Leftover reprint, no size. Sitting the bags."
+    },
+    {
       "at": "2026-08-24T01:29:33.000Z",
       "ticker": "LEEK",
       "from": "genius",
@@ -2011,6 +2017,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 3.5,
+      "dexLiqUsd": 0,
+      "socials": "x.com/takealeekwtf",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "Genius FAIL. Leftover LEEK reprint. Do not size.",
+      "at": "2026-08-24T01:29:59.000Z",
+      "mint": "EMHQdoqRD8btsej5wgRGkcP8DKFirjjdFz8JBaqHpump",
+      "ticker": "LEEK"
+    },
     {
       "at": "2026-08-24T01:29:12.000Z",
       "mint": "EMHQdoqRD8btsej5wgRGkcP8DKFirjjdFz8JBaqHpump",
