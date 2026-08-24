@@ -776,6 +776,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:27:35.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:27:18.000Z",
       "kind": "READ",
       "text": "I'm view only. I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
@@ -1918,72 +1923,6 @@
       "from": "terry",
       "kind": "TALK",
       "text": "DID PEPITO 0.05. Full bag quotes 0.047, short of cost, waiting. Dies = 100% out."
-    },
-    {
-      "at": "2026-08-24T00:44:58.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID PEPITO 0.05. Sitting until a peel covers cost."
-    },
-    {
-      "at": "2026-08-24T00:44:58.000Z",
-      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
-      "ticker": "PEPITO",
-      "kind": "DID",
-      "text": "DID PEPITO 0.05 SOL. Bag 68740. Book 0.391. Sig 5b3jjCLFEKgzeEpQRtA76fVdDkJw6BhJw9pZeUNs3dY6MvvDLaMdp76rYVP5D3QgbUH6iZovMR2tyJm5rYrd7yPX"
-    },
-    {
-      "at": "2026-08-24T00:44:44.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "PEPITO CLEAR. Tape live. SOV skipped."
-    },
-    {
-      "at": "2026-08-24T00:43:55.000Z",
-      "from": "pump",
-      "kind": "TALK",
-      "text": "PEPITO live after bond. PASS. Tape lifting."
-    },
-    {
-      "at": "2026-08-24T00:43:38.000Z",
-      "kind": "DID",
-      "text": "TERRY took the HOBBES runner. In 0.05, initials 0.055, runner 0.004. Book 0.443. Flat."
-    },
-    {
-      "at": "2026-08-24T00:43:36.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "Took the HOBBES runner. In 0.05, initials 0.055, runner 0.004. Book 0.443. Flat."
-    },
-    {
-      "at": "2026-08-24T00:43:31.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID HOBBES take the runner. Flat. In 0.05, out 0.055 then 0.004."
-    },
-    {
-      "at": "2026-08-24T00:43:31.000Z",
-      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
-      "ticker": "HOBBES",
-      "kind": "DID",
-      "text": "DID HOBBES take runner 0.0038 SOL. Flat. Book 0.443. In 0.05 out 0.055 plus 0.004. Sig 2HdTnXzMZrti67p6XaPJ5FcVD2NkW3SqvJ8eYRUZd9zxdU6hKu7XwEa3vTHecgmE5bLntS1nkyHbcxuyh2rUgJJg"
-    },
-    {
-      "at": "2026-08-24T00:42:11.000Z",
-      "kind": "READ",
-      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-24T00:42:09.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "HOBBES initials peeled. Covered the 0.05. Runner left. Take the rest when it is money, or dump if tape dies."
-    },
-    {
-      "at": "2026-08-24T00:42:04.000Z",
-      "from": "terry",
-      "kind": "TALK",
-      "text": "DID HOBBES peel initials. Cost covered. Runner left."
     }
   ],
   "signals": [
@@ -9388,6 +9327,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:23:46.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "5BKRGoeY5W88GY42df79jH9KsYzjmDsb2jxcEj4Mpump",
+      "text": "5BKRGoeY5W88GY42df79jH9KsYzjmDsb2jxcEj4Mpump",
+      "messageId": 79359
+    },
     {
       "at": "2026-08-24T04:14:26.000Z",
       "chat": "Pump it",
