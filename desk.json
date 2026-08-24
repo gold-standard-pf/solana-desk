@@ -12,6 +12,21 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SLOPYHOUSE",
+      "verdict": "pass",
+      "at": "2026-08-24T03:53:28.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "handle gossip10x tweet",
+        "curve filling 76%",
+        "38 SOL on curve",
+        "boost none",
+        "not dumping"
+      ],
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump"
+    },
+    {
       "verdict": "pass",
       "reasons": [
         "Genius CLEAR",
@@ -6773,6 +6788,22 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "handle gossip10x tweet",
+        "curve filling 76%",
+        "38 SOL on curve",
+        "boost none",
+        "not dumping"
+      ],
+      "ageHours": 0.05,
+      "at": "2026-08-24T03:53:28.000Z",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "ticker": "SlopyHouse",
+      "from": "genius"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "5m red",
@@ -9718,7 +9749,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:52:25.000Z",
+  "updatedAt": "2026-08-24T03:53:28.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
