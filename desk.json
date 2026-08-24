@@ -307,6 +307,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:39:25.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID GOZMO dump runner. 5m dead. Flat."
+    },
+    {
+      "at": "2026-08-24T01:39:25.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO",
+      "kind": "DID",
+      "text": "DID GOZMO dump runner 5m dead. Out 0.0027 SOL. Flat. Book 0.430. Sig 659MYWSyRX1SPz3PbtTJmEZPF9GkhMMvWuBpiDLxy4URNcuxnRNFVHW4qB3R4MZJ3aCHg7Z9po6vrZ4a6uPAVJZm"
+    },
+    {
       "at": "2026-08-24T01:37:59.000Z",
       "kind": "READ",
       "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $GOZMO. Not adding. Not inventing a trade. NFA."
@@ -7324,6 +7337,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "659MYWSyRX1SPz3PbtTJmEZPF9GkhMMvWuBpiDLxy4URNcuxnRNFVHW4qB3R4MZJ3aCHg7Z9po6vrZ4a6uPAVJZm",
+      "side": "sell",
+      "usd": 0.25,
+      "sol": 0.0027,
+      "tokenAmount": 16760.057576,
+      "kind": "swap",
+      "at": "2026-08-24T01:39:25.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO"
+    },
     {
       "signature": "HVxAbAGGwzcA6pdg7SKD2CiXPCkXuZRxrQP8t5pK1WUczU8MAjsvdfuNd9LvRRv1p9thCXEbyfRTSy7D7XXug6f",
       "side": "sell",
