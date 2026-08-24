@@ -7957,6 +7957,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "no handle",
+        "thin tape"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "AEHvMcg5B2UyKESP31gf6qPLPCFoCCeif2m214jypump",
+      "ticker": "WP"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint",
         "dead tape"
       ],
