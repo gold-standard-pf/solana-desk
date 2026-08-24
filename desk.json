@@ -776,6 +776,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:25:06.000Z",
+      "ticker": "NUANNUAN",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID dump  100%. 0.05 in / 0.049 out. First-candle wipe. Flat."
+    },
+    {
       "at": "2026-08-24T04:23:41.000Z",
       "from": "terry",
       "kind": "TALK",
