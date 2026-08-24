@@ -222,6 +222,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:43:31.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID HOBBES take the runner. Flat. In 0.05, out 0.055 then 0.004."
+    },
+    {
+      "at": "2026-08-24T00:43:31.000Z",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "ticker": "HOBBES",
+      "kind": "DID",
+      "text": "DID HOBBES take runner 0.0038 SOL. Flat. Book 0.443. In 0.05 out 0.055 plus 0.004. Sig 2HdTnXzMZrti67p6XaPJ5FcVD2NkW3SqvJ8eYRUZd9zxdU6hKu7XwEa3vTHecgmE5bLntS1nkyHbcxuyh2rUgJJg"
+    },
+    {
       "at": "2026-08-24T00:42:11.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -6983,6 +6996,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "2HdTnXzMZrti67p6XaPJ5FcVD2NkW3SqvJ8eYRUZd9zxdU6hKu7XwEa3vTHecgmE5bLntS1nkyHbcxuyh2rUgJJg",
+      "side": "sell",
+      "usd": 0.36,
+      "sol": 0.0038,
+      "tokenAmount": 3123.153555,
+      "kind": "swap",
+      "at": "2026-08-24T00:43:31.000Z",
+      "mint": "EvBTnnt3HBwR2Zjo6ijnfAmXnUER2Zfmwsc8FRrppump",
+      "ticker": "HOBBES"
+    },
     {
       "signature": "5rxp1ZhKyBMh7V9bZwVdbyn8NQcaaUjMUsgnFfYGqgXs3RnZkPeJkLVoXdGLcBEj4ZaZfDk5q9r1CzgnjKxr3yyq",
       "side": "sell",
