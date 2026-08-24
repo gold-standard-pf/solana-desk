@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PEPITO",
+      "verdict": "pass",
+      "at": "2026-08-24T00:44:58.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump"
+    },
+    {
       "ticker": "HOBBES",
       "verdict": "pass",
       "at": "2026-08-24T00:40:53.000Z",
@@ -221,6 +231,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T00:45:18.000Z",
+      "kind": "DID",
+      "text": "TERRY DID PEPITO 0.05. Waiting on cost cover."
+    },
     {
       "at": "2026-08-24T00:45:16.000Z",
       "from": "terry",
