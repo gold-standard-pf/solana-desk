@@ -7534,6 +7534,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "inverted+boost",
+        "huge first candle",
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:24:18.000Z",
+      "mint": "yDMAHB5Hgp44FWsiZ3KRQbYwAGsejArMyqBM7QWpump",
+      "ticker": "PUMPIT"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "no handle",
         "already dumping",
         "no Dex two-way"
