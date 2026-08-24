@@ -265,6 +265,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:21:36.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "GTAVI board PASS, live tape, waiting Genius. DRIP refuse, dump off highs. GOZMO still filling. ESL not printed."
+    },
+    {
       "at": "2026-08-24T01:20:43.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1947,6 +1953,30 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:21:35.000Z",
+      "mint": "7cVEbHT6LYzrukidURraXsFhhp11Yxc2n9yZLHb6pump",
+      "ticker": "DRIP",
+      "ageMin": 17.0,
+      "dexLiqUsd": 19000.0,
+      "socials": "x.com/drippy_s0l",
+      "boost": "NONE",
+      "inverted": true,
+      "verdict": "REFUSE",
+      "note": "bonded then 5m dump off ATH. Dead tape."
+    },
+    {
+      "at": "2026-08-24T01:21:35.000Z",
+      "mint": "FS8bo3we1naSME2JetkeuhfGnBKA28WuQaj2v4ckpump",
+      "ticker": "GTAVI",
+      "ageMin": 16.1,
+      "dexLiqUsd": 56000.0,
+      "socials": "x.com/SOLANA_GTAVI",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "bonded PumpSwap ~6k, buyers lifting, GTA tribute, Dex boost none. Genius CLEAR/FAIL."
+    },
     {
       "ageMin": 1,
       "dexLiqUsd": 0,
