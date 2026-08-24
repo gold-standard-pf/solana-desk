@@ -8160,6 +8160,17 @@
   ],
   "fills": [
     {
+      "signature": "43oyQ7uNa3Y1FH4U7xYjaruXS3TuFKEsHVEhDAeE6MaypHzZEwXoFSkhFu2cFXg3ijbWnnXmxzrwEUjRFngFFkB1",
+      "side": "buy",
+      "usd": 4.69,
+      "sol": 0.05,
+      "tokenAmount": 59704.477184,
+      "kind": "swap",
+      "at": "2026-08-24T03:47:17.000Z",
+      "mint": "6kHLia3bnChWVtd76JYeENcUfAmmZdx6Vmhe1UX5pump",
+      "ticker": "SOLSHIBE"
+    },
+    {
       "signature": "4WdBiLAg26ULnPypVziXGuS4F7G4x4fMMZ1Qrr4tYwqdqEgJ2ZRfp14RSo6XE4uUMPpjtZiKqWvqcPdV9qC1Ptj5",
       "side": "buy",
       "usd": 4.69,
@@ -9590,7 +9601,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:44:41.000Z",
+  "updatedAt": "2026-08-24T03:47:17.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
