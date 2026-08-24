@@ -12,6 +12,44 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CSWAP",
+      "verdict": "refuse",
+      "at": "2026-08-24T02:15:23.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand",
+        "ClawSwap product token",
+        "not a meme first print"
+      ],
+      "mint": "CKHbL2MBLNX2Tm5CtMzWvTNdF2F8hL21Sw3TqZQApump"
+    },
+    {
+      "ticker": "PEPE",
+      "verdict": "refuse",
+      "at": "2026-08-24T02:15:23.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand leftover",
+        "same ticker many recent mints",
+        "huge first candle",
+        "not a first print"
+      ],
+      "mint": "Bp8V6VBk53NUZppCSBZrgyEPi9sQdHbzCK8J3g1Gpump"
+    },
+    {
+      "ticker": "NINJACAT",
+      "verdict": "refuse",
+      "at": "2026-08-24T02:15:23.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint farm",
+        "same ticker many mints",
+        "same tweet already cloned",
+        "not a first print"
+      ],
+      "mint": "57pTdaUfmDeXMYbHbQrwAsb68DgzZz66wrBQVY1xpump"
+    },
+    {
       "ticker": "GOY",
       "verdict": "refuse",
       "at": "2026-08-24T02:13:38.000Z",
@@ -345,6 +383,27 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T02:15:23.000Z",
+      "ticker": "CSWAP",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL CSWAP. Official ClawSwap brand, not a first-print meme. Sitting cash. Not a fill."
+    },
+    {
+      "at": "2026-08-24T02:15:23.000Z",
+      "ticker": "Pepe",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL Pepe. Official leftover name, fat first candle. Sitting cash. Not a fill."
+    },
+    {
+      "at": "2026-08-24T02:15:23.000Z",
+      "ticker": "NINJACAT",
+      "from": "genius",
+      "kind": "READ",
+      "text": "FAIL NINJACAT. Leftover reprint farm, same tweet cloned. Sitting cash. Not a fill."
+    },
     {
       "at": "2026-08-24T02:15:10.000Z",
       "kind": "READ",
@@ -2034,6 +2093,27 @@
     }
   ],
   "board": [
+    {
+      "verdict": "REFUSE",
+      "at": "2026-08-24T02:15:23.000Z",
+      "mint": "CKHbL2MBLNX2Tm5CtMzWvTNdF2F8hL21Sw3TqZQApump",
+      "ticker": "CSWAP",
+      "note": "Genius FAIL official ClawSwap brand. Handle exists, tape live, still a product token. Do not size."
+    },
+    {
+      "verdict": "REFUSE",
+      "at": "2026-08-24T02:15:23.000Z",
+      "mint": "Bp8V6VBk53NUZppCSBZrgyEPi9sQdHbzCK8J3g1Gpump",
+      "ticker": "Pepe",
+      "note": "Genius FAIL official Pepe leftover. Fat first candle. Do not size."
+    },
+    {
+      "verdict": "REFUSE",
+      "at": "2026-08-24T02:15:23.000Z",
+      "mint": "57pTdaUfmDeXMYbHbQrwAsb68DgzZz66wrBQVY1xpump",
+      "ticker": "NINJACAT",
+      "note": "Genius FAIL leftover NINJA reprint farm. Same tweet clones. Do not size."
+    },
     {
       "at": "2026-08-24T01:50:39.000Z",
       "mint": "GPy6VnXGb5pDVA2aoajmBerPWiaezVZGB38jL8Hzpump",
@@ -6208,6 +6288,44 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand",
+        "ClawSwap product token",
+        "not a meme first print"
+      ],
+      "ageHours": 0.02,
+      "at": "2026-08-24T02:15:23.000Z",
+      "mint": "CKHbL2MBLNX2Tm5CtMzWvTNdF2F8hL21Sw3TqZQApump",
+      "ticker": "CSWAP"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand leftover",
+        "same ticker many recent mints",
+        "huge first candle",
+        "not a first print"
+      ],
+      "ageHours": 0.07,
+      "at": "2026-08-24T02:15:23.000Z",
+      "mint": "Bp8V6VBk53NUZppCSBZrgyEPi9sQdHbzCK8J3g1Gpump",
+      "ticker": "Pepe"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint farm",
+        "same ticker many mints",
+        "same tweet already cloned",
+        "not a first print"
+      ],
+      "ageHours": 0.06,
+      "at": "2026-08-24T02:15:23.000Z",
+      "mint": "57pTdaUfmDeXMYbHbQrwAsb68DgzZz66wrBQVY1xpump",
+      "ticker": "NINJACAT"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
