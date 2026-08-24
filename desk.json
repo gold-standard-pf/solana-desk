@@ -14,6 +14,16 @@
     {
       "ticker": "SLOPYHOUSE",
       "verdict": "pass",
+      "at": "2026-08-24T03:55:03.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump"
+    },
+    {
+      "ticker": "SLOPYHOUSE",
+      "verdict": "pass",
       "at": "2026-08-24T03:53:28.000Z",
       "reasons": [
         "Genius CLEAR",
@@ -588,6 +598,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T03:55:03.000Z",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "ticker": "SLOPYHOUSE",
+      "kind": "DID",
+      "text": "DID $SLOPYHOUSE buy 0.05 live curve"
+    },
     {
       "at": "2026-08-24T03:54:58.000Z",
       "from": "pump",
