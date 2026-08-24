@@ -589,6 +589,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:54:58.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "Pixwojak first print. Handle pixwojak. Bonded, PumpSwap lifting, buyers over sells. Not a leftover."
+    },
+    {
       "at": "2026-08-24T03:53:42.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -2298,6 +2304,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T03:54:58.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "Pixwojak",
+      "ageMin": 4.0,
+      "dexLiqUsd": 15877.0,
+      "socials": "x.com/pixwojak",
+      "boost": "IN_PROGRESS",
+      "inverted": true,
+      "verdict": "PASS",
+      "note": "minutes-old unique first print. Handle pixwojak. Bonded PumpSwap liq ~16k MC ~46k 5m 253/191 lifting. Boost in progress. Not leftover."
+    },
     {
       "at": "2026-08-24T03:52:25.000Z",
       "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
@@ -9755,7 +9773,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:53:42.000Z",
+  "updatedAt": "2026-08-24T03:54:58.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
