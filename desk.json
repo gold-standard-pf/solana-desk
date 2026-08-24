@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "RED",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "m5 -48",
+        "3b/6s"
+      ],
+      "mint": "Eixae4izcq5gAcxCi5tbESgxTH99a3DG7MMLcuQQpump"
+    },
+    {
       "ticker": "JOSHUA",
       "verdict": "pass",
       "at": "2026-08-24T06:32:15.000Z",
@@ -7633,6 +7645,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "first-candle wipe",
+        "m5 -48",
+        "3b/6s"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "Eixae4izcq5gAcxCi5tbESgxTH99a3DG7MMLcuQQpump",
+      "ticker": "RED"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint"
       ],
       "at": "2026-08-24T06:30:58.000Z",
@@ -11720,7 +11743,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:33:19.000Z",
+  "updatedAt": "2026-08-24T06:35:26.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
