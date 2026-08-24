@@ -776,6 +776,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:31:08.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:27:45.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1917,11 +1922,6 @@
       "from": "pump",
       "kind": "TALK",
       "text": "BlockPump dumped after bond. REFUSE."
-    },
-    {
-      "at": "2026-08-24T00:45:18.000Z",
-      "kind": "DID",
-      "text": "TERRY DID PEPITO 0.05. Waiting on cost cover."
     }
   ],
   "signals": [
@@ -9344,6 +9344,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:30:42.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "tokenscan",
+      "ticker": "",
+      "mint": "",
+      "text": "/settings@tokenscan",
+      "messageId": 79364
+    },
     {
       "at": "2026-08-24T04:27:45.000Z",
       "chat": "Pump it",
