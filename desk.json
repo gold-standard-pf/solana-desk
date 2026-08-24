@@ -8117,6 +8117,15 @@
         "leftover reprint"
       ],
       "at": "2026-08-24T06:44:11.000Z",
+      "mint": "F1dRxVD9Ufz6QytaprUuv8MMHkjvkwMud5jNhEkRpump",
+      "ticker": "RIPLEEK"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:44:11.000Z",
       "mint": "2KebgtnrmzV7aSmt5gX6mYAxpF8sxyipqSZrNhBLpump",
       "ticker": "HOOTAN"
     },
