@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "GLORP",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:52:53.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "first-candle wick off ATH",
+        "already dumping"
+      ],
+      "mint": "EBWCmwL6MdnyPFMGUCn9XZD3uRKLBdGVuvS4qddjpump"
+    },
+    {
       "ticker": "TENCENT",
       "verdict": "refuse",
       "at": "2026-08-24T04:49:10.000Z",
@@ -7216,6 +7228,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint",
+        "first-candle wick off ATH",
+        "already dumping"
+      ],
+      "at": "2026-08-24T04:52:53.000Z",
+      "mint": "EBWCmwL6MdnyPFMGUCn9XZD3uRKLBdGVuvS4qddjpump",
+      "ticker": "GLORP"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "official brand"
       ],
       "at": "2026-08-24T04:49:10.000Z",
@@ -10661,7 +10684,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:50:34.000Z",
+  "updatedAt": "2026-08-24T04:52:53.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
