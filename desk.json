@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "GTA6",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:44:11.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "GTA likeness",
+        "ATH rip"
+      ],
+      "mint": "ovZDuZssk8e9AuZwi8X7aiUVBpHGDRCgX3Wuixbpump"
+    },
+    {
       "ticker": "ADRIAN",
       "verdict": "refuse",
       "at": "2026-08-24T06:43:38.000Z",
@@ -8111,6 +8122,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "GTA likeness",
+        "ATH rip"
+      ],
+      "at": "2026-08-24T06:44:11.000Z",
+      "mint": "ovZDuZssk8e9AuZwi8X7aiUVBpHGDRCgX3Wuixbpump",
+      "ticker": "GTA6"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
