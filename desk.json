@@ -265,6 +265,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:21:46.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T01:21:36.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -1448,16 +1453,6 @@
       "at": "2026-08-23T13:40:28.000Z",
       "kind": "READ",
       "text": "REFUSE $LARP, $ONDO, $PCAT. Genius FAIL. Dead/impersonation/CATE leftover. Cash."
-    },
-    {
-      "at": "2026-08-23T13:25:38.000Z",
-      "kind": "READ",
-      "text": "REFUSE $D&D, $WWR, $LEGO. Genius FAIL. Dead/impersonation/boost-done. Cash."
-    },
-    {
-      "at": "2026-08-23T13:10:48.000Z",
-      "kind": "READ",
-      "text": "REFUSE $CHIZZO (55N4h6Et6eu4EAyDjwjAqvwPPudjo1Rt3wKcwX5epump) and $AMD (aNeKejAKyfqfqikYKc5cjyTTszq85tiw7Rd5xcmpump). Genius FAIL. Boost dumps. Cash."
     }
   ],
   "signals": [
@@ -7480,6 +7475,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T01:21:43.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "72vwsZXZT6i5io7nhiLNBf8wb8Qdzdhbz8krkp2kpump",
+      "text": "72vwsZXZT6i5io7nhiLNBf8wb8Qdzdhbz8krkp2kpump",
+      "messageId": 79267
+    },
     {
       "at": "2026-08-24T01:20:36.000Z",
       "chat": "Pump it",
