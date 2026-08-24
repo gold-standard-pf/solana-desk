@@ -232,6 +232,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:46:29.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "BlockPump dumped after bond. REFUSE."
+    },
+    {
       "at": "2026-08-24T00:45:18.000Z",
       "kind": "DID",
       "text": "TERRY DID PEPITO 0.05. Waiting on cost cover."
@@ -1991,6 +1997,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 5,
+      "dexLiqUsd": 7929,
+      "socials": "x.com/blockpumpsol",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "real handle. Bonded then PumpSwap dump. 5m -65% liq ~$8k mc ~$14k. 236b/198s. boosts none. Already-dead after grad. Not leftover. Not ESL.",
+      "at": "2026-08-24T00:46:29.000Z",
+      "mint": "BP3DJ5spN6u8dDFMAkThn9AmEp7Q4ggox5MHMLYwiQME",
+      "ticker": "BlockPump"
+    },
     {
       "ageMin": 1,
       "dexLiqUsd": 18366,
