@@ -6958,6 +6958,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "official Red Bull brand",
+        "stolen brand sit"
+      ],
+      "at": "2026-08-24T04:01:41.000Z",
+      "mint": "gfH9xcdPdzvSko9PioGif5P1dxnjvpQm5Q2aAbKpump",
+      "ticker": "REDBULL",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "no handle",
         "missing socials"
       ],
