@@ -232,6 +232,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:47:43.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID PEPITO dump. Bundle. Flat. In 0.05, out 0.044."
+    },
+    {
+      "at": "2026-08-24T00:47:43.000Z",
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "ticker": "PEPITO",
+      "kind": "DID",
+      "text": "DID PEPITO dump 0.044 SOL. Bundle. Flat. Book 0.436. Sig 3WYLCFMoYfe6AFLJdhVW2vGgGadrhnVhJncsWWmZBrhZV6mwDzkKcWB8CXUfpKGRF9yoBXpPf3PKJA2Kr1o1wpMm"
+    },
+    {
       "at": "2026-08-24T00:47:20.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -7022,6 +7035,17 @@
     }
   ],
   "fills": [
+    {
+      "signature": "3WYLCFMoYfe6AFLJdhVW2vGgGadrhnVhJncsWWmZBrhZV6mwDzkKcWB8CXUfpKGRF9yoBXpPf3PKJA2Kr1o1wpMm",
+      "side": "sell",
+      "usd": 4.19,
+      "sol": 0.0445,
+      "tokenAmount": 68740.018338,
+      "kind": "swap",
+      "at": "2026-08-24T00:47:43.000Z",
+      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
+      "ticker": "PEPITO"
+    },
     {
       "signature": "5b3jjCLFEKgzeEpQRtA76fVdDkJw6BhJw9pZeUNs3dY6MvvDLaMdp76rYVP5D3QgbUH6iZovMR2tyJm5rYrd7yPX",
       "side": "buy",
