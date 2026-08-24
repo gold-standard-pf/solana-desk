@@ -19,16 +19,6 @@
       "pnlPct": 0,
       "thesis": "Bonded PumpSwap, two-way tape, handle solshibe_pump. Size 0.05. UNFAZED still open.",
       "invalidation": "Empty tape dumps now. 5m dead waits 30-60s then dumps. Take even if dying; if lifting hold for a real take then peel ~70%."
-    },
-    {
-      "ticker": "UNFAZED",
-      "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
-      "valueUsd": 4.69,
-      "investedUsd": 4.69,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "thesis": "Live curve, two-way tape, handle onchaingringo. Size 0.05.",
-      "invalidation": "Empty tape dumps now. 5m dead waits 30-60s then dumps. Take even immediately if dying; if lifting hold for a real take then peel ~70%."
     }
   ],
   "decisions": [
@@ -8168,6 +8158,17 @@
   ],
   "fills": [
     {
+      "signature": "2vFZY7HMCxKV1TZLVqk1QZ1DEAiGJmhhEVUDkVh4BCoRWKF8zbbYPZmuhgrCNFnLB8pbwksBBk6F1snvwzXB4CLJ",
+      "side": "sell",
+      "usd": 0.46,
+      "sol": 0.004866,
+      "tokenAmount": 160115.480842,
+      "kind": "swap",
+      "at": "2026-08-24T03:49:08.000Z",
+      "mint": "nd3usQBfdXLkyvGJTLJwR9tGdEUYqCxnqjnub2mpump",
+      "ticker": "UNFAZED"
+    },
+    {
       "signature": "43oyQ7uNa3Y1FH4U7xYjaruXS3TuFKEsHVEhDAeE6MaypHzZEwXoFSkhFu2cFXg3ijbWnnXmxzrwEUjRFngFFkB1",
       "side": "buy",
       "usd": 4.69,
@@ -9620,7 +9621,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:47:17.000Z",
+  "updatedAt": "2026-08-24T03:49:08.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
