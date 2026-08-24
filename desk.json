@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MAJORLEAK",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:35:26.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "GTA likeness",
+        "dead tape",
+        "1 buy 0 vol"
+      ],
+      "mint": "2AZvAAPLkwLCxNfgbgmDCZNZxCyyA4wpum5Q4dVTpump"
+    },
+    {
       "ticker": "RED",
       "verdict": "refuse",
       "at": "2026-08-24T06:35:26.000Z",
@@ -7642,6 +7654,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "GTA likeness",
+        "dead tape",
+        "1 buy 0 vol"
+      ],
+      "at": "2026-08-24T06:35:26.000Z",
+      "mint": "2AZvAAPLkwLCxNfgbgmDCZNZxCyyA4wpum5Q4dVTpump",
+      "ticker": "MAJORLEAK"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
