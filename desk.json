@@ -287,6 +287,19 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:30:37.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DID CHAOSCAT dump. Empty tape. Flat. In 0.05, out 0.049."
+    },
+    {
+      "at": "2026-08-24T01:30:37.000Z",
+      "mint": "9bjt3exZmKAXt6q2csTfXytQdGnjfyEvKgGXB3F49ocv",
+      "ticker": "CHAOSCAT",
+      "kind": "DID",
+      "text": "DID CHAOSCAT dump empty tape 0.049 SOL. Flat. Book 0.427. Sig HVxAbAGGwzcA6pdg7SKD2CiXPCkXuZRxrQP8t5pK1WUczU8MAjsvdfuNd9LvRRv1p9thCXEbyfRTSy7D7XXug6f"
+    },
+    {
       "at": "2026-08-24T01:29:55.000Z",
       "from": "pump",
       "kind": "TALK",
@@ -7267,6 +7280,17 @@
   ],
   "fills": [
     {
+      "signature": "HVxAbAGGwzcA6pdg7SKD2CiXPCkXuZRxrQP8t5pK1WUczU8MAjsvdfuNd9LvRRv1p9thCXEbyfRTSy7D7XXug6f",
+      "side": "sell",
+      "usd": 4.61,
+      "sol": 0.0487,
+      "tokenAmount": 1763352.468753,
+      "kind": "swap",
+      "at": "2026-08-24T01:30:37.000Z",
+      "mint": "9bjt3exZmKAXt6q2csTfXytQdGnjfyEvKgGXB3F49ocv",
+      "ticker": "CHAOSCAT"
+    },
+    {
       "signature": "wmegFaQo85vYcdtbN5kjynrdz1ydTb2gVitoui3jPL9t6bqpYuP1qP8qcmPQQHGsUf8WuwCv8KTjHZYwYPcZQEo",
       "side": "sell",
       "usd": 5.19,
@@ -8205,7 +8229,7 @@
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
   "updatedAt": "2026-08-24T00:58:58.000Z",
-  "capSol": 0.075,
+  "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
   "solUsd": 94.68
