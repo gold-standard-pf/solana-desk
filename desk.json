@@ -689,6 +689,13 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:03:19.000Z",
+      "mint": "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+      "ticker": "PIXWOJAK",
+      "kind": "DID",
+      "text": "DID $PIXWOJAK peel 70% then leftover out. In 0.05 out 0.059"
+    },
+    {
       "at": "2026-08-24T04:01:11.000Z",
       "from": "pump",
       "kind": "TALK",
