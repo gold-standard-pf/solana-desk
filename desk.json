@@ -307,6 +307,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:39:29.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "GOZMO dumped after bond. CLEAR is stale. Sitting cash."
+    },
+    {
       "at": "2026-08-24T01:39:25.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -2022,6 +2028,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T01:39:29.000Z",
+      "mint": "5LV4xvdkCBXCwAq9ehmhBkhwtFMjgq8XFdWxhWv3pump",
+      "ticker": "GOZMO",
+      "ageMin": 40.0,
+      "dexLiqUsd": 8051.0,
+      "socials": "x.com",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "bonded then PumpSwap dump 5m -78%. Prior CLEAR stale. Do not size."
+    },
     {
       "at": "2026-08-24T01:32:35.000Z",
       "mint": "DjWJ7pBNtG1FocVp5HhML1ReNsk5zv1aX3eZKKExpump",
