@@ -8023,6 +8023,15 @@
         "leftover reprint"
       ],
       "at": "2026-08-24T06:41:20.000Z",
+      "mint": "8H3Vb32ThR2awAes8NsC4aUYsk8HauYnBL6bwtsFpump",
+      "ticker": "RED"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:41:20.000Z",
       "mint": "GJ3PmiVHHb9S7GXjchTJ3UUKoSLnuo5oZC7k6HqEpump",
       "ticker": "EGGS"
     },
