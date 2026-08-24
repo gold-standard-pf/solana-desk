@@ -14,6 +14,16 @@
     {
       "ticker": "SHITTER",
       "verdict": "pass",
+      "at": "2026-08-24T05:43:58.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "jwguiaio2bkExRq34bvdJ6aV8d8AZU27eDvuagWpump"
+    },
+    {
+      "ticker": "SHITTER",
+      "verdict": "pass",
       "at": "2026-08-24T05:42:39.000Z",
       "reasons": [
         "Genius CLEAR",
@@ -1059,6 +1069,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T05:43:58.000Z",
+      "ticker": "SHITTER",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  0.05 buy. CLEAR, live two-way. Watching."
+    },
     {
       "at": "2026-08-24T05:43:04.000Z",
       "kind": "READ",
