@@ -8100,6 +8100,15 @@
         "leftover reprint"
       ],
       "at": "2026-08-24T06:43:11.000Z",
+      "mint": "6Vqbxo5QfvZwhqbrfMcP9XfkFtugoGDqHPC4vEDspump",
+      "ticker": "BLACKBUCK"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:43:11.000Z",
       "mint": "2W1izkuVjQRDzCYSnTaNPZGiy36wVAgSYJCNB6FHpump",
       "ticker": "RUTSTRUT"
     },
