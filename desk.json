@@ -8747,6 +8747,15 @@
   ],
   "fills": [
     {
+      "signature": "4PsMnCHoFbFnUK5fhhBLJKaTLMsHsmkmasLW5C5dk3oNA1MtEm121Wa1k2SgiamzG9aZKN1tQALdLCe1N79GfRDC",
+      "side": "buy",
+      "sol": 0.05,
+      "kind": "swap",
+      "at": "2026-08-24T04:23:41.000Z",
+      "mint": "5BKRGoeY5W88GY42df79jH9KsYzjmDsb2jxcEj4Mpump",
+      "ticker": "NUANNUAN"
+    },
+    {
       "signature": "SDKaCvS1G3TD47UawXTN9bbCJfQM7DvPa1zUDymQ56Rr8THaRVG4UuQURen6dN8NE7Phd5VrHvf234FdARzfdFJ",
       "side": "sell",
       "usd": 1.66,
@@ -10364,7 +10373,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:23:33.000Z",
+  "updatedAt": "2026-08-24T04:23:41.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
