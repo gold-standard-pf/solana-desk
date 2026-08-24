@@ -13,6 +13,16 @@
   "decisions": [
     {
       "ticker": "JOSHUA",
+      "verdict": "pass",
+      "at": "2026-08-24T06:32:15.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "9KXdg4SSmGDwphgK5CDpmxHnuHnrJHQA5ra3j7tbpump"
+    },
+    {
+      "ticker": "JOSHUA",
       "verdict": "refuse",
       "at": "2026-08-24T06:30:58.000Z",
       "reasons": [
@@ -1206,6 +1216,13 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-24T06:32:15.000Z",
+      "ticker": "JOSHUA",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID  0.05 buy. CLEAR, live two-way. Watching."
+    },
     {
       "at": "2026-08-24T06:30:57.000Z",
       "kind": "READ",
