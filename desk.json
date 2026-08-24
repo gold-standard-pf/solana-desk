@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "HOOTAN",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:40:28.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "fading"
+      ],
+      "mint": "7VNS83Dc9xn2NHxr52QdEVP5xNhkLQNrKHAizqgkpump"
+    },
+    {
       "ticker": "MORTY",
       "verdict": "refuse",
       "at": "2026-08-24T06:40:28.000Z",
@@ -7921,6 +7932,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint",
+        "fading"
+      ],
+      "at": "2026-08-24T06:40:28.000Z",
+      "mint": "7VNS83Dc9xn2NHxr52QdEVP5xNhkLQNrKHAizqgkpump",
+      "ticker": "HOOTAN"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
