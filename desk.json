@@ -22,6 +22,18 @@
   ],
   "decisions": [
     {
+      "ticker": "SMUDGE",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:05:09.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "inverted+boost COMPLETED",
+        "leftover not first print",
+        "already dumping"
+      ],
+      "mint": "AALr9xpQDrE2cP5v31qLbx5xA9XEJnKMZVJiCugrpump"
+    },
+    {
       "ticker": "TOAD",
       "verdict": "refuse",
       "at": "2026-08-24T05:54:14.000Z",
@@ -7441,6 +7453,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "inverted+boost COMPLETED",
+        "leftover not first print",
+        "already dumping"
+      ],
+      "at": "2026-08-24T06:05:09.000Z",
+      "mint": "AALr9xpQDrE2cP5v31qLbx5xA9XEJnKMZVJiCugrpump",
+      "ticker": "SMUDGE"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "inverted+boost",
         "huge first candle",
         "no handle"
@@ -11339,7 +11362,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:04:26.000Z",
+  "updatedAt": "2026-08-24T06:05:09.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
