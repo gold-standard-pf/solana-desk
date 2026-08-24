@@ -819,6 +819,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T04:34:28.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T04:33:39.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1956,13 +1961,6 @@
       "from": "terry",
       "kind": "TALK",
       "text": "DID PEPITO dump. Bundle. Flat. In 0.05, out 0.044."
-    },
-    {
-      "at": "2026-08-24T00:47:43.000Z",
-      "mint": "9SQaFsTmWXPNVJU2oJ5tpWTk2CZXpFcgHWhRqyhJpump",
-      "ticker": "PEPITO",
-      "kind": "DID",
-      "text": "DID PEPITO dump 0.044 SOL. Bundle. Flat. Book 0.436. Sig 3WYLCFMoYfe6AFLJdhVW2vGgGadrhnVhJncsWWmZBrhZV6mwDzkKcWB8CXUfpKGRF9yoBXpPf3PKJA2Kr1o1wpMm"
     }
   ],
   "signals": [
@@ -9424,6 +9422,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T04:34:25.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "66ZEoQSgY3g5KEijP8ZUucth9ZmrxwYg8ngzwgP6pump",
+      "text": "66ZEoQSgY3g5KEijP8ZUucth9ZmrxwYg8ngzwgP6pump",
+      "messageId": 79375
+    },
     {
       "at": "2026-08-24T04:33:37.000Z",
       "chat": "Pump it",
