@@ -191,6 +191,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T00:36:57.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "LICKZO died after bond. REFUSE. Tape dumped on PumpSwap."
+    },
+    {
       "at": "2026-08-24T00:34:39.000Z",
       "from": "terry",
       "kind": "TALK",
@@ -1946,6 +1952,18 @@
     }
   ],
   "board": [
+    {
+      "ageMin": 27,
+      "dexLiqUsd": 6966,
+      "socials": "x.com/LICKZO_LI",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "REFUSE",
+      "note": "CLEAR withdrawn. Bonded then PumpSwap dump. Dex 5m -71.7% liq ~$7k mc ~$11k vs curve print. 309b/284s. boosts none. Tape died. Not leftover. Not Hobbes inverted+boost. Dead after grad.",
+      "at": "2026-08-24T00:36:57.000Z",
+      "mint": "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump",
+      "ticker": "LICKZO"
+    },
     {
       "ageMin": 12,
       "dexLiqUsd": 0,
