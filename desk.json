@@ -23,6 +23,18 @@
   ],
   "decisions": [
     {
+      "ticker": "ORCHID",
+      "verdict": "refuse",
+      "at": "2026-08-24T05:14:25.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "inverted+boost",
+        "huge first candle",
+        "bundle shape"
+      ],
+      "mint": "2g1VuVfZbbL5C39LSAQCUQoS8NqD25aLFxC6XmTypump"
+    },
+    {
       "ticker": "OMO",
       "verdict": "refuse",
       "at": "2026-08-24T05:12:30.000Z",
@@ -7347,6 +7359,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "inverted+boost",
+        "huge first candle",
+        "bundle shape"
+      ],
+      "at": "2026-08-24T05:14:25.000Z",
+      "mint": "2g1VuVfZbbL5C39LSAQCUQoS8NqD25aLFxC6XmTypump",
+      "ticker": "ORCHID"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint",
         "inverted+boost",
         "huge first candle",
@@ -10967,7 +10990,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T05:12:30.000Z",
+  "updatedAt": "2026-08-24T05:14:25.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
