@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "KOMATSU",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:49:48.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "dead tape",
+        "dumped off first-candle ATH"
+      ],
+      "mint": "876n64iQQ2w9CK4irZftkPPPghN48oWD7AdxuCngpump"
+    },
+    {
       "ticker": "NIU",
       "verdict": "refuse",
       "at": "2026-08-24T06:49:48.000Z",
@@ -8243,6 +8254,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "dead tape",
+        "dumped off first-candle ATH"
+      ],
+      "at": "2026-08-24T06:49:48.000Z",
+      "mint": "876n64iQQ2w9CK4irZftkPPPghN48oWD7AdxuCngpump",
+      "ticker": "KOMATSU"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
