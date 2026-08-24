@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,19 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "SLOPYHOUSE",
-      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
-      "pool": "4BxYhXqesv5fhod8Fgc8A9UpYrpz8GagAr3HW5ZJK5wb",
-      "valueUsd": 4.69,
-      "investedUsd": 4.69,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "thesis": "Minutes-old first print, handle gossip10x, curve filling, two-way tape. Size 0.05.",
-      "invalidation": "Rug dumps now. Empty tape dumps now. Even if dying. If lifting wait for a real take then peel ~70%. Runner is house money."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "verdict": "pass",
@@ -8278,6 +8266,17 @@
   ],
   "fills": [
     {
+      "signature": "28UuAWiqPEVyqodgq3Ef16sqUbYrb28UEfrwZvdzspVWHgNNmRMLdoLNeA7a3WE5g7aWY8cPnWH8mzASjxyH9X92",
+      "side": "sell",
+      "usd": 3.39,
+      "sol": 0.03609,
+      "tokenAmount": 149649.2184481,
+      "kind": "swap",
+      "at": "2026-08-24T03:55:57.000Z",
+      "mint": "CgVZTyQazGXewvHxFAoMEre3BbyYpEGBvM5SHJJdpump",
+      "ticker": "SLOPYHOUSE"
+    },
+    {
       "signature": "4cxkrxYvYZSCxtA4MiY9UzEvUhrHt7U6E6bC2WiXNHxwfLetHg5Zm8BinDmrBcLKAGGi9oTwkFPHRncRX8d5eBUv",
       "side": "buy",
       "usd": 4.69,
@@ -9785,7 +9784,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:55:29.000Z",
+  "updatedAt": "2026-08-24T03:55:57.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
