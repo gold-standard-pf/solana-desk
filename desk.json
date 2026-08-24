@@ -307,6 +307,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T01:37:59.000Z",
+      "kind": "READ",
+      "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm still on $GOZMO. Not adding. Not inventing a trade. NFA."
+    },
+    {
       "at": "2026-08-24T01:33:01.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
