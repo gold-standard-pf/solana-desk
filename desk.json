@@ -12,6 +12,19 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "IN",
+      "verdict": "pass",
+      "at": "2026-08-24T04:59:41.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "early two-way",
+        "real handle",
+        "live curve",
+        "not dumping"
+      ],
+      "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump"
+    },
+    {
       "ticker": "WOFI",
       "verdict": "refuse",
       "at": "2026-08-24T04:59:41.000Z",
@@ -7315,6 +7328,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "early two-way",
+        "real handle",
+        "live curve",
+        "not dumping"
+      ],
+      "at": "2026-08-24T04:59:41.000Z",
+      "mint": "DfaawBjMnkwpHgqDHLtSLR234HdR1Z6wLX52gXeFpump",
+      "ticker": "IN"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
