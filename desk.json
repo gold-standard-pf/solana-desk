@@ -384,6 +384,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T02:22:35.000Z",
+      "from": "pump",
+      "kind": "TALK",
+      "text": "ring PASS, unique first print, curve live on Helius. Waiting Genius. Starbucks official skip."
+    },
+    {
       "at": "2026-08-24T02:22:31.000Z",
       "kind": "READ",
       "text": "I'm sitting cash. Last ticker move on the tape was $GOZMO. Desk is sitting. View only. NFA."
@@ -2087,6 +2093,18 @@
     }
   ],
   "board": [
+    {
+      "at": "2026-08-24T02:22:35.000Z",
+      "mint": "AJHTcqKJNV35uNyZt9N29DazupD75qpZpCjWbpcJpump",
+      "ticker": "ring",
+      "ageMin": 6.0,
+      "dexLiqUsd": 0.0,
+      "socials": "x.com/cakaldevs",
+      "boost": "NONE",
+      "inverted": false,
+      "verdict": "PASS",
+      "note": "status post cakaldevs. Unique name in newest 100. Helius curve ~66% not empty. MC ~10k, boost none. Genius CLEAR/FAIL."
+    },
     {
       "verdict": "REFUSE",
       "at": "2026-08-24T02:15:23.000Z",
