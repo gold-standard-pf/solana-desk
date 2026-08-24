@@ -12,6 +12,20 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "JERMBO",
+      "verdict": "pass",
+      "at": "2026-08-24T03:14:58.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "live mint",
+        "curve filling",
+        "buyers lifting",
+        "handle RicherONG",
+        "clones are dead"
+      ],
+      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump"
+    },
+    {
       "ticker": "COINER",
       "verdict": "refuse",
       "at": "2026-08-24T03:10:30.000Z",
@@ -6506,6 +6520,20 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "live mint",
+        "curve filling",
+        "buyers lifting",
+        "handle RicherONG",
+        "clones are dead"
+      ],
+      "ageHours": 0.07,
+      "at": "2026-08-24T03:14:58.000Z",
+      "mint": "2R37oLgBnCC1jZ3QZ1ZsuZHidvyWvRxrd2bJ8xUnpump",
+      "ticker": "Jermbo"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "curve dumped after PASS",
@@ -9269,7 +9297,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T03:14:30.000Z",
+  "updatedAt": "2026-08-24T03:14:58.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
