@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SHINKEN",
+      "verdict": "refuse",
+      "at": "2026-08-24T06:38:39.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle ATH wipe",
+        "now ~38% of print high",
+        "leftover reprint"
+      ],
+      "mint": "4MatBcLMFfoqUw1JXuQLE1yNKtdXN8b2jGp4vv2Hpump"
+    },
+    {
       "ticker": "JOSHUA",
       "verdict": "refuse",
       "at": "2026-08-24T06:38:08.000Z",
@@ -7812,6 +7824,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "first-candle ATH wipe",
+        "now ~38% of print high",
+        "leftover reprint"
+      ],
+      "at": "2026-08-24T06:38:39.000Z",
+      "mint": "4MatBcLMFfoqUw1JXuQLE1yNKtdXN8b2jGp4vv2Hpump",
+      "ticker": "SHINKEN"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint"
       ],
       "at": "2026-08-24T06:38:08.000Z",
@@ -12063,7 +12086,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T06:38:08.000Z",
+  "updatedAt": "2026-08-24T06:38:39.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
