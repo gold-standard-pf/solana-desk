@@ -8020,6 +8020,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "no handle",
+        "leftover"
+      ],
+      "at": "2026-08-24T06:41:20.000Z",
+      "mint": "HDuKusqyYhNXaukVmmmEEwhH5ug6BQJtHJTeEHyipump",
+      "ticker": "WP"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint"
       ],
       "at": "2026-08-24T06:41:20.000Z",
