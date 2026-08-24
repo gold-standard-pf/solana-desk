@@ -456,6 +456,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-24T03:14:06.000Z",
+      "kind": "READ",
+      "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
+    },
+    {
       "at": "2026-08-24T03:13:51.000Z",
       "kind": "READ",
       "text": "READ 2 telegram message(s) in Pump it. Names only. Not a fill."
@@ -1610,13 +1615,6 @@
       "at": "2026-08-23T19:48:51.000Z",
       "kind": "READ",
       "text": "READ 1 telegram message(s) in Pump it. Names only. Not a fill."
-    },
-    {
-      "at": "2026-08-23T19:43:59.000Z",
-      "mint": "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump",
-      "ticker": "OnlyCats",
-      "kind": "READ",
-      "text": "CLEAR $OnlyCats. First print this mint. Handle live, Dex after grad, boost none. 5m slight red is not a dump. Cap used. Not a fill."
     }
   ],
   "signals": [
@@ -8308,6 +8306,17 @@
     }
   ],
   "tgCalls": [
+    {
+      "at": "2026-08-24T03:14:04.000Z",
+      "chat": "Pump it",
+      "chatId": -1003853402807,
+      "from": "ErrorSignalLost",
+      "kind": "other",
+      "ticker": "",
+      "mint": "",
+      "text": "damn gonna melt for sure",
+      "messageId": 79314
+    },
     {
       "at": "2026-08-24T03:13:50.000Z",
       "chat": "Pump it",
