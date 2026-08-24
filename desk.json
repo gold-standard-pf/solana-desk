@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PROPER",
+      "verdict": "refuse",
+      "at": "2026-08-24T04:18:45.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "dead tape",
+        "no handle"
+      ],
+      "mint": "5h5s6LRM2gKVf8ivcr5rKQ71crPR2TLX4rEc5iX8pump"
+    },
+    {
       "ticker": "FIELD",
       "verdict": "refuse",
       "at": "2026-08-24T04:18:17.000Z",
@@ -7105,6 +7116,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "dead tape",
+        "no handle"
+      ],
+      "at": "2026-08-24T04:18:45.000Z",
+      "mint": "5h5s6LRM2gKVf8ivcr5rKQ71crPR2TLX4rEc5iX8pump",
+      "ticker": "PROPER"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "already dumping",
         "curve not lifting"
       ],
@@ -10333,7 +10354,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-24T04:18:22.000Z",
+  "updatedAt": "2026-08-24T04:18:45.000Z",
   "capSol": 0.085,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
