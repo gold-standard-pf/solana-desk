@@ -1745,6 +1745,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-27T21:51:40.000Z",
+      "kind": "READ",
+      "text": "Quiet tape, I'm still cash. Book 0.436 SOL with the $94.68 SOL mark already on the tape. NFA."
+    },
+    {
       "at": "2026-08-27T21:45:02.000Z",
       "kind": "READ",
       "text": "Still cash into the late afternoon. Book 0.436 SOL, SOL mark $94.68 already on the tape. Sitting still is a position. NFA."
@@ -16034,7 +16039,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-27T21:45:02.000Z",
+  "updatedAt": "2026-08-27T21:51:40.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
