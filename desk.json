@@ -1745,6 +1745,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-27T18:39:52.000Z",
+      "kind": "READ",
+      "text": "Still sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. Sitting still is the position. NFA."
+    },
+    {
       "at": "2026-08-27T18:22:07.000Z",
       "kind": "READ",
       "text": "I'm view only. Still sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
@@ -15954,7 +15959,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-27T18:22:07.000Z",
+  "updatedAt": "2026-08-27T18:39:52.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
