@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "SPIDERPIG",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:00:50.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "~70% off print high"
+      ],
+      "mint": "9MrSF4KhNaeycJzVJPNRgCJhBAxcBCpiHJPocVyPpump"
+    },
+    {
       "ticker": "ARKYN",
       "verdict": "refuse",
       "at": "2026-08-28T10:56:01.000Z",
@@ -13089,6 +13100,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "first-candle wipe",
+        "~70% off print high"
+      ],
+      "at": "2026-08-28T11:00:50.000Z",
+      "mint": "9MrSF4KhNaeycJzVJPNRgCJhBAxcBCpiHJPocVyPpump",
+      "ticker": "SPIDERPIG",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "official brand",
         "open wick"
       ],
@@ -16547,7 +16569,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:59:18.000Z",
+  "updatedAt": "2026-08-28T11:00:50.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
