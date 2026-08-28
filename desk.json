@@ -23,6 +23,20 @@
   ],
   "decisions": [
     {
+      "ticker": "SIMON",
+      "verdict": "pass",
+      "at": "2026-08-28T09:30:51.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle xWugi_wara",
+        "live curve ~65%",
+        "two-way 78/27 lifting",
+        "boost empty"
+      ],
+      "mint": "HnSsrQFWtfZNxCPfem95AuHiFEtsAD3Sy5yCE5gzpump"
+    },
+    {
       "ticker": "GREEN",
       "verdict": "pass",
       "at": "2026-08-28T09:19:08.000Z",
@@ -12321,6 +12335,24 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "lpBurned": false,
+      "freezeAuth": "none",
+      "mintAuth": "none",
+      "ageHours": 0.02,
+      "reasons": [
+        "minutes-old first print",
+        "status handle xWugi_wara",
+        "live curve ~65%",
+        "two-way 78/27 lifting",
+        "not dumping (m5 +38%, ~-10% off ATH)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T09:30:51.000Z",
+      "mint": "HnSsrQFWtfZNxCPfem95AuHiFEtsAD3Sy5yCE5gzpump",
+      "ticker": "SIMON"
+    },
+    {
       "ticker": "GREEN",
       "mint": "3AhbDvWhuRQoCsRtxWVT3tramzQbEWxVyXv8H8N2pump",
       "stamp": "CLEAR",
@@ -15187,7 +15219,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T09:28:57.000Z",
+  "updatedAt": "2026-08-28T09:30:51.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
