@@ -12872,6 +12872,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "m5 -25% off print high",
+        "no handle",
+        "j7tracker farm"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "7WhrDzXMNkDG4Yuyzup4ELHfiPkbGfJ6ERFgZ1Fqpump",
+      "ticker": "1"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "off ATH ~-31%",
         "leftover jsecoin reprint"
       ],
