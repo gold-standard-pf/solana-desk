@@ -23,6 +23,21 @@
   ],
   "decisions": [
     {
+      "ticker": "VILLAGER",
+      "verdict": "pass",
+      "at": "2026-08-28T08:11:47.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle nukidoya",
+        "live curve ~40%",
+        "two-way 32/8 lifting",
+        "not dumping (m5 +45%)",
+        "boost empty"
+      ],
+      "mint": "2jCs7K5EnWdgkyempgNNxW6nnSkAhZyXhmnzhGW4pump"
+    },
+    {
       "ticker": "TIMESQUARE",
       "verdict": "pass",
       "at": "2026-08-28T08:01:20.000Z",
@@ -12009,6 +12024,20 @@
       "reasons": [
         "minutes-old first print",
         "status handle nukidoya",
+        "live curve ~40%",
+        "two-way 32/8 lifting",
+        "not dumping (m5 +45%)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T08:11:47.000Z",
+      "mint": "2jCs7K5EnWdgkyempgNNxW6nnSkAhZyXhmnzhGW4pump",
+      "ticker": "VILLAGER"
+    },
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle nukidoya",
         "live curve ~26%",
         "two-way 12/3 lifting",
         "not dumping (m5 +14%)",
@@ -17540,7 +17569,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T08:10:44.000Z",
+  "updatedAt": "2026-08-28T08:11:47.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
