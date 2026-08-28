@@ -9,7 +9,18 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "GREEN",
+      "mint": "3AhbDvWhuRQoCsRtxWVT3tramzQbEWxVyXv8H8N2pump",
+      "valueUsd": 0,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "investedUsd": 0,
+      "thesis": "Runner on after 70% peel. Cost already covered. Leave unless the tape dies.",
+      "invalidation": "Empty or 5m-dead dumps 100%. Not a dump just because it is green."
+    }
+  ],
   "decisions": [
     {
       "ticker": "DOGAT",
@@ -15357,7 +15368,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T09:36:22.000Z",
+  "updatedAt": "2026-08-28T09:36:42.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
