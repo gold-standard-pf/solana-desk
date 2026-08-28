@@ -24,6 +24,16 @@
   "decisions": [
     {
       "ticker": "VILLAGER",
+      "verdict": "refuse",
+      "at": "2026-08-28T08:12:15.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "same-dev reprint of TIMESQUARE"
+      ],
+      "mint": "2jCs7K5EnWdgkyempgNNxW6nnSkAhZyXhmnzhGW4pump"
+    },
+    {
+      "ticker": "VILLAGER",
       "verdict": "pass",
       "at": "2026-08-28T08:11:47.000Z",
       "reasons": [
@@ -12020,6 +12030,15 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "same-dev reprint of TIMESQUARE"
+      ],
+      "at": "2026-08-28T08:12:15.000Z",
+      "mint": "2jCs7K5EnWdgkyempgNNxW6nnSkAhZyXhmnzhGW4pump",
+      "ticker": "VILLAGER"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old first print",
@@ -17569,7 +17588,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T08:11:47.000Z",
+  "updatedAt": "2026-08-28T08:12:15.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
