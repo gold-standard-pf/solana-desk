@@ -13,6 +13,17 @@
   "decisions": [
     {
       "ticker": "CAP",
+      "verdict": "refuse",
+      "at": "2026-08-28T07:42:12.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "ATH rip",
+        "~16k not early"
+      ],
+      "mint": "B5hWJrKYYKAcPnCVzZYJJXpvaiVfJyHH2qacExPhpump"
+    },
+    {
+      "ticker": "CAP",
       "verdict": "pass",
       "at": "2026-08-28T07:41:47.000Z",
       "reasons": [
@@ -11894,6 +11905,16 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "ATH rip",
+        "~16k not early"
+      ],
+      "at": "2026-08-28T07:42:12.000Z",
+      "mint": "B5hWJrKYYKAcPnCVzZYJJXpvaiVfJyHH2qacExPhpump",
+      "ticker": "CAP"
+    },
+    {
       "verdict": "CLEAR",
       "ageHours": 0.07,
       "reasons": [
@@ -17395,7 +17416,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T07:41:47.000Z",
+  "updatedAt": "2026-08-28T07:42:12.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
