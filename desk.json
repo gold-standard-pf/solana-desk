@@ -12,6 +12,21 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "GREEN",
+      "verdict": "pass",
+      "at": "2026-08-28T09:15:57.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle thejordanaura",
+        "live curve ~24%",
+        "two-way 43/31 lifting",
+        "not dumping (m5 +28%)",
+        "boost empty"
+      ],
+      "mint": "3AhbDvWhuRQoCsRtxWVT3tramzQbEWxVyXv8H8N2pump"
+    },
+    {
       "ticker": "ISLAND",
       "verdict": "refuse",
       "at": "2026-08-28T08:47:26.000Z",
@@ -12235,6 +12250,25 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "lpBurned": null,
+      "freezeAuth": "",
+      "mintAuth": "",
+      "top10Pct": null,
+      "ageHours": null,
+      "reasons": [
+        "minutes-old first print",
+        "status handle thejordanaura",
+        "live curve ~24%",
+        "two-way 43/31 lifting",
+        "not dumping (m5 +28%)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T09:15:57.000Z",
+      "mint": "3AhbDvWhuRQoCsRtxWVT3tramzQbEWxVyXv8H8N2pump",
+      "ticker": "GREEN"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "same-dev as ARMY",
@@ -17879,7 +17913,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T09:13:30.000Z",
+  "updatedAt": "2026-08-28T09:15:57.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
