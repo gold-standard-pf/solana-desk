@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PPP",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:39:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "thin tape 3/2"
+      ],
+      "mint": "G74PCHWoBGjPPGCgSxmMsrVHTSpacZNzpo32oKA6pump"
+    },
+    {
       "ticker": "LULU",
       "verdict": "refuse",
       "at": "2026-08-28T10:39:30.000Z",
@@ -12890,6 +12901,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "thin tape 3/2"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "G74PCHWoBGjPPGCgSxmMsrVHTSpacZNzpo32oKA6pump",
+      "ticker": "PPP"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
