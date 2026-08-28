@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "INDEX",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:00:50.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "open wick",
+        "~25% off print high"
+      ],
+      "mint": "Cm7hHvimG2S7rUneLnUMegYbPESaNHXGbR2HB55cpump"
+    },
+    {
       "ticker": "RISE",
       "verdict": "refuse",
       "at": "2026-08-28T11:00:50.000Z",
@@ -13108,6 +13119,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "open wick",
+        "~25% off print high"
+      ],
+      "at": "2026-08-28T11:00:50.000Z",
+      "mint": "Cm7hHvimG2S7rUneLnUMegYbPESaNHXGbR2HB55cpump",
+      "ticker": "INDEX",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
