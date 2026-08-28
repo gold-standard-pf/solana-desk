@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SCHWAB",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand/likeness"
+      ],
+      "mint": "4wfLw5kHS3fH8wv8nB1LuZRwaaeKwVEUEwx5tQPBKPGy"
+    },
+    {
       "ticker": "RIPHARALD",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11616,6 +11626,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand/likeness"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "4wfLw5kHS3fH8wv8nB1LuZRwaaeKwVEUEwx5tQPBKPGy",
+      "ticker": "SCHWAB",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
