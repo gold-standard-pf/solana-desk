@@ -23,6 +23,18 @@
   ],
   "decisions": [
     {
+      "ticker": "SOLCAT",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:46:59.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "m5 ~-29% off print high",
+        "thin curve ~8%",
+        "SOLCAT farm cluster"
+      ],
+      "mint": "CCBv1sLvE2FseaQgTzaBwzngZeGkNZBwmWzkJupJATZr"
+    },
+    {
       "ticker": "CHIPPERTON",
       "verdict": "refuse",
       "at": "2026-08-28T10:46:59.000Z",
@@ -12963,6 +12975,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "m5 ~-29% off print high",
+        "thin curve ~8%",
+        "SOLCAT farm cluster"
+      ],
+      "from": "genius",
+      "at": "2026-08-28T10:46:59.000Z",
+      "mint": "CCBv1sLvE2FseaQgTzaBwzngZeGkNZBwmWzkJupJATZr",
+      "ticker": "SOLCAT"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
