@@ -12999,6 +12999,18 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "first-candle rip",
+        "already bonded ATH",
+        "mc tens of millions"
+      ],
+      "from": "genius",
+      "at": "2026-08-28T10:46:59.000Z",
+      "mint": "DdFbtA4xsEZkQvXQdrocU3FVDuUYp8QmrmqjSMypump",
+      "ticker": "WOFI"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover-farm multi-mint CHEEKY"
       ],
       "from": "genius",
