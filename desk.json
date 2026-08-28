@@ -2310,6 +2310,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-28T09:17:54.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "GREEN 0.05. Early two-way. In."
+    },
+    {
       "at": "2026-08-28T09:17:09.000Z",
       "kind": "READ",
       "text": ""
