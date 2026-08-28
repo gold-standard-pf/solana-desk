@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "HOPE",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "profile-only X"
+      ],
+      "mint": "J31AaW6fdgpx14k9Xirpwr5n5sQfomB37FcVjZbUpump"
+    },
+    {
       "ticker": "MONGODOG",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11647,6 +11657,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "profile-only X"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "J31AaW6fdgpx14k9Xirpwr5n5sQfomB37FcVjZbUpump",
+      "ticker": "HOPE",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
