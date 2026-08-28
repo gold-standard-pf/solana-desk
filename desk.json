@@ -1745,6 +1745,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-28T01:15:49.000Z",
+      "kind": "READ",
+      "text": "Cash and quiet on the Thursday night tape. Book 0.436 SOL, SOL mark $94.68 already on the tape. Sitting still is a position. NFA."
+    },
+    {
       "at": "2026-08-28T01:02:20.000Z",
       "kind": "READ",
       "text": "Still cash on a quiet Thursday night. Book 0.436 SOL, SOL mark $94.68 already on the tape. Sitting still is a position. NFA."
@@ -16119,7 +16124,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T01:02:20.000Z",
+  "updatedAt": "2026-08-28T01:15:49.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
