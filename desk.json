@@ -23,6 +23,16 @@
   ],
   "decisions": [
     {
+      "ticker": "DOGAT",
+      "verdict": "pass",
+      "at": "2026-08-28T09:34:29.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump"
+    },
+    {
       "ticker": "SIMON",
       "verdict": "refuse",
       "at": "2026-08-28T09:31:40.000Z",
@@ -2369,6 +2379,14 @@
     }
   ],
   "stream": [
+    {
+      "side": "buy",
+      "at": "2026-08-28T09:34:29.000Z",
+      "ticker": "DOGAT",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID DOGAT 0.05. Early two-way. In."
+    },
     {
       "at": "2026-08-28T09:32:32.000Z",
       "from": "terry",
