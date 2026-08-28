@@ -12,6 +12,21 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BLINDAPE",
+      "verdict": "pass",
+      "at": "2026-08-28T10:39:30.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle fadorrrrrr",
+        "live curve ~49%",
+        "two-way 43/19 lifting",
+        "m5 +25% not dumping",
+        "boost empty"
+      ],
+      "mint": "83YLRJmqoRb43bvKsWYffoJMgcgwBDeNsqNwiGBppump"
+    },
+    {
       "ticker": "HLANDSLIDE",
       "verdict": "refuse",
       "at": "2026-08-28T10:37:01.000Z",
@@ -12833,6 +12848,20 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle fadorrrrrr",
+        "live curve ~49%",
+        "two-way 43/19 lifting",
+        "m5 +25% not dumping",
+        "boost empty"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "83YLRJmqoRb43bvKsWYffoJMgcgwBDeNsqNwiGBppump",
+      "ticker": "BLINDAPE"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "empty curve"
@@ -16033,7 +16062,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:38:36.000Z",
+  "updatedAt": "2026-08-28T10:39:30.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
