@@ -12,6 +12,20 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BAYOYO",
+      "verdict": "pass",
+      "at": "2026-08-28T10:30:56.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle PurpleBull100x",
+        "live curve ~51%",
+        "two-way 59/33 lifting",
+        "m5 +49% not dumping"
+      ],
+      "mint": "EDCpknaQ5WxaPewmrPssMMpwcQuBfeFUHcdnQ6tWpump"
+    },
+    {
       "ticker": "HUHCAT",
       "verdict": "refuse",
       "at": "2026-08-28T10:12:45.000Z",
@@ -12658,6 +12672,19 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle PurpleBull100x",
+        "live curve ~51%",
+        "two-way 59/33 lifting",
+        "m5 +49% not dumping"
+      ],
+      "at": "2026-08-28T10:30:56.000Z",
+      "mint": "EDCpknaQ5WxaPewmrPssMMpwcQuBfeFUHcdnQ6tWpump",
+      "ticker": "BAYOYO"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "ATH rip",
@@ -15718,7 +15745,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:30:50.000Z",
+  "updatedAt": "2026-08-28T10:30:56.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
