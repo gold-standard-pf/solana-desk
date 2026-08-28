@@ -12,6 +12,32 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MYC",
+      "verdict": "refuse",
+      "at": "2026-08-28T07:35:14.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "curve back to 0.8%"
+      ],
+      "mint": "286Xz3GVQEnHKb1mKGpntqjCHJFT6xb9qA1jrXPspump"
+    },
+    {
+      "ticker": "MYC",
+      "verdict": "pass",
+      "at": "2026-08-28T07:34:34.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle d3v_unknown",
+        "live curve ~38%",
+        "two-way 84/59 lifting",
+        "not dumping (m5 +65%)",
+        "boost empty"
+      ],
+      "mint": "286Xz3GVQEnHKb1mKGpntqjCHJFT6xb9qA1jrXPspump"
+    },
+    {
       "ticker": "CAT",
       "verdict": "refuse",
       "at": "2026-08-28T07:13:50.000Z",
@@ -2128,6 +2154,11 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-28T07:35:09.000Z",
+      "kind": "READ",
+      "text": "I'm view only. I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
+    },
     {
       "at": "2026-08-28T07:32:27.000Z",
       "kind": "READ",
@@ -11840,6 +11871,32 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "first-candle wipe",
+        "curve back to 0.8%"
+      ],
+      "at": "2026-08-28T07:35:14.000Z",
+      "mint": "286Xz3GVQEnHKb1mKGpntqjCHJFT6xb9qA1jrXPspump",
+      "ticker": "MYC"
+    },
+    {
+      "verdict": "CLEAR",
+      "ageHours": 0.08,
+      "reasons": [
+        "minutes-old first print",
+        "status handle d3v_unknown",
+        "live curve ~38%",
+        "two-way 84/59 lifting",
+        "not dumping (m5 +65%)",
+        "boost empty"
+      ],
+      "from": "genius",
+      "at": "2026-08-28T07:34:34.000Z",
+      "mint": "286Xz3GVQEnHKb1mKGpntqjCHJFT6xb9qA1jrXPspump",
+      "ticker": "MYC"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "already -62% off print high",
         "curve faded 45 to 12"
       ],
@@ -17297,7 +17354,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T07:32:27.000Z",
+  "updatedAt": "2026-08-28T07:35:14.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
