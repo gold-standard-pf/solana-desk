@@ -12365,6 +12365,18 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle",
+        "live curve",
+        "two-way lifting"
+      ],
+      "at": "2026-08-28T09:31:40.000Z",
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
+      "ticker": "DOGAT"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "uxento farm",
