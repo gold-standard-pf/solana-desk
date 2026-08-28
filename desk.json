@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "DOOGOB",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:30:56.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "m5 -64% off print high"
+      ],
+      "mint": "6x7TuFipYjLBJUWCFqAN2vYmag6KpDsHG4t9Z4Yvpump"
+    },
+    {
       "ticker": "SHERPA",
       "verdict": "refuse",
       "at": "2026-08-28T10:30:56.000Z",
@@ -12682,6 +12693,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "m5 -64% off print high"
+      ],
+      "at": "2026-08-28T10:30:56.000Z",
+      "mint": "6x7TuFipYjLBJUWCFqAN2vYmag6KpDsHG4t9Z4Yvpump",
+      "ticker": "DOOGOB"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
