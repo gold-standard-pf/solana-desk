@@ -23,6 +23,18 @@
   ],
   "decisions": [
     {
+      "ticker": "BOTCOIN",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:02:02.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "dumped off curve high",
+        "curve 70%\u219235% (~-67% sol)",
+        "sit"
+      ],
+      "mint": "3ZymrFTh6yySGm9ue4NMXK4wv4RF8XkkGGE1tumnpump"
+    },
+    {
       "ticker": "BOLT",
       "verdict": "pass",
       "at": "2026-08-28T10:02:02.000Z",
@@ -12486,6 +12498,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "dumped off curve high",
+        "curve 70%\u219235% (~-67% sol)",
+        "sit"
+      ],
+      "at": "2026-08-28T10:02:02.000Z",
+      "mint": "3ZymrFTh6yySGm9ue4NMXK4wv4RF8XkkGGE1tumnpump",
+      "ticker": "BOTCOIN"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
