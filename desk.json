@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "OWLCHAIN",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:37:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "m5 -30% off print high"
+      ],
+      "mint": "2qgxUKsXgcmTwH92k7aiEJQ3fLgxKhP7hmtTKzEZpump"
+    },
+    {
       "ticker": "FOREVER",
       "verdict": "refuse",
       "at": "2026-08-28T10:37:01.000Z",
@@ -12776,6 +12786,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "m5 -30% off print high"
+      ],
+      "at": "2026-08-28T10:37:01.000Z",
+      "mint": "2qgxUKsXgcmTwH92k7aiEJQ3fLgxKhP7hmtTKzEZpump",
+      "ticker": "OWLCHAIN"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
