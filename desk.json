@@ -12904,6 +12904,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover reprint",
+        "official Top Gear likeness"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "DgaYbC3H1oXmFACq8vPoeYVd4r97b5rTAPm6Weqrpump",
+      "ticker": "TOP GEAR"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "no handle",
         "thin tape 3/2"
       ],
