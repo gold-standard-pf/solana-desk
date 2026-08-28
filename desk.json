@@ -23,6 +23,20 @@
   ],
   "decisions": [
     {
+      "ticker": "DOGAT",
+      "verdict": "pass",
+      "at": "2026-08-28T09:30:51.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle runitbacktoji",
+        "live curve ~43%",
+        "two-way 34/7 lifting",
+        "boost empty"
+      ],
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump"
+    },
+    {
       "ticker": "SIMON",
       "verdict": "pass",
       "at": "2026-08-28T09:30:51.000Z",
@@ -12334,6 +12348,24 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "CLEAR",
+      "lpBurned": false,
+      "freezeAuth": "none",
+      "mintAuth": "none",
+      "ageHours": 0.02,
+      "reasons": [
+        "minutes-old first print",
+        "status handle runitbacktoji",
+        "live curve ~43%",
+        "two-way 34/7 lifting",
+        "not dumping (m5 +124%, ~-14% off ATH)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T09:30:51.000Z",
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
+      "ticker": "DOGAT"
+    },
     {
       "verdict": "CLEAR",
       "lpBurned": false,
