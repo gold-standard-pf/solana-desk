@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BOBA",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:37:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin tape",
+        "m5 -5% not lifting"
+      ],
+      "mint": "B5oSc5m9Q5GWni1ujUys1XHsEnrWckmYz8oRDwGbpump"
+    },
+    {
       "ticker": "ZAZU",
       "verdict": "refuse",
       "at": "2026-08-28T10:37:01.000Z",
@@ -12806,6 +12817,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "thin tape",
+        "m5 -5% not lifting"
+      ],
+      "at": "2026-08-28T10:37:01.000Z",
+      "mint": "B5oSc5m9Q5GWni1ujUys1XHsEnrWckmYz8oRDwGbpump",
+      "ticker": "BOBA"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
