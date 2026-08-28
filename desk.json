@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "BINGO",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:56:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin curve ~2%",
+        "m5 -15"
+      ],
+      "mint": "2HKUSLjPzQsbD6UjUnVF9U1e7faHtoxTUb1Lu3Mnpump"
+    },
+    {
       "ticker": "MICRODUCK",
       "verdict": "refuse",
       "at": "2026-08-28T10:56:01.000Z",
@@ -13022,6 +13033,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "thin curve ~2%",
+        "m5 -15"
+      ],
+      "at": "2026-08-28T10:56:01.000Z",
+      "mint": "2HKUSLjPzQsbD6UjUnVF9U1e7faHtoxTUb1Lu3Mnpump",
+      "ticker": "BINGO",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
