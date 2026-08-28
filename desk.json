@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ANSEM",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand/likeness"
+      ],
+      "mint": "HRhJNd3k7Gxc9aw5xBWYg91mJcMku9ZigM1BYTsepump"
+    },
+    {
       "ticker": "SCHWAB",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11626,6 +11636,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand/likeness"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "HRhJNd3k7Gxc9aw5xBWYg91mJcMku9ZigM1BYTsepump",
+      "ticker": "ANSEM",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
