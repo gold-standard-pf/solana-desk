@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "ATM",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:36:59.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "curve wipe ~2%"
+      ],
+      "mint": "BNdCybZ9M2s472Ysdr7kFbJakTLDwXwgx4x1LZPopump"
+    },
+    {
       "ticker": "BERVAN",
       "verdict": "refuse",
       "at": "2026-08-28T06:36:59.000Z",
@@ -11439,6 +11450,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "curve wipe ~2%"
+      ],
+      "at": "2026-08-28T06:36:59.000Z",
+      "mint": "BNdCybZ9M2s472Ysdr7kFbJakTLDwXwgx4x1LZPopump",
+      "ticker": "ATM"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
