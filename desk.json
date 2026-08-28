@@ -12,6 +12,20 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "FREEBOTS",
+      "verdict": "pass",
+      "at": "2026-08-28T08:39:10.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle uzakYob9o",
+        "live curve ~35%",
+        "two-way 20/10 lifting",
+        "boost empty"
+      ],
+      "mint": "4tmpATteX6V6449xX71iXnSrWh8x6BZnYSKL65Nwpump"
+    },
+    {
       "ticker": "DEX",
       "verdict": "refuse",
       "at": "2026-08-28T08:33:31.000Z",
@@ -12113,6 +12127,20 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle uzakYob9o",
+        "live curve ~35%",
+        "two-way 20/10 lifting",
+        "not dumping (m5 +12%, ~-13% off ATH)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T08:39:10.000Z",
+      "mint": "4tmpATteX6V6449xX71iXnSrWh8x6BZnYSKL65Nwpump",
+      "ticker": "FREEBOTS"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "ATH rip ~16k",
@@ -17705,7 +17733,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T08:39:01.000Z",
+  "updatedAt": "2026-08-28T08:39:10.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
