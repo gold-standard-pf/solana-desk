@@ -12,6 +12,22 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "COGE",
+      "verdict": "pass",
+      "at": "2026-08-28T06:30:35.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle sofzmilly",
+        "live curve ~32%",
+        "two-way 38/8 lifting",
+        "not dumping (m5 +37%)",
+        "boost empty",
+        "clone name OK"
+      ],
+      "mint": "3R3mrHzcCsYCQ2VcuTHaQGAQpsWjTZ9jrK5JW8hspump"
+    },
+    {
       "ticker": "WINDCHILL",
       "verdict": "refuse",
       "at": "2026-08-28T06:26:17.000Z",
@@ -11351,6 +11367,23 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "ageHours": 0.03,
+      "reasons": [
+        "minutes-old first print",
+        "status handle sofzmilly",
+        "live curve ~32%",
+        "two-way 38/8 lifting",
+        "not dumping (m5 +37%)",
+        "boost empty",
+        "clone name OK"
+      ],
+      "at": "2026-08-28T06:30:35.000Z",
+      "mint": "3R3mrHzcCsYCQ2VcuTHaQGAQpsWjTZ9jrK5JW8hspump",
+      "ticker": "COGE",
+      "from": "genius"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "CLEAR stale",
@@ -16446,7 +16479,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T06:28:10.000Z",
+  "updatedAt": "2026-08-28T06:30:35.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
