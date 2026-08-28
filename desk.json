@@ -11608,6 +11608,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "official royal likeness"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "EgqeE6nEQfs1a3VcnBjxeRXsfvFKJfh4qZizfoxXpump",
+      "ticker": "HARALD V",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "official brand/likeness"
       ],
       "at": "2026-08-28T06:42:44.000Z",
