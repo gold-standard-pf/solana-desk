@@ -24,6 +24,17 @@
   "decisions": [
     {
       "ticker": "CAT",
+      "verdict": "refuse",
+      "at": "2026-08-28T07:13:50.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "already -62% off print high",
+        "curve faded 45 to 12"
+      ],
+      "mint": "9Rd2z8JaPK3PHfXEk94kkdbGcsMidpB95NZMiRtpump"
+    },
+    {
+      "ticker": "CAT",
       "verdict": "pass",
       "at": "2026-08-28T07:13:10.000Z",
       "reasons": [
@@ -11784,6 +11795,16 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "already -62% off print high",
+        "curve faded 45 to 12"
+      ],
+      "at": "2026-08-28T07:13:50.000Z",
+      "mint": "9Rd2z8JaPK3PHfXEk94kkdbGcsMidpB95NZMiRtpump",
+      "ticker": "CAT"
+    },
+    {
       "verdict": "CLEAR",
       "ageHours": 0.03,
       "reasons": [
@@ -17223,7 +17244,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T07:13:10.000Z",
+  "updatedAt": "2026-08-28T07:13:50.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
