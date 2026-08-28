@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MONGODOG",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "m5 -17% back to start"
+      ],
+      "mint": "8GWoMNUS84J8UUYzjXijZcVZdLwsoFQ2PPtLdhBipump"
+    },
+    {
       "ticker": "ANSEM",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11636,6 +11647,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wipe",
+        "m5 -17% back to start"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "8GWoMNUS84J8UUYzjXijZcVZdLwsoFQ2PPtLdhBipump",
+      "ticker": "MONGODOG",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
