@@ -14378,6 +14378,13 @@
   ],
   "fills": [
     {
+      "side": "sell",
+      "kind": "dump",
+      "ticker": "MAGENTA",
+      "note": "runner dump, tape died, flat",
+      "at": "2026-08-28T05:57:14.000Z"
+    },
+    {
       "at": "2026-08-28T05:57:06.000Z"
     },
     {
