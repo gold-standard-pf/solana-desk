@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "RIPHARALD",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official royal likeness",
+        "leftover reprint"
+      ],
+      "mint": "4YckUGedvsBEXYQdKnfWMRr8njBLQLFexMr3sLFBpump"
+    },
+    {
       "ticker": "TRUMP",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11605,6 +11616,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official royal likeness",
+        "leftover reprint"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "4YckUGedvsBEXYQdKnfWMRr8njBLQLFexMr3sLFBpump",
+      "ticker": "RIPHARALD",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
