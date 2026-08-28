@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MRBEAST",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:37:00.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand/likeness"
+      ],
+      "mint": "J3bmdnCzX3owCLTfWmvUopLRXGEk1pHyfrP2qQtKpump"
+    },
+    {
       "ticker": "PUMPCAT",
       "verdict": "refuse",
       "at": "2026-08-28T06:37:00.000Z",
@@ -11528,6 +11538,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand/likeness"
+      ],
+      "at": "2026-08-28T06:37:00.000Z",
+      "mint": "J3bmdnCzX3owCLTfWmvUopLRXGEk1pHyfrP2qQtKpump",
+      "ticker": "MRBEAST"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
