@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BERVAN",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:36:59.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "curve back near 0%"
+      ],
+      "mint": "7ChemxdyBohdXHVxCzu73Dg9HfxvczAv91QAjqospump"
+    },
+    {
       "ticker": "PUFCAT",
       "verdict": "refuse",
       "at": "2026-08-28T06:36:59.000Z",
@@ -11428,6 +11439,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wipe",
+        "curve back near 0%"
+      ],
+      "at": "2026-08-28T06:36:59.000Z",
+      "mint": "7ChemxdyBohdXHVxCzu73Dg9HfxvczAv91QAjqospump",
+      "ticker": "BERVAN"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
