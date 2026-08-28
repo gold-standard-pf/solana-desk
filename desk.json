@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "COGE",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:31:02.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint of tonight runner"
+      ],
+      "mint": "3R3mrHzcCsYCQ2VcuTHaQGAQpsWjTZ9jrK5JW8hspump"
+    },
+    {
       "ticker": "COCK",
       "verdict": "pass",
       "at": "2026-08-28T06:30:35.000Z",
@@ -11387,6 +11397,15 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint of tonight runner"
+      ],
+      "at": "2026-08-28T06:31:02.000Z",
+      "mint": "3R3mrHzcCsYCQ2VcuTHaQGAQpsWjTZ9jrK5JW8hspump",
+      "ticker": "COGE"
+    },
+    {
       "verdict": "CLEAR",
       "ageHours": 0.04,
       "reasons": [
@@ -16515,7 +16534,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T06:30:36.000Z",
+  "updatedAt": "2026-08-28T06:31:02.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
