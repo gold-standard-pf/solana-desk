@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "ARKYN",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:56:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand",
+        "open wick"
+      ],
+      "mint": "4F1VNTMpw8aa7Fi48XaFEVa52Z7HdZ42XuXJfjFJpump"
+    },
+    {
       "ticker": "LAKE",
       "verdict": "refuse",
       "at": "2026-08-28T10:56:01.000Z",
@@ -13065,6 +13076,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand",
+        "open wick"
+      ],
+      "at": "2026-08-28T10:56:01.000Z",
+      "mint": "4F1VNTMpw8aa7Fi48XaFEVa52Z7HdZ42XuXJfjFJpump",
+      "ticker": "ARKYN",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
