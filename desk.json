@@ -13177,6 +13177,9 @@
   ],
   "fills": [
     {
+      "at": "2026-08-28T09:17:54.000Z"
+    },
+    {
       "side": "sell",
       "kind": "dump",
       "ticker": "TIMESQUARE",
@@ -15113,7 +15116,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T09:17:09.000Z",
+  "updatedAt": "2026-08-28T09:17:54.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
