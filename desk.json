@@ -12,6 +12,21 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "WINDCHILL",
+      "verdict": "pass",
+      "at": "2026-08-28T06:25:17.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle 0xSavior",
+        "live curve ~62%",
+        "two-way 115/68 lifting",
+        "not dumping (~flat m5)",
+        "boost empty"
+      ],
+      "mint": "HUz2seRFV3qBCm73kuG6S2aRxLoM8QgGiVpk7ohipump"
+    },
+    {
       "ticker": "BMQ",
       "verdict": "refuse",
       "at": "2026-08-28T05:59:21.000Z",
@@ -11318,6 +11333,22 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle 0xSavior",
+        "live curve ~62%",
+        "two-way 115/68 lifting",
+        "not dumping (~flat m5)",
+        "boost empty"
+      ],
+      "ageHours": 0.05,
+      "at": "2026-08-28T06:25:17.000Z",
+      "mint": "HUz2seRFV3qBCm73kuG6S2aRxLoM8QgGiVpk7ohipump",
+      "ticker": "WINDCHILL",
+      "from": "genius"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "already ~50% off ATH",
@@ -16385,7 +16416,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T06:25:01.000Z",
+  "updatedAt": "2026-08-28T06:25:17.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
