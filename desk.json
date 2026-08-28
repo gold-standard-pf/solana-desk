@@ -2484,6 +2484,14 @@
   ],
   "stream": [
     {
+      "side": "sell",
+      "at": "2026-08-28T10:13:26.000Z",
+      "ticker": "GREEN",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID GREEN runner out. Tape died. Flat."
+    },
+    {
       "at": "2026-08-28T10:13:05.000Z",
       "from": "terry",
       "kind": "TALK",
