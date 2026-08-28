@@ -12893,6 +12893,15 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "goodcoindeploy farm handle"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "6T5dqiCKwbPkgAqBkf1qxaeft6pTHMqq66RCNSJPpump",
+      "ticker": "MEMEST."
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "memedevfun deploy farm"
       ],
       "at": "2026-08-28T10:39:30.000Z",
