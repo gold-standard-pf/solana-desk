@@ -23,6 +23,18 @@
   ],
   "decisions": [
     {
+      "ticker": "MAX",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:12:05.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "faded off print high",
+        "curve ~60%\u219244% (~-26% sol)",
+        "sit"
+      ],
+      "mint": "BZGmsfNoeUjMAKHk58FJvHPAb2ihbfxaB8UCKGVfpump"
+    },
+    {
       "ticker": "HUHCAT",
       "verdict": "pass",
       "at": "2026-08-28T10:12:05.000Z",
@@ -12583,6 +12595,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "faded off print high",
+        "curve ~60%\u219244% (~-26% sol)",
+        "sit"
+      ],
+      "at": "2026-08-28T10:12:05.000Z",
+      "mint": "BZGmsfNoeUjMAKHk58FJvHPAb2ihbfxaB8UCKGVfpump",
+      "ticker": "MAX"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
