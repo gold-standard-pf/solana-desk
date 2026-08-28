@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "HAAKON",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official royal likeness",
+        "ATH rip already bonded"
+      ],
+      "mint": "6Cxh1hMFSwBPfx6iGJhH7in5TcLKnDDwvESskmBpump"
+    },
+    {
       "ticker": "INVESTRESS",
       "verdict": "pass",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11563,6 +11574,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official royal likeness",
+        "ATH rip already bonded"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "6Cxh1hMFSwBPfx6iGJhH7in5TcLKnDDwvESskmBpump",
+      "ticker": "HAAKON",
+      "from": "genius"
+    },
     {
       "verdict": "CLEAR",
       "ageHours": 0.04,
