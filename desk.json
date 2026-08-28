@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PUMPCAT",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:37:00.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official Pumpfun status link"
+      ],
+      "mint": "GR5SVDJ6QTSfyrMnGBAmmKUTc2pt3KXBJPm4SzJHpump"
+    },
+    {
       "ticker": "APEONDRONE",
       "verdict": "refuse",
       "at": "2026-08-28T06:37:00.000Z",
@@ -11518,6 +11528,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official Pumpfun status link"
+      ],
+      "at": "2026-08-28T06:37:00.000Z",
+      "mint": "GR5SVDJ6QTSfyrMnGBAmmKUTc2pt3KXBJPm4SzJHpump",
+      "ticker": "pumpcat"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
