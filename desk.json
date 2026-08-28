@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BOLLARD",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:36:59.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "curve ~0.1%",
+        "m5 red"
+      ],
+      "mint": "6VT8kdgdRBzuoLBdpsoJ9if7Kojp4sz9VRv8hY6Hpump"
+    },
+    {
       "ticker": "ATM",
       "verdict": "refuse",
       "at": "2026-08-28T06:36:59.000Z",
@@ -11450,6 +11462,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wipe",
+        "curve ~0.1%",
+        "m5 red"
+      ],
+      "at": "2026-08-28T06:36:59.000Z",
+      "mint": "6VT8kdgdRBzuoLBdpsoJ9if7Kojp4sz9VRv8hY6Hpump",
+      "ticker": "BOLLARD"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
