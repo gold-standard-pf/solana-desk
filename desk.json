@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "APEONDRONE",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:37:00.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "ATH rip",
+        "profile-only X"
+      ],
+      "mint": "25Fxe2iSx11GFQMvAhReZLojLbX97PvedtS16Fsypump"
+    },
+    {
       "ticker": "LOBSTER",
       "verdict": "refuse",
       "at": "2026-08-28T06:37:00.000Z",
@@ -11507,6 +11518,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "ATH rip",
+        "profile-only X"
+      ],
+      "at": "2026-08-28T06:37:00.000Z",
+      "mint": "25Fxe2iSx11GFQMvAhReZLojLbX97PvedtS16Fsypump",
+      "ticker": "apeondrone"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
