@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "RAMBO",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:39:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "1 buy empty tape"
+      ],
+      "mint": "FSfwkXgYruffDc3eShg2wezGMpYdFu16rjH7h7Adpump"
+    },
+    {
       "ticker": "JSE",
       "verdict": "refuse",
       "at": "2026-08-28T10:39:30.000Z",
@@ -12869,6 +12880,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "1 buy empty tape"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "FSfwkXgYruffDc3eShg2wezGMpYdFu16rjH7h7Adpump",
+      "ticker": "RAMBO"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
