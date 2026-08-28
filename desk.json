@@ -2918,6 +2918,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-28T11:25:48.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "BLINDAPE out. Tape died. Sitting cash."
+    },
+    {
       "side": "sell",
       "at": "2026-08-28T11:25:47.000Z",
       "ticker": "BLINDAPE",
@@ -16812,7 +16818,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T11:25:47.000Z",
+  "updatedAt": "2026-08-28T11:25:48.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
