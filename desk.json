@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "REDROCKET",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:37:00.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover COCK meta",
+        "curve wipe"
+      ],
+      "mint": "9BSa53Zqk9CHzSgF7HH9h73gSorL2FSVizjnFvhGpump"
+    },
+    {
       "ticker": "XCASH",
       "verdict": "refuse",
       "at": "2026-08-28T06:37:00.000Z",
@@ -11485,6 +11496,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover COCK meta",
+        "curve wipe"
+      ],
+      "at": "2026-08-28T06:37:00.000Z",
+      "mint": "9BSa53Zqk9CHzSgF7HH9h73gSorL2FSVizjnFvhGpump",
+      "ticker": "REDROCKET"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
