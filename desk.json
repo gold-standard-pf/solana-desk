@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "TRUMP",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "official brand/likeness"
+      ],
+      "mint": "9V1n4J43yqWqTGeab8jrAb1aRo7SGKqniirTwrpGpump"
+    },
+    {
       "ticker": "CATCHCAT",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11595,6 +11605,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "official brand/likeness"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "9V1n4J43yqWqTGeab8jrAb1aRo7SGKqniirTwrpGpump",
+      "ticker": "TRUMP",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
