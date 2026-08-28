@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "SHERPA",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:30:56.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "uxento farm",
+        "discord.gg/uxento"
+      ],
+      "mint": "ATZXRVDmWP6zzoRyCXUvjzC6NfpieXEky7ubt7Yvpump"
+    },
+    {
       "ticker": "BAYOYO",
       "verdict": "pass",
       "at": "2026-08-28T10:30:56.000Z",
@@ -12671,6 +12682,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "uxento farm",
+        "discord.gg/uxento"
+      ],
+      "at": "2026-08-28T10:30:56.000Z",
+      "mint": "ATZXRVDmWP6zzoRyCXUvjzC6NfpieXEky7ubt7Yvpump",
+      "ticker": "SHERPA"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
