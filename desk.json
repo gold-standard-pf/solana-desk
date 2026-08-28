@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "LASER",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:37:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "profile-only handle"
+      ],
+      "mint": "9bFjrRcKk24hNnK4Q52AwtQuwKqLiWAbWerusAzepump"
+    },
+    {
       "ticker": "PWF",
       "verdict": "refuse",
       "at": "2026-08-28T10:37:01.000Z",
@@ -12754,6 +12764,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "profile-only handle"
+      ],
+      "at": "2026-08-28T10:37:01.000Z",
+      "mint": "9bFjrRcKk24hNnK4Q52AwtQuwKqLiWAbWerusAzepump",
+      "ticker": "LASER"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
