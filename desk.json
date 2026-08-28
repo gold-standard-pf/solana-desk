@@ -14359,6 +14359,14 @@
   ],
   "fills": [
     {
+      "side": "sell",
+      "sol": null,
+      "kind": "peel80",
+      "ticker": "MAGENTA",
+      "note": "80% sniper peel, runner on",
+      "at": "2026-08-28T05:56:54.000Z"
+    },
+    {
       "side": "buy",
       "sol": 0.15,
       "kind": "createAndBuy",
