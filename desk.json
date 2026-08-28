@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "CATCHCAT",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle"
+      ],
+      "mint": "8uV1UACrEqdvRsh2AaBM647VUfCYNAr7v2RfGsJgpump"
+    },
+    {
       "ticker": "WAVE",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11585,6 +11595,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "8uV1UACrEqdvRsh2AaBM647VUfCYNAr7v2RfGsJgpump",
+      "ticker": "CATCHCAT",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
