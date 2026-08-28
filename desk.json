@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BUTTERCUP",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:37:00.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover COGE reprint",
+        "The Coge"
+      ],
+      "mint": "4Rtw1qv3b2Dx2yuG3we2skRt15rQodgk786xAURVMrMe"
+    },
+    {
       "ticker": "BOLLARD",
       "verdict": "refuse",
       "at": "2026-08-28T06:36:59.000Z",
@@ -11465,6 +11476,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "leftover COGE reprint",
+        "The Coge"
+      ],
+      "at": "2026-08-28T06:37:00.000Z",
+      "mint": "4Rtw1qv3b2Dx2yuG3we2skRt15rQodgk786xAURVMrMe",
+      "ticker": "ButterCup"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "first-candle wipe",
         "curve ~0.1%",
         "m5 red"
@@ -16651,7 +16672,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T06:36:59.000Z",
+  "updatedAt": "2026-08-28T06:37:00.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
