@@ -12,6 +12,21 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "MONKE",
+      "verdict": "pass",
+      "at": "2026-08-28T11:38:37.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle nukidoya",
+        "live curve ~41%",
+        "two-way 45/32 lifting",
+        "m5 +49% not dumping",
+        "boost empty"
+      ],
+      "mint": "Bis1jJjRe3L7YtwNJpsfjxxbw5KfpbMuhSoq5Cwzpump"
+    },
+    {
       "ticker": "MING",
       "verdict": "refuse",
       "at": "2026-08-28T11:25:30.000Z",
@@ -13264,6 +13279,20 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle nukidoya",
+        "live curve ~41%",
+        "two-way 45/32 lifting",
+        "m5 +49% not dumping",
+        "boost empty"
+      ],
+      "at": "2026-08-28T11:38:37.000Z",
+      "mint": "Bis1jJjRe3L7YtwNJpsfjxxbw5KfpbMuhSoq5Cwzpump",
+      "ticker": "MONKE"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "off ATH",
@@ -16838,7 +16867,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T11:36:40.000Z",
+  "updatedAt": "2026-08-28T11:38:37.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
