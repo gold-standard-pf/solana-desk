@@ -24,6 +24,17 @@
   "decisions": [
     {
       "ticker": "MING",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:25:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "off ATH",
+        "curve fade"
+      ],
+      "mint": "3fA4b5G4bUwcBbh1jhXnjY22GXhUNGAY7vtAFP76pump"
+    },
+    {
+      "ticker": "MING",
       "verdict": "pass",
       "at": "2026-08-28T11:24:56.000Z",
       "reasons": [
@@ -13218,6 +13229,16 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "off ATH",
+        "curve fade"
+      ],
+      "at": "2026-08-28T11:25:30.000Z",
+      "mint": "3fA4b5G4bUwcBbh1jhXnjY22GXhUNGAY7vtAFP76pump",
+      "ticker": "MING"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old first print",
@@ -16769,7 +16790,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T11:24:56.000Z",
+  "updatedAt": "2026-08-28T11:25:30.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
