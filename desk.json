@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "SIMON",
+      "verdict": "refuse",
+      "at": "2026-08-28T09:31:40.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "uxento farm",
+        "off ATH"
+      ],
+      "mint": "HnSsrQFWtfZNxCPfem95AuHiFEtsAD3Sy5yCE5gzpump"
+    },
+    {
       "ticker": "DOGAT",
       "verdict": "pass",
       "at": "2026-08-28T09:30:51.000Z",
@@ -12354,40 +12365,40 @@
   ],
   "clears": [
     {
-      "verdict": "CLEAR",
-      "lpBurned": false,
-      "freezeAuth": "none",
-      "mintAuth": "none",
-      "ageHours": 0.02,
+      "verdict": "FAIL",
       "reasons": [
-        "minutes-old first print",
-        "status handle runitbacktoji",
-        "live curve ~43%",
-        "two-way 34/7 lifting",
-        "not dumping (m5 +124%, ~-14% off ATH)",
-        "boost empty"
+        "uxento farm",
+        "off ATH"
       ],
-      "at": "2026-08-28T09:30:51.000Z",
-      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
-      "ticker": "DOGAT"
-    },
-    {
-      "verdict": "CLEAR",
-      "lpBurned": false,
-      "freezeAuth": "none",
-      "mintAuth": "none",
-      "ageHours": 0.02,
-      "reasons": [
-        "minutes-old first print",
-        "status handle xWugi_wara",
-        "live curve ~65%",
-        "two-way 78/27 lifting",
-        "not dumping (m5 +38%, ~-10% off ATH)",
-        "boost empty"
-      ],
-      "at": "2026-08-28T09:30:51.000Z",
+      "at": "2026-08-28T09:31:40.000Z",
       "mint": "HnSsrQFWtfZNxCPfem95AuHiFEtsAD3Sy5yCE5gzpump",
       "ticker": "SIMON"
+    },
+    {
+      "ticker": "DOGAT",
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
+      "stamp": "CLEAR",
+      "verdict": "CLEAR",
+      "reason": "minutes-old first print, status handle runitbacktoji, live curve ~43%, two-way 43/17 lifting, ~-13% off ATH, boost empty",
+      "reasons": [
+        "minutes-old first print",
+        "status handle",
+        "live curve",
+        "two-way lifting"
+      ],
+      "ts": 1787909500
+    },
+    {
+      "ticker": "SIMON",
+      "mint": "HnSsrQFWtfZNxCPfem95AuHiFEtsAD3Sy5yCE5gzpump",
+      "stamp": "FAIL",
+      "verdict": "FAIL",
+      "reason": "uxento farm stack plus already about -33% off ATH",
+      "reasons": [
+        "uxento farm",
+        "off ATH"
+      ],
+      "ts": 1787909500
     },
     {
       "ticker": "GREEN",
@@ -12822,26 +12833,6 @@
       "at": "2026-08-28T06:36:59.000Z",
       "mint": "6VT8kdgdRBzuoLBdpsoJ9if7Kojp4sz9VRv8hY6Hpump",
       "ticker": "BOLLARD"
-    },
-    {
-      "verdict": "FAIL",
-      "reasons": [
-        "no handle",
-        "curve wipe ~2%"
-      ],
-      "at": "2026-08-28T06:36:59.000Z",
-      "mint": "BNdCybZ9M2s472Ysdr7kFbJakTLDwXwgx4x1LZPopump",
-      "ticker": "ATM"
-    },
-    {
-      "verdict": "FAIL",
-      "reasons": [
-        "first-candle wipe",
-        "curve back near 0%"
-      ],
-      "at": "2026-08-28T06:36:59.000Z",
-      "mint": "7ChemxdyBohdXHVxCzu73Dg9HfxvczAv91QAjqospump",
-      "ticker": "BERVAN"
     }
   ],
   "advice": [
@@ -15256,7 +15247,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T09:31:36.000Z",
+  "updatedAt": "2026-08-28T09:31:40.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
