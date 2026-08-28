@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "LAKE",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:56:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "empty tape"
+      ],
+      "mint": "CLdSDxejT1XCwh771VDB8hPYuyidXckdskCzN969pump"
+    },
+    {
       "ticker": "TLON",
       "verdict": "refuse",
       "at": "2026-08-28T10:56:01.000Z",
@@ -13054,6 +13065,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "empty tape"
+      ],
+      "at": "2026-08-28T10:56:01.000Z",
+      "mint": "CLdSDxejT1XCwh771VDB8hPYuyidXckdskCzN969pump",
+      "ticker": "LAKE",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
