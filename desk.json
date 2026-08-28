@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "ETPHONE",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:00:51.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "E.T. likeness"
+      ],
+      "mint": "4gpXsLiKNBa2pXUpm3bRsK87fkD48GLxtP2FJLqspump"
+    },
+    {
       "ticker": "CRA",
       "verdict": "refuse",
       "at": "2026-08-28T11:00:50.000Z",
@@ -13144,6 +13155,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "no handle",
+        "E.T. likeness"
+      ],
+      "at": "2026-08-28T11:00:51.000Z",
+      "mint": "4gpXsLiKNBa2pXUpm3bRsK87fkD48GLxtP2FJLqspump",
+      "ticker": "ETPHONE",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint",
         "m5 -17 not lifting"
       ],
@@ -16657,7 +16679,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T11:00:50.000Z",
+  "updatedAt": "2026-08-28T11:00:51.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
