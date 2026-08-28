@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "CHIPPERTON",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:46:59.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "profile-only X (@chippertonfun)",
+        "no status URL"
+      ],
+      "mint": "49MAJWfUTwjXzhAqsoCy6M55WNxVtixej32TnVLTpump"
+    },
+    {
       "ticker": "BLINDAPE",
       "verdict": "pass",
       "at": "2026-08-28T10:40:43.000Z",
@@ -12955,6 +12966,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "profile-only X (@chippertonfun)",
+        "no status URL"
+      ],
+      "from": "genius",
+      "at": "2026-08-28T10:46:59.000Z",
+      "mint": "49MAJWfUTwjXzhAqsoCy6M55WNxVtixej32TnVLTpump",
+      "ticker": "CHIPPERTON"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint",
         "official Top Gear likeness"
       ],
@@ -16269,7 +16291,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:46:18.000Z",
+  "updatedAt": "2026-08-28T10:46:59.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
