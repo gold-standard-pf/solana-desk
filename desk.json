@@ -23,6 +23,18 @@
   ],
   "decisions": [
     {
+      "ticker": "ITM",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:02:02.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "profile-only handle",
+        "first-candle ATH rip",
+        "bonded"
+      ],
+      "mint": "6Hu3BKvsNXJcrq2kBhu4xwy2AVEvaRQAF1M276Cppump"
+    },
+    {
       "ticker": "GROKCHAIN",
       "verdict": "refuse",
       "at": "2026-08-28T10:02:02.000Z",
@@ -12523,6 +12535,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "profile-only handle",
+        "first-candle ATH rip",
+        "bonded"
+      ],
+      "at": "2026-08-28T10:02:02.000Z",
+      "mint": "6Hu3BKvsNXJcrq2kBhu4xwy2AVEvaRQAF1M276Cppump",
+      "ticker": "ITM"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
