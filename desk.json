@@ -13,6 +13,16 @@
   "decisions": [
     {
       "ticker": "FREEBOTS",
+      "verdict": "refuse",
+      "at": "2026-08-28T08:39:27.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "same-dev farm as TIMESQUARE"
+      ],
+      "mint": "4tmpATteX6V6449xX71iXnSrWh8x6BZnYSKL65Nwpump"
+    },
+    {
+      "ticker": "FREEBOTS",
       "verdict": "pass",
       "at": "2026-08-28T08:39:10.000Z",
       "reasons": [
@@ -12127,6 +12137,15 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "same-dev farm as TIMESQUARE"
+      ],
+      "at": "2026-08-28T08:39:27.000Z",
+      "mint": "4tmpATteX6V6449xX71iXnSrWh8x6BZnYSKL65Nwpump",
+      "ticker": "FREEBOTS"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old first print",
@@ -17733,7 +17752,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T08:39:10.000Z",
+  "updatedAt": "2026-08-28T08:39:27.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
