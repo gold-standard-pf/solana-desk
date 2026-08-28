@@ -13,6 +13,19 @@
   "decisions": [
     {
       "ticker": "WINDCHILL",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:26:17.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "CLEAR stale",
+        "first-candle wipe",
+        "m5 -33%",
+        "curve back to 0.8%"
+      ],
+      "mint": "HUz2seRFV3qBCm73kuG6S2aRxLoM8QgGiVpk7ohipump"
+    },
+    {
+      "ticker": "WINDCHILL",
       "verdict": "pass",
       "at": "2026-08-28T06:25:17.000Z",
       "reasons": [
@@ -11333,6 +11346,18 @@
   ],
   "clears": [
     {
+      "verdict": "FAIL",
+      "reasons": [
+        "CLEAR stale",
+        "first-candle wipe",
+        "m5 -33%",
+        "curve back to 0.8%"
+      ],
+      "at": "2026-08-28T06:26:17.000Z",
+      "mint": "HUz2seRFV3qBCm73kuG6S2aRxLoM8QgGiVpk7ohipump",
+      "ticker": "WINDCHILL"
+    },
+    {
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old first print",
@@ -16416,7 +16441,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T06:25:17.000Z",
+  "updatedAt": "2026-08-28T06:26:17.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
