@@ -1,15 +1,26 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
-  "equityUsd": 25.18,
+  "equityUsd": 24.99,
   "spentUsd": 47.67,
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "BLINDAPE",
+      "mint": "83YLRJmqoRb43bvKsWYffoJMgcgwBDeNsqNwiGBppump",
+      "valueUsd": 4.73,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "investedUsd": 4.73,
+      "thesis": "Minutes-old first print, live curve, two-way lifting. Size 0.05.",
+      "invalidation": "Empty or 5m-dead dumps 100%. Even peel if dying. About 70% if it is sending."
+    }
+  ],
   "decisions": [
     {
       "ticker": "BLINDAPE",
@@ -2716,6 +2727,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-28T10:40:43.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "In BLINDAPE 0.05. First print still two-way. Watching the tape."
+    },
     {
       "side": "buy",
       "at": "2026-08-28T10:40:43.000Z",
@@ -16242,7 +16259,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:40:43.000Z",
+  "updatedAt": "2026-08-28T10:40:47.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
