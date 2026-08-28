@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BMQ",
+      "verdict": "refuse",
+      "at": "2026-08-28T05:59:21.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "already ~50% off ATH",
+        "12m not early"
+      ],
+      "mint": "4oSDyyvBBsaJpYXGy3JbiCY63pzgANJcwSqixhzGpump"
+    },
+    {
       "ticker": "WIFWOMAN",
       "verdict": "refuse",
       "at": "2026-08-28T05:59:21.000Z",
@@ -11243,6 +11254,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "already ~50% off ATH",
+        "12m not early"
+      ],
+      "at": "2026-08-28T05:59:21.000Z",
+      "mint": "4oSDyyvBBsaJpYXGy3JbiCY63pzgANJcwSqixhzGpump",
+      "ticker": "BMQ"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
