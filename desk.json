@@ -2114,6 +2114,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-28T06:56:45.000Z",
+      "kind": "READ",
+      "text": "I'm view only. I'm still on $ARMY. Not adding. Book 0.436 SOL. SOL mark $94.68 already on the tape. NFA."
+    },
+    {
       "at": "2026-08-28T06:54:08.000Z",
       "kind": "READ",
       "text": "I'm still on $ARMY. Not adding. Last ticker move on the tape was $ARMY. Desk is sitting. View only. NFA."
@@ -17157,7 +17162,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T06:54:08.000Z",
+  "updatedAt": "2026-08-28T06:56:45.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
