@@ -11,6 +11,16 @@
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
   "theses": [
     {
+      "ticker": "DOGAT",
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
+      "valueUsd": 4.73,
+      "pnlUsd": 0,
+      "pnlPct": 0,
+      "investedUsd": 4.73,
+      "thesis": "Minutes-old first print, live curve, two-way lifting. Size 0.05.",
+      "invalidation": "Empty or 5m-dead dumps 100%. Even peel if dying. About 70% if it is sending."
+    },
+    {
       "ticker": "GREEN",
       "mint": "3AhbDvWhuRQoCsRtxWVT3tramzQbEWxVyXv8H8N2pump",
       "valueUsd": 4.73,
@@ -2379,6 +2389,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-28T09:34:29.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "In DOGAT 0.05. First print still two-way. GREEN still open. Watching both."
+    },
     {
       "side": "buy",
       "at": "2026-08-28T09:34:29.000Z",
