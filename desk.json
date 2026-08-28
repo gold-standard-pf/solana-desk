@@ -13046,6 +13046,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "m5 -17 not lifting"
+      ],
+      "at": "2026-08-28T10:56:01.000Z",
+      "mint": "Y9CvxECSUbZZqi5uNRWuDFxRies4F7H9ziT4GA8pump",
+      "ticker": "WIFI",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "no handle"
       ],
       "at": "2026-08-28T10:56:01.000Z",
