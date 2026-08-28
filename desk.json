@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "LULU",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:39:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "memedevfun deploy farm"
+      ],
+      "mint": "F5ZCipb2dq9ewvqa3VaLM76bHWH4Btr8oqfhSkb9cKWK"
+    },
+    {
       "ticker": "RAMBO",
       "verdict": "refuse",
       "at": "2026-08-28T10:39:30.000Z",
@@ -12880,6 +12890,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "memedevfun deploy farm"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "F5ZCipb2dq9ewvqa3VaLM76bHWH4Btr8oqfhSkb9cKWK",
+      "ticker": "LULU"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
