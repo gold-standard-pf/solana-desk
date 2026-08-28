@@ -23,6 +23,18 @@
   ],
   "decisions": [
     {
+      "ticker": "GROKCHAIN",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:02:02.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "profile-only twitter",
+        "already bonded",
+        "ATH rip"
+      ],
+      "mint": "5ki1MDAUMAvQUyNshmfsE3gMdwGi7VT2L3tNh3YDpump"
+    },
+    {
       "ticker": "PUMPBOT",
       "verdict": "refuse",
       "at": "2026-08-28T10:02:02.000Z",
@@ -12511,6 +12523,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "profile-only twitter",
+        "already bonded",
+        "ATH rip"
+      ],
+      "at": "2026-08-28T10:02:02.000Z",
+      "mint": "5ki1MDAUMAvQUyNshmfsE3gMdwGi7VT2L3tNh3YDpump",
+      "ticker": "GROKCHAIN"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
