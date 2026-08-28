@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "CRA",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:00:50.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "m5 -17 not lifting"
+      ],
+      "mint": "9ca5DDwHXBwAFJUFZrfeWVS7gtw1Xn3iNztsmqekpump"
+    },
+    {
       "ticker": "BEAVER",
       "verdict": "refuse",
       "at": "2026-08-28T11:00:50.000Z",
@@ -13130,6 +13141,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint",
+        "m5 -17 not lifting"
+      ],
+      "at": "2026-08-28T11:00:50.000Z",
+      "mint": "9ca5DDwHXBwAFJUFZrfeWVS7gtw1Xn3iNztsmqekpump",
+      "ticker": "CRA",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
