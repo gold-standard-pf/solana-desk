@@ -14197,6 +14197,9 @@
   ],
   "fills": [
     {
+      "at": "2026-08-28T10:40:30.000Z"
+    },
+    {
       "signature": "3E3QVci4KC7DRzY8H4GXV28gXvvX4JAwmuhxf5QSdseQr3Mep1AVP3BuQTPCuYYAekUMEnqHtCTtDyU1Xsgmoydu",
       "side": "sell",
       "sol": 0.0142,
@@ -16205,7 +16208,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:39:30.000Z",
+  "updatedAt": "2026-08-28T10:40:30.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
