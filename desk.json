@@ -23,6 +23,19 @@
   ],
   "decisions": [
     {
+      "ticker": "PUMPBOT",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:02:02.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "post-spike fade",
+        "m5 -16%",
+        "mc near open floor",
+        "buys\u2248sells"
+      ],
+      "mint": "3gwWhRK2xr1whiE5vsnUg75AURpuRpFH56wEbe8Qpump"
+    },
+    {
       "ticker": "BOTCOIN",
       "verdict": "refuse",
       "at": "2026-08-28T10:02:02.000Z",
@@ -12498,6 +12511,18 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "post-spike fade",
+        "m5 -16%",
+        "mc near open floor",
+        "buys\u2248sells"
+      ],
+      "at": "2026-08-28T10:02:02.000Z",
+      "mint": "3gwWhRK2xr1whiE5vsnUg75AURpuRpFH56wEbe8Qpump",
+      "ticker": "PUMPBOT"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
