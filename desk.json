@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,18 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "DOGAT",
-      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
-      "valueUsd": 4.73,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "investedUsd": 4.73,
-      "thesis": "Minutes-old first print, live curve, two-way lifting. Size 0.05.",
-      "invalidation": "Empty or 5m-dead dumps 100%. Even peel if dying. About 70% if it is sending."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "DOGAT",
@@ -13358,6 +13347,16 @@
     }
   ],
   "fills": [
+    {
+      "signature": "cnabYnvdHRhCwccUG9djmw2vHv7bFvWS2NB5CiixJX3VaqsmXvs7sQkEcPcUhwFT8PqPSqPtQYG38t6VtdVabKA",
+      "side": "sell",
+      "sol": 0.0418,
+      "kind": "peel70",
+      "note": "70% peel, dying-even",
+      "at": "2026-08-28T09:36:22.000Z",
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
+      "ticker": "DOGAT"
+    },
     {
       "signature": "3KFyzzwC2aBpMSMmMskF4CFqQJ9cwzE1wv9c3HBwQRcjMeXhThPUjfcruj2Un8DAzu1hjphUkXYgyWENkK5dAut7",
       "side": "sell",
