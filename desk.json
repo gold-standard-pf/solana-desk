@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BLINDAPE",
+      "verdict": "pass",
+      "at": "2026-08-28T10:40:43.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "signed 0.05 SOL"
+      ],
+      "mint": "83YLRJmqoRb43bvKsWYffoJMgcgwBDeNsqNwiGBppump"
+    },
+    {
       "ticker": "PPP",
       "verdict": "refuse",
       "at": "2026-08-28T10:39:30.000Z",
@@ -2706,6 +2716,14 @@
     }
   ],
   "stream": [
+    {
+      "side": "buy",
+      "at": "2026-08-28T10:40:43.000Z",
+      "ticker": "BLINDAPE",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID BLINDAPE 0.05. Early two-way. In."
+    },
     {
       "at": "2026-08-28T10:40:30.000Z",
       "from": "terry",
