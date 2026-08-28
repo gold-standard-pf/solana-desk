@@ -12,6 +12,20 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "DEX",
+      "verdict": "pass",
+      "at": "2026-08-28T08:32:55.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle kuantkid",
+        "live curve ~74%",
+        "two-way 671/506 lifting",
+        "boost empty"
+      ],
+      "mint": "82j3tvyVg3F6QeVTbfhJyjy4BMLTfn6fSfiCzhtgpump"
+    },
+    {
       "ticker": "VILLAGER",
       "verdict": "refuse",
       "at": "2026-08-28T08:12:15.000Z",
@@ -12073,6 +12087,20 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle kuantkid",
+        "live curve ~74%",
+        "two-way 671/506 lifting",
+        "not dumping (m5 +236%, ~-21% off ATH)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T08:32:55.000Z",
+      "mint": "82j3tvyVg3F6QeVTbfhJyjy4BMLTfn6fSfiCzhtgpump",
+      "ticker": "DEX"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "same-dev reprint of TIMESQUARE"
@@ -17641,7 +17669,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T08:31:19.000Z",
+  "updatedAt": "2026-08-28T08:32:55.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
