@@ -23,6 +23,21 @@
   ],
   "decisions": [
     {
+      "ticker": "MING",
+      "verdict": "pass",
+      "at": "2026-08-28T11:24:56.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle zairo100x",
+        "live curve ~36%",
+        "two-way 30/16 lifting",
+        "m5 +40% not dumping",
+        "boost empty"
+      ],
+      "mint": "3fA4b5G4bUwcBbh1jhXnjY22GXhUNGAY7vtAFP76pump"
+    },
+    {
       "ticker": "ETPHONE",
       "verdict": "refuse",
       "at": "2026-08-28T11:00:51.000Z",
@@ -13203,6 +13218,20 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
+        "status handle zairo100x",
+        "live curve ~36%",
+        "two-way 30/16 lifting",
+        "m5 +40% not dumping",
+        "boost empty"
+      ],
+      "at": "2026-08-28T11:24:56.000Z",
+      "mint": "3fA4b5G4bUwcBbh1jhXnjY22GXhUNGAY7vtAFP76pump",
+      "ticker": "MING"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "no handle",
@@ -16740,7 +16769,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T11:24:52.000Z",
+  "updatedAt": "2026-08-28T11:24:56.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
