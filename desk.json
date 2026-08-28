@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,18 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "BLINDAPE",
-      "mint": "83YLRJmqoRb43bvKsWYffoJMgcgwBDeNsqNwiGBppump",
-      "valueUsd": 4.73,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "investedUsd": 4.73,
-      "thesis": "Minutes-old first print, live curve, two-way lifting. Size 0.05.",
-      "invalidation": "Empty or 5m-dead dumps 100%. Even peel if dying. About 70% if it is sending."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "MING",
@@ -14780,6 +14769,16 @@
     }
   ],
   "fills": [
+    {
+      "signature": "3mUUeSYk2oTh9TGa8H5fnSLG4ekGUSBXz6ToZmKhzYLWPspZ1mFrqsURPfRJ2ZSfm4BCuyqCHG4PrePJ9Sc9UYuB",
+      "side": "sell",
+      "sol": 0.0247,
+      "kind": "dump",
+      "note": "mark under 60, dumped",
+      "at": "2026-08-28T11:25:47.000Z",
+      "mint": "83YLRJmqoRb43bvKsWYffoJMgcgwBDeNsqNwiGBppump",
+      "ticker": "BLINDAPE"
+    },
     {
       "at": "2026-08-28T11:25:47.000Z"
     },
