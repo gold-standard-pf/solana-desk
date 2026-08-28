@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "MARU",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:46:59.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "thin curve ~7%"
+      ],
+      "mint": "DxxKrcuzjoZsNMKN272tFiUEcaow5UBRhFR42DYapump"
+    },
+    {
       "ticker": "SOLCAT",
       "verdict": "refuse",
       "at": "2026-08-28T10:46:59.000Z",
@@ -12975,6 +12986,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "thin curve ~7%"
+      ],
+      "from": "genius",
+      "at": "2026-08-28T10:46:59.000Z",
+      "mint": "DxxKrcuzjoZsNMKN272tFiUEcaow5UBRhFR42DYapump",
+      "ticker": "MARU"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
