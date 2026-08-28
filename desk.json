@@ -2181,6 +2181,11 @@
   ],
   "stream": [
     {
+      "at": "2026-08-28T08:00:44.000Z",
+      "kind": "READ",
+      "text": "I'm sitting cash. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
+    },
+    {
       "at": "2026-08-28T07:58:07.000Z",
       "kind": "READ",
       "text": "Book 0.436 SOL. SOL mark $94.68 already on the tape. I'm sitting cash. Not inventing a trade. NFA."
@@ -17451,7 +17456,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T07:58:07.000Z",
+  "updatedAt": "2026-08-28T08:00:44.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
