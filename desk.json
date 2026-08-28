@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "XCASH",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:37:00.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "m5 -22%",
+        "curve empty"
+      ],
+      "mint": "Hj3QNmXae3NipbBgCQBSjeMYxSzc1i7vmNnn6y5oNWRz"
+    },
+    {
       "ticker": "BUTTERCUP",
       "verdict": "refuse",
       "at": "2026-08-28T06:37:00.000Z",
@@ -11473,6 +11485,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wipe",
+        "m5 -22%",
+        "curve empty"
+      ],
+      "at": "2026-08-28T06:37:00.000Z",
+      "mint": "Hj3QNmXae3NipbBgCQBSjeMYxSzc1i7vmNnn6y5oNWRz",
+      "ticker": "XCASH"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
