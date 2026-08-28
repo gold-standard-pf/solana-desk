@@ -12,6 +12,21 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "INVESTRESS",
+      "verdict": "pass",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle 4pfmonkey",
+        "live curve ~60%",
+        "two-way 314/186 lifting",
+        "not dumping (m5 +232%)",
+        "boost empty"
+      ],
+      "mint": "8r5toTFR35eosbBcFyMZnXkFdWTPnrtPi1pFXgy8pump"
+    },
+    {
       "ticker": "MRBEAST",
       "verdict": "refuse",
       "at": "2026-08-28T06:37:00.000Z",
@@ -11549,6 +11564,22 @@
   ],
   "clears": [
     {
+      "verdict": "CLEAR",
+      "ageHours": 0.04,
+      "reasons": [
+        "minutes-old first print",
+        "status handle 4pfmonkey",
+        "live curve ~60%",
+        "two-way 314/186 lifting",
+        "not dumping (m5 +232%)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "8r5toTFR35eosbBcFyMZnXkFdWTPnrtPi1pFXgy8pump",
+      "ticker": "INVESTRESS",
+      "from": "genius"
+    },
+    {
       "verdict": "FAIL",
       "reasons": [
         "official brand/likeness"
@@ -16806,7 +16837,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T06:41:00.000Z",
+  "updatedAt": "2026-08-28T06:42:44.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
