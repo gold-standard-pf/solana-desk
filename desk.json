@@ -13,6 +13,17 @@
   "decisions": [
     {
       "ticker": "MONKE",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:39:03.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "uxento farm",
+        "same-dev TIMESQUARE"
+      ],
+      "mint": "Bis1jJjRe3L7YtwNJpsfjxxbw5KfpbMuhSoq5Cwzpump"
+    },
+    {
+      "ticker": "MONKE",
       "verdict": "pass",
       "at": "2026-08-28T11:38:37.000Z",
       "reasons": [
@@ -13283,6 +13294,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "uxento farm",
+        "same-dev TIMESQUARE"
+      ],
+      "at": "2026-08-28T11:39:03.000Z",
+      "mint": "Bis1jJjRe3L7YtwNJpsfjxxbw5KfpbMuhSoq5Cwzpump",
+      "ticker": "MONKE"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
