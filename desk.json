@@ -2369,6 +2369,14 @@
   ],
   "stream": [
     {
+      "side": "sell",
+      "at": "2026-08-28T09:36:22.000Z",
+      "ticker": "DOGAT",
+      "from": "terry",
+      "kind": "DID",
+      "text": "DID DOGAT out. Peel then dump. Covered."
+    },
+    {
       "at": "2026-08-28T09:36:22.000Z",
       "ticker": "GREEN",
       "from": "terry",
