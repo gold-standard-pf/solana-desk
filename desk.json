@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "TLON",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:56:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "Elon likeness",
+        "profile-only"
+      ],
+      "mint": "C1ZvhjoCj2F1Etaasb2xFQ7sEVsmwuc8JhXmo8icpump"
+    },
+    {
       "ticker": "PPAND",
       "verdict": "refuse",
       "at": "2026-08-28T10:56:01.000Z",
@@ -13043,6 +13054,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "Elon likeness",
+        "profile-only"
+      ],
+      "at": "2026-08-28T10:56:01.000Z",
+      "mint": "C1ZvhjoCj2F1Etaasb2xFQ7sEVsmwuc8JhXmo8icpump",
+      "ticker": "TLON",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
