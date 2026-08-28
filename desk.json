@@ -23,6 +23,16 @@
   ],
   "decisions": [
     {
+      "ticker": "PPAND",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:56:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle"
+      ],
+      "mint": "CUKKUHPsy9wKjRpGQQBmqqcPXcq6JMnoz6uyjHUSpump"
+    },
+    {
       "ticker": "BINGO",
       "verdict": "refuse",
       "at": "2026-08-28T10:56:01.000Z",
@@ -13033,6 +13043,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle"
+      ],
+      "at": "2026-08-28T10:56:01.000Z",
+      "mint": "CUKKUHPsy9wKjRpGQQBmqqcPXcq6JMnoz6uyjHUSpump",
+      "ticker": "PPAND",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
