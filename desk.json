@@ -2232,6 +2232,12 @@
   ],
   "stream": [
     {
+      "at": "2026-08-28T08:13:08.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "TIMESQUARE dumped. Tape died. Flat."
+    },
+    {
       "at": "2026-08-28T08:10:44.000Z",
       "kind": "READ",
       "text": "I'm still on $TIMESQUARE. Not adding. Book 0.436 SOL. SOL mark $94.68 already on the tape. View only. NFA."
