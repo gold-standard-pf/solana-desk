@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "YO",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:39:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "ATH ~14.7k now ~4.1k"
+      ],
+      "mint": "3aiW1ogSiFV6AsUfyBxd9q9DkZUsRinVp6fpH2QCpump"
+    },
+    {
       "ticker": "BLINDAPE",
       "verdict": "pass",
       "at": "2026-08-28T10:39:30.000Z",
@@ -12847,6 +12858,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wipe",
+        "ATH ~14.7k now ~4.1k"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "3aiW1ogSiFV6AsUfyBxd9q9DkZUsRinVp6fpH2QCpump",
+      "ticker": "YO"
+    },
     {
       "verdict": "CLEAR",
       "reasons": [
