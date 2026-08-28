@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "JSE",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:39:30.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "off ATH ~-31%",
+        "leftover jsecoin reprint"
+      ],
+      "mint": "EsqMyUymuggpWWzoMSL1iMqSUGKc6DJ5s2eY1L4Hpump"
+    },
+    {
       "ticker": "YO",
       "verdict": "refuse",
       "at": "2026-08-28T10:39:30.000Z",
@@ -12858,6 +12869,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "off ATH ~-31%",
+        "leftover jsecoin reprint"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "EsqMyUymuggpWWzoMSL1iMqSUGKc6DJ5s2eY1L4Hpump",
+      "ticker": "JSE"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
