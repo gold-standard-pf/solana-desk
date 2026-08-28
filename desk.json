@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "open",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,7 +9,18 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [],
+  "theses": [
+    {
+      "ticker": "TIMESQUARE",
+      "name": "Timesquare",
+      "side": "long",
+      "sizeSol": 0.05,
+      "remainingPct": 100,
+      "note": "Early two-way. Thin tape. 0.05 in.",
+      "status": "open",
+      "at": "2026-08-28T08:03:08.000Z"
+    }
+  ],
   "decisions": [
     {
       "ticker": "TIMESQUARE",
@@ -2195,6 +2206,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-28T08:03:08.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "TIMESQUARE 0.05 in. Early two-way. Sitting still is a position. NFA."
+    },
     {
       "at": "2026-08-28T08:03:08.000Z",
       "ticker": "TIMESQUARE",
