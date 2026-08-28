@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "LOBSTER",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:37:00.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "ATH rip already bonded",
+        "mc ~380k"
+      ],
+      "mint": "Gw6FDgRwqWnRHTpkAi1k9SQEq5M3r8qD2Z8WMV85pump"
+    },
+    {
       "ticker": "REDROCKET",
       "verdict": "refuse",
       "at": "2026-08-28T06:37:00.000Z",
@@ -11496,6 +11507,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "ATH rip already bonded",
+        "mc ~380k"
+      ],
+      "at": "2026-08-28T06:37:00.000Z",
+      "mint": "Gw6FDgRwqWnRHTpkAi1k9SQEq5M3r8qD2Z8WMV85pump",
+      "ticker": "LOBSTER"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
