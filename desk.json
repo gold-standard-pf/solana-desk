@@ -23,6 +23,20 @@
   ],
   "decisions": [
     {
+      "ticker": "BOLT",
+      "verdict": "pass",
+      "at": "2026-08-28T10:02:02.000Z",
+      "reasons": [
+        "Genius CLEAR",
+        "minutes-old first print",
+        "status handle goryxbt",
+        "live curve ~40%",
+        "two-way 344/228 lifting",
+        "boost empty"
+      ],
+      "mint": "FuymJdz6J6U67b4cjtJ4u45GEWH73QqWx6FbFzsFpump"
+    },
+    {
       "ticker": "DOGAT",
       "verdict": "pass",
       "at": "2026-08-28T09:34:29.000Z",
@@ -12476,6 +12490,20 @@
       "verdict": "CLEAR",
       "reasons": [
         "minutes-old first print",
+        "status handle goryxbt",
+        "live curve ~40%",
+        "two-way 344/228 lifting",
+        "not dumping (m5 +57%, near recent high)",
+        "boost empty"
+      ],
+      "at": "2026-08-28T10:02:02.000Z",
+      "mint": "FuymJdz6J6U67b4cjtJ4u45GEWH73QqWx6FbFzsFpump",
+      "ticker": "BOLT"
+    },
+    {
+      "verdict": "CLEAR",
+      "reasons": [
+        "minutes-old first print",
         "status handle",
         "live curve",
         "two-way lifting"
@@ -15413,7 +15441,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T09:59:58.000Z",
+  "updatedAt": "2026-08-28T10:02:02.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
