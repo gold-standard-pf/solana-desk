@@ -1,6 +1,6 @@
 {
   "name": "desk",
-  "status": "live",
+  "status": "cash",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
@@ -9,18 +9,7 @@
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
   "wallet": "5WFKW7qqqFa8Kw366aDnmGz2LvVDhZWGbH7nNnzo99Hp",
-  "theses": [
-    {
-      "ticker": "GREEN",
-      "mint": "3AhbDvWhuRQoCsRtxWVT3tramzQbEWxVyXv8H8N2pump",
-      "valueUsd": 0,
-      "pnlUsd": 0,
-      "pnlPct": 0,
-      "investedUsd": 0,
-      "thesis": "Runner on after 70% peel. Cost already covered. Leave unless the tape dies.",
-      "invalidation": "Empty or 5m-dead dumps 100%. Not a dump just because it is green."
-    }
-  ],
+  "theses": [],
   "decisions": [
     {
       "ticker": "HUHCAT",
@@ -13672,6 +13661,16 @@
   ],
   "fills": [
     {
+      "signature": "3E3QVci4KC7DRzY8H4GXV28gXvvX4JAwmuhxf5QSdseQr3Mep1AVP3BuQTPCuYYAekUMEnqHtCTtDyU1Xsgmoydu",
+      "side": "sell",
+      "sol": 0.0142,
+      "kind": "dump",
+      "note": "runner dump, tape died, flat",
+      "at": "2026-08-28T10:13:26.000Z",
+      "mint": "3AhbDvWhuRQoCsRtxWVT3tramzQbEWxVyXv8H8N2pump",
+      "ticker": "GREEN"
+    },
+    {
       "at": "2026-08-28T10:13:05.000Z"
     },
     {
@@ -15670,7 +15669,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:13:05.000Z",
+  "updatedAt": "2026-08-28T10:13:26.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
