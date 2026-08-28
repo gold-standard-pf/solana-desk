@@ -13348,6 +13348,16 @@
   ],
   "fills": [
     {
+      "signature": "4hJdq3jSCzwe54GBU3KM9RVJ1Yu26bGxWSumKmasMcorsHt1wchiPMLXHnYoQMok7N4gbQ9vBFHz6v2aCD1fXtFX",
+      "side": "sell",
+      "sol": 0.0166,
+      "kind": "dump",
+      "note": "peel then dump, covered",
+      "at": "2026-08-28T09:36:22.000Z",
+      "mint": "5NrxZtWcqgUW47mWscnVyaqDgD3afhCgHr4JmeWRpump",
+      "ticker": "DOGAT"
+    },
+    {
       "signature": "cnabYnvdHRhCwccUG9djmw2vHv7bFvWS2NB5CiixJX3VaqsmXvs7sQkEcPcUhwFT8PqPSqPtQYG38t6VtdVabKA",
       "side": "sell",
       "sol": 0.0418,
