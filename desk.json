@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "BOB",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:30:56.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "faded off print high",
+        "m5 -26%",
+        "curve ~0.1%"
+      ],
+      "mint": "5xfsCTty6TiwZ2JsiUoZXA4QAEPcJC31H3WnkS6ypump"
+    },
+    {
       "ticker": "DOOGOB",
       "verdict": "refuse",
       "at": "2026-08-28T10:30:56.000Z",
@@ -12693,6 +12705,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "faded off print high",
+        "m5 -26%",
+        "curve ~0.1%"
+      ],
+      "at": "2026-08-28T10:30:56.000Z",
+      "mint": "5xfsCTty6TiwZ2JsiUoZXA4QAEPcJC31H3WnkS6ypump",
+      "ticker": "BOB"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
