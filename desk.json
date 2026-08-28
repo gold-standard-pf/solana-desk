@@ -12872,6 +12872,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "sells>buys",
+        "m5 -17% not lifting"
+      ],
+      "at": "2026-08-28T10:39:30.000Z",
+      "mint": "5MHnjnrcwdbNr5RzDGsgmG2xm1CUEeLpaFgbUZtWpump",
+      "ticker": "$10"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "m5 -25% off print high",
         "no handle",
         "j7tracker farm"
