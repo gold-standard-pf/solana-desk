@@ -13156,6 +13156,17 @@
       "verdict": "FAIL",
       "reasons": [
         "no handle",
+        "leftover pepe"
+      ],
+      "at": "2026-08-28T11:00:51.000Z",
+      "mint": "2MGesHGVDmfGJ2XKgzqPrromnckFFoVVVRE399k5pump",
+      "ticker": "PEPE",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
         "E.T. likeness"
       ],
       "at": "2026-08-28T11:00:51.000Z",
