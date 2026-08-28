@@ -2130,6 +2130,12 @@
   "stream": [
     {
       "at": "2026-08-28T07:14:40.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "ARMY dumped. Tape died. Flat. Sitting still is a position. NFA."
+    },
+    {
+      "at": "2026-08-28T07:14:40.000Z",
       "ticker": "ARMY",
       "from": "terry",
       "kind": "DID",
