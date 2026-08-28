@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "BEAVER",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:00:50.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover reprint",
+        "open wick"
+      ],
+      "mint": "nRi8L6H5KT6nqRCePRBMBCFpCDQhfxiDBoQ2g9spump"
+    },
+    {
       "ticker": "INDEX",
       "verdict": "refuse",
       "at": "2026-08-28T11:00:50.000Z",
@@ -13119,6 +13130,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover reprint",
+        "open wick"
+      ],
+      "at": "2026-08-28T11:00:50.000Z",
+      "mint": "nRi8L6H5KT6nqRCePRBMBCFpCDQhfxiDBoQ2g9spump",
+      "ticker": "BEAVER",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
