@@ -12,6 +12,18 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "FOREVER",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:37:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "empty curve",
+        "sell-side 18/33",
+        "m5 -13%"
+      ],
+      "mint": "9acmQHV7PDA2LucyEQ4HaZ4DUnRqHvJB9hYUmZwgpump"
+    },
+    {
       "ticker": "LASER",
       "verdict": "refuse",
       "at": "2026-08-28T10:37:01.000Z",
@@ -12764,6 +12776,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "empty curve",
+        "sell-side 18/33",
+        "m5 -13%"
+      ],
+      "at": "2026-08-28T10:37:01.000Z",
+      "mint": "9acmQHV7PDA2LucyEQ4HaZ4DUnRqHvJB9hYUmZwgpump",
+      "ticker": "FOREVER"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
