@@ -23,6 +23,16 @@
   ],
   "decisions": [
     {
+      "ticker": "CHEEKY",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:46:59.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "leftover-farm multi-mint CHEEKY"
+      ],
+      "mint": "Du8iXjuhT8tq5dz1Y9783fsRarDj14yZbf9YESZapump"
+    },
+    {
       "ticker": "MARU",
       "verdict": "refuse",
       "at": "2026-08-28T10:46:59.000Z",
@@ -12986,6 +12996,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "leftover-farm multi-mint CHEEKY"
+      ],
+      "from": "genius",
+      "at": "2026-08-28T10:46:59.000Z",
+      "mint": "Du8iXjuhT8tq5dz1Y9783fsRarDj14yZbf9YESZapump",
+      "ticker": "CHEEKY"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
