@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "PWF",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:37:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "no handle",
+        "m5 red not lifting"
+      ],
+      "mint": "HLqXvBWmgjAnVk9haHUSBRWp6mGFKNEJMWC3mgM5pump"
+    },
+    {
       "ticker": "PAYLT",
       "verdict": "refuse",
       "at": "2026-08-28T10:37:01.000Z",
@@ -12743,6 +12754,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "no handle",
+        "m5 red not lifting"
+      ],
+      "at": "2026-08-28T10:37:01.000Z",
+      "mint": "HLqXvBWmgjAnVk9haHUSBRWp6mGFKNEJMWC3mgM5pump",
+      "ticker": "PWF"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
