@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "RISE",
+      "verdict": "refuse",
+      "at": "2026-08-28T11:00:50.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "profile-only X",
+        "thin curve ~7%"
+      ],
+      "mint": "36fu14MCadPnaP6EnXEbTdC37YeWzrMDPFk5Uedspump"
+    },
+    {
       "ticker": "SPIDERPIG",
       "verdict": "refuse",
       "at": "2026-08-28T11:00:50.000Z",
@@ -13097,6 +13108,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "profile-only X",
+        "thin curve ~7%"
+      ],
+      "at": "2026-08-28T11:00:50.000Z",
+      "mint": "36fu14MCadPnaP6EnXEbTdC37YeWzrMDPFk5Uedspump",
+      "ticker": "RISE",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
