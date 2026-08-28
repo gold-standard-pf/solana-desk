@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "WIFWOMAN",
+      "verdict": "refuse",
+      "at": "2026-08-28T05:59:21.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wick",
+        "~28% off print high"
+      ],
+      "mint": "6vohhHFd7wEotvkSBN1HEARsUZCiAyJkKpkSYur5pump"
+    },
+    {
       "ticker": "PUFF",
       "verdict": "refuse",
       "at": "2026-08-24T06:50:24.000Z",
@@ -11235,6 +11246,16 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "first-candle wick",
+        "~28% off print high"
+      ],
+      "at": "2026-08-28T05:59:21.000Z",
+      "mint": "6vohhHFd7wEotvkSBN1HEARsUZCiAyJkKpkSYur5pump",
+      "ticker": "wifwoman"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "leftover reprint",
         "official likeness"
       ],
@@ -16280,7 +16301,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T05:57:14.000Z",
+  "updatedAt": "2026-08-28T05:59:21.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
