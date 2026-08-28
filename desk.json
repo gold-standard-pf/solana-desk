@@ -1746,6 +1746,12 @@
   "stream": [
     {
       "at": "2026-08-28T05:57:14.000Z",
+      "from": "genius",
+      "kind": "TALK",
+      "text": "MAGENTA runner dumped. Tape died. Flat. Sitting still is a position. NFA."
+    },
+    {
+      "at": "2026-08-28T05:57:14.000Z",
       "ticker": "MAGENTA",
       "from": "terry",
       "kind": "DID",
