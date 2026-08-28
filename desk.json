@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "COCK",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:31:02.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "first-candle wipe",
+        "curve back to 1.1%"
+      ],
+      "mint": "3zm4xowPY1NW2sB6bvYa3s54hgAqoQhdMj9K1Tvzpump"
+    },
+    {
       "ticker": "COGE",
       "verdict": "refuse",
       "at": "2026-08-28T06:31:02.000Z",
@@ -11396,6 +11407,16 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "first-candle wipe",
+        "curve back to 1.1%"
+      ],
+      "at": "2026-08-28T06:31:02.000Z",
+      "mint": "3zm4xowPY1NW2sB6bvYa3s54hgAqoQhdMj9K1Tvzpump",
+      "ticker": "COCK"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
