@@ -12,6 +12,17 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "WAVE",
+      "verdict": "refuse",
+      "at": "2026-08-28T06:42:44.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "profile-only X",
+        "m5 -33% dump"
+      ],
+      "mint": "4GrW2JRhjqd3FGjxuL3T6kvaGH4XCLFw9fMEMwSCpump"
+    },
+    {
       "ticker": "HAAKON",
       "verdict": "refuse",
       "at": "2026-08-28T06:42:44.000Z",
@@ -11574,6 +11585,17 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "profile-only X",
+        "m5 -33% dump"
+      ],
+      "at": "2026-08-28T06:42:44.000Z",
+      "mint": "4GrW2JRhjqd3FGjxuL3T6kvaGH4XCLFw9fMEMwSCpump",
+      "ticker": "WAVE",
+      "from": "genius"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
