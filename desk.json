@@ -23,6 +23,17 @@
   ],
   "decisions": [
     {
+      "ticker": "MICRODUCK",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:56:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "thin curve ~8%",
+        "first wick 20/17"
+      ],
+      "mint": "GLp3C72fdm2n1scxVU47vdsACPX69dqM31rZhAMxpump"
+    },
+    {
       "ticker": "CHEEKY",
       "verdict": "refuse",
       "at": "2026-08-28T10:46:59.000Z",
@@ -13014,6 +13025,17 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "thin curve ~8%",
+        "first wick 20/17"
+      ],
+      "at": "2026-08-28T10:56:01.000Z",
+      "mint": "GLp3C72fdm2n1scxVU47vdsACPX69dqM31rZhAMxpump",
+      "ticker": "MICRODUCK",
+      "from": "genius"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "first-candle rip",
         "already bonded ATH",
         "mc tens of millions"
@@ -16397,7 +16419,7 @@
     "GyrPx2REsimD1akdvUZgj8NHxCK7Fer8sbSSD1N2pump": 0.0001212,
     "msN5nAEmZMtEh11242bb2hHokQcpgFgNHwCc4hkpump": 3.433108834414715e-05
   },
-  "updatedAt": "2026-08-28T10:54:00.000Z",
+  "updatedAt": "2026-08-28T10:56:01.000Z",
   "capSol": 0.05,
   "maxOpenPct": 0.5,
   "bookSol": 0.436468708,
