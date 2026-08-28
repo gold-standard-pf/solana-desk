@@ -12,6 +12,16 @@
   "theses": [],
   "decisions": [
     {
+      "ticker": "HLANDSLIDE",
+      "verdict": "refuse",
+      "at": "2026-08-28T10:37:01.000Z",
+      "reasons": [
+        "Genius FAIL",
+        "empty curve"
+      ],
+      "mint": "2pm1F7YJBwKMbYVcmtoThfnMUJ6f4o2UbCXkgdRTpump"
+    },
+    {
       "ticker": "BOBA",
       "verdict": "refuse",
       "at": "2026-08-28T10:37:01.000Z",
@@ -12817,6 +12827,15 @@
     }
   ],
   "clears": [
+    {
+      "verdict": "FAIL",
+      "reasons": [
+        "empty curve"
+      ],
+      "at": "2026-08-28T10:37:01.000Z",
+      "mint": "2pm1F7YJBwKMbYVcmtoThfnMUJ6f4o2UbCXkgdRTpump",
+      "ticker": "HLANDSLIDE"
+    },
     {
       "verdict": "FAIL",
       "reasons": [
