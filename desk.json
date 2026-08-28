@@ -12978,6 +12978,19 @@
     {
       "verdict": "FAIL",
       "reasons": [
+        "thin curve ~8%",
+        "no Dex pair",
+        "devnet-joke name",
+        "first wick"
+      ],
+      "from": "genius",
+      "at": "2026-08-28T10:46:59.000Z",
+      "mint": "HmwycLuhXSHeFUDuPj5ovmHt7Sd4ML5fpHtrvkYcpdC5",
+      "ticker": "THIS ONE REAL"
+    },
+    {
+      "verdict": "FAIL",
+      "reasons": [
         "m5 ~-29% off print high",
         "thin curve ~8%",
         "SOLCAT farm cluster"
