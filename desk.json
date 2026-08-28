@@ -1,10 +1,10 @@
 {
   "name": "desk",
-  "status": "cash",
+  "status": "live",
   "model": "pending",
   "startedAt": "2026-08-22T22:46:00.000Z",
   "ticks": 200,
-  "equityUsd": 31.73,
+  "equityUsd": 23.84,
   "spentUsd": 47.67,
   "realizedPnlUsd": 18.47,
   "unrealizedPnlUsd": 0,
@@ -2368,6 +2368,12 @@
     }
   ],
   "stream": [
+    {
+      "at": "2026-08-28T09:36:22.000Z",
+      "from": "terry",
+      "kind": "TALK",
+      "text": "DOGAT out. Peel then dump. Covered. GREEN runner still on."
+    },
     {
       "side": "sell",
       "at": "2026-08-28T09:36:22.000Z",
